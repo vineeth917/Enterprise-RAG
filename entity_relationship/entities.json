@@ -1,0 +1,80 @@
+[
+  {
+    "source": "query",
+    "text": "show relevant images ",
+    "entities": [],
+    "relevance_score": 1.0000001192092896
+  },
+  {
+    "source": "caption",
+    "text": "palm trees at the water line at sunrise",
+    "image_path": "data/cc3m/training/20013_3221657176.jpg",
+    "entities": [
+      {
+        "text": "sunrise",
+        "label": "TIME"
+      }
+    ],
+    "relevance_score": 0.577498733997345
+  },
+  {
+    "source": "caption",
+    "text": "view of a palm tree leaning over a tropical beach",
+    "image_path": "data/cc3m/validation/1892_1516707059.jpg",
+    "entities": [
+      {
+        "text": "view",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "beach",
+        "label": "ENVIRONMENT"
+      }
+    ],
+    "relevance_score": 0.5482468605041504
+  },
+  {
+    "source": "caption",
+    "text": "destroyed wooden boat on the beach",
+    "image_path": "data/cc3m/training/44536_1521058214.jpg",
+    "entities": [
+      {
+        "text": "beach",
+        "label": "ENVIRONMENT"
+      }
+    ],
+    "relevance_score": 0.5390304923057556
+  },
+  {
+    "source": "caption",
+    "text": "woman on a tropical beach with hat",
+    "image_path": "data/cc3m/training/31034_2064209476.jpg",
+    "entities": [
+      {
+        "text": "beach",
+        "label": "ENVIRONMENT"
+      }
+    ],
+    "relevance_score": 0.5144069790840149
+  },
+  {
+    "source": "caption",
+    "text": "palm tree on the beach with ocean view stock photo - 32406203",
+    "image_path": "data/cc3m/training/39603_2942736399.jpg",
+    "entities": [
+      {
+        "text": "view",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "ocean",
+        "label": "ENVIRONMENT"
+      },
+      {
+        "text": "beach",
+        "label": "ENVIRONMENT"
+      }
+    ],
+    "relevance_score": 0.44428151845932007
+  }
+]
