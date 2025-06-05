@@ -93,6 +93,15 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+#download cc3m dataset
+kaggle datasets download -d cc3m/conceptual-captions -p data/ --unzip
+
+# Limit to 1000 Samples
+import pandas as pd
+df = pd.read_csv("data/Train_GCC-training.tsv", sep="\t", names=["caption", "url"])
+df_sample = df.sample(n=1000, random_state=42)
+df_sample.to_csv("data/processed/cc3m_sample_1000.csv", index=False)
+
 # Download spaCy model
 python -m spacy download en_core_web_sm
 ```
