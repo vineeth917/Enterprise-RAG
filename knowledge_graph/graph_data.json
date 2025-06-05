@@ -1,0 +1,1134 @@
+{
+  "entities": [
+    {
+      "id": 1077,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "evening",
+        "name": "evening",
+        "label": "REGEX_MATCH"
+      }
+    },
+    {
+      "id": 1081,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "time_reference",
+        "domain": "temporal",
+        "canonical_id": "a rainy day",
+        "name": "a rainy day",
+        "label": "DATE"
+      }
+    },
+    {
+      "id": 1083,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "number_reference",
+        "domain": "quantity",
+        "name": "one",
+        "canonical_id": "one",
+        "label": "CARDINAL"
+      }
+    },
+    {
+      "id": 1087,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "time_reference",
+        "domain": "temporal",
+        "canonical_id": "the summer",
+        "name": "the summer",
+        "label": "DATE"
+      }
+    },
+    {
+      "id": 1091,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "person",
+        "domain": "human",
+        "canonical_id": "skateboarder",
+        "name": "Skateboarder",
+        "label": "PERSON"
+      }
+    },
+    {
+      "id": 1098,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "skateboarder",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1099,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "time_reference",
+        "domain": "temporal",
+        "canonical_id": "sunset",
+        "name": "sunset",
+        "label": "TIME"
+      }
+    },
+    {
+      "id": 1101,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "castle",
+        "name": "castle",
+        "label": "ARCHITECTURE"
+      }
+    },
+    {
+      "id": 1102,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "beach",
+        "name": "beach",
+        "label": "ENVIRONMENT"
+      }
+    },
+    {
+      "id": 1105,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "view",
+        "name": "view",
+        "label": "SCENIC_VIEW"
+      }
+    },
+    {
+      "id": 1108,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "village",
+        "name": "village",
+        "label": "ENVIRONMENT"
+      }
+    },
+    {
+      "id": 1113,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "sea",
+        "name": "sea",
+        "label": "ENVIRONMENT"
+      }
+    },
+    {
+      "id": 1114,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "walking",
+        "name": "walking",
+        "label": "ACTIVITY"
+      }
+    },
+    {
+      "id": 1115,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "hiking",
+        "name": "hiking",
+        "label": "ACTIVITY"
+      }
+    },
+    {
+      "id": 1122,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "scene",
+        "name": "scene",
+        "label": "SCENIC_VIEW"
+      }
+    },
+    {
+      "id": 1126,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "time_reference",
+        "domain": "temporal",
+        "canonical_id": "rainy day",
+        "name": "rainy day",
+        "label": "DATE"
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 1078,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/16642_2131002494.jpg",
+        "caption": "fishing village in the evening",
+        "location": "",
+        "text": "fishing village in the evening",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1082,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "caption": "Man walking on a rainy day",
+        "location": "",
+        "text": "Man walking on a rainy day",
+        "type": "query",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1084,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/26437_1565289346.jpg",
+        "caption": "one of many views of the mountains and valleys below",
+        "location": "",
+        "text": "one of many views of the mountains and valleys below",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1088,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/36900_3207096601.jpg",
+        "caption": "view from a height to a large metropolis at sunset in the summer .",
+        "location": "",
+        "text": "view from a height to a large metropolis at sunset in the summer .",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1092,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "text": "Skateboarder doing tricks in a park",
+        "type": "query",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1093,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "caption": "A man walks beside a woman on a rainy day",
+        "location": "",
+        "text": "A man walks beside a woman on a rainy day",
+        "type": "query",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1094,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/16642_2131002494.jpg",
+        "caption": "",
+        "source_type": "caption",
+        "location": "",
+        "id": "evening_fishing_village_in_t",
+        "content": "fishing village in the evening",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1095,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/your_image.jpg",
+        "caption": "A man walks beside a woman on a rainy day",
+        "location": "",
+        "text": "A man walks beside a woman on a rainy day",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1097,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "",
+        "caption": "Skateboarder doing tricks in a park",
+        "location": "",
+        "text": "Skateboarder doing tricks in a park",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1100,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "caption": "A castle by the beach at sunset",
+        "location": "",
+        "text": "A castle by the beach at sunset",
+        "type": "query",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1103,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/9248_3354368268.jpg",
+        "caption": "view of the historic city during sunset",
+        "location": "",
+        "text": "view of the historic city during sunset",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1106,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/15639_4090655033.jpg",
+        "caption": "in the village at sunset",
+        "location": "",
+        "text": "in the village at sunset",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1109,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/39726_2078481396.jpg",
+        "caption": "the view west at sunset .",
+        "location": "",
+        "text": "the view west at sunset .",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1111,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/46977_4142778949.jpg",
+        "caption": "a photographer taking photos by the sea at sunset",
+        "location": "",
+        "text": "a photographer taking photos by the sea at sunset",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1116,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/validation/3292_2135036634.jpg",
+        "caption": "a man hiking a hill",
+        "location": "",
+        "text": "a man hiking a hill",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1118,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/10772_3533267165.jpg",
+        "caption": "man walking and talking on smartphone with shopping bags in the city",
+        "location": "",
+        "text": "man walking and talking on smartphone with shopping bags in the city",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1120,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/22603_2542391989.jpg",
+        "caption": "walkers walking on the road",
+        "location": "",
+        "text": "walkers walking on the road",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1123,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/24295_3121271440.jpg",
+        "caption": "fashion designer behind the scenes",
+        "location": "",
+        "text": "fashion designer behind the scenes",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1125,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "caption": "The view of mountains and sunset",
+        "location": "",
+        "text": "The view of mountains and sunset",
+        "type": "query",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": 1079,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/16642_2131002494.jpg",
+        "caption": "fishing village in the evening",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1085,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/26437_1565289346.jpg",
+        "caption": "one of many views of the mountains and valleys below",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1089,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/36900_3207096601.jpg",
+        "caption": "view from a height to a large metropolis at sunset in the summer .",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1096,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/your_image.jpg",
+        "caption": "A man walks beside a woman on a rainy day",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1104,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/9248_3354368268.jpg",
+        "caption": "view of the historic city during sunset",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1107,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/15639_4090655033.jpg",
+        "caption": "in the village at sunset",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1110,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/39726_2078481396.jpg",
+        "caption": "the view west at sunset .",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1112,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/46977_4142778949.jpg",
+        "caption": "a photographer taking photos by the sea at sunset",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1117,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/validation/3292_2135036634.jpg",
+        "caption": "a man hiking a hill",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1119,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/10772_3533267165.jpg",
+        "caption": "man walking and talking on smartphone with shopping bags in the city",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1121,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/22603_2542391989.jpg",
+        "caption": "walkers walking on the road",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1124,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/24295_3121271440.jpg",
+        "caption": "fashion designer behind the scenes",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": 538,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1080",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1079",
+      "properties": {}
+    },
+    {
+      "id": 539,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1077",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1078",
+      "properties": {}
+    },
+    {
+      "id": 540,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1081",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1082",
+      "properties": {}
+    },
+    {
+      "id": 541,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1086",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1085",
+      "properties": {}
+    },
+    {
+      "id": 542,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1083",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1084",
+      "properties": {}
+    },
+    {
+      "id": 543,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1090",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1089",
+      "properties": {}
+    },
+    {
+      "id": 544,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1087",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1088",
+      "properties": {}
+    },
+    {
+      "id": 545,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1091",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1092",
+      "properties": {}
+    },
+    {
+      "id": 546,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1081",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1093",
+      "properties": {}
+    },
+    {
+      "id": 547,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1077",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1094",
+      "properties": {}
+    },
+    {
+      "id": 548,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1078",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1079",
+      "properties": {}
+    },
+    {
+      "id": 549,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1088",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1089",
+      "properties": {}
+    },
+    {
+      "id": 550,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1095",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1096",
+      "properties": {}
+    },
+    {
+      "id": 551,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1081",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1095",
+      "properties": {}
+    },
+    {
+      "id": 552,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1091",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1097",
+      "properties": {}
+    },
+    {
+      "id": 553,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1087",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1087",
+      "properties": {}
+    },
+    {
+      "id": 554,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1077",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1077",
+      "properties": {}
+    },
+    {
+      "id": 555,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1081",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1081",
+      "properties": {}
+    },
+    {
+      "id": 556,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1083",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1083",
+      "properties": {}
+    },
+    {
+      "id": 557,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1091",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1098",
+      "properties": {}
+    },
+    {
+      "id": 558,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "properties": {}
+    },
+    {
+      "id": 559,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1100",
+      "properties": {}
+    },
+    {
+      "id": 560,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1101",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1101",
+      "properties": {}
+    },
+    {
+      "id": 561,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1101",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1100",
+      "properties": {}
+    },
+    {
+      "id": 562,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1102",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1102",
+      "properties": {}
+    },
+    {
+      "id": 563,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1102",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1100",
+      "properties": {}
+    },
+    {
+      "id": 564,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1103",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1104",
+      "properties": {}
+    },
+    {
+      "id": 565,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1103",
+      "properties": {}
+    },
+    {
+      "id": 566,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "properties": {}
+    },
+    {
+      "id": 567,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1103",
+      "properties": {}
+    },
+    {
+      "id": 568,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1106",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1107",
+      "properties": {}
+    },
+    {
+      "id": 569,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1106",
+      "properties": {}
+    },
+    {
+      "id": 570,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1108",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1108",
+      "properties": {}
+    },
+    {
+      "id": 571,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1108",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1106",
+      "properties": {}
+    },
+    {
+      "id": 572,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1108",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1078",
+      "properties": {}
+    },
+    {
+      "id": 573,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1109",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1110",
+      "properties": {}
+    },
+    {
+      "id": 574,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1109",
+      "properties": {}
+    },
+    {
+      "id": 575,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1109",
+      "properties": {}
+    },
+    {
+      "id": 576,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1111",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1112",
+      "properties": {}
+    },
+    {
+      "id": 577,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1111",
+      "properties": {}
+    },
+    {
+      "id": 578,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1113",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1113",
+      "properties": {}
+    },
+    {
+      "id": 579,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1113",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1111",
+      "properties": {}
+    },
+    {
+      "id": 580,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1114",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1114",
+      "properties": {}
+    },
+    {
+      "id": 581,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1114",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1082",
+      "properties": {}
+    },
+    {
+      "id": 582,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1115",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1115",
+      "properties": {}
+    },
+    {
+      "id": 583,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1116",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1117",
+      "properties": {}
+    },
+    {
+      "id": 584,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1115",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1116",
+      "properties": {}
+    },
+    {
+      "id": 585,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1118",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1119",
+      "properties": {}
+    },
+    {
+      "id": 586,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1114",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1118",
+      "properties": {}
+    },
+    {
+      "id": 587,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1120",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1121",
+      "properties": {}
+    },
+    {
+      "id": 588,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1114",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1120",
+      "properties": {}
+    },
+    {
+      "id": 589,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1122",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1122",
+      "properties": {}
+    },
+    {
+      "id": 590,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1123",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1124",
+      "properties": {}
+    },
+    {
+      "id": 591,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1122",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1123",
+      "properties": {}
+    },
+    {
+      "id": 592,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1125",
+      "properties": {}
+    },
+    {
+      "id": 593,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1125",
+      "properties": {}
+    },
+    {
+      "id": 594,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1084",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1085",
+      "properties": {}
+    },
+    {
+      "id": 595,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1084",
+      "properties": {}
+    },
+    {
+      "id": 596,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1088",
+      "properties": {}
+    },
+    {
+      "id": 597,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1088",
+      "properties": {}
+    },
+    {
+      "id": 598,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1126",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1126",
+      "properties": {}
+    },
+    {
+      "id": 599,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1126",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1093",
+      "properties": {}
+    },
+    {
+      "id": 600,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1126",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1095",
+      "properties": {}
+    }
+  ]
+}
