@@ -16,3 +16,4 @@ deepeval>=0.20.0
 Pillow>=10.0.0  # for image processing
 google-cloud-aiplatform>=1.36.0  # for Gemini API
 networkx>=3.0  # for graph visualization
+kaggle
