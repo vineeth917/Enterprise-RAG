@@ -113,7 +113,7 @@ GEMINI_API_KEY=your_key
 - Place CC3M dataset in `data/cc3m/` directory
 - Run ingestion script:
 ```bash
-python ingestion/process_cc3m.py
+python ingestion/cc3m_ingestion.py
 ```
 
 ## Running the System
