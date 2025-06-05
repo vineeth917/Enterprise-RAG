@@ -71,6 +71,13 @@ neo4j/conf/
 credentials/
 *.pem
 *.key
+*api_key*
+*apikey*
+check_openai.py
+*secret*
+*token*
+.deepeval/
+.deepeval_telemetry.txt
 
 # Test coverage
 htmlcov/
