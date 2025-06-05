@@ -1,0 +1,54 @@
+{
+  "query_type": "entities_by_type",
+  "query_params": {
+    "label": "ENVIRONMENT",
+    "query_text": "sunset view at the castle by the beach"
+  },
+  "timestamp": "20250605_141619",
+  "results": [
+    {
+      "name": "beach",
+      "label": "ENVIRONMENT",
+      "domain": "unknown",
+      "semantic_type": "entity",
+      "mentions": [
+        "senior man carrying wife on his back at the beach",
+        "couple holding hands strolls along an ocean beach",
+        "A castle by the beach at sunset"
+      ],
+      "relevance": 5
+    },
+    {
+      "name": "village",
+      "label": "ENVIRONMENT",
+      "domain": "unknown",
+      "semantic_type": "entity",
+      "mentions": [
+        "fishing village in the evening",
+        "in the village at sunset"
+      ],
+      "relevance": 3
+    },
+    {
+      "name": "sea",
+      "label": "ENVIRONMENT",
+      "domain": "unknown",
+      "semantic_type": "entity",
+      "mentions": [
+        "children playing with sand by the sea at sunset",
+        "a photographer taking photos by the sea at sunset"
+      ],
+      "relevance": 3
+    },
+    {
+      "name": "ocean",
+      "label": "ENVIRONMENT",
+      "domain": "unknown",
+      "semantic_type": "entity",
+      "mentions": [
+        "couple holding hands strolls along an ocean beach"
+      ],
+      "relevance": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "query_type": "entity_context",
+  "query_params": {
+    "entity_name": "castle",
+    "query_text": "sunset view at the castle by the beach"
+  },
+  "timestamp": "20250605_141619",
+  "results": {
+    "central_entity": "castle",
+    "entity_type": "ARCHITECTURE",
+    "domain": "unknown",
+    "related_entities": [
+      {
+        "distance": 1,
+        "mentions": [
+          "A castle by the beach at sunset"
+        ],
+        "name": "castle",
+        "label": "ARCHITECTURE",
+        "relationship": [
+          "ALIAS_OF"
+        ],
+        "relevance": 5
+      },
+      {
+        "distance": 2,
+        "mentions": [
+          "woman walking on the road in mountains at sunset",
+          "children playing with sand by the sea at sunset",
+          "tourist attraction at the sunset ."
+        ],
+        "name": "sunset",
+        "label": "TIME",
+        "relationship": [
+          "MENTIONED_IN",
+          "MENTIONED_IN"
+        ],
+        "relevance": 5
+      },
+      {
+        "distance": 2,
+        "mentions": [
+          "senior man carrying wife on his back at the beach",
+          "couple holding hands strolls along an ocean beach",
+          "A castle by the beach at sunset"
+        ],
+        "name": "beach",
+        "label": "ENVIRONMENT",
+        "relationship": [
+          "MENTIONED_IN",
+          "MENTIONED_IN"
+        ],
+        "relevance": 5
+      }
+    ]
+  }
+}

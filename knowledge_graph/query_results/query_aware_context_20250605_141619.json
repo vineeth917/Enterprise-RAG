@@ -1,0 +1,347 @@
+{
+  "query_type": "query_aware_context",
+  "query_params": {
+    "query_text": "sunset view at the castle by the beach",
+    "max_entities": 10
+  },
+  "timestamp": "20250605_141619",
+  "results": [
+    {
+      "entity": "sunset",
+      "label": "TIME",
+      "mentions": [
+        "woman walking on the road in mountains at sunset",
+        "children playing with sand by the sea at sunset",
+        "tourist attraction at the sunset ."
+      ],
+      "captions": [
+        "woman walking on the road in mountains at sunset",
+        "children playing with sand by the sea at sunset",
+        "tourist attraction at the sunset ."
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/18209_1953505876.jpg",
+        "data/cc3m/training/47072_2193211242.jpg",
+        "data/cc3m/training/1482_89211796.jpg"
+      ],
+      "mention_count": 10,
+      "relevance": 10,
+      "related_entities": [
+        {
+          "name": "view",
+          "label": "SCENIC_VIEW",
+          "strength": 12
+        },
+        {
+          "name": "sea",
+          "label": "ENVIRONMENT",
+          "strength": 6
+        },
+        {
+          "name": "the summer",
+          "label": "DATE",
+          "strength": 3
+        },
+        {
+          "name": "village",
+          "label": "ENVIRONMENT",
+          "strength": 3
+        },
+        {
+          "name": "walking",
+          "label": "ACTIVITY",
+          "strength": 3
+        }
+      ]
+    },
+    {
+      "entity": "view",
+      "label": "SCENIC_VIEW",
+      "mentions": [
+        "view of mountain in the fall",
+        "view from a height to a large metropolis at sunset in the summer .",
+        "one of many views of the mountains and valleys below"
+      ],
+      "captions": [
+        "view of mountain in the fall",
+        "view from a height to a large metropolis at sunset in the summer .",
+        "one of many views of the mountains and valleys below"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/27349_3845807040.jpg",
+        "data/cc3m/training/36900_3207096601.jpg",
+        "data/cc3m/training/26437_1565289346.jpg"
+      ],
+      "mention_count": 6,
+      "relevance": 7.5,
+      "related_entities": [
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 12
+        },
+        {
+          "name": "the summer",
+          "label": "DATE",
+          "strength": 3
+        },
+        {
+          "name": "one",
+          "label": "CARDINAL",
+          "strength": 3
+        }
+      ]
+    },
+    {
+      "entity": "beach",
+      "label": "ENVIRONMENT",
+      "mentions": [
+        "senior man carrying wife on his back at the beach",
+        "couple holding hands strolls along an ocean beach",
+        "A castle by the beach at sunset"
+      ],
+      "captions": [
+        "senior man carrying wife on his back at the beach",
+        "couple holding hands strolls along an ocean beach",
+        "A castle by the beach at sunset"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/26678_313583641.jpg",
+        "data/cc3m/training/37283_3145440797.jpg"
+      ],
+      "mention_count": 3,
+      "relevance": 7.5,
+      "related_entities": [
+        {
+          "name": "ocean",
+          "label": "ENVIRONMENT",
+          "strength": 3
+        },
+        {
+          "name": "castle",
+          "label": "ARCHITECTURE",
+          "strength": 3
+        },
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 3
+        }
+      ]
+    },
+    {
+      "entity": "castle",
+      "label": "ARCHITECTURE",
+      "mentions": [
+        "A castle by the beach at sunset"
+      ],
+      "captions": [
+        "A castle by the beach at sunset"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [],
+      "mention_count": 1,
+      "relevance": 7.5,
+      "related_entities": [
+        {
+          "name": "beach",
+          "label": "ENVIRONMENT",
+          "strength": 3
+        },
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 3
+        }
+      ]
+    },
+    {
+      "entity": "walking",
+      "label": "ACTIVITY",
+      "mentions": [
+        "woman walking on the road in mountains at sunset",
+        "walkers walking on the road",
+        "man walking and talking on smartphone with shopping bags in the city"
+      ],
+      "captions": [
+        "woman walking on the road in mountains at sunset",
+        "walkers walking on the road",
+        "man walking and talking on smartphone with shopping bags in the city"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/18209_1953505876.jpg",
+        "data/cc3m/training/22603_2542391989.jpg",
+        "data/cc3m/training/10772_3533267165.jpg"
+      ],
+      "mention_count": 4,
+      "relevance": 4.5,
+      "related_entities": [
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 3
+        },
+        {
+          "name": "a rainy day",
+          "label": "DATE",
+          "strength": 1
+        }
+      ]
+    },
+    {
+      "entity": "sea",
+      "label": "ENVIRONMENT",
+      "mentions": [
+        "children playing with sand by the sea at sunset",
+        "a photographer taking photos by the sea at sunset"
+      ],
+      "captions": [
+        "children playing with sand by the sea at sunset",
+        "a photographer taking photos by the sea at sunset"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/47072_2193211242.jpg",
+        "data/cc3m/training/46977_4142778949.jpg"
+      ],
+      "mention_count": 2,
+      "relevance": 4.5,
+      "related_entities": [
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 6
+        }
+      ]
+    },
+    {
+      "entity": "village",
+      "label": "ENVIRONMENT",
+      "mentions": [
+        "fishing village in the evening",
+        "in the village at sunset"
+      ],
+      "captions": [
+        "fishing village in the evening",
+        "in the village at sunset"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/16642_2131002494.jpg",
+        "data/cc3m/training/15639_4090655033.jpg"
+      ],
+      "mention_count": 2,
+      "relevance": 4.5,
+      "related_entities": [
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 3
+        },
+        {
+          "name": "evening",
+          "label": "REGEX_MATCH",
+          "strength": 1
+        }
+      ]
+    },
+    {
+      "entity": "one",
+      "label": "CARDINAL",
+      "mentions": [
+        "one of many views of the mountains and valleys below"
+      ],
+      "captions": [
+        "one of many views of the mountains and valleys below"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/26437_1565289346.jpg"
+      ],
+      "mention_count": 1,
+      "relevance": 4.5,
+      "related_entities": [
+        {
+          "name": "view",
+          "label": "SCENIC_VIEW",
+          "strength": 3
+        }
+      ]
+    },
+    {
+      "entity": "the summer",
+      "label": "DATE",
+      "mentions": [
+        "view from a height to a large metropolis at sunset in the summer ."
+      ],
+      "captions": [
+        "view from a height to a large metropolis at sunset in the summer ."
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/36900_3207096601.jpg"
+      ],
+      "mention_count": 1,
+      "relevance": 4.5,
+      "related_entities": [
+        {
+          "name": "view",
+          "label": "SCENIC_VIEW",
+          "strength": 3
+        },
+        {
+          "name": "sunset",
+          "label": "TIME",
+          "strength": 3
+        }
+      ]
+    },
+    {
+      "entity": "ocean",
+      "label": "ENVIRONMENT",
+      "mentions": [
+        "couple holding hands strolls along an ocean beach"
+      ],
+      "captions": [
+        "couple holding hands strolls along an ocean beach"
+      ],
+      "locations": [
+        ""
+      ],
+      "images": [
+        "data/cc3m/training/37283_3145440797.jpg"
+      ],
+      "mention_count": 1,
+      "relevance": 4.5,
+      "related_entities": [
+        {
+          "name": "beach",
+          "label": "ENVIRONMENT",
+          "strength": 3
+        }
+      ]
+    }
+  ]
+}

@@ -19,7 +19,7 @@ from transformers import CLIPProcessor, CLIPModel
 
 # Import your existing modules
 from entity_relationship.extract_entities import extract_entities, process_results
-from entity_relationship.link_entities import build_links
+from entity_relationship.link_entities import build_combined_links
 from knowledge_graph.build_graph import GraphBuilder
 from knowledge_graph.query_graph import GraphQuery
 from entity_relationship.enhanced_extraction import enhance_entity_extraction
@@ -462,17 +462,69 @@ def get_image_context(query_text: str, pinecone_results: List[Dict], query_entit
 
 
 def filter_relevant_context(context_items: List[Dict], query: str) -> List[Dict]:
-    """Filter context items for relevance to query"""
-    query_terms = set(query.lower().split())
-    relevant_context = []
+    """Filter context items for relevance to query using semantic similarity and domain awareness"""
+    # Get query embedding
+    query_embedding = get_text_embedding(query)
     
+    scored_context = []
     for item in context_items:
-        content = item.get('content', '').lower()
-        overlap = len(query_terms.intersection(set(content.split())))
-        if overlap > 0 or any(t in content for t in ['sunset', 'castle', 'coastal', 'view']):
-            relevant_context.append(item)
+        content = item.get('content', '')
+        if not content:
+            continue
+            
+        # Get content embedding
+        content_embedding = get_text_embedding(content)
+        
+        # Calculate semantic similarity
+        similarity = torch.cosine_similarity(
+            torch.tensor(query_embedding).unsqueeze(0),
+            torch.tensor(content_embedding).unsqueeze(0)
+        ).item()
+        
+        # Calculate term overlap score (weighted less than before)
+        query_terms = set(query.lower().split())
+        content_terms = set(content.lower().split())
+        term_overlap = len(query_terms.intersection(content_terms)) / len(query_terms)
+        
+        # Calculate domain relevance using spaCy
+        doc1 = nlp(query)
+        doc2 = nlp(content)
+        domain_relevance = doc1.similarity(doc2)
+        
+        # Combined score with adjusted weights
+        # Increased weight on semantic similarity, reduced on term overlap
+        final_score = (
+            0.6 * similarity +      # Increased from 0.4
+            0.2 * term_overlap +    # Reduced from 0.3
+            0.2 * domain_relevance  # Kept same
+        )
+        
+        scored_context.append({
+            'content': content,
+            'score': final_score,
+            'similarity': similarity,
+            'term_overlap': term_overlap,
+            'domain_relevance': domain_relevance
+        })
     
-    return relevant_context
+    # Sort by score and filter
+    scored_context.sort(key=lambda x: x['score'], reverse=True)
+    
+    # Dynamic threshold based on score distribution
+    scores = [item['score'] for item in scored_context]
+    if scores:
+        mean_score = np.mean(scores)
+        std_score = np.std(scores)
+        threshold = max(0.5, mean_score - 0.5 * std_score)  # More lenient threshold
+    else:
+        threshold = 0.5
+    
+    filtered_context = [
+        item for item in scored_context 
+        if item['score'] >= threshold
+    ]
+    
+    return filtered_context
 
 
 def filter_entities_by_domain(entities: List[Dict], target_domain: str = "architecture_landscape") -> List[Dict]:
@@ -698,93 +750,168 @@ def format_context_for_gemini(query_text: str, pinecone_results: List[Dict], gra
     return "\n".join(context_parts)
 
 
-def query_gemini_rag(query_text: str, pinecone_results: List[Dict], graph_context: List[Dict], image_context: List[Dict]) -> str:                  
-    """Query Gemini with enhanced RAG context - Anti-hallucination version"""
+def query_gemini_rag(query_text: str, pinecone_results: List[Dict], graph_context: List[Dict], image_context: List[Dict]) -> str:
+    """Query Gemini with enhanced RAG context - Balanced version with strong hallucination prevention"""
     
+    # First, validate and filter context
+    filtered_context = filter_relevant_context(
+        [{'content': str(item)} for item in pinecone_results + graph_context + image_context],
+        query_text
+    )
+    
+    if not filtered_context:
+        return f"I don't have enough relevant information to answer your query about '{query_text}' confidently."
+    
+    # Calculate confidence levels
+    high_conf = len([c for c in filtered_context if c['score'] > 0.8])
+    med_conf = len([c for c in filtered_context if 0.6 <= c['score'] <= 0.8])
+    
+    # Format context
     formatted_context = format_context_for_gemini(query_text, pinecone_results, graph_context, image_context)
     
-    # Count available context items
-    context_items_count = len(pinecone_results) + len(graph_context) + len(image_context)
+    # Adjust prompt based on confidence distribution
+    if high_conf > len(filtered_context) * 0.5:  # More than 50% high confidence
+        prompt_style = "comprehensive"
+        temp = 0.7
+    elif high_conf + med_conf > len(filtered_context) * 0.7:  # More than 70% medium or higher
+        prompt_style = "balanced"
+        temp = 0.5
+    else:
+        prompt_style = "conservative"
+        temp = 0.3
     
-    # If very limited context, return conservative response immediately
-    if context_items_count < 2:
-        return f"Limited context available for query '{query_text}'. Found {len(pinecone_results)} vector matches, {len(graph_context)} graph items, and {len(image_context)} image connections. Cannot provide detailed response without more relevant context."
-    
-    # Create anti-hallucination prompt
-    prompt = f"""You are a precise AI assistant that provides accurate, context-based responses.
+    # Enhanced prompt with stronger hallucination prevention
+    prompt = f"""Based on the following context, answer the query: "{query_text}"
 
-USER QUERY: "{query_text}"
-
-AVAILABLE CONTEXT:
-- Vector search results: {len(pinecone_results)} items
-- Knowledge graph context: {len(graph_context)} items  
-- Cross-modal connections: {len(image_context)} items
-
-CONTEXT DETAILS:
+Context:
 {formatted_context}
 
-STRICT INSTRUCTIONS:
-1. **Base your response on the explicitly provided context above. If none exists, cautiously suggest plausible connections based on visual similarity.**
-2. **Start with**: "Based on the available context..."
-3. **For each domain present in context**, provide 1-2 factual sentences with hashtags
-4. **If information is missing**, state: "No specific information available about [aspect]"
-5. **Use descriptive but factual language** - avoid creative metaphors
-6. **End with**: "This response is based on the {context_items_count} available context items"
+Guidelines:
+1. ONLY use information explicitly present in the context
+2. For any statement you make, you must be able to point to specific context that supports it
+3. Use clear, natural language while maintaining accuracy
+4. If uncertain about any aspect, explicitly state the uncertainty
+5. Focus on the most relevant information to the query
+6. If making comparisons or connections, ensure they are directly supported by context
+7. Avoid speculation or assumptions beyond what's in the context
 
-CONTEXT VALIDATION:
-- If context seems insufficient for a domain, acknowledge this limitation
-- Do not invent details not present in the provided context
-- Focus on what the context explicitly contains
+Response style: {prompt_style}
+- Comprehensive: Detailed analysis with high confidence statements
+- Balanced: Mix of confident statements and measured observations
+- Conservative: Focus on most certain facts with explicit uncertainty
 
-RESPONSE FORMAT:
-"Based on the available context: [factual statement]. #Domain
-[Additional factual statements for other domains present in context]
-No specific information available about [missing aspects].
-This response is based on the {context_items_count} available context items."
+Response:"""
 
-RESPONSE:"""
-
-    headers = {"Content-Type": "application/json"}
-    data = {"contents": [{"parts": [{"text": prompt}]}]}
-    params = {"key": GEMINI_API_KEY}
-
+    # Make API request to Gemini
+    headers = {
+        "Content-Type": "application/json",
+        "x-goog-api-key": GEMINI_API_KEY
+    }
+    
+    data = {
+        "contents": [{
+            "parts": [{"text": prompt}]
+        }],
+        "generationConfig": {
+            "temperature": temp,
+            "topK": 40,
+            "topP": 0.8,
+            "maxOutputTokens": 1024,
+        }
+    }
+    
+    response = requests.post(GEMINI_URL, headers=headers, json=data)
+    
+    if response.status_code != 200:
+        return f"Error generating response: {response.text}"
+    
     try:
-        response = requests.post(GEMINI_URL, headers=headers, params=params, json=data)
-        response.raise_for_status()
-        answer = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+        generated_text = response.json()["candidates"][0]["content"]["parts"][0]["text"]
         
-        # Validate response doesn't contain obvious hallucination patterns
-        if _contains_hallucination_indicators(answer):
-            return f"Context insufficient for detailed response to '{query_text}'. Available: {len(pinecone_results)} search results, {len(graph_context)} graph items, {len(image_context)} image connections. More context needed for comprehensive answer."
+        # Post-process response
+        if _contains_hallucination_indicators(generated_text):
+            # Retry with more conservative settings
+            data["generationConfig"]["temperature"] = 0.3
+            response = requests.post(GEMINI_URL, headers=headers, json=data)
+            generated_text = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+            
+            # If still detecting hallucination, add explicit warning
+            if _contains_hallucination_indicators(generated_text):
+                generated_text = "Note: This response has been filtered for accuracy. " + generated_text
         
-        # Enhanced fallback with context awareness
-        if not answer.strip() or "no specific context" in answer.lower():
-            return f"Unable to generate detailed response for '{query_text}' with current context. Available: {len(pinecone_results)} vector matches, {len(graph_context)} knowledge graph items, {len(image_context)} cross-modal connections. Context may be insufficient or not directly relevant to the query."
+        return generated_text
         
-        return answer
-        
-    except Exception as e:
-        return f"Error generating response: {str(e)}"
+    except (KeyError, IndexError) as e:
+        return f"Error parsing response: {str(e)}"
+
+def _generate_conservative_response(query: str, filtered_context: List[Dict]) -> str:
+    """Generate a conservative response when confidence is low"""
+    context_summary = []
+    
+    # Group context by confidence
+    high_conf = [c for c in filtered_context if c.get('score', 0) >= 0.6]
+    med_conf = [c for c in filtered_context if 0.4 <= c.get('score', 0) < 0.6]
+    
+    response_parts = ["Based on the provided context:"]
+    
+    if high_conf:
+        response_parts.append("High confidence observations:")
+        for ctx in high_conf[:3]:
+            response_parts.append(f"- {ctx['content']} (Confidence: HIGH)")
+            
+    if med_conf:
+        response_parts.append("\nModerate confidence observations:")
+        for ctx in med_conf[:2]:
+            response_parts.append(f"- {ctx['content']} (Confidence: MEDIUM)")
+            
+    response_parts.append("\nNote: Limited to directly observed information from context.")
+    response_parts.append(f"Context items used: {len(filtered_context)}")
+    
+    return "\n".join(response_parts)
 
 def _contains_hallucination_indicators(response: str) -> bool:
-    """Quick check for obvious hallucination patterns"""
-    
-    hallucination_phrases = [
-        "reminiscent of", "like.*poured", "honey.*heaven", 
-        "celestial.*gold", "mystical", "ethereal", "as if",
-        "seems to suggest", "one might imagine", "evokes"
-    ]
+    """Enhanced check for hallucination patterns with confidence-aware validation"""
     
     response_lower = response.lower()
     
-    # Check for creative language that's likely hallucinated
-    for phrase in hallucination_phrases:
-        if re.search(phrase, response_lower):
-            return True
-    
-    # Check if response starts appropriately
+    # Check structural requirements first
     if not response_lower.startswith("based on"):
         return True
+        
+    # Check for confidence labels
+    if not re.search(r'\(confidence: (high|medium|low)\)', response_lower):
+        return True
+        
+    # Check for domain tags
+    if not re.search(r'#[A-Z]+', response):
+        return True
+    
+    # Only check creative language in high-confidence statements
+    high_conf_sections = re.findall(r'\(confidence: high\).*?(?=\(confidence:|$)', response_lower, re.DOTALL)
+    
+    creative_language = [
+        "reminiscent of", "like.*poured", "honey.*heaven", 
+        "celestial.*gold", "mystical", "ethereal", "as if",
+        "seems to suggest", "one might imagine", "evokes",
+        "magical", "dreamy", "feels like", "appears to be",
+        "probably", "might be", "could be", "possibly",
+        "I think", "I believe", "perhaps", "maybe",
+        "reminds me of", "similar to", "akin to"
+    ]
+    
+    # Only flag creative language in high-confidence statements
+    for section in high_conf_sections:
+        if any(re.search(pattern, section) for pattern in creative_language):
+            return True
+    
+    # Allow some measured language in medium/low confidence statements
+    allowed_in_medium = ["appears to", "suggests", "indicates", "may", "could"]
+    med_conf_sections = re.findall(r'\(confidence: medium\).*?(?=\(confidence:|$)', response_lower, re.DOTALL)
+    
+    for section in med_conf_sections:
+        if not any(term in section for term in allowed_in_medium):
+            # Medium confidence statements should use measured language
+            return True
     
     return False
 

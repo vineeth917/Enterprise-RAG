@@ -4,31 +4,31 @@
       "query": "A castle by the beach at sunset",
       "results": [
         {
-          "score": 0.887254536,
+          "score": 0.88772583,
           "type": "caption",
           "caption": "tourist attraction at the sunset .",
           "image_path": "data/cc3m/training/1482_89211796.jpg"
         },
         {
-          "score": 0.871967494,
+          "score": 0.871618271,
           "type": "caption",
           "caption": "in the village at sunset",
           "image_path": "data/cc3m/training/15639_4090655033.jpg"
         },
         {
-          "score": 0.86807251,
+          "score": 0.868045807,
           "type": "caption",
           "caption": "a photographer taking photos by the sea at sunset",
           "image_path": "data/cc3m/training/46977_4142778949.jpg"
         },
         {
-          "score": 0.85603267,
+          "score": 0.855995178,
           "type": "caption",
           "caption": "view of the historic city during sunset",
           "image_path": "data/cc3m/training/9248_3354368268.jpg"
         },
         {
-          "score": 0.845899,
+          "score": 0.846274376,
           "type": "caption",
           "caption": "children playing with sand by the sea at sunset",
           "image_path": "data/cc3m/training/47072_2193211242.jpg"
@@ -39,31 +39,31 @@
       "query": "Man walking on a rainy day",
       "results": [
         {
-          "score": 0.840446055,
+          "score": 0.840374947,
           "type": "caption",
           "caption": "cars passing on the highway rainy day",
           "image_path": "data/cc3m/training/20942_3058278072.jpg"
         },
         {
-          "score": 0.830837,
+          "score": 0.831213951,
           "type": "caption",
           "caption": "man walking and talking on smartphone with shopping bags in the city",
           "image_path": "data/cc3m/training/10772_3533267165.jpg"
         },
         {
-          "score": 0.810805619,
+          "score": 0.811371326,
           "type": "caption",
           "caption": "a man hiking a hill",
           "image_path": "data/cc3m/validation/3292_2135036634.jpg"
         },
         {
-          "score": 0.808912396,
+          "score": 0.809518695,
           "type": "caption",
           "caption": "upset handsome man with a short trimmed beard in early 30s holding back tears of sadness outside",
           "image_path": "data/cc3m/training/43041_179348087.jpg"
         },
         {
-          "score": 0.804054439,
+          "score": 0.804359436,
           "type": "caption",
           "caption": "father and son take part in a walk .",
           "image_path": "data/cc3m/training/41569_2452091741.jpg"
@@ -74,31 +74,31 @@
       "query": "People at a fancy dinner",
       "results": [
         {
-          "score": 0.874007881,
+          "score": 0.874089301,
           "type": "caption",
           "caption": "a girl laughing at a fancy dinner",
           "image_path": "data/cc3m/validation/1940_3886102991.jpg"
         },
         {
-          "score": 0.859008849,
+          "score": 0.858915329,
           "type": "caption",
           "caption": "happy couple having a meal together with white wine",
           "image_path": "data/cc3m/training/34256_3496884490.jpg"
         },
         {
-          "score": 0.832092,
+          "score": 0.83253,
           "type": "caption",
           "caption": "the library is converted into a dining room for the dinner",
           "image_path": "data/cc3m/training/4594_2767082230.jpg"
         },
         {
-          "score": 0.829252779,
+          "score": 0.829486847,
           "type": "caption",
           "caption": "people in a kitchen , washing dishes and ironing a vintage dress",
           "image_path": "data/cc3m/training/27462_1598895484.jpg"
         },
         {
-          "score": 0.828208506,
+          "score": 0.828120232,
           "type": "caption",
           "caption": "table settings for a corporate lunch held",
           "image_path": "data/cc3m/training/43612_4086955135.jpg"
@@ -109,31 +109,31 @@
       "query": "The view of mountains and sunset",
       "results": [
         {
-          "score": 0.879171908,
+          "score": 0.879039288,
           "type": "caption",
           "caption": "the view west at sunset .",
           "image_path": "data/cc3m/training/39726_2078481396.jpg"
         },
         {
-          "score": 0.872669458,
-          "type": "caption",
-          "caption": "view of mountain in the fall",
-          "image_path": "data/cc3m/training/27349_3845807040.jpg"
-        },
-        {
-          "score": 0.872340679,
+          "score": 0.872289181,
           "type": "caption",
           "caption": "one of many views of the mountains and valleys below",
           "image_path": "data/cc3m/training/26437_1565289346.jpg"
         },
         {
-          "score": 0.856491148,
+          "score": 0.87214756,
+          "type": "caption",
+          "caption": "view of mountain in the fall",
+          "image_path": "data/cc3m/training/27349_3845807040.jpg"
+        },
+        {
+          "score": 0.856235,
           "type": "caption",
           "caption": "woman walking on the road in mountains at sunset",
           "image_path": "data/cc3m/training/18209_1953505876.jpg"
         },
         {
-          "score": 0.855309308,
+          "score": 0.854871273,
           "type": "caption",
           "caption": "view of the historic city during sunset",
           "image_path": "data/cc3m/training/9248_3354368268.jpg"
@@ -144,31 +144,31 @@
       "query": "Skateboarder doing tricks in a park",
       "results": [
         {
-          "score": 0.840351224,
+          "score": 0.84020853,
           "type": "caption",
           "caption": "child plays on the playground .",
           "image_path": "data/cc3m/training/14191_398251672.jpg"
         },
         {
-          "score": 0.827371716,
+          "score": 0.82711035,
           "type": "caption",
           "caption": "stray cat at the park .",
           "image_path": "data/cc3m/training/16944_3815702760.jpg"
         },
         {
-          "score": 0.82298404,
+          "score": 0.82256037,
           "type": "caption",
           "caption": "young girl studying hard in the park .",
           "image_path": "data/cc3m/training/11013_740440604.jpg"
         },
         {
-          "score": 0.819593132,
+          "score": 0.81935215,
           "type": "caption",
           "caption": "people relaxing in the park .",
           "image_path": "data/cc3m/training/21392_1926343992.jpg"
         },
         {
-          "score": 0.817317843,
+          "score": 0.816931248,
           "type": "caption",
           "caption": "person performs in a concert",
           "image_path": "data/cc3m/training/4892_1591814871.jpg"
@@ -179,31 +179,31 @@
       "query": "A man walks beside a woman on a rainy day",
       "results": [
         {
-          "score": 0.865634263,
+          "score": 0.865867615,
           "type": "caption",
           "caption": "man walked beside her down the street .",
           "image_path": "data/cc3m/validation/4087_94184201.jpg"
         },
         {
-          "score": 0.830977798,
+          "score": 0.830801,
           "type": "caption",
           "caption": "cars passing on the highway rainy day",
           "image_path": "data/cc3m/training/20942_3058278072.jpg"
         },
         {
-          "score": 0.828220665,
+          "score": 0.828066885,
           "type": "caption",
           "caption": "landscape with women and an older man .",
           "image_path": "data/cc3m/validation/837_2539005884.jpg"
         },
         {
-          "score": 0.825448215,
+          "score": 0.825673,
           "type": "caption",
           "caption": "couple holding hands strolls along an ocean beach",
           "image_path": "data/cc3m/training/37283_3145440797.jpg"
         },
         {
-          "score": 0.818702936,
+          "score": 0.818635941,
           "type": "caption",
           "caption": "senior man carrying wife on his back at the beach",
           "image_path": "data/cc3m/training/26678_313583641.jpg"

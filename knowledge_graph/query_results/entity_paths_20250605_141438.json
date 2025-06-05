@@ -1,0 +1,25 @@
+{
+  "query_type": "entity_paths",
+  "query_params": {
+    "entity1": "castle",
+    "entity2": "beach",
+    "query_text": "sunset view at the castle by the beach",
+    "max_length": 3
+  },
+  "timestamp": "20250605_141438",
+  "results": [
+    {
+      "node_names": [
+        "castle",
+        null,
+        "beach"
+      ],
+      "relationship_types": [
+        "MENTIONED_IN",
+        "MENTIONED_IN"
+      ],
+      "path_length": 2,
+      "path_relevance": 5
+    }
+  ]
+}

@@ -73,21 +73,21 @@ domain_merges = {
     "seascape": "SCENIC_VIEW"
 }
 
-# ✅ ADDED 'LOC' to handle location-based entities
+# ADDED 'LOC' to handle location-based entities
 priority_labels = ["ARCHITECTURE", "SCENIC_VIEW", "ENVIRONMENT", "TIME", "ACTIVITY", "REGEX_MATCH", "GENERAL", "LOC"]
 
 def extract_entities(text):
     doc = nlp(text)
     entities = []
 
-    # 1️⃣ SpaCy's NER and EntityRuler
+    # SpaCy's NER and EntityRuler
     for ent in doc.ents:
         entities.append({
             "text": ent.text.strip(),
             "label": ent.label_
         })
 
-    # 2️⃣ Additional: Split multi-word domain matches
+    # Additional: Split multi-word domain matches
     for ent in entities.copy():
         if " " in ent["text"]:  # If it's a phrase
             for word in ent["text"].split():
@@ -97,7 +97,7 @@ def extract_entities(text):
                         "label": ent["label"]
                     })
 
-    # 2️⃣ Regex-based domain enrichment
+    # Regex-based domain enrichment
     lower_text = text.lower()
     for pattern in regex_patterns:
         matches = re.findall(pattern, lower_text, re.IGNORECASE)
@@ -118,7 +118,7 @@ def extract_entities(text):
                     "label": label
                 })
 
-    # 3️⃣ Keyword-based enrichment
+    #  Keyword-based enrichment
     for label, keywords in domain_keywords.items():
         for kw in keywords:
             if kw in lower_text:
@@ -130,10 +130,10 @@ def extract_entities(text):
                     "label": label
                 })
 
-    # 4️⃣ Merge similar synonyms (like view/scene/landscape → SCENIC_VIEW)
+    #  Merge similar synonyms (like view/scene/landscape → SCENIC_VIEW)
     entities = merge_similar_entities(entities)
 
-    # 5️⃣ Deduplicate by priority
+    #  Deduplicate by priority
     entities = deduplicate_entities(entities)
 
     return entities
@@ -159,34 +159,66 @@ def deduplicate_entities(entities):
     return list(seen.values())
 
 def process_results(results_file, output_file="entity_relationship/entities.json"):
-    with open(results_file, "r") as f:
-        data = json.load(f)
-    
-    entity_data = []
-    for entry in tqdm(data["text_queries"], desc="Extracting enriched entities"):
-        query = entry["query"]
-        query_entities = extract_entities(query)
-        entity_data.append({
-            "source": "query",
-            "text": query,
-            "entities": query_entities
-        })
+    try:
+        with open(results_file, "r") as f:
+            data = json.load(f)
+        
+        entity_data = []
+        
+        # Handle image query format
+        if "image_query" in data:
+            # Process the image query itself
+            if "image_query" in data:
+                entity_data.append({
+                    "source": "image_query",
+                    "text": data["image_query"],
+                    "entities": []  # No entities for image path
+                })
+            
+            # Process results
+            for match in tqdm(data["results"], desc="Extracting enriched entities"):
+                caption = match["caption"]
+                caption_entities = extract_entities(caption)
+                entity_data.append({
+                    "source": "caption",
+                    "text": caption,
+                    "image_path": match["image_path"],
+                    "entities": caption_entities
+                })
+        
+        # Handle text query format
+        elif "text_queries" in data:
+            for entry in tqdm(data["text_queries"], desc="Extracting enriched entities"):
+                query = entry["query"]
+                query_entities = extract_entities(query)
+                entity_data.append({
+                    "source": "query",
+                    "text": query,
+                    "entities": query_entities
+                })
 
-        for match in entry["results"]:
-            caption = match["caption"]
-            caption_entities = extract_entities(caption)
-            entity_data.append({
-                "source": "caption",
-                "text": caption,
-                "image_path": match["image_path"],
-                "entities": caption_entities
-            })
+                for match in entry["results"]:
+                    caption = match["caption"]
+                    caption_entities = extract_entities(caption)
+                    entity_data.append({
+                        "source": "caption",
+                        "text": caption,
+                        "image_path": match["image_path"],
+                        "entities": caption_entities
+                    })
+        else:
+            raise ValueError("Unknown results format - missing 'image_query' or 'text_queries' key")
 
-    # Save final enriched entity data
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(entity_data, f, indent=2)
-    print(f"✅ Final enriched & deduplicated entities saved to {output_file}")
+        # Save final enriched entity data
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(entity_data, f, indent=2)
+        print(f"Final enriched & deduplicated entities saved to {output_file}")
+    except Exception as e:
+        print(f"Error processing {results_file}: {str(e)}")
 
 if __name__ == "__main__":
-    # Example usage
-    process_results("retrieval/results.json")
+    # Process results_image.json
+    process_results("retrieval/results_image.json", "entity_relationship/entities_image.json")
+    
+    # Attempt to process results_test.json if it exists
+    process_results("retrieval/results_text.json", "entity_relationship/entities_text.json")

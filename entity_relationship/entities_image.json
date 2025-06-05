@@ -1,0 +1,117 @@
+[
+  {
+    "source": "query",
+    "text": "sunset landscape view scenery terrain topography vista dusk twilight golden hour evening glow vista panorama scenery outlook evening panorama golden light scenery atmospheric lighting dramatic sky warm evening glow",
+    "entities": [
+      {
+        "text": "dusk twilight",
+        "label": "TIME"
+      },
+      {
+        "text": "golden hour",
+        "label": "TIME"
+      },
+      {
+        "text": "vista panorama",
+        "label": "LOC"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "dusk",
+        "label": "TIME"
+      },
+      {
+        "text": "twilight",
+        "label": "TIME"
+      },
+      {
+        "text": "sunset",
+        "label": "TIME"
+      },
+      {
+        "text": "view",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "scene",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "landscape",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "panorama",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "vista",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "scenery",
+        "label": "SCENIC_VIEW"
+      }
+    ]
+  },
+  {
+    "source": "caption",
+    "text": "light modern light effect with rays , sun .",
+    "image_path": "data/cc3m/training/40212_3133460181.jpg",
+    "entities": []
+  },
+  {
+    "source": "caption",
+    "text": "real time sun shining above horizon with sound",
+    "image_path": "data/cc3m/validation/2662_3183447657.jpg",
+    "entities": []
+  },
+  {
+    "source": "caption",
+    "text": "soft sunset light touches a field of biological genus .",
+    "image_path": "data/cc3m/training/22162_1638686913.jpg",
+    "entities": [
+      {
+        "text": "sunset",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "source": "caption",
+    "text": "tv genre with a view",
+    "image_path": "data/cc3m/training/10054_3078799316.jpg",
+    "entities": [
+      {
+        "text": "view",
+        "label": "SCENIC_VIEW"
+      }
+    ]
+  },
+  {
+    "source": "caption",
+    "text": "high angle time lapse view during sunrise , feet above sea level and one of the main tourist attractions .",
+    "image_path": "data/cc3m/training/6843_2852703937.jpg",
+    "entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "sunrise",
+        "label": "TIME"
+      },
+      {
+        "text": "view",
+        "label": "SCENIC_VIEW"
+      },
+      {
+        "text": "sea",
+        "label": "ENVIRONMENT"
+      }
+    ]
+  }
+]

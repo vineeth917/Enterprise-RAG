@@ -205,6 +205,45 @@
         "name": "rainy day",
         "label": "DATE"
       }
+    },
+    {
+      "id": 1133,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "time_reference",
+        "domain": "temporal",
+        "canonical_id": "early 30s",
+        "name": "early 30s",
+        "label": "DATE"
+      }
+    },
+    {
+      "id": 1140,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "landscape",
+        "name": "landscape",
+        "label": "SCENIC_VIEW"
+      }
+    },
+    {
+      "id": 1143,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "semantic_type": "entity",
+        "domain": "unknown",
+        "canonical_id": "ocean",
+        "name": "ocean",
+        "label": "ENVIRONMENT"
+      }
     }
   ],
   "texts": [
@@ -504,6 +543,150 @@
         "domain": "unknown",
         "semantic_type": "unknown"
       }
+    },
+    {
+      "id": 1127,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/1482_89211796.jpg",
+        "caption": "tourist attraction at the sunset .",
+        "location": "",
+        "text": "tourist attraction at the sunset .",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1129,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/47072_2193211242.jpg",
+        "caption": "children playing with sand by the sea at sunset",
+        "location": "",
+        "text": "children playing with sand by the sea at sunset",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1131,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/20942_3058278072.jpg",
+        "caption": "cars passing on the highway rainy day",
+        "location": "",
+        "text": "cars passing on the highway rainy day",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1134,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/43041_179348087.jpg",
+        "caption": "upset handsome man with a short trimmed beard in early 30s holding back tears of sadness outside",
+        "location": "",
+        "text": "upset handsome man with a short trimmed beard in early 30s holding back tears of sadness outside",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1136,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/27349_3845807040.jpg",
+        "caption": "view of mountain in the fall",
+        "location": "",
+        "text": "view of mountain in the fall",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1138,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/18209_1953505876.jpg",
+        "caption": "woman walking on the road in mountains at sunset",
+        "location": "",
+        "text": "woman walking on the road in mountains at sunset",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1141,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/validation/837_2539005884.jpg",
+        "caption": "landscape with women and an older man .",
+        "location": "",
+        "text": "landscape with women and an older man .",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1144,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/37283_3145440797.jpg",
+        "caption": "couple holding hands strolls along an ocean beach",
+        "location": "",
+        "text": "couple holding hands strolls along an ocean beach",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1146,
+      "labels": [
+        "Text"
+      ],
+      "properties": {
+        "date": "",
+        "image_path": "data/cc3m/training/26678_313583641.jpg",
+        "caption": "senior man carrying wife on his back at the beach",
+        "location": "",
+        "text": "senior man carrying wife on his back at the beach",
+        "type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
     }
   ],
   "images": [
@@ -683,6 +866,141 @@
         "caption": "fashion designer behind the scenes",
         "source_type": "caption",
         "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1128,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/1482_89211796.jpg",
+        "caption": "tourist attraction at the sunset .",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1130,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/47072_2193211242.jpg",
+        "caption": "children playing with sand by the sea at sunset",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1132,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/20942_3058278072.jpg",
+        "caption": "cars passing on the highway rainy day",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1135,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/43041_179348087.jpg",
+        "caption": "upset handsome man with a short trimmed beard in early 30s holding back tears of sadness outside",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1137,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/27349_3845807040.jpg",
+        "caption": "view of mountain in the fall",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1139,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/18209_1953505876.jpg",
+        "caption": "woman walking on the road in mountains at sunset",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1142,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/validation/837_2539005884.jpg",
+        "caption": "landscape with women and an older man .",
+        "source_type": "caption",
+        "location": "",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1145,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/37283_3145440797.jpg",
+        "caption": "couple holding hands strolls along an ocean beach",
+        "location": "",
+        "source_type": "caption",
+        "domain": "unknown",
+        "semantic_type": "unknown"
+      }
+    },
+    {
+      "id": 1147,
+      "labels": [
+        "Image"
+      ],
+      "properties": {
+        "date": "",
+        "path": "data/cc3m/training/26678_313583641.jpg",
+        "caption": "senior man carrying wife on his back at the beach",
+        "location": "",
+        "source_type": "caption",
         "domain": "unknown",
         "semantic_type": "unknown"
       }
@@ -1128,6 +1446,174 @@
       "type": "MENTIONED_IN",
       "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1126",
       "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1095",
+      "properties": {}
+    },
+    {
+      "id": 601,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1127",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1128",
+      "properties": {}
+    },
+    {
+      "id": 602,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1127",
+      "properties": {}
+    },
+    {
+      "id": 603,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1129",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1130",
+      "properties": {}
+    },
+    {
+      "id": 604,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1129",
+      "properties": {}
+    },
+    {
+      "id": 605,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1113",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1129",
+      "properties": {}
+    },
+    {
+      "id": 606,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1131",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1132",
+      "properties": {}
+    },
+    {
+      "id": 607,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1126",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1131",
+      "properties": {}
+    },
+    {
+      "id": 608,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1133",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1133",
+      "properties": {}
+    },
+    {
+      "id": 609,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1134",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1135",
+      "properties": {}
+    },
+    {
+      "id": 610,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1133",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1134",
+      "properties": {}
+    },
+    {
+      "id": 611,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1136",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1137",
+      "properties": {}
+    },
+    {
+      "id": 612,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1105",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1136",
+      "properties": {}
+    },
+    {
+      "id": 613,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1138",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1139",
+      "properties": {}
+    },
+    {
+      "id": 614,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1099",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1138",
+      "properties": {}
+    },
+    {
+      "id": 615,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1114",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1138",
+      "properties": {}
+    },
+    {
+      "id": 616,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1140",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1140",
+      "properties": {}
+    },
+    {
+      "id": 617,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1141",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1142",
+      "properties": {}
+    },
+    {
+      "id": 618,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1140",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1141",
+      "properties": {}
+    },
+    {
+      "id": 619,
+      "type": "ALIAS_OF",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1143",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1143",
+      "properties": {}
+    },
+    {
+      "id": 620,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1144",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1145",
+      "properties": {}
+    },
+    {
+      "id": 621,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1143",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1144",
+      "properties": {}
+    },
+    {
+      "id": 622,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1102",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1144",
+      "properties": {}
+    },
+    {
+      "id": 623,
+      "type": "DESCRIBES",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1146",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1147",
+      "properties": {}
+    },
+    {
+      "id": 624,
+      "type": "MENTIONED_IN",
+      "start": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1102",
+      "end": "4:f9d9f278-9efc-455b-a026-55aa5983bc59:1146",
       "properties": {}
     }
   ]
