@@ -1,0 +1,2026 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.3",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseenter","mouseout","mouseleave","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input","visibilitychange"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),this.F("domReady"),await this.T(),await this.j(),await this.I(),this.F("windowLoad"),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise((t=>setTimeout(t,500-Date.now()+this.lastTouchEnd))),this.H(),this.F("all"),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))}),{isRocket:!0})}o(){window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0}),{isRocket:!0}),window.addEventListener("pagehide",(()=>{this.onFirstUserAction=null}),{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",(function i(o){Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1})),event.preventDefault(),window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}))}),{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),this.savedUserEvents.length>0&&(t.stopPropagation(),t.stopImmediatePropagation()),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach((t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})))}U(){this.userEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0}))),this.savedUserEvents.forEach((t=>{t.target.dispatchEvent(new window[t.constructor.name](t.type,t))}))}m(){this.eventsMutationObserver=new MutationObserver((t=>{const e="return false";for(const i of t){if("attributes"===i.type){const t=i.target.getAttribute(i.attributeName);t&&t!==e&&(i.target.setAttribute("data-rocket-"+i.attributeName,t),i.target["rocket"+i.attributeName]=new Function("event",t),i.target.setAttribute(i.attributeName,e))}"childList"===i.type&&i.addedNodes.forEach((t=>{if(t.nodeType===Node.ELEMENT_NODE)for(const i of t.attributes)this.attributeEvents.includes(i.name)&&i.value&&""!==i.value&&(t.setAttribute("data-rocket-"+i.name,i.value),t["rocket"+i.name]=new Function("event",i.value),t.setAttribute(i.name,e))}))}})),this.eventsMutationObserver.observe(document,{subtree:!0,childList:!0,attributeFilter:this.attributeEvents})}H(){this.eventsMutationObserver.disconnect(),this.attributeEvents.forEach((t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach((e=>{e.setAttribute(t,e.getAttribute("data-rocket-"+t)),e.removeAttribute("data-rocket-"+t)}))}))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o})},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}F(t){"all"===t&&(EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener),this.savedEventListeners=this.savedEventListeners.filter((e=>{let i=e.type,o=e.target||window;return"domReady"===t&&"DOMContentLoaded"!==i&&"readystatechange"!==i||("windowLoad"===t&&"load"!==i&&"readystatechange"!==i&&"pageshow"!==i||(this.B(i,o)&&(i="rocket-"+i),e.remove?o.removeEventListener(i,e.func,e.options):o.addEventListener(i,e.func,e.options),!1))}))}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,(()=>{e[t].forEach((t=>t()))}),{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout((()=>i.bind(document)(o))):i.bind(document)(o)}return t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s),o([])},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise((t=>{this.userActionTriggered?t():this.onFirstUserAction=t}))}async L(){return new Promise((t=>{document.addEventListener("DOMContentLoaded",(()=>{this.realDomReadyFired=!0,t()}),{isRocket:!0})}))}async I(){return this.realWindowLoadedFired?Promise.resolve():new Promise((t=>{window.addEventListener("load",t,{isRocket:!0})}))}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver((t=>{for(const e of t)e.addedNodes.forEach((t=>{"SCRIPT"!==t.tagName||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise((e=>{const i=()=>{const i=this.pendingScripts.findIndex((e=>e.script===t));i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)}))})}))})),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async j(){await this.J(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.j()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.N(t,"preconnect")}async $(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",(()=>{i.setAttribute("data-rocket-status","failed-network"),e()}),{isRocket:!0}),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.$(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())}),{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.$(e),this.C(t)):Promise.resolve()}O(){this.N([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}N(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach((t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}})),document.head.appendChild(o)}W(){this.trash.forEach((t=>t.remove()))}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async G(){Date.now()-this.lastBreath>45&&(await this.J(),this.lastBreath=Date.now())}async J(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}B(t,e){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();</script>
+
+
+
+	
+		<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>Your Next Shoes: Latest Celebrity Fashion, Shoe Trends &amp; Entertainment News</title><link rel="preload" data-rocket-preload as="image" href="https://www.yournextshoes.com/wp-content/uploads/2013/11/Kiernan-Shipka-is-shorter-than-Zoe-Levin-featured.jpg" fetchpriority="high"><link rel="preload" data-rocket-preload as="style" href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=swap" /><style id="" media="print" onload="this.media='all'">@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmScUG33AvQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmTCUG33AvQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQlV233AvQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmRrV233AvQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaFF3w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaFF3w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAaFF3w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAaFF3w.ttf) format('truetype');
+}
+</style><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=swap" /></noscript>
+<meta name="description" content="Discover the latest in celebrity fashion, trending footwear, and entertainment news on Your Next Shoes. Explore exclusive style tips, designer shoe reviews, and red-carpet highlights today!"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.yournextshoes.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Your Next Shoes: Latest Celebrity Fashion, Shoe Trends &amp; Entertainment News" />
+<meta property="og:description" content="Discover the latest in celebrity fashion, trending footwear, and entertainment news on Your Next Shoes. Explore exclusive style tips, designer shoe reviews, and red-carpet highlights today!" />
+<meta property="og:url" content="https://www.yournextshoes.com/" />
+<meta property="og:site_name" content="Your Next Shoes" />
+<meta property="og:updated_time" content="2024-11-24T06:25:38+00:00" />
+<meta property="og:image" content="https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-FB.png" />
+<meta property="og:image:secure_url" content="https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-FB.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="your next shoes" />
+<meta property="og:image:type" content="image/png" />
+<meta property="article:published_time" content="2023-10-15T07:10+00:00" />
+<meta property="article:modified_time" content="2024-11-24T06:25:38+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Your Next Shoes: Latest Celebrity Fashion, Shoe Trends &amp; Entertainment News" />
+<meta name="twitter:description" content="Discover the latest in celebrity fashion, trending footwear, and entertainment news on Your Next Shoes. Explore exclusive style tips, designer shoe reviews, and red-carpet highlights today!" />
+<meta name="twitter:site" content="@yournextshoes" />
+<meta name="twitter:creator" content="@yournextshoes" />
+<meta name="twitter:image" content="https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-FB.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Karis" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.yournextshoes.com/#organization","name":"Your Next Shoes","sameAs":["https://www.facebook.com/yournextshoes","https://twitter.com/yournextshoes"],"logo":{"@type":"ImageObject","@id":"https://www.yournextshoes.com/#logo","url":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-02-WEB.jpg","contentUrl":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-02-WEB.jpg","caption":"Your Next Shoes","inLanguage":"en-US","width":"1182","height":"1182"}},{"@type":"WebSite","@id":"https://www.yournextshoes.com/#website","url":"https://www.yournextshoes.com","name":"Your Next Shoes","publisher":{"@id":"https://www.yournextshoes.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://www.yournextshoes.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-featured.png","url":"https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-featured.png","width":"590","height":"317","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.yournextshoes.com/#webpage","url":"https://www.yournextshoes.com/","name":"Your Next Shoes: Latest Celebrity Fashion, Shoe Trends &amp; Entertainment News","datePublished":"2023-10-15T07:10:40+00:00","dateModified":"2024-11-24T06:25:38+00:00","about":{"@id":"https://www.yournextshoes.com/#organization"},"isPartOf":{"@id":"https://www.yournextshoes.com/#website"},"primaryImageOfPage":{"@id":"https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-featured.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.yournextshoes.com/author/karis/","name":"Karis","url":"https://www.yournextshoes.com/author/karis/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/71d6f16e0df85bd17de76680a95176df?s=96&amp;d=identicon&amp;r=g","url":"https://secure.gravatar.com/avatar/71d6f16e0df85bd17de76680a95176df?s=96&amp;d=identicon&amp;r=g","caption":"Karis","inLanguage":"en-US"},"worksFor":{"@id":"https://www.yournextshoes.com/#organization"}},{"@type":"Article","headline":"Your Next Shoes: Latest Celebrity Fashion, Shoe Trends &amp; Entertainment News","keywords":"your next shoes","datePublished":"2023-10-15T07:10:40+00:00","dateModified":"2024-11-24T06:25:38+00:00","author":{"@id":"https://www.yournextshoes.com/author/karis/","name":"Karis"},"publisher":{"@id":"https://www.yournextshoes.com/#organization"},"description":"Discover the latest in celebrity fashion, trending footwear, and entertainment news on Your Next Shoes. Explore exclusive style tips, designer shoe reviews, and red-carpet highlights today!","name":"Your Next Shoes: Latest Celebrity Fashion, Shoe Trends &amp; Entertainment News","@id":"https://www.yournextshoes.com/#richSnippet","isPartOf":{"@id":"https://www.yournextshoes.com/#webpage"},"image":{"@id":"https://www.yournextshoes.com/wp-content/uploads/2024/11/Your-Next-Shoes-featured.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.yournextshoes.com/#webpage"}}]}</script>
+<meta name="google-site-verification" content="hZASgz6jp-4j58DJix9srrKDS1LE_onG8oaedRwfk44" />
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//scripts.mediavine.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Your Next Shoes &raquo; Feed" href="https://www.yournextshoes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Your Next Shoes &raquo; Comments Feed" href="https://www.yournextshoes.com/comments/feed/" />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.yournextshoes.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='generate-widget-areas-css' href='https://www.yournextshoes.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.4.0' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://www.yournextshoes.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.4.0' media='all' />
+<style id='generate-style-inline-css'>
+@media (max-width:768px){}
+body{background-color:var(--base-2);color:var(--contrast);}a{color:var(--accent);}a{text-decoration:underline;}.entry-title a, .site-branding a, a.button, .wp-block-button__link, .main-navigation a{text-decoration:none;}a:hover, a:focus, a:active{color:#a30e2e;}.wp-block-group__inner-container{max-width:1200px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:200px;}.generate-back-to-top{font-size:20px;border-radius:3px;position:fixed;bottom:30px;right:30px;line-height:40px;width:40px;text-align:center;z-index:10;transition:opacity 300ms ease-in-out;opacity:0.1;transform:translateY(1000px);}.generate-back-to-top__show{opacity:1;transform:translateY(0);}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#8a0b26;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}.main-navigation a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{font-family:Merriweather, serif;text-transform:uppercase;font-size:14px;line-height:1.7;}body, button, input, select, textarea{font-family:Merriweather, serif;font-size:16px;}body{line-height:1.7;}p{margin-bottom:10px;}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:var(--accent);}.top-bar a:hover{color:#b31034;}.site-header{background-color:var(--base-3);}.site-header a{color:#8a0b26;}.site-header a:hover{color:#a30d2d;}.main-title a,.main-title a:hover{color:var(--contrast);}.site-description{color:var(--contrast-2);}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:var(--base-3);}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:var(--contrast);}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:var(--accent);}button.menu-toggle:hover,button.menu-toggle:focus{color:var(--contrast);}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--accent);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:var(--accent);}.main-navigation ul ul{background-color:var(--base);}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:var(--base-3);}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:#8a0b26;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#b60b30;}.entry-title a{color:var(--contrast);}.entry-title a:hover{color:var(--contrast-2);}.entry-meta{color:var(--contrast-2);}.sidebar .widget{background-color:var(--base-3);}.footer-widgets{background-color:var(--base-3);}.site-info{color:#ffffff;background-color:#333333;}.site-info a{color:#ffffff;}.site-info a:hover{color:#dfdede;}.footer-bar .widget_nav_menu .current-menu-item a{color:#dfdede;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:var(--contrast);background-color:var(--base-2);border-color:var(--base);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:var(--contrast);background-color:var(--base-2);border-color:var(--contrast-3);}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#55555e;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#3f4047;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:var(--contrast);}}.inside-top-bar{padding:0px;}.inside-header{padding:20px 0px 20px 0px;}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 10px 0px 10px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:14px 20px 20px 20px;}.site-main .wp-block-group__inner-container{padding:14px 20px 20px 20px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-20px;width:calc(100% + 40px);max-width:calc(100% + 40px);}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:20px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:20px;}.one-container.both-sidebars .site-main{margin:0px 20px 0px 20px;}.sidebar .widget, .page-header, .widget-area .main-navigation, .site-main > *{margin-bottom:0px;}.separate-containers .site-main{margin:0px;}.both-right .inside-left-sidebar,.both-left .inside-left-sidebar{margin-right:0px;}.both-right .inside-right-sidebar,.both-left .inside-right-sidebar{margin-left:0px;}.one-container.archive .post:not(:last-child):not(.is-loop-template-item), .one-container.blog .post:not(:last-child):not(.is-loop-template-item){padding-bottom:20px;}.separate-containers .featured-image{margin-top:0px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:0px;margin-bottom:0px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{padding-left:10px;padding-right:10px;}.main-navigation .main-nav ul ul li a{padding:10px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:10px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:10px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:10px;}.widget-area .widget{padding:10px;}.footer-widgets-container{padding:40px 20px 40px 20px;}.inside-site-info{padding:20px 0px 20px 0px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.site-main .wp-block-group__inner-container{padding:30px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-right:30px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}.one-container .site-main .paging-navigation{margin-bottom:0px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:100%;}@media (max-width: 768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}.has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap;}.has-inline-mobile-toggle .inside-header{flex-direction:row;text-align:left;flex-wrap:wrap;}.has-inline-mobile-toggle .header-widget,.has-inline-mobile-toggle #site-navigation{flex-basis:100%;}.nav-float-left .has-inline-mobile-toggle #site-navigation{order:10;}}
+#content {max-width: 1200px;margin-left: auto;margin-right: auto;}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+</style>
+<link rel='stylesheet' id='generate-child-css' href='https://www.yournextshoes.com/wp-content/themes/generatepress_child/style.css?ver=1697353411' media='all' />
+
+<link data-minify="1" rel='stylesheet' id='tablepress-default-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/css/build/default.css?ver=1745029930' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-datatables-buttons-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.buttons.css?ver=1745029930' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-datatables-fixedheader-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.fixedheader.css?ver=1745029930' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-datatables-fixedcolumns-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.fixedcolumns.css?ver=1745029930' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-datatables-scroll-buttons-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.scroll-buttons.css?ver=1745029930' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-responsive-tables-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/responsive-tables.css?ver=1745029930' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-datatables-columnfilterwidgets-css' href='https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.columnfilterwidgets.css?ver=1745029930' media='all' />
+<link rel='stylesheet' id='generate-blog-columns-css' href='https://www.yournextshoes.com/wp-content/plugins/gp-premium/blog/functions/css/columns.min.css?ver=2.5.0' media='all' />
+<style id='rocket-lazyload-inline-css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-64de9b17-624e-4b6e-ba43-5969113d7855) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}.wp-embed-responsive .wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0}
+</style>
+<script async="async" data-noptimize="1" data-cfasync="false" src="https://scripts.mediavine.com/tags/your-next-shoes.js?ver=6.7.2" id="mv-script-wrapper-js"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress_child/js/1jquery.min.js?ver=6.7.2" id="myscripts-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress_child/js/jquery-ias.min.js?ver=6.7.2" id="myscripts2-js" data-rocket-defer defer></script>
+<link rel="https://api.w.org/" href="https://www.yournextshoes.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.yournextshoes.com/wp-json/wp/v2/pages/404650" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.yournextshoes.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<link rel='shortlink' href='https://www.yournextshoes.com/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.yournextshoes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.yournextshoes.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.yournextshoes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.yournextshoes.com%2F&#038;format=xml" />
+<meta name="pinterest-rich-pin" content="false" />	<link rel="icon" href="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-270x270.png" />
+		<style id="wp-custom-css">
+			YNS CUSTOM CSS
+/* Mediavine alterations */
+
+@media (max-width: 414px) {
+iframe[title="YouTube video player"] {
+width: 98%;
+margin: 0 auto;
+display:block;
+padding: 10px;
+box-sizing: border-box;
+ }
+}
+
+
+
+/* end Mediavine alterations */
+
+.archive.category .entry-title {
+    /*min-height: 60px;*/
+}
+
+.archive.category h1{
+	font-size:22px;
+	margin-bottom:14px;
+}
+
+@media (max-width: 968px){
+.archive.categorye h1 {
+    font-size: 24px;
+}
+}
+
+pre{
+	background:none;
+}
+.entry-content{
+	margin-top:20px !important;
+}
+.inside-article	h1, .taxonomy-description h1{
+		font-size:22px;
+	}
+.inside-article h2, .taxonomy-description h2{
+		font-size:20px;
+			margin-bottom:10px;
+	}
+.archive .inside-article h2{
+	margin-bottom:0;
+}
+.inside-article h3, .taxonomy-description h3{
+		font-size:18px;
+	}
+.inside-article h4, .taxonomy-description h4{
+		font-size:16px;
+	}
+.inside-article h5, .taxonomy-description h5{
+		font-size:16px;
+	}
+.inside-article img + em{
+	font-size: 13px;
+	line-height:1.2;
+	display:inline-block;
+	margin-top:4px;
+}
+@media(max-width:968px){
+	.inside-article	h1, .taxonomy-description h1{
+		font-size:24px;
+	}
+.inside-article h2, .taxonomy-description h2{
+		font-size:22px;
+			margin-bottom:10px;
+	}
+	
+.archive .inside-article h2{
+	margin-bottom:0;
+}
+	.inside-article h3, .taxonomy-description h3{
+		font-size:20px;
+			margin-bottom:10px;
+	}
+	.mf-wrap{
+		display:none;
+	}
+	.archive.category .inside-article
+	{
+		height:auto !important;
+	}
+}
+
+.inside-header{
+	padding:0;
+}
+.clear{
+	clear:both;
+}
+a{
+	text-decoration:none;
+}
+.site-header {
+    margin-bottom: 20px;
+}
+.home #primary{
+
+}
+.home #main{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.home #page{
+	background:transparent;
+}
+.home article{
+width: 31%;
+    margin: 10px 10px 40px 10px;
+	position: relative;
+	    border: 1px solid #e7e7e7;
+	background:white;
+	padding-bottom: 0 !important;
+	
+}
+.home .inside-article{
+	padding:20px 20px 0 20px !important;
+
+}
+.entry-summary p{display:none;}
+.entry-summary .read-more-container{display:block;
+	position:absolute;
+bottom: 0;
+}
+
+.home .entry-title{
+	font-size:20px;
+}
+
+a.button{background:#680f35;}
+a.button:hover{background:#851d49;}
+
+
+.inside-header.grid-container{
+	    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#mobile-menu-control-wrapper{
+	display:none;
+}
+.header-widget{
+	    flex-basis: initial  !important;
+    margin: 0;
+}
+@media(max-width:900px){
+	.home article {
+	 width: 46%;
+	}
+}
+@media(max-width:768px){
+.header-widget{
+		top: -10px;
+    position: relative;
+}
+	
+	.site-logo {
+    width: 500px;
+}
+}
+@media (max-width: 500px){
+.home article {
+    width: 100%;
+}
+}
+.post-image{
+	margin-bottom:0 !important; 
+}
+
+/****************************/
+					.simple-slideout-menu-panel {
+						background: #eeeeee;
+						max-width: 311px;
+						color: #868080 !important;
+					}
+
+					.simple-slideout-menu-panel.shadow {
+						-webkit-box-shadow: 0 0 15px 0 rgba(0,0,0,0.12);
+    					box-shadow: 0 0 15px 0 rgba(0,0,0,0.12);
+					}
+
+					.simple-slideout-menu-panel .simple-slideout-menu-close .dashicons:before {
+						width:30px;
+						height:30px;
+						font-size: 30px;
+					}
+
+					.simple-slideout-menu-panel .simple-slideout-menu-close {
+						color:#000000;
+					}
+
+					.simple-slideout-menu-panel .simple-slideout-menu-close:hover {
+						color:#bc0909;
+					}
+
+					a[data-trigger="simple-slideout"]:not(.simple-slideout-menu-close ) {
+						color:#000000 !important;
+						text-decoration:none;
+					}
+
+					a[data-trigger="simple-slideout"]:hover:not(.simple-slideout-menu-close ) {
+						color:#111111 !important;
+					}
+
+					a[data-trigger="simple-slideout"]:not(.simple-slideout-menu-close ) .dashicons:before {
+						width:24px;
+						height:24px;
+						font-size: 24px;
+					}
+
+					.simple-slideout-menu-panel  ul.slideout-menu  a {
+				    	color: #868080;
+				    	font-size: 18px;
+				    	text-decoration: none;
+				    	text-transform: uppercase;
+				    	font-weight: 400;
+					}
+
+					.simple-slideout-menu-panel  ul.slideout-menu a:hover {
+				    	color: #8a0b26;
+					}
+
+
+.simple-slideout-menu-panel ul.slideout-menu a {
+    font-weight: normal !important;
+    font-size: 18px !important;
+}
+
+.simple-slideout-menu-panel ul.slideout-menu a:hover {
+color:#8a0b26 !important;
+}
+.dashicons-menu:before {
+    content: "" !important;
+	width:16px !important;
+	height:16px !important;
+	display:block;
+background:var(--wpr-bg-a4a207fb-f2fd-428a-8536-1d55283b1cbb) no-repeat;
+	background-size:contain;
+	margin-top:4px;
+}
+
+.active .dashicons-menu:before {
+
+background:var(--wpr-bg-c924bf5d-020b-4ca9-a0dd-4bd4ab13eb75) no-repeat;
+	background-size:contain;
+}
+
+.archive.category .entry{
+	    display: flex;
+    justify-content: space-evenly;
+	
+}
+
+.cat-item {
+	list-style:none;
+    padding: 15px 0;
+}
+
+.archive.category  .column strong {
+    display: block;
+    margin: 25px 0 10px 50px;
+}
+.archive.category .entry .column{
+	    width: 24.5%;
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+@media(max-width:800px){
+
+	.archive.category .entry{
+		
+	}
+	
+	.archive.category .entry .column{
+	
+}
+}
+/*Ajax Load More*/
+.alm-item-content h3, .alm-item-content h2{
+	font-size:20px;
+}
+.alm-item-thumbnail {
+    float: left;
+    width: 30%;
+}
+.alm-item-content {
+    float: right;
+    max-width: 69%;
+}
+li.alm-item img {
+    max-width: 100% !important;
+    position: relative !important;
+    padding: 0;
+}
+li.alm-item {
+    padding: 0 10px !important;
+}
+@media(max-width:800px){
+	.alm-item-thumbnail{
+		float: none;
+		width: 98%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.alm-item-content{
+		float: none;
+		max-width: 98%;
+		margin-top: 10px;
+	}
+}
+
+/**Sidebar**/
+.widget-title {
+margin-bottom: 15px;
+    font-size: 16px;
+    text-align: center;
+		background:#eee;
+	height:20px;
+}
+.widget-area .widget {
+    padding: 20px 10px 0px 10px;
+}
+.widget-area .widget-title span {
+		background:#fff;
+	position:relative;
+	top:-2px;
+	padding:2px 4px;
+}
+
+#sb-search {
+    display: flex;
+    margin-top: 20px;
+}
+#sb-search #yns-gsearch {
+    height: 20px;
+	background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px #ddd inset;
+    padding: 16px;
+    padding: 1rem;
+    width: 100%;
+}
+#sb-search #yg-submit {
+    height: 34px;
+    padding: 0 20px;
+	background-color: #333;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    width: auto;
+}
+.side-subs-wrap{
+	    padding: 10px 0;
+    border-top: 1px solid #b2b2b2;
+    border-bottom: 1px solid #b2b2b2;
+    margin: 10px 0;
+}
+
+.side-subs-wrap #followus li{
+	margin-bottom:0;
+}
+.copyright-bar{
+width:100%;	
+}
+.footer-top{
+	display:flex;
+    justify-content: space-between;
+	font-size:12px;
+}
+.footer-top a:hover{
+	color:#cf2b4e;
+}
+.footer-top-left{
+	
+}
+.footer-top-right{
+	
+}
+.footer-bottom{
+		font-size:12px;
+	padding-top:20px;
+}
+
+@media(max-width:768px){
+	.footer-top {
+    flex-direction: column;
+	}
+	.footer-top-right {
+    margin-top: 5px;
+}
+}
+/**Single**/
+.affiliate-disclosure {
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 10px auto;
+    letter-spacing: 0.6px;
+}
+#nav-post{
+	font-size:12px;
+    padding-bottom: 15px;
+
+}
+#next-post{
+	text-align:right;
+}
+h1.entry-title{
+color: #8a0b26;
+
+}
+.single .entry-meta {
+    font-size: 85%;
+    margin-top: 0.5em;
+    line-height: 1.5;
+    font-size: 11px;
+    color: #a69999 !important;
+}
+
+.postinfowrap {
+    display: flex;
+    font-size: 11px;
+    color: #1d1d1d;
+    padding: 10px 0 0 0;
+	line-height: 1.1;
+}
+.pinfo {
+    text-transform: uppercase;
+    padding: 0 10px;
+}
+.pinfofirst {
+    padding-left: 0;
+}
+
+#morecats {
+    margin: 10px 0;
+    font-size: 11px;
+    line-height: 1.6em;
+    font-weight: bold;
+    color: #1d1d1d;
+    font-family: arial;
+}
+
+.archive.category .inside-article{
+	display: flex;
+    flex-direction: column-reverse;
+    height: 250px;
+    justify-content: space-evenly;
+}
+.archive.category  .entry-title{
+	font-size:14px;
+
+}
+.archive.category  .entry-title a{
+	color: #8a0b26;
+
+}
+.archive.category article{
+	width:40%;
+	float:left;
+	margin:0 3%;
+	padding-bottom:10px !important;
+}
+.archive.category .inside-article .entry-header{
+	/*min-height:60px;*/
+}
+
+.archive.category .inside-article  .post-image{
+	margin:0;
+	width:100%;
+}
+
+@media(max-width:990px){
+	.archive.category article{
+	width:90%;
+		margin:0 auto;
+		float:none;
+		text-align:center;
+}
+}
+
+/*custom home*/
+#main-post-published{
+	    display: flex;
+    padding: 10px 10px;
+    background: #fef4f4;
+    margin-bottom: 20px;
+}
+.mp-thumb{
+width:50%;
+    display: flex;
+    align-items: center;
+}
+.mp-inner{
+	width:50%;
+
+	padding-left:20px;
+}
+.mp-title h1{
+	    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.home .alm-reveal{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.home .alm-item{
+width: 31%;
+width: 31%;
+    margin: 1.15% !important;
+    position: relative;
+    border: 1px solid #e7e7e7;
+    background: white !important;
+    padding: 0 !important;
+		    display: flex;
+    flex-direction: column;
+}
+.home .alm-item-thumbnail{
+	width:100%;
+max-width:100%;
+	float:none;
+}
+.home .alm-item-thumbnail img{
+	width:100%;
+max-width:100%;
+	float:none;
+}
+.home .alm-item-content{
+		width:100%;
+max-width:100%;
+	float:none;
+	padding:10px 20px;
+}
+.home .alm-cwrap{
+	display:none;
+}
+
+#mainfeatured{
+	width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.mf-item{width:19%;}
+.mf-item:hover{
+background: #f1f1f1;
+}
+.mf-thumb{}
+.mf-thumb img{}
+.mf-title{}
+.mf-title h2{font-size:16px;
+    padding: 6px 4px;
+}
+
+.mfh-inner{    font-weight: normal;
+    color: white;
+    font-size: 12px;
+    margin: 0 0 10px 0;
+}
+.mfh-inner span{
+    background: #8a0b26;
+    padding: 4px 10px;
+    display: inline-block;
+}
+
+.mf-wrap{
+padding:30px 20px;
+	box-sizing: border-box;
+}
+
+@media(max-width:968px){
+	
+	#mainfeatured {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+	.mf-item {
+    width: 32%;
+    flex: 0 0 32%;
+    margin: 0.5%;
+}
+	
+	
+	
+}
+
+@media(max-width:768px){
+	#mainfeatured {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+	.mp-title h1{
+	    font-size: 1.5rem;
+}
+	.mf-item {
+
+    width: 100%;
+    flex: 0 0 100%;
+    text-align: center;
+}
+	.home .alm-reveal {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+	.home .alm-item {
+    width: 96%;
+    margin: 0 auto !important;
+    margin-bottom: 20px !important;
+}
+	
+	#main-post-published {
+    padding-bottom: 20px;
+		    flex-direction: column;
+}
+	.mp-thumb {
+    width: 100%;
+}
+	.mp-inner {
+    width: 100%;
+    padding: 0;
+}
+}
+
+/*Author Page*/
+.author-info {
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    display: flex;
+}
+.pp-wrap {
+    width: 30%;
+    background: #fff9f9;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pp-wrap img {
+    max-width: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 1px 17px #dedede;
+    border: 5px solid white;
+}
+.author-about {
+width: 70%;
+}
+.author-about dl {
+    padding: 0;
+    margin: 0;
+}
+.author-about dt, .af-title {
+    font-size: 13px;
+    line-height: 1.5;
+}
+.author-info dd {
+margin: 0 auto;
+    padding: 20px;
+}
+.author-follow {
+	
+    margin-top: 10px;
+}
+ul.af-list {
+    list-style: none;
+	margin: 0;
+}
+li.af-item {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+li.af-item span.holder {
+    max-width: 30px;
+    height: 30px;
+    display: block;
+    background: var(--wpr-bg-09bfd149-41ff-4c7e-8eab-51ca22a956b9) no-repeat;
+    border-radius: 50%;
+}
+.author-post-list h2 {
+    font-size: 13px !important;
+	margin-bottom: 10px;
+}
+.author-post-list ul {
+    list-style: none;
+	    margin: 0;
+}
+.author-post-list ul li {
+    line-height: 22px;
+    font-size: 14px;
+}
+
+.follow-linkedin {
+    background-position: -120px 0 !important;
+}
+
+@media(max-width:786px){
+
+	h1{
+		font-size:30px;
+	}
+		h2{
+		font-size:24px;
+	}
+			h3{
+		font-size:18px;
+	}
+				h4{
+		font-size:16px;
+	}
+					h5{
+		font-size:16px;
+	}
+/*.postinfowrap {
+    flex-direction: column;
+}
+	.ssep{
+		display:none;
+	}
+	.pinfo {
+    padding: 0 ;
+}*/
+}
+/*Slide Menu*/
+.simple-slideout-menu-panel>div {
+    height: auto !important;
+}
+.sm-top ul, .sm-bot ul{
+
+    margin: 0;
+    padding: 10px 0 0 10px;
+	
+}
+
+.sm-top ul li, .sm-bot ul li{
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+	line-height:2;
+	text-transform:uppercase;
+}
+
+.generate-back-to-top{
+	    z-index: 9999999999;
+}
+
+@media(max-width:1050px){
+	.inside-header.grid-container{
+		padding:0 20px;
+		    max-height: 50px;
+    overflow: hidden;
+	}
+}
+
+
+.one-container .site-content {
+    margin-bottom: 20px;
+    box-shadow: 1px 9px 10px #ececec;
+}
+
+.home .site-content {
+	box-shadow:none;
+}
+.page .entry-content {
+    padding-top: 10px;
+    margin-top: 0 !important;
+}
+
+@media(max-width:768px){
+	.archive.category .entry {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+	.archive.category .entry .column {
+    flex: 0 0 50%;
+    width: 100%;
+}
+	.cat-item {
+    font-size: 14px;
+}
+}
+
+
+.author-follow .follow-twitter {
+    background-position: -29px 0 !important;
+}
+.author-follow .follow-pinterest {
+    background-position: -60px 0 !important;
+}
+.author-follow .follow-insta {
+    background-position: -88px 0 !important;
+}
+.author-follow .follow-linkedin {
+    background-position: -120px 0 !important;
+}
+
+@media(max-width:768px){
+	.author-info{    flex-direction: column;}
+	.pp-wrap, .author-about{width:100%;}
+
+.author-about{
+	padding:10px 0;
+}
+
+.author-follow .follow-linkedin {
+    background-position: -122px 0 !important;
+}
+	.author-follow .follow-insta {
+    background-position: -91px 0 !important;
+}
+}
+@media(max-width:1024px){
+	.entry-content p {
+    margin-bottom: 20px;
+		line-height:1.8;
+		/**font-size:18px;**/
+		font-size:16px !important;
+}
+}
+
+.widget ul li {
+    margin-bottom: 1em;
+}
+
+@media(max-width:768px){
+	.site-header {
+    margin-bottom: 0;
+}
+	.one-container .site-content {
+    padding-top: 2px;
+}
+}
+
+.home	li.alm-item img{
+	width:100%;
+    height: 200px;
+    object-fit: cover;
+	  object-position: top center;
+}
+	
+.entry-summary{
+	display:none;
+}
+.taxonomy-description{
+	margin-bottom:30px;
+}
+/* MV CSS */ @media only screen and (min-width: 769px) { body.right-sidebar #right-sidebar { min-width: 300px !important; } body.right-sidebar #primary { max-width: calc(100% - 300px) !important; } } @media only screen and (max-width: 359px) { .site-content { padding-left: 10px !important; padding-right: 10px !important; } }
+
+.ynss-wrap{
+	max-width: 540px;
+}
+
+.error404 .sidebar #block-4{
+	display:none;
+}
+
+
+.site-header {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+}
+.one-container .container{
+	margin-top:80px;
+}
+
+@media(max-width:768px){
+.one-container .container{
+	margin-top: 40px;
+    padding-top: 20px;
+}
+	.site-header{
+		box-shadow: 0px 4px 8px #6b6b6b2b;
+	}
+}
+/*Simple Menu*/
+.simple-slideout-menu-panel{position:fixed;top:0;background:#eee;max-width:330px;width:90%;z-index:999999999;height:100vh;padding:40px 25px;overflow-y:auto;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-ms-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;-webkit-box-shadow:0 0 15px 0 rgba(0,0,0,.5);box-shadow:0 0 15px 0 rgba(0,0,0,.5)}.simple-slideout-menu-panel.left{left:-500px}.simple-slideout-menu-panel.right{right:-500px}.simple-slideout-menu-panel .simple-slideout-menu-close{position:absolute;top:15px;text-decoration:none;color:#000;margin:0;padding:0}.simple-slideout-menu-panel .simple-slideout-menu-close:hover{color:#bc0909}.simple-slideout-menu-panel .simple-slideout-menu-close .dashicons{font-size:30px;width:30px;height:30px;line-height:30px}.simple-slideout-menu-panel.left .simple-slideout-menu-close{right:20px}.simple-slideout-menu-panel.right .simple-slideout-menu-close{left:20px}.simple-slideout-menu-panel>div{width:100%;height:100%}.simple-slideout-menu-panel.open.left{left:0}.simple-slideout-menu-panel.open.right{right:0}a.active[data-trigger=simple-slideout] .dashicons-menu:before{content:"\f335"}.simple-slideout-menu-panel ul.slideout-menu{display:block;padding:0;padding-left:10px;padding-top:10px;margin:0}.simple-slideout-menu-panel ul.slideout-menu li{display:block;width:100%;margin:0;padding:0}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children{position:relative}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children>a:before{content:'+';position:absolute;right:0;top:0;font-size:1.2em}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children.open>a:before{content:'-'}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children button{background:0 0;padding:0;color:#000}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children button:hover{border:none}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children .sub-menu-toggle{position:absolute;right:0;top:0}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children .sub-menu-toggle .icon-minus{display:none}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children>ul.sub-menu{display:none;margin:0;padding-left:5px}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children.open>ul.sub-menu{display:block}.simple-slideout-menu-panel ul.slideout-menu li,.simple-slideout-menu-panel ul.slideout-menu{list:none;line-height:2em}.simple-slideout-menu-panel ul.slideout-menu li:marker{display:none}.simple-slideout-menu-panel ul.slideout-menu a{text-decoration:none;line-height:2em;display:block;text-transform:uppercase;color:#868080;font-weight:800;font-size:20px}.simple-slideout-menu-panel ul.slideout-menu a:hover{color:#000}
+
+
+/**header search**/
+.hsearch #sb-search {
+	margin: 5px auto 4px;
+}
+#hswrap{
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 60px;
+    position: fixed;
+    background: #680f35;
+    z-index: 999999;
+}
+.hsearch{
+	margin: 0 auto;
+    max-width: 1180px;
+    color: white;
+}
+
+#toggle{
+	width: 17px;
+    height: 17px;
+
+ 
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#toggle.tloupe{
+width: 38px;
+    height: 38px;
+    margin-right: 15px;
+    margin-top: -10px;
+    background: var(--wpr-bg-c60b3792-487c-4243-a2a4-0f50674012c3) no-repeat;
+    background-size: contain;
+    background-size: 17px 17px;
+    background-position: 10px 11px;
+
+}
+
+#toggle.tclose{
+
+    margin-top: -8px;
+    background: var(--wpr-bg-a572f4aa-2138-4444-8225-f01a4a5e5f9b) no-repeat;
+    width: 43px;
+    height: 29px;
+    background-size: 17px 17px;
+    background-position: 10px 11px;
+
+}
+
+@media(max-width:768px){
+	#hswrap{
+		margin-top: 45px;
+	}
+	.hsearch #sb-search {
+	max-width:95%;
+}
+}
+
+.affiliate-disclosure a,
+.entry-content a
+{
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#af-submit-image-672746640.awbtn{
+	letter-spacing: 1px !important;
+    font-weight: normal !important;
+    text-transform: uppercase !important;
+}
+.awa {
+letter-spacing: 0.5px !important;
+}
+
+#morecats a{
+	text-decoration:underline;
+	font-size:12px;
+	font-weight:900;
+}
+.af-body input.text::placeholder{
+	color:black;
+	font-size:13px;
+	letter-spacing:1px;
+}
+#af-submit-image-672746640.awsubmit{
+	font-weight:700 !important;
+	text-decoration:underline !important;
+	background-color:#8a0b26 !important;
+}
+@media(max-width:768px){
+.single .inside-right-sidebar{
+	display:none;
+}
+}
+
+/*infinity homepage fix*/
+ul.alm-listing {
+	display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+
+.hiwrap	nav a{
+	    background-position: 20px 20px;
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 60px;
+	}
+	
+
+.dashicons, .dashicons-before:before {
+    top: 16px;
+    left: 16px;
+    position: relative;
+}
+
+/*Pure CSS Toggle Menu*/
+.ynmenu {
+opacity:0;
+margin: 0 auto;
+    width: 100%;
+    position: fixed;
+    background: #680f35;
+    z-index: 999999;
+    left: 0;
+	display:none;
+	
+}
+
+
+#ynstoggle {
+  position:absolute;
+  appearance:none;
+  cursor:pointer;
+  left:-100%;
+  top:-100%;
+}
+
+#ynstoggle + label {
+    width: 60px;
+    height: 60px;
+	display:block;
+	cursor:pointer;
+}
+#ynstoggle + label:after {
+    content: "";
+    width: 60px;
+    height: 60px;
+    margin-top: 0px;
+    background: var(--wpr-bg-7bbdfc9a-f65c-4791-b6f7-562282658d1a) no-repeat;
+    background-size: contain;
+    background-size: 17px 17px;
+    background-position: 20px 20px;
+    position: relative;
+    display: block;
+}
+
+
+#ynstoggle:checked ~ .ynmenu {
+	display:block;
+  opacity:1;
+}
+
+
+#ynstoggle:checked + label {
+   
+}
+
+#ynstoggle:checked + label:after {
+content: "";
+width: 60px;
+    height: 60px;
+    margin-top: 0px;
+    background: var(--wpr-bg-bfbc496d-82ae-40f7-9062-c36d333147fa) no-repeat;
+    background-size: contain;
+    background-size: 17px 17px;
+    background-position: 20px 20px;
+    position: relative;
+	display: block;
+}
+#xhswrap{
+margin-top: -6px !important;
+    margin: 0 auto;
+    width: 100%;
+    position: fixed;
+    background: #680f35;
+    z-index: 999999;
+    left: 0;
+}
+
+@media(max-width:1150px){
+	#primary-menu{
+	display:none;	
+	}
+}
+
+
+/*Pure CSS slide menu*/
+/* -- main content -- */
+.content-container {
+  position: relative;
+  z-index: 0;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+}
+
+.site-title {
+  text-align: center;
+  border-bottom: 1px solid #111111;
+  margin-bottom: 24px;
+}
+
+.site-title h1 {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+.content p {
+  line-height: 1.6em;
+  margin-bottom: 24px;
+}
+
+/* -- Slideout Sidebar -- */
+
+.slideout-sidebar {
+position: fixed;
+    top: 0;
+    right: -330px;
+    z-index: 2;
+    width: 150px;
+    height: 100%;
+    padding: 20px;
+    background-color: #89a4ab;
+    transition: all 300ms ease-in-out;
+    padding-top: 40px;
+    background: #eee;
+    max-width: 330px;
+    width: 90%;
+    z-index: 999999;
+    -webkit-box-shadow: 0 0 15px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 0 15px 0 rgba(0,0,0,0.12);
+}
+
+.slideout-sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.slideout-sidebar ul li {
+  cursor: pointer;
+  border-bottom: 1px solid rgba(244,244,244,0.4);
+  color: rgba(244,244,244,0.7);
+}
+
+.slideout-sidebar ul li:last-child {
+  border-bottom: 0;
+}
+
+.slideout-sidebar ul li:hover {
+  color: rgba(244,244,244,1);
+}
+
+/* -- Menu Icon -- */
+
+.menu-toggle {
+  display: none;
+}
+
+.menu-icon {
+  position: relative;
+    width: 50px;
+    height: 60px;
+    cursor: pointer;
+  font-size: 24px;
+  z-index: 1;
+  transition: all 300ms ease-in-out;
+  display:block;
+
+}
+
+
+
+/*-- The Magic --*/
+.menu-toggle:checked ~ .slideout-sidebar {
+  right: 0px;
+}
+
+.menu-toggle:checked + .menu-icon {
+  /*left: 210px;*/
+}
+
+.menu-toggle:checked ~ .content-container {
+
+}
+
+/* -- Media Queries -- */
+
+@media (max-width: 991px) {
+  
+  .content-container {
+    max-width: 480px;
+  }
+  
+}
+
+
+  .menu-toggle-hide:checked ~ .slideout-sidebar {
+    width: 0%;
+	 right: -190px;
+  }
+  
+  .menu-toggle-hide:checked + .menu-icon {
+   
+    color: #fafafa;
+  }
+  
+  
+
+
+
+
+.menu-toggle + .menu-icon:before{
+	display:block;
+	content:"";
+	background:var(--wpr-bg-a8229e07-dc39-422a-9508-f2491e3ee646) no-repeat;
+	width: 17px;
+    height: 17px;
+    display: block;
+    cursor: pointer;
+	background-size:contain;
+	
+  	    position: relative;
+    top: 21.5px;
+    left: 21.5px;
+}
+
+.menu-icon{
+	width:60px;
+	height:60px;
+	cursor:pointer;
+
+}
+.menu-toggle:checked + .menu-icon:before{
+	display:block;
+	content:"";
+	background:var(--wpr-bg-33a69a2f-13ad-4844-a907-a2275a143dea) no-repeat;
+	width: 17px;
+    height: 17px;
+    display: block;
+    cursor: pointer;
+	background-size:contain;
+	  	    position: relative;
+    top: 21.5px;
+    left: 21.5px;
+
+}
+
+
+.menu-icon.tog2:before{
+
+	display:block;
+	content:"";
+	background:var(--wpr-bg-400bb9ac-f9db-427f-8167-0ef5a23f5bc7) no-repeat;
+	width: 17px;
+    height: 17px;
+    display: block;
+    cursor: pointer;
+	background-size:contain;
+	top:6.6px;
+	left:6.6px;
+}
+
+
+.menu-icon.tog2{
+	width:30px;
+	height:30px;
+	cursor:pointer;
+	top: 0;
+    left: 0;
+	margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.slideout-sidebar .widget ul li{
+	margin-bottom:0;
+}
+
+.hiwrap nav .slideout-sidebar  a{
+	display: initial !important;
+	
+}
+
+.entry-content img{
+	width:initial;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">.rll-youtube-player .play{--wpr-bg-64de9b17-624e-4b6e-ba43-5969113d7855: url('https://www.yournextshoes.com/wp-content/plugins/wp-rocket/assets/img/youtube.png');}.dashicons-menu:before{--wpr-bg-a4a207fb-f2fd-428a-8536-1d55283b1cbb: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/menu-icon.png');}.active .dashicons-menu:before{--wpr-bg-c924bf5d-020b-4ca9-a0dd-4bd4ab13eb75: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}li.af-item span.holder{--wpr-bg-09bfd149-41ff-4c7e-8eab-51ca22a956b9: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/yns-followus-au30.jpg');}#toggle.tloupe{--wpr-bg-c60b3792-487c-4243-a2a4-0f50674012c3: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/loupe.png');}#toggle.tclose{--wpr-bg-a572f4aa-2138-4444-8225-f01a4a5e5f9b: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}label:after{--wpr-bg-7bbdfc9a-f65c-4791-b6f7-562282658d1a: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/loupe.png');}label:after{--wpr-bg-bfbc496d-82ae-40f7-9062-c36d333147fa: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}.menu-icon:before{--wpr-bg-a8229e07-dc39-422a-9508-f2491e3ee646: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/menu-icon.png');}.menu-icon:before{--wpr-bg-33a69a2f-13ad-4844-a907-a2275a143dea: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}.menu-icon.tog2:before{--wpr-bg-400bb9ac-f9db-427f-8167-0ef5a23f5bc7: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}#followus li span.holder{--wpr-bg-534be392-065b-40b3-939a-c7605a0f4ec2: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/yns-followus-au30.jpg');}.alm-btn-wrap .alm-load-more-btn.loading:before{--wpr-bg-6eb79941-27e8-4d6f-95e3-a787c8270594: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader.gif');}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:before,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus:before{--wpr-bg-ca0fd618-0c33-4b03-a238-fe5c8230ab8c: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader-lg.gif');}.ajax-load-more-wrap.white .alm-load-more-btn.loading:before{--wpr-bg-b74b2c52-c643-4a22-af93-c0b374b66add: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader-lg.gif');}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading:before{--wpr-bg-1fbf660c-b397-44ee-89df-8744416c4868: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader-lg.gif');}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-cefdd2e9-7b15-4bfa-a240-26555fea4f44: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner.gif');}.ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-8338cb92-c043-4709-b82a-dfa012824111: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-skype.gif');}.ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-4cff0fd3-62dc-47bd-b999-f340b6bd26e2: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-ring.gif');}.ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-f0c902ac-197f-4ffd-97b2-ce2fbabb2a9c: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/loader-fading-blocks.gif');}.ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-a074f6d2-c6b9-4c8a-8b2b-91092c286796: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/loader-fading-circles.gif');}.ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-b1be6230-2b8e-4556-a824-1f0126222d49: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-chasing-arrows.gif');}.alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading:before{--wpr-bg-3b2a4323-8bf8-4729-8b8c-7b77c3872ec8: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-skype.gif');}.alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading:before{--wpr-bg-1c851098-1f31-4e6c-89df-8cef7ab8e3a7: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-ring.gif');}.alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading:before{--wpr-bg-642e7d56-9936-47dc-9303-af896453dff9: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/loader-fading-blocks.gif');}.alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading:before{--wpr-bg-1818f4bd-42d3-481e-b49a-4dae411383af: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-chasing-arrows.gif');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":".rll-youtube-player .play","style":".rll-youtube-player .play{--wpr-bg-64de9b17-624e-4b6e-ba43-5969113d7855: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"64de9b17-624e-4b6e-ba43-5969113d7855","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png"},{"selector":".dashicons-menu","style":".dashicons-menu:before{--wpr-bg-a4a207fb-f2fd-428a-8536-1d55283b1cbb: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/menu-icon.png');}","hash":"a4a207fb-f2fd-428a-8536-1d55283b1cbb","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/menu-icon.png"},{"selector":".active .dashicons-menu","style":".active .dashicons-menu:before{--wpr-bg-c924bf5d-020b-4ca9-a0dd-4bd4ab13eb75: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"c924bf5d-020b-4ca9-a0dd-4bd4ab13eb75","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png"},{"selector":"li.af-item span.holder","style":"li.af-item span.holder{--wpr-bg-09bfd149-41ff-4c7e-8eab-51ca22a956b9: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/yns-followus-au30.jpg');}","hash":"09bfd149-41ff-4c7e-8eab-51ca22a956b9","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/yns-followus-au30.jpg"},{"selector":"#toggle.tloupe","style":"#toggle.tloupe{--wpr-bg-c60b3792-487c-4243-a2a4-0f50674012c3: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/loupe.png');}","hash":"c60b3792-487c-4243-a2a4-0f50674012c3","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/loupe.png"},{"selector":"#toggle.tclose","style":"#toggle.tclose{--wpr-bg-a572f4aa-2138-4444-8225-f01a4a5e5f9b: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"a572f4aa-2138-4444-8225-f01a4a5e5f9b","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png"},{"selector":"label","style":"label:after{--wpr-bg-7bbdfc9a-f65c-4791-b6f7-562282658d1a: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/loupe.png');}","hash":"7bbdfc9a-f65c-4791-b6f7-562282658d1a","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/loupe.png"},{"selector":"label","style":"label:after{--wpr-bg-bfbc496d-82ae-40f7-9062-c36d333147fa: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"bfbc496d-82ae-40f7-9062-c36d333147fa","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png"},{"selector":".menu-icon","style":".menu-icon:before{--wpr-bg-a8229e07-dc39-422a-9508-f2491e3ee646: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/menu-icon.png');}","hash":"a8229e07-dc39-422a-9508-f2491e3ee646","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/menu-icon.png"},{"selector":".menu-icon","style":".menu-icon:before{--wpr-bg-33a69a2f-13ad-4844-a907-a2275a143dea: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"33a69a2f-13ad-4844-a907-a2275a143dea","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png"},{"selector":".menu-icon.tog2","style":".menu-icon.tog2:before{--wpr-bg-400bb9ac-f9db-427f-8167-0ef5a23f5bc7: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"400bb9ac-f9db-427f-8167-0ef5a23f5bc7","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png"},{"selector":"#followus li span.holder","style":"#followus li span.holder{--wpr-bg-534be392-065b-40b3-939a-c7605a0f4ec2: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/yns-followus-au30.jpg');}","hash":"534be392-065b-40b3-939a-c7605a0f4ec2","url":"https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/yns-followus-au30.jpg"},{"selector":".alm-btn-wrap .alm-load-more-btn.loading","style":".alm-btn-wrap .alm-load-more-btn.loading:before{--wpr-bg-6eb79941-27e8-4d6f-95e3-a787c8270594: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader.gif');}","hash":"6eb79941-27e8-4d6f-95e3-a787c8270594","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader.gif"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.loading","style":".alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:before,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus:before{--wpr-bg-ca0fd618-0c33-4b03-a238-fe5c8230ab8c: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif');}","hash":"ca0fd618-0c33-4b03-a238-fe5c8230ab8c","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif"},{"selector":".ajax-load-more-wrap.white .alm-load-more-btn.loading","style":".ajax-load-more-wrap.white .alm-load-more-btn.loading:before{--wpr-bg-b74b2c52-c643-4a22-af93-c0b374b66add: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif');}","hash":"b74b2c52-c643-4a22-af93-c0b374b66add","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif"},{"selector":".ajax-load-more-wrap.light-grey .alm-load-more-btn.loading","style":".ajax-load-more-wrap.light-grey .alm-load-more-btn.loading:before{--wpr-bg-1fbf660c-b397-44ee-89df-8744416c4868: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif');}","hash":"1fbf660c-b397-44ee-89df-8744416c4868","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif"},{"selector":".ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn","style":".ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-cefdd2e9-7b15-4bfa-a240-26555fea4f44: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner.gif');}","hash":"cefdd2e9-7b15-4bfa-a240-26555fea4f44","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner.gif"},{"selector":".ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn","style":".ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-8338cb92-c043-4709-b82a-dfa012824111: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-skype.gif');}","hash":"8338cb92-c043-4709-b82a-dfa012824111","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-skype.gif"},{"selector":".ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn","style":".ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-4cff0fd3-62dc-47bd-b999-f340b6bd26e2: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-ring.gif');}","hash":"4cff0fd3-62dc-47bd-b999-f340b6bd26e2","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-ring.gif"},{"selector":".ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn","style":".ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-f0c902ac-197f-4ffd-97b2-ce2fbabb2a9c: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-blocks.gif');}","hash":"f0c902ac-197f-4ffd-97b2-ce2fbabb2a9c","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-blocks.gif"},{"selector":".ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn","style":".ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-a074f6d2-c6b9-4c8a-8b2b-91092c286796: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-circles.gif');}","hash":"a074f6d2-c6b9-4c8a-8b2b-91092c286796","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-circles.gif"},{"selector":".ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn","style":".ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn{--wpr-bg-b1be6230-2b8e-4556-a824-1f0126222d49: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-chasing-arrows.gif');}","hash":"b1be6230-2b8e-4556-a824-1f0126222d49","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-chasing-arrows.gif"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading","style":".alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading:before{--wpr-bg-3b2a4323-8bf8-4729-8b8c-7b77c3872ec8: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-skype.gif');}","hash":"3b2a4323-8bf8-4729-8b8c-7b77c3872ec8","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-skype.gif"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading","style":".alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading:before{--wpr-bg-1c851098-1f31-4e6c-89df-8cef7ab8e3a7: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-ring.gif');}","hash":"1c851098-1f31-4e6c-89df-8cef7ab8e3a7","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-ring.gif"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading","style":".alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading:before{--wpr-bg-642e7d56-9936-47dc-9303-af896453dff9: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-blocks.gif');}","hash":"642e7d56-9936-47dc-9303-af896453dff9","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-blocks.gif"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading","style":".alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading:before{--wpr-bg-1818f4bd-42d3-481e-b49a-4dae411383af: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-chasing-arrows.gif');}","hash":"1818f4bd-42d3-481e-b49a-4dae411383af","url":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-chasing-arrows.gif"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.18.3" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_oci wpr_image_dimensions wpr_minify_css wpr_desktop" /></head>
+
+<body class="home page-template page-template-home-template page-template-home-template-php page page-id-404650 wp-custom-logo wp-embed-responsive post-image-aligned-center sticky-menu-fade no-sidebar nav-float-right one-container header-aligned-left dropdown-hover contained-content" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<div  class="top-bar top-bar-align-right">
+			<div  class="inside-top-bar grid-container">
+				<aside id="text-55" class="widget inner-padding widget_text">			<div class="textwidget"><script type="rocketlazyloadscript" data-rocket-src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&storeId=janhoo&adInstanceId=7dfa9519-378a-411f-a42c-4f02b3a4bf57" data-rocket-defer defer></script></div>
+		</aside>			</div>
+		</div>
+			<style>
+		#hswrap{
+			
+		}
+		.hidesearch{
+			display:none;
+		}
+		.showsearch{
+			display:block;
+		}
+		</style>
+	
+	<div  id="hswrap" class="hidesearch" style="display:none !important ;"> 
+		<div  class="hsearch">
+<form action="https://www.yournextshoes.com/yns.php" method="post" id="sb-search">
+<input type="text" name="search" placeholder="Search..." id="yns-gsearch">
+<input type="submit" id="yg-submit">
+</form>
+		</div>
+		
+	</div>
+	
+	
+	  
+	
+			<header class="site-header has-inline-mobile-toggle" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div  class="inside-header grid-container">
+				<div  class="site-logo">
+					<a href="https://www.yournextshoes.com/" rel="home">
+						<img  class="header-image is-logo-image" alt="Your Next Shoes" src="https://www.yournextshoes.com/wp-content/uploads/2023/10/your-next-shoes.png" width="500" height="75" />
+					</a>
+				</div>	<nav class="main-navigation mobile-menu-control-wrapper" id="mobile-menu-control-wrapper" aria-label="Mobile Toggle">
+				<button data-nav="site-navigation" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+			<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menu</span>		</button>
+	</nav>
+			<nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Primary"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container">
+								<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-top-menu" class=" menu sf-menu"><li id="menu-item-98684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98684"><a href="https://www.yournextshoes.com/brands/">Brands and Designers</a></li>
+<li id="menu-item-98688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98688"><a href="https://www.yournextshoes.com/styles/">Must-Have Shoe Styles</a></li>
+<li id="menu-item-98698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98698"><a href="https://www.yournextshoes.com/celebrities/">Celebrity Fashion</a></li>
+<li id="menu-item-98687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98687"><a href="https://www.yournextshoes.com/shoes-buying-guide/">Style and Shopping Guides</a></li>
+</ul></div>			</div>
+		</nav>
+					<div  class="header-widget">
+				<aside id="block-6" class="widget inner-padding widget_block"><div class="hiwrap" style="display:flex;">
+<div id="toggle" class="tloupe" style="display:none !important;"></div>
+<div class="nsearch">
+  <input type="checkbox" name="ynstoggle" id="ynstoggle" />
+<label for="ynstoggle"></label>
+
+<div class="ynmenu">
+		<div id="xhswrap" class="xshowsearch">
+		<div class="hsearch">
+			<form action="https://www.yournextshoes.com/yns.php" method="post" id="sb-search">
+			<input type="text" name="search" placeholder="Search..." id="yns-gsearch">
+			<input type="submit" id="yg-submit">
+			</form>
+		</div>
+	</div>
+</div>
+	
+  
+</div>
+
+<nav role="navigation">
+
+
+
+<input type="checkbox" id="menu-toggle" class="menu-toggle"/>
+<label for="menu-toggle" class="menu-icon" ><i class="fars" ></i></label>
+
+<!--pure css-->
+<div class="slideout-sidebar" >
+
+<input type="checkbox" id="menu-toggle" class="menu-toggle"/>
+<label for="menu-toggle" class="menu-icon  tog2"><i class="fars"></i></label>
+
+<div class="sm-top"><ul id="menu-slider-menu-top" class="menu"><li id="menu-item-404667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404667"><a href="https://www.yournextshoes.com/celebrities/">Celebrities</a></li>
+<li id="menu-item-404668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404668"><a href="https://www.yournextshoes.com/brands/">Brands</a></li>
+<li id="menu-item-406184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406184"><a href="https://www.yournextshoes.com/entertainment-news/">Movies and TV Highlights</a></li>
+<li id="menu-item-405519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405519"><a href="/styles/shoe-accessories/">Shoe Accessories</a></li>
+<li id="menu-item-404670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404670"><a href="/shoes-buying-guide/">Shopping Guide</a></li>
+<li id="menu-item-404669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404669"><a href="https://www.yournextshoes.com/styles/">Styles</a></li>
+</ul></div>
+<aside id="block-5" class="widget inner-padding widget_block"><style>
+/******FOLLOWUS*********/
+#followus{list-style:none;}
+#followus li{width:30px;float:left;margin-right: 5px;}
+#followus li span.holder{    max-width: 30px;
+    height: 30px;
+    display: block;
+	background: var(--wpr-bg-534be392-065b-40b3-939a-c7605a0f4ec2) no-repeat;
+	}
+	
+	.follow-fb{}
+	.follow-twitter{background-position:-30px 0 !important;}
+	.follow-pinterest{background-position:-60px 0  !important;}
+	.follow-insta{background-position:-90px 0  !important;}
+/*****************/
+</style>
+<div class="side-subs-wrap">
+<ul id="followus" class="followus">
+<li><a href="https://www.facebook.com/yournextshoes/" title="Facebook"><span class="holder follow-fb"></span></a></li>
+<li><a href="https://twitter.com/yournextshoes" title="Twitter"><span class="holder follow-twitter"></span></a></li>
+<li><a href="https://www.pinterest.com/yournextshoes/" title="Pinterest"><span class="holder follow-pinterest"></span></a></li>
+<li><a href="https://www.instagram.com/yournextshoes/" title="Instagram"><span class="holder follow-insta"></span></a></li>
+</ul>
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+</aside>
+<div class="sm-bot"><ul id="menu-slide-menu-bottom" class="menu"><li id="menu-item-404671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404671"><a href="https://www.yournextshoes.com/about/">About Us</a></li>
+<li id="menu-item-404672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404672"><a href="https://www.yournextshoes.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-404673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404673"><a href="https://www.yournextshoes.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-404674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404674"><a href="https://www.yournextshoes.com/subscribe/">Subscribe</a></li>
+</ul></div>
+  
+</div>
+<!--end pure css-->
+
+</nav>
+</div></aside>			</div>
+						</div>
+		</header>
+		
+	<div  class="site grid-container container hfeed" id="page">
+				<div  class="site-content" id="content">
+			
+	<div  class="content-area" id="primary">
+		<main class="site-main" id="main">
+			             
+            <div id="main-post-published">
+           
+          
+                      <div class="mp-thumb">
+                                <a href="https://www.yournextshoes.com/blake-lively-anna-kendrick-black-red-another-simple-favor-london/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Blake Lively Effortlessly Towers Over Anna Kendrick in Striking Black and Red Looks at Another Simple Favor London Tour" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Blake-Lively-Anna-Kendrick-black-red-dresses-heels-Another-Simple-Favor.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Blake-Lively-Anna-Kendrick-black-red-dresses-heels-Another-Simple-Favor.jpg" alt="Blake Lively Effortlessly Towers Over Anna Kendrick in Striking Black and Red Looks at Another Simple Favor London Tour"></noscript></a>
+            </div>
+            
+             <div class="mp-inner">
+				 <div class="mp-title"><h1><a href="https://www.yournextshoes.com/blake-lively-anna-kendrick-black-red-another-simple-favor-london/">Blake Lively Effortlessly Towers Over Anna Kendrick in Striking Black and Red Looks at Another Simple Favor London Tour</a></h1>
+            </div>
+            
+
+            
+            <div class="mp-excerpt">
+               After sparking feud rumors in 2018, Blake Lively and Anna Kendrick recently reunited at the London special screening and photocall for their upcoming movie, Another Simple Favor. The actresses showcased their contrasting yet elegant styles, wearing red and black outfits...            </div>
+            </div>
+            
+            </div>
+            
+			 			
+			
+	
+			
+			
+			
+			
+			
+			
+<div class="mf-wrap">			
+<div class="mf-htitle">
+    <div class="mfh-inner"><span>SHOE SHOPPING GUIDE</span></div>
+</div>
+    <div id="mainfeatured">
+         <div class="mf-item">
+             <div class="mf-thumb">
+                <a href="https://www.yournextshoes.com/mytheresa-designer-shoes/"><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/08/Mytheresa-discount-codes.jpg"></a>
+             </div>
+             <div class="mf-title">
+                 <a href="https://www.yournextshoes.com/mytheresa-designer-shoes/"><h2>Get Mytheresa Promo Codes, Free Returns & Exchanges on Women’s Shoes</h2></a>
+             </div>
+         </div>
+         
+         <div class="mf-item">
+             <div class="mf-thumb">
+                 <a href="https://www.yournextshoes.com/nordstrom/">
+                     <img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2021/08/Kenley-Sandal-Steve-Madden-Yellow-featured.jpg">
+                 </a>
+             </div>
+             <div class="mf-title">
+                <a href="https://www.yournextshoes.com/nordstrom/"><h2>Nordstrom’s 22 Best Women’s High Heels and Shoes</h2></a>
+             </div>
+         </div>
+         
+         <div class="mf-item">
+             <div class="mf-thumb">
+                 <a href="https://www.yournextshoes.com/ssense-shipping-return-policy/">
+                     <img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2020/05/Ssense-fashion-magazine-featured.jpg">
+                 </a>
+             </div>
+             <div class="mf-title">
+                <a href="https://www.yournextshoes.com/ssense-shipping-return-policy/"><h2>SSENSE Shipping and Return Policies: Everything You Need to Know</h2></a>
+             </div>
+         </div>
+         
+         <div class="mf-item">
+             <div class="mf-thumb">
+                 <a href="https://www.yournextshoes.com/farfetch-legit-luxury-fashion/">
+                     <img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2023/09/buying-at-Farfetch.jpg">
+                 </a>
+             </div>
+             <div class="mf-title">
+                <a href="https://www.yournextshoes.com/farfetch-legit-luxury-fashion/"><h2>Is Farfetch Legit? The Ultimate Guide to Buying Luxury Fashion Online</h2></a>
+             </div>
+         </div>
+         
+         <div class="mf-item">
+             <div class="mf-thumb">
+                 <a href="https://www.yournextshoes.com/luisaviaroma/">
+                     <img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2023/07/Luisaviaroma-Andrea-Panconesi.jpg">
+                 </a>
+             </div>
+             <div class="mf-title">
+                <a href="https://www.yournextshoes.com/luisaviaroma/"><h2>Luisaviaroma: Shop the World’s Best Luxury Brands Online</h2></a>
+             </div>
+         </div>
+         
+         
+    </div>
+     </div>
+	
+			
+<style>
+	.latest-posts-wrap{
+		display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	}
+	.lp-item{
+		width: 31%;
+    margin: 1.15% !important;
+    position: relative;
+    border: 1px solid #e7e7e7;
+    background: white !important;
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+	}
+	.lp-thumb{
+		
+	}
+	.lp-thumb img{
+		    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: top center;
+	}
+	.lp-inner{
+		
+		width: 100%;
+    max-width: 100%;
+    float: none;
+    padding: 10px 20px;
+	}
+	.lp-title h3, .lp-title h2{
+		margin-bottom: 20px;
+    line-height: 1.2em;
+    font-weight: 400;
+    text-transform: none;
+    font-size: 20px;
+	}
+	
+	@media (max-width: 768px){
+.latest-posts-wrap {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+	}
+	
+	@media (max-width: 768px){
+		.lp-item {
+			width: 96%;
+			margin: 0 auto !important;
+			margin-bottom: 20px !important;
+		}
+	}
+</style>	
+			
+<div class="latest-posts-wrap" >
+	             
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/heidi-klum-monochromatic-dresses-heels-project-runway-21/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Heidi Klum Slays in Monochrome Designer Dresses and Heels for Project Runway Season 21" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Heidi-Klum-gray-LaPointe-feather-dress-black-pumps-pink-ruffle-chiffon-dress-burgundy-boots.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Heidi-Klum-gray-LaPointe-feather-dress-black-pumps-pink-ruffle-chiffon-dress-burgundy-boots.jpg" alt="Heidi Klum Slays in Monochrome Designer Dresses and Heels for Project Runway Season 21"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/heidi-klum-monochromatic-dresses-heels-project-runway-21/">Heidi Klum Slays in Monochrome Designer Dresses and Heels for Project Runway Season 21</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/maggie-grace-height-shoe-size/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="From Clear Pumps to Platform Oxfords: Maggie Grace’s Signature Shoe Moments" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2013/01/Matthew-Cooke-and-Maggie-Grace-2.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2013/01/Matthew-Cooke-and-Maggie-Grace-2.jpg" alt="From Clear Pumps to Platform Oxfords: Maggie Grace’s Signature Shoe Moments"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/maggie-grace-height-shoe-size/">From Clear Pumps to Platform Oxfords: Maggie Grace’s Signature Shoe Moments</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/jodie-turner-smith-farmers-market-burberry-bucket-hat-sneakers/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Jodie Turner-Smith Demos the Coolest and Comfiest Farmers Market ‘Fit With Burberry Bucket Hat and Kicks" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Jodie-Turner-Smith-Farmers-Market-clothes-bucket-hat-crop-tank-top-baggy-pants.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Jodie-Turner-Smith-Farmers-Market-clothes-bucket-hat-crop-tank-top-baggy-pants.jpg" alt="Jodie Turner-Smith Demos the Coolest and Comfiest Farmers Market ‘Fit With Burberry Bucket Hat and Kicks"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/jodie-turner-smith-farmers-market-burberry-bucket-hat-sneakers/">Jodie Turner-Smith Demos the Coolest and Comfiest Farmers Market ‘Fit With Burberry Bucket Hat and Kicks</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/celebrity-festival-shoes-revolve-festival-2025/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Celebrities Who Nailed Festival Footwear at Revolve 2025: 6 Unforgettable Shoe Moments" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/revolve-coachella-festival-outfits-boots-sandals.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/revolve-coachella-festival-outfits-boots-sandals.jpg" alt="Celebrities Who Nailed Festival Footwear at Revolve 2025: 6 Unforgettable Shoe Moments"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/celebrity-festival-shoes-revolve-festival-2025/">Celebrities Who Nailed Festival Footwear at Revolve 2025: 6 Unforgettable Shoe Moments</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/iconic-shoes-2025-fashion-trust-awards/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="From PVC to Crystals: The Most Iconic Shoes at the 2025 Fashion Trust U.S. Awards" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/celebrity-shoes-at-Fashion-Trust-US-Awards-2025.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/celebrity-shoes-at-Fashion-Trust-US-Awards-2025.jpg" alt="From PVC to Crystals: The Most Iconic Shoes at the 2025 Fashion Trust U.S. Awards"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/iconic-shoes-2025-fashion-trust-awards/">From PVC to Crystals: The Most Iconic Shoes at the 2025 Fashion Trust U.S. Awards</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/breakthrough-prize-ceremony-2025-shoes-heels/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Breakthrough Prize 2025 Shoe Roundup: Olivia Wilde, Jessica Chastain, Kate Hudson &#038; More Rock the Red Carpet" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/celebrities-shoes-dresses-Breakthrough-Prize-2025.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/celebrities-shoes-dresses-Breakthrough-Prize-2025.jpg" alt="Breakthrough Prize 2025 Shoe Roundup: Olivia Wilde, Jessica Chastain, Kate Hudson &#038; More Rock the Red Carpet"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/breakthrough-prize-ceremony-2025-shoes-heels/">Breakthrough Prize 2025 Shoe Roundup: Olivia Wilde, Jessica Chastain, Kate Hudson &#038; More Rock the Red Carpet</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/ana-de-armas-cinemacon-rodarte-aquazzura-heels/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="CinemaCon’s Action Star of the Year Ana de Armas Shines in Rodarte Floral Gown and Crystal-Embellished Aquazzura Heels" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Ana-de-Armas-Rodarte-beige-tulle-floral-dress-Aquazzura-crystal-heels-CinemaCon-2025.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Ana-de-Armas-Rodarte-beige-tulle-floral-dress-Aquazzura-crystal-heels-CinemaCon-2025.jpg" alt="CinemaCon’s Action Star of the Year Ana de Armas Shines in Rodarte Floral Gown and Crystal-Embellished Aquazzura Heels"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/ana-de-armas-cinemacon-rodarte-aquazzura-heels/">CinemaCon’s Action Star of the Year Ana de Armas Shines in Rodarte Floral Gown and Crystal-Embellished Aquazzura Heels</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/kaia-gerber-cindy-crawford-black-dresses-heels-broadway/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="LBD Showdown: Kaia Gerber and Cindy Crawford Serve Sleek Black Dresses and Killer Heels at Broadway Premiere" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Kaia-Gerber-Cindy-Crawford-LBDs-heels-Good-Night-and-Good-Luck.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2025/04/Kaia-Gerber-Cindy-Crawford-LBDs-heels-Good-Night-and-Good-Luck.jpg" alt="LBD Showdown: Kaia Gerber and Cindy Crawford Serve Sleek Black Dresses and Killer Heels at Broadway Premiere"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/kaia-gerber-cindy-crawford-black-dresses-heels-broadway/">LBD Showdown: Kaia Gerber and Cindy Crawford Serve Sleek Black Dresses and Killer Heels at Broadway Premiere</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/georgia-may-jagger-height-shoe-size/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="From Rock Royalty to Runway: Georgia May Jagger’s Height and Iconic Shoes" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2014/06/Georgia-May-Jagger.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2014/06/Georgia-May-Jagger.jpg" alt="From Rock Royalty to Runway: Georgia May Jagger’s Height and Iconic Shoes"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/georgia-may-jagger-height-shoe-size/">From Rock Royalty to Runway: Georgia May Jagger’s Height and Iconic Shoes</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/rachel-mcadams-height-shoe-size/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Rachel McAdams’ Shoe Size, Height, and Best High Heel Looks Revealed" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2012/02/Rachel-McAdams-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2012/02/Rachel-McAdams-featured.jpg" alt="Rachel McAdams’ Shoe Size, Height, and Best High Heel Looks Revealed"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/rachel-mcadams-height-shoe-size/">Rachel McAdams’ Shoe Size, Height, and Best High Heel Looks Revealed</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/lauren-conrad-height-shoe-size/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="The Truth About Lauren Conrad’s Height—and the Heels She Wears to Elevate It" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2013/06/lauren-conrad-infamous-book-signing-in-LA-2-1.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2013/06/lauren-conrad-infamous-book-signing-in-LA-2-1.jpg" alt="The Truth About Lauren Conrad’s Height—and the Heels She Wears to Elevate It"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/lauren-conrad-height-shoe-size/">The Truth About Lauren Conrad’s Height—and the Heels She Wears to Elevate It</a></h2></div>
+				</div>
+            
+            </div>
+                        
+            <div class="lp-item">
+           
+          
+				<div class="lp-thumb">
+									<a href="https://www.yournextshoes.com/jenna-ortega-height-tall/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Tiny but Mighty: How Jenna Ortega Turns Her 4’11½” Frame Into a Fashion Force" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/06/Jenna-Ortega-Height-and-Shoe-Size-How-Tall-Without-Heels.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/06/Jenna-Ortega-Height-and-Shoe-Size-How-Tall-Without-Heels.jpg" alt="Tiny but Mighty: How Jenna Ortega Turns Her 4’11½” Frame Into a Fashion Force"></noscript></a>
+				</div>
+
+				 <div class="lp-inner">
+					 <div class="lp-title"><h2><a href="https://www.yournextshoes.com/jenna-ortega-height-tall/">Tiny but Mighty: How Jenna Ortega Turns Her 4’11½” Frame Into a Fashion Force</a></h2></div>
+				</div>
+            
+            </div>
+            		
+</div>	
+			
+			
+			
+			
+<div id="ajax-load-more" class="ajax-load-more-wrap infinite classic" data-id="5227229695" data-alm-id="" data-canonical-url="https://www.yournextshoes.com/" data-slug="home" data-post-id="0"  data-localized="ajax_load_more_5227229695_vars" data-alm-object="ajax_load_more_5227229695"><style type="text/css">.alm-btn-wrap{display:block;margin:0 0 25px;padding:10px 0 0;position:relative;text-align:center}.alm-btn-wrap:after{clear:both;content:"";display:table;height:0}.alm-btn-wrap .alm-load-more-btn{appearance:none;background:#ed7070;border:none;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,.04);color:#fff;cursor:pointer;display:inline-block;font-size:15px;font-weight:500;height:43px;line-height:1;margin:0;padding:0 20px;position:relative;text-align:center;text-decoration:none;transition:all .3s ease;user-select:none;width:auto}.alm-btn-wrap .alm-load-more-btn.loading,.alm-btn-wrap .alm-load-more-btn:hover{background-color:#e06161;box-shadow:0 1px 3px rgba(0,0,0,.09);color:#fff;text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active{box-shadow:none;text-decoration:none}.alm-btn-wrap .alm-load-more-btn.loading{cursor:wait;outline:none;padding-left:44px;pointer-events:none}.alm-btn-wrap .alm-load-more-btn.done,.alm-btn-wrap .alm-load-more-btn:disabled{background-color:#ed7070;box-shadow:none!important;opacity:.15;outline:none!important;pointer-events:none}.alm-btn-wrap .alm-load-more-btn.done:before,.alm-btn-wrap .alm-load-more-btn:before,.alm-btn-wrap .alm-load-more-btn:disabled:before{background:none;width:0}.alm-btn-wrap .alm-load-more-btn.loading:before{background:#fff var(--wpr-bg-6eb79941-27e8-4d6f-95e3-a787c8270594) no-repeat 50%;border-radius:3px;content:"";display:inline-block;height:31px;left:0;margin:6px;overflow:hidden;position:absolute;top:0;transition:width .5s ease-in-out;width:30px;z-index:0}.alm-btn-wrap .alm-elementor-link{display:block;font-size:13px;margin:0 0 15px}@media screen and (min-width:768px){.alm-btn-wrap .alm-elementor-link{left:0;margin:0;position:absolute;top:50%;transform:translateY(-50%)}}.ajax-load-more-wrap.white .alm-load-more-btn{background-color:#fff;border:1px solid #e0e0e0;color:#787878;outline:none;overflow:hidden;transition:none}.ajax-load-more-wrap.white .alm-load-more-btn.loading,.ajax-load-more-wrap.white .alm-load-more-btn:focus,.ajax-load-more-wrap.white .alm-load-more-btn:hover{background-color:#fff;border-color:#aaa;color:#333}.ajax-load-more-wrap.white .alm-load-more-btn.done{background-color:#fff;border-color:#ccc;color:#444}.ajax-load-more-wrap.white .alm-load-more-btn.loading{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)!important;box-shadow:none!important;color:hsla(0,0%,100%,0)!important;outline:none!important;padding-left:20px}.ajax-load-more-wrap.white .alm-load-more-btn.loading:before{background-color:rgba(0,0,0,0);background-image:var(--wpr-bg-b74b2c52-c643-4a22-af93-c0b374b66add);background-position:50%;background-size:25px 25px;height:100%;left:0;margin:0;top:0;width:100%}.ajax-load-more-wrap.light-grey .alm-load-more-btn{background-color:#efefef;border:1px solid #e0e0e0;color:#787878;outline:none;overflow:hidden;transition:all 75ms ease}.ajax-load-more-wrap.light-grey .alm-load-more-btn.done,.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading,.ajax-load-more-wrap.light-grey .alm-load-more-btn:focus,.ajax-load-more-wrap.light-grey .alm-load-more-btn:hover{background-color:#f1f1f1;border-color:#aaa;color:#222}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)!important;box-shadow:none!important;color:hsla(0,0%,100%,0)!important;outline:none!important;padding-left:20px}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading:before{background-color:rgba(0,0,0,0);background-image:var(--wpr-bg-1fbf660c-b397-44ee-89df-8744416c4868);background-position:50%;background-size:25px 25px;height:100%;left:0;margin:0;top:0;width:100%}.ajax-load-more-wrap.blue .alm-load-more-btn{background-color:#1b91ca}.ajax-load-more-wrap.blue .alm-load-more-btn.done,.ajax-load-more-wrap.blue .alm-load-more-btn.loading,.ajax-load-more-wrap.blue .alm-load-more-btn:hover{background-color:#1b84b7}.ajax-load-more-wrap.green .alm-load-more-btn{background-color:#80ca7a}.ajax-load-more-wrap.green .alm-load-more-btn.done,.ajax-load-more-wrap.green .alm-load-more-btn.loading,.ajax-load-more-wrap.green .alm-load-more-btn:hover{background-color:#81c17b}.ajax-load-more-wrap.purple .alm-load-more-btn{background-color:#b97eca}.ajax-load-more-wrap.purple .alm-load-more-btn.done,.ajax-load-more-wrap.purple .alm-load-more-btn.loading,.ajax-load-more-wrap.purple .alm-load-more-btn:hover{background-color:#a477b1}.ajax-load-more-wrap.grey .alm-load-more-btn{background-color:#a09e9e}.ajax-load-more-wrap.grey .alm-load-more-btn.done,.ajax-load-more-wrap.grey .alm-load-more-btn.loading,.ajax-load-more-wrap.grey .alm-load-more-btn:hover{background-color:#888}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn{background-color:rgba(0,0,0,0)!important;background-image:var(--wpr-bg-cefdd2e9-7b15-4bfa-a240-26555fea4f44);background-position:50%;background-repeat:no-repeat;border:none!important;box-shadow:none!important;cursor:default!important;opacity:0;outline:none!important;overflow:hidden;text-indent:-9999px;transition:opacity .2s ease;width:100%}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:before{display:none!important}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:active,.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:focus{outline:none}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.done{opacity:0}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.loading{opacity:1}.ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-8338cb92-c043-4709-b82a-dfa012824111)}.ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-4cff0fd3-62dc-47bd-b999-f340b6bd26e2)}.ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-f0c902ac-197f-4ffd-97b2-ce2fbabb2a9c)}.ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-a074f6d2-c6b9-4c8a-8b2b-91092c286796)}.ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-b1be6230-2b8e-4556-a824-1f0126222d49)}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap{align-items:center;display:flex;margin:0;padding:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button{margin:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button.done{display:none}.alm-btn-wrap--prev{clear:both;display:flex;justify-content:center;margin:0;padding:0;width:100%}.alm-btn-wrap--prev:after{clear:both;content:"";display:table;height:0}.alm-btn-wrap--prev a.alm-load-more-btn--prev{display:inline-block;font-size:14px;font-weight:500;line-height:1;margin:0 0 15px;padding:5px;position:relative;text-decoration:none}.alm-btn-wrap--prev a.alm-load-more-btn--prev:focus,.alm-btn-wrap--prev a.alm-load-more-btn--prev:hover{text-decoration:underline}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus{cursor:wait;text-decoration:none}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:before,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus:before{background:var(--wpr-bg-ca0fd618-0c33-4b03-a238-fe5c8230ab8c) no-repeat 0;background-size:16px 16px;content:"";display:block;height:16px;left:-18px;position:absolute;top:50%;transform:translateY(-50%);width:16px}.alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading:before{background-image:var(--wpr-bg-3b2a4323-8bf8-4729-8b8c-7b77c3872ec8)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading:before{background-image:var(--wpr-bg-1c851098-1f31-4e6c-89df-8cef7ab8e3a7)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading:before{background-image:var(--wpr-bg-642e7d56-9936-47dc-9303-af896453dff9)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading:before{background-image:var(--wpr-bg-1818f4bd-42d3-481e-b49a-4dae411383af)}.alm-btn-wrap--prev a.alm-load-more-btn--prev button:not([disabled]),.alm-btn-wrap--prev a.alm-load-more-btn--prev:not(.disabled){cursor:pointer}.alm-btn-wrap--prev a.alm-load-more-btn--prev.done{display:none}.alm-listing,.alm-paging-content{outline:none}.alm-listing:after,.alm-paging-content:after{clear:both;content:"";display:table;height:0}.alm-listing{margin:0;padding:0}.alm-listing .alm-paging-content>li,.alm-listing>li{position:relative}.alm-listing .alm-paging-content>li.alm-item,.alm-listing>li.alm-item{background:none;list-style:none;margin:0 0 30px;padding:0 0 0 80px;position:relative}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 100px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 135px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 160px}}.alm-listing .alm-paging-content>li.alm-item h3,.alm-listing>li.alm-item h3{margin:0}.alm-listing .alm-paging-content>li.alm-item p,.alm-listing>li.alm-item p{margin:10px 0 0}.alm-listing .alm-paging-content>li.alm-item p.entry-meta,.alm-listing>li.alm-item p.entry-meta{opacity:.75}.alm-listing .alm-paging-content>li.alm-item img,.alm-listing>li.alm-item img{border-radius:2px;left:0;max-width:65px;position:absolute;top:0}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing>li.alm-item img{max-width:85px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing>li.alm-item img{max-width:115px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing>li.alm-item img{max-width:140px}}.alm-listing .alm-paging-content>li.no-img,.alm-listing>li.no-img{padding:0}.alm-listing.products li.product{padding-left:inherit}.alm-listing.products li.product img{border-radius:inherit;position:static}.alm-listing.stylefree .alm-paging-content>li,.alm-listing.stylefree>li{margin:inherit;padding:inherit}.alm-listing.stylefree .alm-paging-content>li img,.alm-listing.stylefree>li img{border-radius:inherit;margin:inherit;padding:inherit;position:static}.alm-listing.rtl .alm-paging-content>li{padding:0 170px 0 0;text-align:right}.alm-listing.rtl .alm-paging-content>li img{left:auto;right:0}.alm-listing.rtl.products li.product{padding-right:inherit}.alm-masonry{clear:both;display:block;overflow:hidden}.alm-placeholder{display:none;opacity:0;transition:opacity .2s ease}.ajax-load-more-wrap.alm-horizontal{display:flex;flex-wrap:nowrap;width:100%}.ajax-load-more-wrap.alm-horizontal .alm-listing{display:flex;flex-direction:row;flex-wrap:nowrap}.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item{background-color:#fff;border:1px solid #efefef;border-radius:4px;height:auto;margin:0 2px;padding:20px 20px 30px;text-align:center;width:300px}.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item img{border-radius:4px;box-shadow:0 2px 10px rgba(0,0,0,.075);margin:0 auto 15px;max-width:125px;position:static}.ajax-load-more-wrap.alm-horizontal .alm-listing:after{display:none}.alm-toc{display:flex;padding:10px 0;width:auto}.alm-toc button{background:#f7f7f7;border:1px solid #efefef;border-radius:4px;box-shadow:none;color:#454545;cursor:pointer;font-size:14px;font-weight:500;height:auto;line-height:1;margin:0 5px 0 0;outline:none;padding:7px 10px;transition:all .15s ease}.alm-toc button:focus,.alm-toc button:hover{border-color:#ccc;color:#222}.alm-toc button:hover{text-decoration:underline}.alm-toc button:focus{box-shadow:0 0 0 3px rgba(0,0,0,.05)}</style><ul aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax" data-container-type="ul" data-loading-style="infinite classic" data-repeater="default" data-post-type="post" data-order="DESC" data-orderby="date" data-offset="13" data-posts-per-page="12" data-button-label="Load More" data-prev-button-label="Load Previous"></ul><div class="alm-btn-wrap" data-rel="ajax-load-more"><button class="alm-load-more-btn more " type="button">Load More</button></div></div>
+
+		</main>
+	</div>
+	
+
+
+
+  </main><!-- .site-main -->
+
+
+
+	
+	</div>
+</div>
+
+
+<div class="site-footer">
+			<footer class="site-info" aria-label="Site"  itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container">
+								<div class="copyright-bar">
+					<div class="footer-top">
+	<div class="footer-top-left">
+		<a href="/brands/">Brands</a>•
+<a href="/celebrities/">Celebrities</a>•
+<a href="/styles/">Styles</a>•
+<a href="/subscribe/">Subscribe</a>•
+<a href="/shoes-buying-guide/">Shopping Guide</a>•
+<a href="/styles/shoe-accessories/">Shoes Accessories</a>
+	</div>
+	<div class="footer-top-right">
+		<a href="https://www.yournextshoes.com/about/">About</a>•
+<a href="https://www.yournextshoes.com/contact-us/">Contact Us</a>•
+<a href="https://sales.mediavine.com/your-next-shoes " target="_blank">Advertise</a> •
+<a href="https://www.yournextshoes.com/privacy-policy/" rel="nofollow">Privacy Policy</a>
+	</div>
+</div>
+<div class="footer-bottom">
+	<div>
+	© Copyright Your Next Shoes 2010 - 2025
+	<div>
+</div>				</div>
+			</div>
+		</footer>
+		</div>
+
+<a title="Scroll back to top" aria-label="Scroll back to top" rel="nofollow" href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+					<span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z" fill-rule="nonzero" /></svg></span>
+				</a><script type="rocketlazyloadscript" id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="ajax_load_more_5227229695_vars">var ajax_load_more_5227229695_vars = {"id":"5227229695","script":"ajax_load_more_5227229695_vars","defaults":{"id":"5227229695","post_type":"post","posts_per_page":"12","offset":"13"}}</script><script id="rocket_lazyload_css-js-extra">
+var rocket_lazyload_css_data = {"threshold":"300"};
+</script>
+<script id="rocket_lazyload_css-js-after">
+!function o(n,c,a){function u(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(s)return s(t,!0);throw(e=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",e}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return u(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var s="function"==typeof require&&require,e=0;e<a.length;e++)u(a[e]);return u}({1:[function(e,t,r){"use strict";{const c="undefined"==typeof rocket_pairs?[]:rocket_pairs,a=(("undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs).map(t=>{var e=t.selector;document.querySelectorAll(e).forEach(e=>{e.setAttribute("data-rocket-lazy-bg-"+t.hash,"excluded")})}),document.querySelector("#wpr-lazyload-bg-container"));var o=rocket_lazyload_css_data.threshold||300;const u=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&c.filter(e=>t.target.matches(e.selector)).map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,a.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{u.unobserve(e),e.setAttribute("data-rocket-lazy-bg-"+t.hash,"loaded")}))})})},{rootMargin:o+"px"});function n(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&c.forEach(t=>{try{document.querySelectorAll(t.selector).forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&(u.observe(e),(t.elements||=[]).push(e))})}catch(e){console.error(e)}})}n(),function(){const r=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType)return(t=new r(t)).observe(e,{attributes:!0,childList:!0,subtree:!0}),t}}()(document.querySelector("body"),n)}},{}]},{},[1]);
+</script>
+<!--[if lte IE 11]>
+<script src="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.4.0" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.4.0" id="generate-menu-js" data-rocket-defer defer></script>
+<script id="generate-back-to-top-js-extra">
+var generatepressBackToTop = {"smooth":"1"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.4.0" id="generate-back-to-top-js" data-rocket-defer defer></script>
+<script id="ajax-load-more-js-extra">
+var alm_localize = {"pluginurl":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more","version":"7.3.1","adminurl":"https:\/\/www.yournextshoes.com\/wp-admin\/","ajaxurl":"https:\/\/www.yournextshoes.com\/wp-admin\/admin-ajax.php","alm_nonce":"d46dd4c1b2","rest_api_url":"","rest_api":"https:\/\/www.yournextshoes.com\/wp-json\/","rest_nonce":"a93db4c63d","trailing_slash":"true","is_front_page":"true","retain_querystring":"1","speed":"250","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"Your Next Shoes","site_tagline":"Celebrity & Designer Shoe Blog","button_label":"Load More"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/ajax-load-more.min.js?ver=7.3.1" id="ajax-load-more-js" data-rocket-defer defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.yournextshoes.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="Play Youtube video"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
+				
+
+
+
+
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.yournextshoes.com/wp-content/cache/min/1/js/3532X614468.skimlinks.js?ver=1745029930" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.yournextshoes.com/wp-content/cache/min/1/infinite-scroll@3/dist/infinite-scroll.pkgd.js?ver=1745029930" data-rocket-defer defer></script>
+
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1745212057 -->

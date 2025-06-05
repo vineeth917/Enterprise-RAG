@@ -1,0 +1,1670 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Connox Interior Design Shop</title>
+    <link rel="icon" href="https://www.connox.com/favicon.ico"/>
+    <link rel="dns-prefetch" href="https://cdn.connox.com"/>
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com"/>
+    <link rel="dns-prefetch" href="https://www.google-analytics.com"/>
+    <link rel="dns-prefetch" href="https://www.googleadservices.com"/>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com"/>
+    <link rel="dns-prefetch" href="https://www.facebook.com"/>
+    <link rel="preconnect" href="https://cdn.connox.com"/>
+    <link rel="preconnect" href="https://ajax.googleapis.com"/>
+    <link rel="preconnect" href="https://www.google-analytics.com"/>
+    <link rel="preconnect" href="https://www.googleadservices.com"/>
+    <link rel="preconnect" href="https://www.googletagmanager.com"/>
+    <link rel="preconnect" href="https://www.facebook.com"/>
+    <link rel="preconnect" href="https://app.usercentrics.eu"/>
+    <link rel="preconnect" href="https://api.usercentrics.eu"/>
+    <link rel="preload" href="https://app.usercentrics.eu/browser-ui/latest/loader.js" as="script"/>
+    <link rel="alternate" href="https://www.connox.de/" hreflang="de" title="Startseite"/>
+    <link rel="alternate" href="https://www.connox.com/" hreflang="en" title="Home"/>
+    <link rel="alternate" href="https://www.connox.at/" hreflang="de-AT" title="Startseite"/>
+    <link rel="alternate" href="https://www.connox.fr/" hreflang="fr" title="Page d’accueil"/>
+    <link rel="alternate" href="https://www.connox.ch/" hreflang="de-CH" title="Startseite"/>
+    <link rel="alternate" href="https://fr.connox.ch/" hreflang="fr-CH" title="Bienvenue chez Connox"/>
+    <link rel="alternate" href="https://www.connox.dk/" hreflang="da" title="Hjem"/>
+    <link rel="alternate" href="https://www.connox.nl/" hreflang="nl" title="Startpagina"/>
+    <link rel="alternate" href="https://www.connox.de/" hreflang="x-default"/>
+    <meta name="google-site-verification" content="prnECpVVA9FOjtuTJsL0qXhSJInkwsY4AVjmjVHU55A"/>
+    <meta name="description" content="Order furniture, home decor and accessories online. Buy securely and comfortably from your own home. Explore over 29,000 products by renowned designers!"/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content="Connox, 2005-2025"/>
+    <meta name="revisit-after" content="1 day"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.connox.com/style/_shop_connox_redesign.108.min.css?v=106" title="standard"/>
+
+    <script id="usercentrics-cmp" src="https://app.usercentrics.eu/browser-ui/latest/loader.js" data-settings-id="QfjvRMFcxJqqNR" async="async"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f" crossorigin="anonymous"></script>
+    <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+          dataLayer.push(arguments);
+          }
+          gtag("consent", "default", {
+          ad_storage: "denied",
+          ad_personalization: "denied",
+          ad_user_data: "denied",
+          analytics_storage: "denied",
+          functionality_storage: "denied",
+          personalization_storage: "denied",
+          security_storage: "granted",
+          wait_for_update: 2000,
+          });
+          gtag("set", "ads_data_redaction", true);
+          gtag("set", "url_passthrough", false);
+        </script>
+    <script>
+          var timeStamp = Date.now();
+
+          dataLayer = window.dataLayer || [];
+
+                      dataLayer.push({'Customer.LoggedIn': false});
+                      dataLayer.push({'Customer.Recognized': false});
+                      dataLayer.push({'Customer.NewsletterFlag': false});
+                      dataLayer.push({'Customer.CollectingPoints': false});
+                      dataLayer.push({'Customer.CanRedeemPoints': false});
+                      dataLayer.push({'Customer.FirstTimeVisitor': true});
+                      dataLayer.push({'Customer.Id': ''});
+          dataLayer.push({'Customer.EncryptedId': ''});
+          dataLayer.push({'Customer.Email': ''});
+          dataLayer.push({'Customer.EmailMD5': ''});
+          dataLayer.push({'Customer.EmailSHA256': ''});
+          dataLayer.push({'Customer.CurrencyCode': 'EUR'});
+
+          
+          dataLayer.push({'Page.Title': 'Home'});
+          dataLayer.push({'Page.HtmlTitle': 'Connox Interior Design Shop'});
+          dataLayer.push({'Page.CategoryId': '100000'});
+          dataLayer.push({'Page.ItemId': '-1'});
+          dataLayer.push({'Page.ItemName': ''});
+          
+              dataLayer.push({'Page.ItemPrice': ''});
+            
+          dataLayer.push({'Page.ItemManufacturer': ''});
+          dataLayer.push({'Page.CategoryTypeId': '100000'});
+          dataLayer.push({'Page.CategoryTypeName': 'Root'});
+          dataLayer.push({'Page.ProductMainCategory': ''});
+          dataLayer.push({'Page.ProductMainCategoryId': ''});
+          dataLayer.push({'Page.ProductSubCategory': ''});
+          dataLayer.push({'Page.ProductSubCategoryId': ''});
+          
+              dataLayer.push({'Page.IsAITranslated': false});
+            
+            dataLayer.push({'Promotion.PromotionId': '-1'});
+            dataLayer.push({'Promotion.PromotionContentReference': '-1'});
+
+                        dataLayer.push({'IsFirstPageView': true});
+          </script>
+    <script type="text/javascript">
+          (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+          var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+          j.async = true;
+          j.src = '//metrics.connox.com/gtm.js?id=' + i + dl;
+          f.parentNode.insertBefore(j, f);})(window, document, 'script', 'dataLayer', 'GTM-M6MMV6');
+
+          var recommendationsPlaceholder = document.getElementById("recommendations-placeholder");
+          if (recommendationsPlaceholder !== null) {
+          recommendationsPlaceholder.classList.replace("placeholder-inactive", "placeholder-active");
+          }
+          var shopTheLookPlaceholder = document.getElementById("shop-the-look-placeholder");
+          if (shopTheLookPlaceholder !== null) {
+          shopTheLookPlaceholder.classList.replace("placeholder-inactive", "placeholder-active");
+          }
+        </script>
+    <script type="text/plain" data-usercentrics="Exponea">
+        (function(d,b){if(!d.exponea){var a=function(a,g){function k(c){return function(){var e=arguments;""==a&&"initialize"==c&&e&&e[0].modify&&e[0].modify.overlay&&"loading"==b.readyState&&(b.write('<div id="__inf__overlay__" style="position:absolute;background:#fff;left:0;top:0;width:100%;height:100%;z-index:1000000"><!--empty div--></div>'),setTimeout(function(){var a=b.getElementById("__inf__overlay__");a&&b.body.removeChild(a);res.__=!0},e[0].modify.delay||500));d.exponea._.push([a+c,arguments])}}var h=g.split(" "),f,c;res={_:[]};for(c=0;c<h.length;c++)f=h[c],res[f]=k(f);return res};d.exponea=a("","initialize identify update track trackLink trackEnhancedEcommerce getHtml showHtml showBanner showForm ping getAbTest");d.exponea.notifications=a("notifications.","isAvailable isSubscribed subscribe unsubscribe");var a=b.createElement("script"),g="https:"===b.location.protocol?"https:":"http:";a.type="text/javascript";a.async=!0;a.src=g+"//api.exponea.com/js/exponea.min.js";b.getElementsByTagName("head")[0].appendChild(a)}})(window,document);
+      </script>
+    <script type="text/javascript">
+        var c_CustomerIdentifier = '';
+      </script>
+    <script type="text/plain" data-usercentrics="Exponea">
+        var customerIdentifier = c_CustomerIdentifier;
+        var exponeaToken = '86213636-a219-11e8-a83d-0a580a204326';
+        var currencyCode = 'EUR';
+        var categoryType = 'Root';
+
+        
+            var price = parseFloat('' || '0');
+            var priceRetail = parseFloat('' || '0');
+          
+
+        var isPriceOffer = priceRetail && price < priceRetail;
+        var diffPercent = (Math.round( Math.abs( 1 - price / priceRetail ) * 100) / 100).toFixed(2);
+        var diffTotal = (priceRetail - price).toFixed(2);
+
+        if ((typeof customerIdentifier != 'undefined') && (customerIdentifier != '')) {
+        exponea.initialize({
+        "token": exponeaToken,
+        "track": {
+        "visits": true,
+        "google_analytics": false,
+        "default_properties": {
+        "category_type": categoryType
+        }
+        },
+        "customer": customerIdentifier
+        });
+        } else {
+        exponea.initialize({
+        "token": exponeaToken,
+        "track": {
+        "visits": true,
+        "google_analytics": false,
+        "default_properties": {
+        "category_type": categoryType
+        }
+        }
+        });
+        }
+
+        if (-1 > 0) {
+        exponea.track('view_item', {
+        'item_id': parseInt('-1'),
+        'item_sku': parseInt('-1'),
+        'item_price': price,
+        'item_name': '',
+        'brand': '',
+        'brand_id': parseInt(''),
+        'category_id': parseInt(''),
+        'category_name': '',
+        'currency_code': currencyCode,
+        'stock_quantity': c_stockQuantity,
+        'stock_ordered':c_stockOrdered,
+        'stock_outOfListing':c_outOfListing,
+        'stock_deliveryTime':c_stockDeliveryTime,
+        'item_price_offer': isPriceOffer,
+        'item_price_offer_percent': diffPercent,
+        'item_price_offer_total': diffTotal,
+                  'session_start': true,
+                  'promotion_id': parseInt('' || '-1'),
+                  'recognized': false,
+                  'newsletter_flag': false,
+                  'first_time_visitor': true,
+                  'item_color': ''
+        });
+        }
+
+        if (100000 == 100003) {
+        exponea.track('view_category', {
+        'category_id': '100000',
+        'category_name': 'Root'
+        });
+        }
+
+        exponea.update({
+                  'IsRecognized': false,
+                  'IsLoggedin': false,
+                  'IsFirstTimeVisitor': true
+                  });
+      </script>
+    <script>          var c_CustomerIsLoginValidated = false;
+                  var c_CustomerIsRecognized = false;
+                  var c_CustomerNewsletterFlag = false;
+                  var c_CustomerIsCollectingPoints = false;
+                  var c_CustomerCanRedeemPoints = false;
+                var c_UserUuidOrig = 'c07d9132-1e70-11f0-8b38-fa163eef3b2c';
+        var c_UserUuid = c_UserUuidOrig.replace(/-/g, "");
+        var c_EvenOdd = c_UserUuid.split("").map((val) => parseInt(val, 16)).reduce((acc, curr) => acc + curr, 0) % 2 === 0 ? "even" : "odd";
+        var c_ActiveCurrency = 'EUR';
+        var c_ActiveCountry = 'DE';
+        var c_PromotionId = '';
+        var c_PromotionContentReference = '';
+        var c_BlogNewsDataPath = 'https://www.connox.com/magazine.html/data.xml';
+
+        
+          var c_BlogCategories = [
+          '/interieur-design-news.html/data.xml',
+          '/scenes.html/data.xml',
+          '/design-knowledge.html/data.xml',
+          '/home-ideas.html/data.xml',
+          '/homestories.html/data.xml',
+          '/interior-styles.html/data.xml',
+          '/guide-decorating-living.html/data.xml',
+          '/shop-the-look.html/data.xml',
+          '/kolumnen.html/data.xml'
+          ];
+        </script>
+    <script src="https://cdn.connox.de/script/swiper-element-bundle.min.js?v=11_1_14"></script>
+    <link rel="apple-touch-icon" href="https://www.connox.com/style/images/c/touchIcon-60.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.connox.com/style/images/c/touchIcon-76.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.connox.com/style/images/c/touchIcon-120.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.connox.com/style/images/c/touchIcon-152.png"/>
+    <link rel="apple-touch-icon" sizes="167x167" href="https://www.connox.com/style/images/c/touchIcon-167.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.connox.com/style/images/c/touchIcon-180.png"/>
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@connox"/>
+    <meta property="twitter:creator" content="@connox"/>
+    <meta property="twitter:url" content="https://www.connox.com/"/>
+    <meta property="twitter:title" content="Home"/>
+    <meta property="twitter:description" content="Order furniture, home decor and accessories online. Buy securely and comfortably from your own home. Explore over 29,000 products by renowned designers!"/>
+    <meta property="twitter:image" content="https://cdn.connox.com/m/100109/640685/media/Vitra/Eames-Plastic-side-chair/DSW-Basalt-2.jpg"/>
+    <meta name="robots" content="index,follow"/>
+    <link rel="canonical" href="https://www.connox.com/"/>
+    <link rel="alternate" type="application/rss+xml" title="Connox Home Design Blog" href="/feed/116324.xml"/>
+    <link rel="alternate" type="application/rss+xml" title="Connox special offers" href="/feed/100935.xml"/>
+    <link rel="alternate" type="application/rss+xml" title="Connox news" href="/feed/104719.xml"/>
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml"/>
+    <!--[if lt IE 9]><script>var t=['header','footer','section','aside','nav','article','hgroup'];for(var i in t) document.createElement(t[i]);</script><![endif]-->
+  </head>
+    <body id="C100000" lang="en" data-lang="en" data-channel="100005">
+    <noscript>
+      <iframe src="//www.googletagmanager.com/ns.html?id=GTM-M6MMV6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <div class="w">
+      <!-- GeoRedirect { } -->      <!-- Currency { --><div id="SelectCurrencyModal" class="reveal-modal">
+  <a class="close-reveal-modal">
+    <i class="icon icon-close icon-size--18"> </i>
+  </a>
+  <h2>Make Yourself at Home</h2>
+  <p>Which currency would you like to shop in at connox.com?</p>
+  <form action="https://www.connox.com/" method="POST">
+    <input type="hidden" name="Action" value="Change"/>
+    <div class="form-list">
+      <div class="form-list__item">
+        <label for="Currency">Currency</label>
+        <select name="CurrencyCode" id="Currency">
+          <option value="EUR" selected="selected">€ (EUR)</option>
+          <option value="USD">$ (USD)</option>
+        </select>
+      </div>
+      <br/>
+      <div class="form-list__item">
+        <button type="submit" class="button">Continue to Shop</button>
+      </div>
+    </div>
+  </form>
+</div>
+<!-- } Currency -->      <header class="header-full">
+        <div>
+          <div class="header-content">
+            <div id="Logo" class="icon icon-connox-logo">
+              <h1>Connox Interior Design Shop</h1>
+            </div>
+            <div class="header-meta">
+              <div class="header-links">
+                <!-- Currency { --><a href="#" class="header-currency-picker" onclick="$('#SelectCurrencyModal').reveal(); c.tracking.sendEvent('trackRevealCurrencyPopup'); return false;">EUR</a>
+<!-- } Currency -->                                <a href="https://www.connox.com/manufacturer-offers.html" title="Brand Sales - more" class="header-link">Connox Deals</a>
+                <a href="https://www.connox.com/guide-decorating-living.html" title="Guide - more" class="header-link">Guide</a>
+                <a href="https://www.connox.com/help.html" title="Customer Service - more" class="header-link">Service</a>
+                <!--Old Meta Navi-->
+                              </div>
+              <div class="header-functions">
+                <div class="header-search">
+                  <span id="HeaderSearchButton" role="link" aria-label="open search" tabindex="0">
+                    <span class="icon icon-link icon-magnifier"> </span>
+                  </span>
+                  <span id="HeaderSearchCloseButton" role="link" aria-label="close search" tabindex="0" style="display:none">
+                    <span class="icon icon-link icon-close"> </span>
+                  </span>
+                </div>
+                <a class="header-account" href="https://www.connox.com/customer-area.html" id="HeaderAccountIcon">
+                                    <span class="icon icon-link icon-person">Customer Account</span>
+                </a>
+                <a class="header-wishlist" href="https://www.connox.com/customer-area/wish-lists.html">
+                  <span class="icon icon-link icon-heart">Wish List</span>
+                </a>
+                <span class="header-cart" id="CartIcon" role="link" aria-label="cart">
+                  <span class="icon icon-link icon-cart">Warenkorb</span>
+                </span>
+                <span id="MobileNavButton" class="icon icon-link icon-menu nav-open-button" role="link" aria-label="open menu" aria-haspopup="true" aria-expanded="false" tabindex="0"> </span>
+                <span id="MobileNavCloseButton" class="icon icon-link icon-close nav-close-button" role="link" aria-label="close menu" aria-haspopup="true" aria-expanded="true" tabindex="0"> </span>
+              </div>
+            </div>
+          </div>
+                    <nav xmlns:p="http://www.ecommerce-suite.de/Schema/PlugIn" class="main-nav main-nav-old">
+  <ul>
+    <div class="nav-search">
+      <span id="NavSearchButton" class="nav-search__button nav-search__button--open">
+        <span class="icon icon-magnifier icon-size--24"> </span>
+      </span>
+      <span id="NavSearchButtonClose" class="nav-search__button nav-search__button--close" style="display:none">
+        <span class="icon icon-close icon-size--20"> </span>
+      </span>
+    </div>
+    <li class="nav-mobile-meta-links">
+      <div class="nav-mobile-meta-links__element">
+        <a href="https://www.connox.com/manufacturer-offers.html">
+          <span class="icon icon-star icon-size--22"> </span>
+          <span>Connox Deals</span>
+        </a>
+      </div>
+      <div class="nav-mobile-meta-links__element">
+        <a href="https://www.connox.com/guide-decorating-living.html">
+          <span class="icon icon-blog icon-size--22"> </span>
+          <span>Guide</span>
+        </a>
+      </div>
+      <div class="nav-mobile-meta-links__element">
+        <a href="https://www.connox.com/help.html">
+          <span class="icon icon-call-agent icon-size--22"> </span>
+          <span>Service</span>
+        </a>
+      </div>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/categories/furniture.html" class="main-navigation-link" title="Furniture - more">Furniture<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading max-tablet">
+                <a href="https://www.connox.com/categories/furniture.html">All Furniture</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/living-room.html" title="Living Room - more">Living Room</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/seating-furniture/chairs.html" title="Chairs - more">Chairs</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/coffee-tables.html" title="Coffee tables - more">Coffee tables</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/couches-sofas.html" title="Sofas - more">Sofas</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/tables/dining-tables.html" title="Dining tables - more">Dining tables</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/seating-furniture/armchairs.html" title="Armchairs - more">Armchairs</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/sideboards.html" title="Sideboards - more">Sideboards</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/office.html" title="Office - more">Office</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/shelves.html" title="Shelves - more">Shelves</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/desks-secretary-desks.html" title="Desks - more">Desks</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/office-chairs.html" title="Office chairs - more">Office chairs</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/rolling-carts-utility-carts.html" title="Utility Carts, Rolling Carts - more">Utility Carts, Rolling Carts</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/hallway.html" title="Hallway - more">Hallway</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/wall-mounted-coat-racks.html" title="Wall coat racks - more">Wall coat racks</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/coat-racks.html" title="Coat rack - more">Coat rack</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/entryway-furniture/coat-hook-wall-hook.html" title="Coat hook - more">Coat hook</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/entryway-furniture/shoe-storage.html" title="Shoe Storage - more">Shoe Storage</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/entryway-furniture/console-tables-wall-consoles.html" title="Console tables - more">Console tables</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/childrens-rooms.html" title="Kids' Room - more">Kids' Room</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-chairs.html" title="Children's chairs - more">Children's chairs</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-beds.html" title="Kids' Beds - more">Kids' Beds</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-tables.html" title="Children's tables - more">Children's tables</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-dressers.html" title="Kids' Dressers - more">Kids' Dressers</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/bedroom.html">Bedroom</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/beds.html" title="Beds - more">Beds</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/tables/side-tables.html" title="Side tables - more">Side tables</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/partitions-room-dividers.html" title="Screens - more">Screens</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/rooms.html" title="Rooms - more">Other Rooms</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/dining-room.html" title="Dining Room - more">Dining Room</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/bathroom.html" title="Bathroom - more">Bathroom</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/winter-garden.html" title="Winter garden - more">Winter garden</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__element--heading--bottomlink">
+                <a href="https://www.connox.com/categories/furniture.html">More Furniture</a>
+              </div>
+            </div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__iconlist--heading">
+                <a href="https://www.connox.com/companies.html">Brands</a>
+              </div>
+              <div class="section-nav-dropdown__column__iconlist">
+                <a href="https://www.connox.com/vitra.html" title="Vitra - more">
+                  <span class="sprite sprite-link sprite-logo-vitra-55">Vitra</span>
+                </a>
+                <a href="https://www.connox.com/hay.html" title="HAY - more">
+                  <span class="sprite sprite-link sprite-logo-hay-55">HAY</span>
+                </a>
+                <a href="https://www.connox.com/muuto.html" title="Muuto - more">
+                  <span class="sprite sprite-link sprite-logo-muuto-55">Muuto</span>
+                </a>
+                <a href="https://www.connox.com/string.html" title="String Furniture - more">
+                  <span class="sprite sprite-link sprite-logo-string-55">String Furniture</span>
+                </a>
+                <a href="https://www.connox.com/fatboy.html" title="Fatboy - more">
+                  <span class="sprite sprite-link sprite-logo-fatboy-55">Fatboy</span>
+                </a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/companies.html">More Brands</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/categories/accessories.html" class="main-navigation-link" title="Home Accessories - more">Accessories<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading max-tablet">
+                <a href="https://www.connox.com/categories/accessories.html">All Accessories</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/home-decor.html" title="Home Decor - more">Home Decor</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-decor/vases.html" title="Vases - more">Vases</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/lanterns.html" title="Lanterns - more">Lanterns</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/candle-holders.html" title="Candlestick - more">Candlestick</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/candles.html" title="Candles - more">Candles</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-decor/scented-candles.html" title="Scented candles - more">Scented candles</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/tea-light-holders.html" title="Tealight holder - more">Tealight holder</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/decorative-objects.html" title="Decorative figures - more">Decorative figures</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/decorative-bowls.html" title="Decorative Bowls - more">Decorative Bowls</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-decor/poster.html" title="Poster - more">Poster</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/home-textiles.html" title="Home Textiles - more">Home Textiles</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/home-textiles/rugs.html" title="Carpets - more">Carpets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-textiles/cushions.html" title="Cushions - more">Cushions</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-textiles/blankets.html" title="Blankets - more">Blankets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/household/doormats.html" title="Floor mats - more">Floor mats</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-textiles/bedding.html" title="Bedding - more">Bedding</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/accessories.html" title="Home Accessories - more">Home Accessories</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-decor/mirrors.html" title="Mirrors - more">Mirrors</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/storage-boxes.html" title="Storage boxes - more">Storage Boxes</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/entryway-furniture/storage-baskets.html" title="Storage baskets - more">Storage baskets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/household/laundry-baskets.html" title="Laundry baskets - more">Laundry baskets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/trays.html" title="Trays - more">Trays</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/childrens-rooms.html" title="Kids' Room - more">Kids' Room</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-accessories.html" title="Kids' Accessories - more">Kids' Accessories</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/children-s-carpets.html" title="Children's carpets - more">Children's carpets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/child-seat-bags.html" title="Kids seat bags - more">Kids seat bags</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/toys.html" title="Toys - more">Toys</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/entryway-furniture/containers.html" title="Containers &amp; roll containers - more">Containers &amp; roll containers</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/toy-animals.html" title="Soft toys - more">Soft toys</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/children-design-mobiles.html" title="Mobiles - more">Mobiles</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/childrens-bedding.html" title="Children's bedding - more">Children's bedding</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-silverware.html" title="Kids' Silverware - more">Kids' Silverware</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kids/kids-cars-kids-vehicles.html" title="Kids' Cars, Kids' Vehicles - more">Kids' Cars, Kids' Vehicles</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/accessories/bathroom-accessories.html" title="Bathroom Decor - more">Bathroom Decor</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/household.html" title="Household - more">Household</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/accessories/office-supplies.html" title="Office accessories - more">Office accessories</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/living-design-topics/wintertime.html" title="Winter - more">Winter</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__element--heading--bottomlink">
+                <a href="https://www.connox.com/categories/accessories.html">More Accessories</a>
+              </div>
+            </div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__iconlist--heading">
+                <a href="https://www.connox.com/companies.html">Brands</a>
+              </div>
+              <div class="section-nav-dropdown__column__iconlist">
+                <a href="https://www.connox.com/hay.html" title="HAY - more">
+                  <span class="sprite sprite-link sprite-logo-hay-55">HAY</span>
+                </a>
+                <a href="https://www.connox.com/audo.html" title="Audo - more">
+                  <span class="sprite sprite-link sprite-logo-audo-55">Audo</span>
+                </a>
+                <a href="https://www.connox.com/ferm-living.html" title="Ferm Living - more">
+                  <span class="sprite sprite-link sprite-logo-ferm-living-55">Ferm Living</span>
+                </a>
+                <a href="https://www.connox.com/normann-copenhagen.html" title="Normann Copenhagen - more">
+                  <span class="sprite sprite-link sprite-logo-normann-copenhagen-55">Normann Copenhagen</span>
+                </a>
+                <a href="https://www.connox.com/alessi.htm" title="Alessi - more">
+                  <span class="sprite sprite-link sprite-logo-alessi-55">Alessi</span>
+                </a>
+                <a href="https://www.connox.com/marimekko.html" title="Marimekko - more">
+                  <span class="sprite sprite-link sprite-logo-marimekko-55">Marimekko</span>
+                </a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/companies.html">More Brands</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/categories/kitchenware.html" class="main-navigation-link" title="Kitchenware - more">Kitchen<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading max-tablet">
+                <a href="https://www.connox.com/categories/kitchenware.html">All Kitchen Utensils</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/kitchenware.html" title="Kitchenware - more">Cooking</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/saucepans-cooking-pots.html" title="Cooking Pots - more">Cooking Pots</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/kitchen-utensils.html" title="Kitchen gadgets - more">Kitchen gadgets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/spice-grinders-spice-mills.html" title="Salt mills &amp; Pepper mills - more">Spice Grinders, Spice Mills</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/tea.html" title="Teapots - more">Teapots</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/cutting-boards.html" title="Cutting boards - more">Cutting boards</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/electronics.html" title="Electronics - more">Electronics</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/electronics/kitchen-appliances.html" title="Kitchen Appliances - more">Kitchen Appliances</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/electronics/electric-kettles.html" title="Kettles - more">Kettles</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/electronics/coffee-machines.html" title="Coffee Machines - more">Coffee Machines</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/electronics/toasters.html" title="Toasters - more">Toasters</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/kitchenware.html" title="Kitchenware - more">Serving</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/dinnerware.html" title="Dishes - more">Dishes</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/drinking-glasses.html" title="Glasses - more">Glasses</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/silverware.html" title="Cutlery sets - more">Silverware</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/trays.html" title="Trays - more">Trays</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/bread-baskets-bread-boxes.html" title="Bread baskets - more">Bread Baskets</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/storage-jars.html" title="Storage jars - more">Storage jars</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/salad-bowls.html" title="Salad Bowls - more">Salad Bowls</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/kitchenware/serving-bowls.html" title="Serving Bowls - more">Serving Bowls</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/home-textiles/kitchen-linen.html" title="Kitchen Linen - more">Kitchen Linen</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/kitchenware/bar-supplies-bar-accessories.html" title="Bar Supplies, Bar Accessories - more">Bar Supplies, Bar Accessories</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/kitchenware/bottle-racks.html" title="Bottle Racks - more">Bottle Racks</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/kitchenware/baking-products.html" title="Baking - more">Baking</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/household.html" title="Household - more">Household</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/accessories/household/household-helpers/detergent.html" title="Detergent - more">Detergent</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__element--heading--bottomlink">
+                <a href="https://www.connox.com/categories/kitchenware.html">More Kitchen Utensils</a>
+              </div>
+            </div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__iconlist--heading">
+                <a href="https://www.connox.com/companies.html">Brands</a>
+              </div>
+              <div class="section-nav-dropdown__column__iconlist">
+                <a href="https://www.connox.com/stelton.htm" title="Stelton - more">
+                  <span class="sprite sprite-link sprite-logo-stelton-55">Stelton</span>
+                </a>
+                <a href="https://www.connox.com/eva-solo.htm" title="Eva Solo - more">
+                  <span class="sprite sprite-link sprite-logo-eva-solo-55">Eva Solo</span>
+                </a>
+                <a href="https://www.connox.com/smeg.html" title="smeg - more">
+                  <span class="icon icon-link svg-logo-smeg">smeg</span>
+                </a>
+                <a href="https://www.connox.com/rosti-mepal.html" title="Rosti Mepal - more">
+                  <span class="sprite sprite-link sprite-logo-rosti-mepal-55">Rosti Mepal</span>
+                </a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/companies.html">More Brands</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/categories/lighting.html" class="main-navigation-link" title="Lighting - more">Lighting<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/lighting.html" title="Lighting - more" class="tablet-small-hide">Lighting</a>
+                <a href="https://www.connox.com/categories/lighting.html" title="Lighting - more" class="max-tablet">All Lighting</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/pendant-luminaires.html" title="Pendant luminaires - more">Pendant luminaires</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/floor-lamps.html" title="Floor lamps - more">Floor lamps</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/table-lamps.html" title="Table lamps - more">Table lamps</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/wall-lamps.html" title="Wall lamps - more">Wall lamps</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/ceiling-lights.html" title="Ceiling lamps - more">Ceiling lamps</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/outdoor-lighting.html" title="Outdoor Lighting - more">Outdoor Lighting</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading tablet-small-hide">
+               
+            </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/tag/wireless-table-lamps.html" title="Wireless table lamps - more">Rechargeable Battery-powered Lights</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/desk-lights.html" title="Desk lights - more">Desk lights</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/ground-lights-small-floor-lamps.html" title="Ground Lights, Small Floor Lamps - more">Ground Lights, Small Floor Lamps</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/lampshades.html" title="Lamp Shades - more">Lamp Shades</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/bulbs.html" title="Bulbs - more">Bulbs</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__element--heading--bottomlink">
+                <a href="https://www.connox.com/categories/lighting.html">More Lighting</a>
+              </div>
+            </div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading section-nav-dropdown__column__iconlist--heading">
+                <a href="https://www.connox.com/companies.html">Brands</a>
+              </div>
+              <div class="section-nav-dropdown__column__iconlist">
+                <a href="https://www.connox.com/tradition.html" title="&amp; Tradition - more">
+                  <span class="icon icon-link svg-logo-andtradition">&amp; Tradition</span>
+                </a>
+                <a href="https://www.connox.com/flos.htm" title="Flos - more">
+                  <span class="icon icon-link svg-logo-flos">Flos</span>
+                </a>
+                <a href="https://www.connox.com/nud-collection.html" title="Nud Collection - more">
+                  <span class="icon icon-link svg-logo-nudcollection">Nud Collection</span>
+                </a>
+                <a href="https://www.connox.com/louis-poulsen.html" title="Louis Poulsen - more">
+                  <span class="sprite sprite-link sprite-logo-louis-poulsen-55">Louis Poulsen</span>
+                </a>
+                <a href="https://www.connox.com/luceplan.htm" title="Luceplan - more">
+                  <span class="sprite sprite-link sprite-logo-luceplan-55">Luceplan</span>
+                </a>
+                <a href="https://www.connox.com/umage.html" title="Umage - more">
+                  <span class="icon icon-link svg-logo-umage">Umage</span>
+                </a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/companies.html">More Brands</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/categories/outdoor.html" class="main-navigation-link" title="Outdoor - more">Outdoor<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading max-tablet">
+                <a href="https://www.connox.com/categories/outdoor.html">Alle Outdoor-Artikel</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/tag/outdoor-furniture.html" title="Outdoor Furniture - more">Outdoor-Möbel</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-chairs-outdoor-benches.html" title="Garden chairs - more">Garden chairs</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-tables.html" title="Garden tables - more">Garden tables</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/sun-loungers-outdoor-lounge-chairs.html" title="Outdoor Lounge Chairs, Sun Loungers - more">Gartenliegen</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/sun-protection.html" title="Parasols - more">Parasols</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/hammocks.html" title="Hammocks - more">Hammocks</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/tag/outdoor-decoration.html" title="Outdoor decoration - more">Outdoor decoration</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/lanterns.html" title="Lanterns - more">Lanterns</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-textiles.html" title="Outdoor textiles - more">Outdoor textiles</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-cushion.html" title="Outdoor cushion - more">Outdoor cushion</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-carpets.html" title="Outdoor carpets - more">Outdoor carpets</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/lighting/outdoor-lighting.html" title="Outdoor Lighting - more">Außenbeleuchtung</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/battery-lights.html" title="Battery lights - more">Battery lights</a>
+                </li>
+              </ul>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/household/watering-cans.html" title="Watering cans - more">Watering cans</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/garden-equipment.html" title="Garden Equipment - more">Garden Equipment</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/outdoor.html" title="Outdoor - more">Outdoor-Zubehör</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/barbecues-fire-pits.html" title="Grills - more">Grills</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/water-bottles.html" title="Drinking bottles - more">Drinking bottles</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/travel-mugs.html" title="Travel Mugs - more">Travel Mugs</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/living-design-topics/picnic.html" title="Picnic - more">Picknick-Zubehör</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/bird-houses.html" title="Feeding stations - more">Feeding stations</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column"><!--empty div--></div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width"><!--empty div--></div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li/>
+    <li>
+      <a href="https://www.connox.com/companies.html" class="main-navigation-link" title="Interior Design Brands - more">Brands</a>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/special-offers.html" class="main-navigation-link red" title="Sale - more">Sale<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <span class="medium">Brands on sale</span>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/hay.html?isOffer=true&amp;order=rank-asc#products" title="HAY - more">Hay-Sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/zone-denmark.html?isOffer=true&amp;order=rank-asc#products" title="Zone Denmark - more">Zone Denmark Sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/muuto.html?isOffer=true&amp;order=rank-asc#products" title="Muuto - more">Muuto-Sale</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <span class="medium">Furniture on sale</span>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/seating-furniture/chairs.html?isOffer=true&amp;order=rank-asc" title="Chairs - more">Chairs on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/tables/dining-tables.html?isOffer=true&amp;order=rank-asc" title="Dining tables - more">Dining tables on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/couches-sofas.html?isOffer=true&amp;order=rank-asc" title="Sofas - more">Sofas on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/shelves.html?isOffer=true&amp;order=rank-asc" title="Shelves - more">Shelves on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/furniture/sideboards.html?isOffer=true&amp;order=rank-asc" title="Sideboards - more">Sideboards on sale</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <span class="medium">Decoration on sale</span>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/home-decor/plant-pots-flowerpots.html?isOffer=true&amp;order=rank-asc" title="Flower pots - more">Flower pots on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/home-textiles/rugs.html?isOffer=true&amp;order=rank-asc" title="Carpets - more">Carpets on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-textiles/cushions.html?isOffer=true&amp;order=rank-asc" title="Cushions - more">Cushions on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-decor/mirrors.html?isOffer=true&amp;order=rank-asc" title="Mirrors - more">Mirrors on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/accessories/home-decor/poster.html?isOffer=true&amp;order=rank-asc" title="Poster - more">Posters on sale</a>
+                </li>
+              </ul>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <span class="medium">Lights on sale</span>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/pendant-luminaires.html?isOffer=true&amp;order=rank-asc" title="Pendant luminaires - more">Pendant luminaires on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/table-lamps.html?isOffer=true&amp;order=rank-asc" title="Table lamps - more">Table lamps on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/floor-lamps.html?isOffer=true&amp;order=rank-asc" title="Floor lamps - more">Floor lamps on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/wall-lamps.html?isOffer=true&amp;order=rank-asc" title="Wall lamps - more">Wall lamps on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/lighting/ceiling-lights.html?isOffer=true&amp;order=rank-asc" title="Ceiling lamps - more">Ceiling lamps on sale</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <span class="medium nowrap">Outdoor designs on sale</span>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-chairs-outdoor-benches.html?isOffer=true&amp;order=rank-asc" title="Garden chairs - more">Garden furniture on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/outdoor-tables.html?isOffer=true&amp;order=rank-asc" title="Garden tables - more">Garden tables on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/lanterns.html?isOffer=true&amp;order=rank-asc" title="Lanterns - more">Lanterns on sale</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/categories/outdoor/sun-loungers-outdoor-lounge-chairs.html?isOffer=true&amp;order=rank-asc" title="Outdoor Lounge Chairs, Sun Loungers - more">Garden loungers on sale</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/special-offers.html" title="Sale - more">Offers</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/manufacturer-offers.html" title="Brand Sales - more">Connox Deals</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li class="nav-link-dropdown">
+      <a href="https://www.connox.com/discover.html" class="main-navigation-link" title="Inspiration - more">Inspiration<span class="main-navigation-link__mobile-toggle">
+           
+        </span></a>
+      <section class="section-nav-dropdown">
+        <div>
+          <div class="section-nav-dropdown__container">
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/design-knowledge.html" title="Design Styles - more">Design Styles</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/design-knowledge/scandinavian-design-theme.html" title="Scandinavian Design - more">Scandinavian Design</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/design-knowledge/bauhaus.html" title="Bauhaus - more">Bauhaus</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/design-knowledge/design-classics.html" title="Design Classics - more">Design Classics</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/design-knowledge/60s-design.html" title="60s Design - more">60s Design</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/design-knowledge/ecodesign.html" title="Ecodesign - more">Ecodesign</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/interior-styles.html" title="Interior Styles - more">Interior Styles</a>
+              </div>
+              <ul class="section-nav-dropdown__column__linklist">
+                <li>
+                  <a href="https://www.connox.com/interior-styles/industrial-style.html" title="Industrial Style - more">Industrial Style</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/interior-styles/wabi-sabi.html" title="Wabi-Sabi - more">Wabi-Sabi</a>
+                </li>
+                <li>
+                  <a href="https://www.connox.com/interior-styles/home-design-trend-mix-match.html" title="Mix &amp; Match - more">Mix &amp; Match</a>
+                </li>
+              </ul>
+            </div>
+            <div class="section-nav-dropdown__column">
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/new.html" title="New at Connox - more">New at Connox</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/magazine.html" title="Connox Magazine - more">Connox Blog</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/gifts.html" title="Gifts - more">Gifts</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/gifts/gift-finder.html" title="Gift finder - more">Gift finder</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/categories/gift-vouchers.html" title="Gift vouchers - more">Gift vouchers</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/rooms.html" title="Rooms - more">Rooms</a>
+              </div>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/tag.html" title="Interior Design Topics - more">Interior Design Topics</a>
+              </div>
+              <br/>
+              <div class="section-nav-dropdown__column__element section-nav-dropdown__column__element--heading">
+                <a href="https://www.connox.com/discover.html" title="Inspiration - more">Discover More</a>
+              </div>
+            </div>
+            <div class="section-nav-dropdown__column section-nav-dropdown__column--border calib-width">
+              <a href="https://www.connox.com/homestories.html" class="section-nav-dropdown__column__imagelink">
+                <img src="/images/navigation/Homestorys-Navi.jpg" alt="Homestories" srcset="/images/navigation/Homestorys-Navi.jpg 1x, /images/navigation/Homestorys-Navi.jpg 2x" class="section-nav-dropdown__column__imagelink__image" loading="lazy"/>
+                <div class="section-nav-dropdown__column__imagelink__title">Our Recommendation:<br/><span class="section-nav-dropdown__column__imagelink__title__headline">Homestories</span></div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </li>
+    <li class="max-phone">
+           
+        </li>
+    <li class="max-phone">
+      <!-- Currency { --><a href="#" class="header-currency-picker" onclick="$('#SelectCurrencyModal').reveal(); c.tracking.sendEvent('trackRevealCurrencyPopup'); return false;">EUR</a>
+<!-- } Currency -->    </li>
+  </ul>
+</nav>
+
+          <!--old Navi-->
+                    <section id="HeaderSearchReact" class="nav-search__field section-nav-dropdown__search">
+            <!--filled by react-->
+          </section>
+        </div>
+      </header>
+      <section class="notice-banner">
+        <div>
+          <div><span class="icon icon-warning icon-size--22 tablet-small-hide"> </span><b>Attention:</b> We no longer ship to the USA and UK. Please check out our 
+            <b><a href="/help/delivery.html" title="Delivery Options">available delivery countries</a></b>.
+          </div>
+        </div>
+      </section>
+      <section class="breadcrumb breadcrumb-homepage">
+        <div><!--empty div--></div>
+      </section>
+      <section id="newHeroBannerReactPlaceholder" class="mt-3 mb-9 mb-l-10">
+        <div>
+          <div class="grid mx-0">
+            <div class="column-12 new-hero-banner">
+              <picture>
+                <source media="(min-width:481px)" srcset="https://cdn.connox.com/m/100066/703017/media/_Banner_Aktionen/Connox-Deals/Herobanner_Connox-Deals_16-6.jpg"/>
+                <source srcset="https://cdn.connox.com/m/100109/703016/media/_Banner_Aktionen/Connox-Deals/Herobanner_Connox-Deals_1-1.jpg"/>
+                <img src="https://cdn.connox.com/m/100109/703016/media/_Banner_Aktionen/Connox-Deals/Herobanner_Connox-Deals_1-1.jpg" alt="Discover offers now &amp; save" fetchpriority="high"/>
+              </picture>
+              <div class="overlay-box-vertical overlay-box-vertical--left dark-color-box p-m-12">
+                <div class="position-modifier">
+                  <h2 class="overlay-box-vertical__title line-clamp-three">Connox Deals</h2>
+                  <p class="overlay-box-vertical__text line-clamp-two">Discover offers now &amp; save</p>
+                  <a href="/manufacturer-offers.html" class="overlay-box-vertical__button cta-button cta-green">Find out more</a>
+                </div>
+                <div class="position-modifier desktop">
+                  <h2 class="overlay-box-vertical__title line-clamp-three">Connox Deals</h2>
+                  <p class="overlay-box-vertical__text line-clamp-two">Discover offers now &amp; save</p>
+                  <a href="/manufacturer-offers.html" class="overlay-box-vertical__button cta-button cta-green">Find out more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="topCategoriesPlaceholder" class="top-categories mb-11 mb-l-13">
+        <div>
+          <div class="container-title">
+            <h2>Our Top Categories</h2>
+          </div>
+          <div class="m-0">
+            <div class="swiper-btn-prev">
+              <span class="icon icon-chevron-left mx-3"/>
+            </div>
+            <div class="swiper-btn-next">
+              <span class="icon icon-chevron-right mx-3"/>
+            </div>
+            <swiper-container lazy-preload-prev-next="3" navigation-next-el="#topCategoriesPlaceholder .swiper-btn-next" navigation-prev-el="#topCategoriesPlaceholder .swiper-btn-prev" breakpoints="{&quot;0&quot;:{&quot;slidesPerView&quot;:2.5,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;481&quot;:{&quot;slidesPerView&quot;:3.2,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;651&quot;:{&quot;slidesPerView&quot;:3.8,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;768&quot;:{&quot;slidesPerView&quot;:4.5,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;851&quot;:{&quot;slidesPerView&quot;:4.5,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;941&quot;:{&quot;slidesPerView&quot;:5.5,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16,&quot;rewind&quot;:true},&quot;1132&quot;:{&quot;slidesPerView&quot;:6,&quot;slidesOffsetBefore&quot;:0,&quot;slidesOffsetAfter&quot;:0,&quot;rewind&quot;:true}}" space-between="16" simulate-touch="true" mousewheel-force-to-axis="true">
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/furniture/seating-furniture/chairs.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/702290/media/Thonet/S-43/Thonet-S-43-Stuhl-Chrom-Buche-schwarz-gebeizt-TP-29.jpg" srcset="https://cdn.connox.com/m/100069/702290/media/Thonet/S-43/Thonet-S-43-Stuhl-Chrom-Buche-schwarz-gebeizt-TP-29.jpg 1x, https://cdn.connox.com/m/100106/702290/media/Thonet/S-43/Thonet-S-43-Stuhl-Chrom-Buche-schwarz-gebeizt-TP-29.jpg 2x" alt="Chairs" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Chairs</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/furniture/shelves.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/796121/media/String/String-Pocket/String-Pocket-Eiche-weiss.jpg" srcset="https://cdn.connox.com/m/100069/796121/media/String/String-Pocket/String-Pocket-Eiche-weiss.jpg 1x, https://cdn.connox.com/m/100106/796121/media/String/String-Pocket/String-Pocket-Eiche-weiss.jpg 2x" alt="Shelves" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Shelves</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/lighting/pendant-luminaires.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/715982/media/Petite-Friture/SS-2023/Petite-Friture-Vertigo-Pendelleuchte-x-small-schwarz.jpg" srcset="https://cdn.connox.com/m/100069/715982/media/Petite-Friture/SS-2023/Petite-Friture-Vertigo-Pendelleuchte-x-small-schwarz.jpg 1x, https://cdn.connox.com/m/100106/715982/media/Petite-Friture/SS-2023/Petite-Friture-Vertigo-Pendelleuchte-x-small-schwarz.jpg 2x" alt="Pendant luminaires" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Pendant luminaires</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/lighting/table-lamps.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/716183/media/andtradition/AW2020-2021/andTradition-Flowerpot-Akku-Tischleuchte-VP9-matt-hellgrau.jpg" srcset="https://cdn.connox.com/m/100069/716183/media/andtradition/AW2020-2021/andTradition-Flowerpot-Akku-Tischleuchte-VP9-matt-hellgrau.jpg 1x, https://cdn.connox.com/m/100106/716183/media/andtradition/AW2020-2021/andTradition-Flowerpot-Akku-Tischleuchte-VP9-matt-hellgrau.jpg 2x" alt="Table lamps" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Table lamps</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/furniture/coffee-tables.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/716184/media/Studio-Zondag/Licht-Coffee-Table/Studio-Zondag-Licht-Coffee-Table-60cm-Eiche-schwarz.jpg" srcset="https://cdn.connox.com/m/100069/716184/media/Studio-Zondag/Licht-Coffee-Table/Studio-Zondag-Licht-Coffee-Table-60cm-Eiche-schwarz.jpg 1x, https://cdn.connox.com/m/100106/716184/media/Studio-Zondag/Licht-Coffee-Table/Studio-Zondag-Licht-Coffee-Table-60cm-Eiche-schwarz.jpg 2x" alt="Coffee tables" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Coffee tables</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/home-decor/candle-holders.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/239897/media/Stoff/Kerzenhalter/Stoff-Nagel-Kerzenhalter-schwarz-dreier-Set-frei_2.jpg" srcset="https://cdn.connox.com/m/100069/239897/media/Stoff/Kerzenhalter/Stoff-Nagel-Kerzenhalter-schwarz-dreier-Set-frei_2.jpg 1x, https://cdn.connox.com/m/100106/239897/media/Stoff/Kerzenhalter/Stoff-Nagel-Kerzenhalter-schwarz-dreier-Set-frei_2.jpg 2x" alt="Candlestick" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Candlestick</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/kitchenware/dinnerware.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/565934/media/Bloomingville/AW2023/Bloomingville-Kendra-Geschirrset-grau-12-teilig.jpg" srcset="https://cdn.connox.com/m/100069/565934/media/Bloomingville/AW2023/Bloomingville-Kendra-Geschirrset-grau-12-teilig.jpg 1x, https://cdn.connox.com/m/100106/565934/media/Bloomingville/AW2023/Bloomingville-Kendra-Geschirrset-grau-12-teilig.jpg 2x" alt="Dishes" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Dishes</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/home-textiles/rugs.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/716185/media/Lorena-Canals/Lorena-Canals-Bloom-Natural-Teppich-140-x-200-cm-natur.jpg" srcset="https://cdn.connox.com/m/100069/716185/media/Lorena-Canals/Lorena-Canals-Bloom-Natural-Teppich-140-x-200-cm-natur.jpg 1x, https://cdn.connox.com/m/100106/716185/media/Lorena-Canals/Lorena-Canals-Bloom-Natural-Teppich-140-x-200-cm-natur.jpg 2x" alt="Carpets" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Carpets</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/accessories/home-decor/vases.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/715981/media/Marimekko/Urna-Vase/Marimekko-Urna-Vase-30-cm-klar.jpg" srcset="https://cdn.connox.com/m/100069/715981/media/Marimekko/Urna-Vase/Marimekko-Urna-Vase-30-cm-klar.jpg 1x, https://cdn.connox.com/m/100106/715981/media/Marimekko/Urna-Vase/Marimekko-Urna-Vase-30-cm-klar.jpg 2x" alt="Vases" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Vases</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/lighting/floor-lamps.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/796116/media/Vitra/Akari/10A/Vitra-Akari-10A-Stehleuchte-creme-tripod-frei.jpg" srcset="https://cdn.connox.com/m/100069/796116/media/Vitra/Akari/10A/Vitra-Akari-10A-Stehleuchte-creme-tripod-frei.jpg 1x, https://cdn.connox.com/m/100106/796116/media/Vitra/Akari/10A/Vitra-Akari-10A-Stehleuchte-creme-tripod-frei.jpg 2x" alt="Floor lamps" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Floor lamps</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide>
+                <div class="top-categories__box">
+                  <a href="/categories/furniture/couches-sofas.html" class="top-categories__link">
+                    <img class="top-categories__image" src="https://cdn.connox.com/m/100069/796126/media/HKliving/Juni-2022/HKliving-Retro-2-Sitzer-Sofa-velvet-corduroy-aged-gold.jpg" srcset="https://cdn.connox.com/m/100069/796126/media/HKliving/Juni-2022/HKliving-Retro-2-Sitzer-Sofa-velvet-corduroy-aged-gold.jpg 1x, https://cdn.connox.com/m/100106/796126/media/HKliving/Juni-2022/HKliving-Retro-2-Sitzer-Sofa-velvet-corduroy-aged-gold.jpg 2x" alt="Sofas" loading="lazy"/>
+                    <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    <h2 class="top-categories__title">Sofas</h2>
+                  </a>
+                </div>
+              </swiper-slide>
+            </swiper-container>
+          </div>
+        </div>
+      </section>
+            <!--
+      Wir suchen Dich! Werde auch du Teil von Connox.
+      Du arbeitest schon in einem tollen Team und möchtest deine Kollegen nicht missen? Nimm sie mit und bewerbt euch als Team bei uns.
+      # beunique
+    -->
+      <section id="BannerSection" class="section-banner-homepage mb-11 mb-l-13">
+        <div>
+          <div class="container-title">
+            <h2>Highlights and Promotions</h2>
+          </div>
+          <div class="section-banner-homepage__swiper ga-swiper-promo m-0">
+            <div class="swiper-navigation">
+              <div class="swiper-btn-prev">
+                <span class="icon icon-chevron-left mx-3"/>
+              </div>
+              <div class="swiper-btn-next">
+                <span class="icon icon-chevron-right mx-3"/>
+              </div>
+            </div>
+            <swiper-container class="swiper-watch-progress" navigation-next-el=".section-banner-homepage__swiper .swiper-btn-next" navigation-prev-el=".section-banner-homepage__swiper .swiper-btn-prev" breakpoints="{&quot;0&quot;:{&quot;slidesPerView&quot;:1.25,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;481&quot;:{&quot;slidesPerView&quot;:1.6,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;651&quot;:{&quot;slidesPerView&quot;:2.6,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;768&quot;:{&quot;slidesPerView&quot;:2.25,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;851&quot;:{&quot;slidesPerView&quot;:2.75,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16},&quot;941&quot;:{&quot;slidesPerView&quot;:3.66,&quot;slidesOffsetBefore&quot;:16,&quot;slidesOffsetAfter&quot;:16,&quot;rewind&quot;:true},&quot;1132&quot;:{&quot;slidesPerView&quot;:4,&quot;slidesOffsetBefore&quot;:0,&quot;slidesOffsetAfter&quot;:0,&quot;rewind&quot;:true}}" space-between="16" lazy-preload-prev-next="2" simulate-touch="true" mousewheel-force-to-axis="true">
+              <swiper-slide class="swiper-slide">
+                <div class="card column-8 column-s-4">
+                  <a class="image-link" href="/categories/furniture/seating-furniture/chairs.html" title="The perfect chair for your home - more">
+                    <div class="card__img">
+                      <img src="https://cdn.connox.com/m/100108/640685/media/Vitra/Eames-Plastic-side-chair/DSW-Basalt-2.jpg" srcset="https://cdn.connox.com/m/100108/640685/media/Vitra/Eames-Plastic-side-chair/DSW-Basalt-2.jpg 1x, https://cdn.connox.com/m/100109/640685/media/Vitra/Eames-Plastic-side-chair/DSW-Basalt-2.jpg 2x" alt="The perfect chair for your home" loading="lazy"/>
+                      <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    </div>
+                    <div class="card__content card__content--light">
+                      <div class="card__content__text">
+                        <span className="card__content__subtitle line-clamp-one mb-1">Comfortable sitting made easy</span>
+                        <h3 class="line-clamp-three">The perfect chair for your home</h3>
+                      </div>
+                      <div class="card__footer">
+                        <span class="link link-icon">Find out more<i class="icon icon-right--blue ml-3"> </i></span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide class="swiper-slide">
+                <div class="card column-8 column-s-4">
+                  <a class="image-link" href="/exclusive-editions.html" title="Discover exclusive editions now - more">
+                    <div class="card__img">
+                      <img src="https://cdn.connox.com/m/100108/819499/media/hay/Palissade/deep-blue/Hay-Palissade-Stuhl-deep-blue-Exklusive-Edition-2025-Situation.jpg" srcset="https://cdn.connox.com/m/100108/819499/media/hay/Palissade/deep-blue/Hay-Palissade-Stuhl-deep-blue-Exklusive-Edition-2025-Situation.jpg 1x, https://cdn.connox.com/m/100109/819499/media/hay/Palissade/deep-blue/Hay-Palissade-Stuhl-deep-blue-Exklusive-Edition-2025-Situation.jpg 2x" alt="Discover exclusive editions now" loading="lazy"/>
+                      <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    </div>
+                    <div class="card__content card__content--light">
+                      <div class="card__content__text">
+                        <span className="card__content__subtitle line-clamp-one mb-1">Exclusive designs</span>
+                        <h3 class="line-clamp-three">Discover exclusive editions now</h3>
+                      </div>
+                      <div class="card__footer">
+                        <span class="link link-icon">Find out more<i class="icon icon-right--blue ml-3"> </i></span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide class="swiper-slide">
+                <div class="card column-8 column-s-4">
+                  <a class="image-link" href="/categories/furniture/coffee-tables.html" title="Practical coffee tables - more">
+                    <div class="card__img">
+                      <img src="https://cdn.connox.com/m/100108/640709/media/artvoll/AmbienteBilder-Hay-artvoll/191107_HAY_CONNOX_02_084.jpg" srcset="https://cdn.connox.com/m/100108/640709/media/artvoll/AmbienteBilder-Hay-artvoll/191107_HAY_CONNOX_02_084.jpg 1x, https://cdn.connox.com/m/100109/640709/media/artvoll/AmbienteBilder-Hay-artvoll/191107_HAY_CONNOX_02_084.jpg 2x" alt="Practical coffee tables" loading="lazy"/>
+                      <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    </div>
+                    <div class="card__content card__content--light">
+                      <div class="card__content__text">
+                        <span className="card__content__subtitle line-clamp-one mb-1">Chic design in the living area</span>
+                        <h3 class="line-clamp-three">Practical coffee tables</h3>
+                      </div>
+                      <div class="card__footer">
+                        <span class="link link-icon">Find out more<i class="icon icon-right--blue ml-3"> </i></span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </swiper-slide>
+              <swiper-slide class="swiper-slide">
+                <div class="card column-8 column-s-4">
+                  <a class="image-link" href="/categories/furniture/couches-sofas.html" title="Stylish sofas - more">
+                    <div class="card__img">
+                      <img src="https://cdn.connox.com/m/100108/640689/media/Karup/Mrz-2021/Karup-Design-Roots-140-cm-Ambiente-1.jpg" srcset="https://cdn.connox.com/m/100108/640689/media/Karup/Mrz-2021/Karup-Design-Roots-140-cm-Ambiente-1.jpg 1x, https://cdn.connox.com/m/100109/640689/media/Karup/Mrz-2021/Karup-Design-Roots-140-cm-Ambiente-1.jpg 2x" alt="Stylish sofas" loading="lazy"/>
+                      <div class="swiper-lazy-preloader"><!--empty div--></div>
+                    </div>
+                    <div class="card__content card__content--light">
+                      <div class="card__content__text">
+                        <span className="card__content__subtitle line-clamp-one mb-1">Cozy living room moments</span>
+                        <h3 class="line-clamp-three">Stylish sofas</h3>
+                      </div>
+                      <div class="card__footer">
+                        <span class="link link-icon">Find out more<i class="icon icon-right--blue ml-3"> </i></span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </swiper-slide>
+            </swiper-container>
+          </div>
+        </div>
+      </section>
+            <section>
+        <div id="NewProductsSlider" class="new-products-slider mb-7 mb-l-10" data-new-item-ids="373273,374575,403736,403783,417372,417371,417373" data-container-link-url="https://www.connox.com/new.html"><!--empty div--></div>
+      </section>
+      <section>
+        <div id="PARecommendations" class="mb-7 mb-l-10"><!--empty div--></div>
+      </section>
+      <section id="LongTextSection" class="mb-11 mb-l-13">
+        <div>
+          <div class="text">
+<!-- F ( -->
+<h2> Connox – Interior Design and Inspiration for Your Home</h2>
+<p>We are glad that you found your way to our site. Make your home unique! At Connox you will find everything you need for this: furniture of strong character and beautiful decor and accessories, helpful answers to your questions on interior design and inspiring home ideas.</p>
+<p><strong>Home Design:</strong> Every day and all around the world, <a href="https://www.connox.com/designers.html" title="Designers">designers</a> create exceptional products. We track down the world's best designs for you. With more than 25,000 articles of <a href="https://www.connox.com/categories/furniture.html" title="Design Furniture">design furniture</a>, <a href="https://www.connox.com/categories/accessories.html" title="Accessories for Your Home">home accessories</a> and <a href="100184" title="Lamps">lamps</a> we offer you everything you need for your interior design. Discover your own personal design favorite – that we’ll deliver directly to your home.</p>
+<p><strong>Advice:</strong> Your own home should be something very special, the purchase of furnishing objects must be well thought out. We are happy to assist you personally with shopping and furnishing. Feel free to contact us!</p>
+<p><strong>Inspiration:</strong> In our <a href="https://www.connox.com/magazine.html" title="Home Design Blog">home design blog</a> you'll find plenty of illustrated inspirations and tips on living and furnishing. They help you to find your style and one or the other favorite piece. Our <a href="https://www.connox.com/rooms.html" title="Rooms">rooms</a>, sites on <a href="https://www.connox.com/design-knowledge.html" title="Design Knowledge">design knowledge</a> and <a href="https://www.connox.com/living-design-topics.html" title="Topics">topics</a> help you find exactly what makes you happy.</p>
+<p><strong>For Business Customers:</strong> Special conditions and a personal contact make it easy to create and decorate business and project rooms. Find out more here!</p>
+<p>You decide how you browse through our sites, discover the products and shop. The classic way via PC or on our mobile website. At any time and everywhere you have access to our entire assortment. Learn more about our home design shop and the Connox team <a href="https://www.connox.com/company.html" title="About Us">here</a>. Or let us keep you up to date about new products, home ideas and special offers with our newsletter.</p>
+
+<!-- ) F -->
+</div>
+        </div>
+      </section>
+      <section>
+        <div class="short-newsletter-block" data-place="above-footer-new"><!--empty div--></div>
+      </section>
+      <footer>
+        <div>
+          <div class="container">
+            <div class="container__item container__item--single">
+              <div class="container__item__content foot-notes">
+                <p class="footnote">
+                  <sup class="footnote-icon">*</sup>
+                  <span>All item prices include sales tax and exclude <a title="shipping costs" href="https://www.connox.com/help/delivery.html">shipping costs</a>.</span>
+                </p>
+                <p class="voucher-footnote"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="container container--stacked">
+            <div class="container__item">
+              <div class="container__item__title">
+                <a href="https://www.connox.com/help.html">Service</a>
+              </div>
+            </div>
+            <div class="container__item">
+              <div class="container__item__content">
+                <a href="https://www.connox.com/help.html#contactform">Contact Form</a>
+              </div>
+            </div>
+            <div class="container__item">
+              <div class="container__item__content"><a href="https://www.connox.com/general-terms-and-conditions.html" title="General Terms and Conditions - more">General Terms and Conditions</a>, <a href="https://www.connox.com/legal-notice.html" title="Legal Information - more">Legal Information</a>, <a href="https://www.connox.com/help/safety-and-data-protection.html">Privacy</a>, <a href="#" onclick="UC_UI.showSecondLayer(); return false;">Cookie settings</a></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="container__item container__item--drawer">
+  <div class="container__item__title">Your Order<i class="icon icon-chevron-down"> </i></div>
+  <div class="container__item__content text">
+    <ul class="list-style-none">
+      <li>
+        <a href="https://www.connox.com/help/delivery.html">Shipping Information</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/help/payment.html">More Payment Methods</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/help/returns-exchanges.html">30 Days Right of Withdrawal</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/help/return-documents.html">Return Documents</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/help/delivery.html#disposal">Disposal</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+            <div class="container__item container__item--drawer">
+  <div class="container__item__title">
+    <a href="https://www.connox.com/company.html">About us</a>
+    <i class="icon icon-chevron-down"> </i>
+  </div>
+  <div class="container__item__content text">
+    <ul class="list-style-none">
+      <li>
+        <a href="https://www.connox.com/tag.html" title="Interior Design Topics - more">Interior Design Topics</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/company/jobs-hanover.html" title="Jobs - more">Jobs</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/newsletter-registration.html" title="Connox Newsletter - more">Newsletter</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/categories/gift-vouchers.html" title="Gift vouchers - more">Gift vouchers</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/connox-voucher.html" title="Connox Voucher - more">Connox Voucher</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/magazine.html" title="Connox Magazine - more">Connox Magazine</a>
+      </li>
+      <li>
+        <a href="https://www.connox.com/sitemap.html" title="Sitemap - more">Sitemap</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+            <div class="container__item container__item--drawer">
+              <div class="container__item__title">International<i class="icon icon-chevron-down"> </i></div>
+              <div class="container__item__content text">
+                <ul class="list-style-none">
+                  <li>
+                    <a href="https://www.connox.com/" title="This page in English">connox.com, English</a>
+                  </li>
+                  <li>
+                    <a href="https://www.connox.de/" title="Diese Seite in Deutsch">connox.de</a>
+                  </li>
+                  <li>
+                    <a href="https://www.connox.at/" title="Diese Seite in Deutsch (Österreich)">connox.at</a>
+                  </li>
+                  <li>
+                    <a href="https://www.connox.ch/" title="Diese Seite in Deutsch (Schweiz)">connox.ch</a>
+                  </li>
+                  <li>
+                    <a href="https://www.connox.fr/" title="Cette page en français">connox.fr, Français</a>
+                  </li>
+                  <li>
+                    <a href="https://www.connox.dk/" title="Dette websted i dansk">connox.dk, Dansk</a>
+                  </li>
+                  <li>
+                    <a href="https://fr.connox.ch/" title="Cette page en français (Suisse)">fr.connox.ch, Français</a>
+                  </li>
+                  <li>
+                    <a href="https://www.connox.nl/" title="Deze pagina in het Nederlands">connox.nl, Nederlands</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="container__item container__item--drawer">
+  <div class="container__item__title">
+    <a href="https://www.connox.com/help/payment.html">Various payment options</a>
+    <i class="icon icon-chevron-down"> </i>
+  </div>
+  <div class="container__item__content">
+    <a class="image-link payment-types" href="https://www.connox.com/help/payment.html"><span class="icon icon-paymentcard-paypal"> </span><span class="icon icon-paymentcard-apple"> </span><span class="icon icon-paymentcard-gpay"> </span> <span class="icon icon-paymentcard-creditcard paymentcard-en"><span class="icon__content">Credit card</span></span> <span class="icon icon-paymentcard-prepayment paymentcard-en"><span class="icon__content">Prepayment</span></span> <span class="icon icon-paymentcard-invoice paymentcard-en"><span class="icon__content">Invoice</span></span></a>
+  </div>
+</div>
+
+          </div>
+          <div class="container">
+            <div class="container__item">
+                            <div class="container__item__title">Follow Us</div>
+              <div class="container__item__content">
+                <div class="social-media-icons"><span data-href-blank="https://www.instagram.com/_connox_/" class="icon icon-link icon-instagram">Instagram</span> <span data-href-blank="https://www.facebook.com/connoxcom" class="icon icon-link icon-facebook">Facebook</span> <span data-href-blank="https://de.linkedin.com/company/connox-gmbh" class="icon icon-link icon-linkedin">LinkedIn</span> <span data-href-blank="https://www.pinterest.com/connox/" class="icon icon-link icon-pinterest">Pinterest</span> <span data-href-blank="https://www.tiktok.com/@_connox_" class="icon icon-link icon-tiktok">TikTok</span> <span data-href-blank="https://www.youtube.com/c/connox" class="icon icon-link icon-youtube">YouTube</span> </div>
+              </div>
+                          </div>
+          </div>
+          <div class="container">
+            <div class="container__item container__item--single">
+              <div class="container__item__content">
+                <p>© Connox - be unique.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+            <script src="https://cdn.connox.com/script/connox.118.min.js?v=114"></script>
+
+      <div>
+  <script>
+        window.c_links = {
+        URL_Privacy: "/help/safety-and-data-protection.html#privacy",
+        URL_TermsAndConditions: "/general-terms-and-conditions.html",
+        URL_RevocationRights: "/help/returns-exchanges.html#revocation",
+        URL_Imprint: "/impressum.html",
+        URL_Search: "/search.html",
+        ContactPhone: "+49 (0)511 93688 676"
+        };
+      </script>
+  <script src="https://cdn.connox.com/script/react.production.min.js?v=1820"></script>
+  <script src="https://cdn.connox.com/script/react-dom.production.min.js?v=1820"></script>
+  <script src="https://cdn.connox.com/script/cnxwp.118.min.js?v=114"></script>
+</div>
+
+      <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Connox",
+        "alternateName": "Connox - be unique",
+        "url": "https://www.connox.com",
+        "logo": "https://www.connox.com/media/_Logos/connox-logo.png",
+        "sameAs": [
+          "https://www.facebook.com/connoxcom",
+          "https://www.pinterest.com/connox/",
+          "https://www.instagram.com/_connox_/"
+        ],
+        "contactPoint": [
+       { "@type" : "ContactPoint",
+       "telephone" : "+49 (0)511 93688 676",
+       "contactType" : "customer service"
+       } ],
+        "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.connox.com/search.html?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+        }
+        }
+        </script>
+    </div>
+  </body>
+</html>

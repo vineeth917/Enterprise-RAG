@@ -1,0 +1,991 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="h-100">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.healthlinkbc.ca/search" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/kb_bootstrap5/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Search Results | HealthLink BC</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_uBwJZQEIzQ2Ovh_l1_Pa08HZ4DA6nPi3rRpIBonDGzA.css?delta=0&amp;language=en&amp;theme=kb_bootstrap5&amp;include=eJx1j-FqwzAMhF_Ii3_1eYxk31yvimUsO2v29AsrI-1gIITuhL5DTPEWhh7VPJ9zKFGr45h1C3zxWZRJ3mzsUmp2jDHQA-5NDSm8Fzmk-YyKTuJYddjo1C4H0vCs_4LOzQozyjAXtcOnPhvJQh90fzFSIdH8sKr2laR8wd04_J8htOscIRWLuqHvXiuiimvUKR8HV_uFn84ya5ssxa5IznYbWB-vbAWf5n_6smqagm-R9X0o" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_LQm7ByKnePFLwunlOaLeY6luPAnxM7WuIdjqfOayS-c.css?delta=1&amp;language=en&amp;theme=kb_bootstrap5&amp;include=eJx1j-FqwzAMhF_Ii3_1eYxk31yvimUsO2v29AsrI-1gIITuhL5DTPEWhh7VPJ9zKFGr45h1C3zxWZRJ3mzsUmp2jDHQA-5NDSm8Fzmk-YyKTuJYddjo1C4H0vCs_4LOzQozyjAXtcOnPhvJQh90fzFSIdH8sKr2laR8wd04_J8htOscIRWLuqHvXiuiimvUKR8HV_uFn84ya5ssxa5IznYbWB-vbAWf5n_6smqagm-R9X0o" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_S5_ArMPlHkH49rAMp3JZ8hiGlhnkdMGcOqhusV5JOt8.css?delta=2&amp;language=en&amp;theme=kb_bootstrap5&amp;include=eJx1j-FqwzAMhF_Ii3_1eYxk31yvimUsO2v29AsrI-1gIITuhL5DTPEWhh7VPJ9zKFGr45h1C3zxWZRJ3mzsUmp2jDHQA-5NDSm8Fzmk-YyKTuJYddjo1C4H0vCs_4LOzQozyjAXtcOnPhvJQh90fzFSIdH8sKr2laR8wd04_J8htOscIRWLuqHvXiuiimvUKR8HV_uFn84ya5ssxa5IznYbWB-vbAWf5n_6smqagm-R9X0o" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"kw":"healthyfamilies bc joins healthlinkbcca"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9UNFuwyAM_CESXtbvsQx4lMTBCJOk2dcPrdXSTuokC519tjmfQz9Dkx7FuhND8pKNe0NOapyPsoG72MjikAdtB6ccjaPWqALdiigF-EzcU7WRMlXkd3QfnRVWJcAJb8aJNG0VywcsEpCt0wcaQ0KWOL62Xbo6pZf8Fw6TDoyNtD3zf1WfzEKqGEmNl0o2S12Q0xeZGG6AGfloySuEuhZk0Cx7Ydntv-y4k-vL_dwvv7LzZnbwXgvjIWuDkNTLRvWwkskLm4IVYx-4qr3vH8_KuOayOk56pWD00EbL3ZIt0a7257179lzojq786DkFWS9L6X_mpt8U8tVW","theme":"kb_bootstrap5","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"gdx_snowplow":{"gdx_collector":"spt.apps.gov.bc.ca","app_id":"Snowplow_standalone","snowplow_version":"Healthlink Inline Search vC.2.14.0","search_path":"\/search","script_uri":"https:\/\/www2.gov.bc.ca\/StaticWebResources\/static\/sp\/sp-2-14-0.js","search":true,"search_terms":["healthyfamilies","bc","joins","healthlinkbcca"]},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:1e1a5454ab4d75bca9122c739e1197e7f7320383e372dbfacb06a6be2cfd53ae":{"view_name":"search_results","view_display_id":"page_1","view_args":"","view_path":"\/search","view_base_path":"search","view_dom_id":"1e1a5454ab4d75bca9122c739e1197e7f7320383e372dbfacb06a6be2cfd53ae","pager_element":0},"views_dom_id:f8e413efc1996f852480ba256122e820dd62da3502590e2f3d54d50629292cac":{"view_name":"public_health_alerts_internal_feeds","view_display_id":"public_health_alerts_banner","view_args":"","view_path":"\/node\/568","view_base_path":null,"view_dom_id":"f8e413efc1996f852480ba256122e820dd62da3502590e2f3d54d50629292cac","pager_element":0}}},"user":{"uid":0,"permissionsHash":"94e0c5a29b8602f76c2b191a65be92614564426759f68cc3bab48a4f12a3d625"}}</script>
+<script src="/sites/default/files/js/js_x7VJkuNXkXd24XX_0y-OPGSxfSSgcehgwLh_nJrCHK8.js?scope=header&amp;delta=0&amp;language=en&amp;theme=kb_bootstrap5&amp;include=eJx9jtFuwzAIRX_IiV-270FgM9cJNVagTfr3tdpJ2R42CaGDLlwuYVrBdVSPdDIsFojdeQM-uhpn-KoyRouFG28of8lS22pwMwZc8Aik6uYb9g-4akaJZN8054qiZf699hlPnBabBJ3NQ8kHYEN5eE0Gebt1FLCmexfd47_qvDMNu7SOsBehFFaCH--KKKFM5o-RvIR75d3iq7-TvfA8iEmvXRs3tycsUX07"></script>
+
+  </head>
+  <body class="path-search d-flex flex-column">
+        <div class="visually-hidden-focusable skip-link p-3 container">
+      <a href="#main-content" class="p-2">
+        Skip to main content
+      </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    
+
+    <div class="region region-preheader">
+    <div class="views-element-container block block-views block-views-blockpublic-health-alerts-internal-feeds-public-health-alerts-banner container" id="block-kb-bootstrap5-views-block-public-health-alerts-banner">
+  
+      <a class="public-health-alerts-banner-title-link" href="/health-library/public-health-alerts">
+      <label class="public-health-alerts-banner-title">
+        Public Health Alerts:
+      </label>
+    </a>
+    
+      <div data-block="preheader"><div class="view view-public-health-alerts-internal-feeds view-id-public_health_alerts_internal_feeds view-display-id-public_health_alerts_banner js-view-dom-id-f8e413efc1996f852480ba256122e820dd62da3502590e2f3d54d50629292cac">
+  
+    
+
+  
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-public-health-alerts-internal-feeds-public-health-alerts-banner" class="carousel slide carousel-fade"  data-bs-ride="carousel"
+     data-bs-interval="7000" data-bs-pause="hover"
+     data-wrap="1">
+
+    
+    <div class="carousel-inner">
+                                <div  class="carousel-item active">
+          <div class="row">
+                  <div class="col-md-12 position-relative">
+                  
+
+<article class="node node--type-health-alert node--promoted node--view-mode-banner">
+
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodehealth-alertfield-link">
+  
+    
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="https://towardtheheart.com/assets/wysiwyg/17-04-2025%20Drug%20Alert%20-%20Vernon%20PRINT.pdf">Interior Health - Drug Alert - Vernon </a></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+              </div>
+                      </div>
+        </div>
+                                      <div  class="carousel-item">
+          <div class="row">
+                  <div class="col-md-12 position-relative">
+                  
+
+<article class="node node--type-health-alert node--promoted node--view-mode-banner">
+
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodehealth-alertfield-link">
+  
+    
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="https://towardtheheart.com/assets/wysiwyg/UPDATED_Overdose-Advisory-Central%20Island.pdf">Drug Poisoning Overdose Advisory - Central Vancouver Island - April 16, 2025</a></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+              </div>
+                      </div>
+        </div>
+                                      <div  class="carousel-item">
+          <div class="row">
+                  <div class="col-md-12 position-relative">
+                  
+
+<article class="node node--type-health-alert node--promoted node--view-mode-banner">
+
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodehealth-alertfield-link">
+  
+    
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="https://news.gov.bc.ca/releases/2025EMCR0016-000340">People in British Columbia encouraged to prepare for seasonal hazards</a></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+              </div>
+                      </div>
+        </div>
+                                      <div  class="carousel-item">
+          <div class="row">
+                  <div class="col-md-12 position-relative">
+                  
+
+<article class="node node--type-health-alert node--promoted node--view-mode-banner">
+
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodehealth-alertfield-link">
+  
+    
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="https://towardtheheart.com/assets/wysiwyg/AL%2015_Overdose-Advisory-Port%20Alberni.pdf">Drug Poisoning Overdose Advisory - Port Alberni</a></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+              </div>
+                      </div>
+        </div>
+                                      <div  class="carousel-item">
+          <div class="row">
+                  <div class="col-md-12 position-relative">
+                  
+
+<article class="node node--type-health-alert node--promoted node--view-mode-banner">
+
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blocknodehealth-alertfield-link">
+  
+    
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="https://www.vch.ca/en/news/new-case-travel-acquired-measles-identified-bc">New case of travel-acquired measles identified in B.C.</a></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+              </div>
+                      </div>
+        </div>
+            </div>
+    </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+<header class="page-header">
+  <div class="container d-block">
+    <div class="row mx-auto">
+      <div class="p-0">
+          <div class="region region-nav-branding">
+    <div id="block-kb-bootstrap5-site-branding" class="block block-system block-system-branding-block order-1">
+  
+    
+  <div class="navbar-brand">
+          <a href="/" title="Home" rel="home" class="site-logo d-block">
+        <img src="/themes/custom/kb_bootstrap5/logo.svg" alt="Home" fetchpriority="high" />
+      </a>
+      </div>
+</div>
+<nav role="navigation" aria-labelledby="block-kb-bootstrap5-main-menu-menu" id="block-kb-bootstrap5-main-menu" class="block block-menu navigation menu--main navbar navbar-expand-xl order-3 order-xl-2">
+            
+  <h5 class="visually-hidden" id="block-kb-bootstrap5-main-menu-menu">Main navigation</h5>
+  
+  <button class="btn btn-primary navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-menu-navbar" aria-controls="main-menu-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+    <div class="collapse navbar-collapse" id="main-menu-navbar">
+          
+                    <ul data-block="nav_branding" class="navbar-nav navbar-expand-lg nav-level-0 container">
+                            <li class="nav-item dropdown">
+          <a href="/living-well" class="nav-link dropdown-toggle" role="button" aria-expanded="false" title="Expand menu Living well" data-drupal-link-system-path="node/12101">Living well</a>
+      <button class="mobile-dropdown-icon dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
+                          <div data-block="nav_branding" class="dropdown-menu nav-level-1">
+        <div class="container h-100 dropdown-menu-container">
+          <ul class="dropdown-menu-ul">
+                                    <li class="nav-item">
+          <a href="/living-well/getting-older" class="dropdown-item" data-drupal-link-system-path="node/12103">Getting older</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/living-well/physical-activity" class="dropdown-item" data-drupal-link-system-path="node/11917">Physical activity</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/living-well/food-and-nutrition" class="dropdown-item" data-drupal-link-system-path="node/12381">Food and nutrition</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/living-well/family-planning-pregnancy-and-childbirth" class="dropdown-item" data-drupal-link-system-path="node/12122">Family planning, pregnancy and childbirth</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/living-well/parenting" class="dropdown-item" data-drupal-link-system-path="node/12382">Parenting</a>
+      </li>
+
+                      </ul>
+        </div>
+      </div>
+      
+      </li>
+
+                            <li class="nav-item dropdown">
+          <a href="/health-library" class="nav-link dropdown-toggle" role="button" aria-expanded="false" title="Expand menu Health library" data-drupal-link-system-path="node/12100">Health library</a>
+      <button class="mobile-dropdown-icon dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
+                          <div data-block="nav_branding" class="dropdown-menu nav-level-1">
+        <div class="container h-100 dropdown-menu-container">
+          <ul class="dropdown-menu-ul">
+                                    <li class="nav-item">
+          <a href="/health-library/illnesses-and-conditions" class="dropdown-item" data-drupal-link-system-path="node/11316">Illnesses and conditions</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/health-library/medical-tests" class="dropdown-item" data-drupal-link-system-path="node/11269">Medical tests</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/health-library/healthlinkbc-files" class="dropdown-item" data-drupal-link-system-path="node/11736">HealthLinkBC Files</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/health-library/health-features" class="dropdown-item" data-drupal-link-system-path="node/11387">Health Features</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/health-library/public-health-alerts" class="dropdown-item" data-drupal-link-system-path="node/11784">Public Health Alerts</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/healthwise/check-your-symptoms" class="dropdown-item" data-drupal-link-system-path="node/8430">Symptom Checker</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/health-library/immunizations" class="dropdown-item" data-drupal-link-system-path="node/12489">Immunizations</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/health-library/medications" class="dropdown-item" data-drupal-link-system-path="node/12504">Medications</a>
+      </li>
+
+                      </ul>
+        </div>
+      </div>
+      
+      </li>
+
+                            <li class="nav-item dropdown">
+          <a href="/mental-health-and-substance-use" class="nav-link dropdown-toggle" role="button" aria-expanded="false" title="Expand menu Mental health and substance use" data-drupal-link-system-path="node/11494">Mental health and substance use</a>
+      <button class="mobile-dropdown-icon dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
+                          <div data-block="nav_branding" class="dropdown-menu nav-level-1">
+        <div class="container h-100 dropdown-menu-container">
+          <ul class="dropdown-menu-ul">
+                                    <li class="nav-item">
+          <a href="/mental-health-and-substance-use/mental-health" class="dropdown-item" data-drupal-link-system-path="node/11471">Mental health</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/mental-health-and-substance-use/substance-use" class="dropdown-item" data-drupal-link-system-path="node/11470">Substance use</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/mental-health-and-substance-use/tobacco-use" class="dropdown-item" data-drupal-link-system-path="node/11199">Tobacco use</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/mental-health-and-substance-use/wellbeing" class="dropdown-item" data-drupal-link-system-path="node/11261">Wellbeing</a>
+      </li>
+
+                      </ul>
+        </div>
+      </div>
+      
+      </li>
+
+                            <li class="nav-item dropdown">
+          <a href="/find-care" class="nav-link dropdown-toggle" role="button" aria-expanded="false" title="Expand menu Find care" data-drupal-link-system-path="node/12102">Find care</a>
+      <button class="mobile-dropdown-icon dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
+                          <div data-block="nav_branding" class="dropdown-menu nav-level-1">
+        <div class="container h-100 dropdown-menu-container">
+          <ul class="dropdown-menu-ul">
+                                    <li class="nav-item">
+          <a href="/find-care/find-health-services" class="dropdown-item" data-drupal-link-system-path="node/11263">Find health services</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/find-care/health-connect-registry" class="dropdown-item" data-drupal-link-system-path="node/11273">Health Connect Registry</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/find-care/healthlink-bc-8-1-1-services" class="dropdown-item" data-drupal-link-system-path="node/11237">HealthLink BC 8-1-1 Services</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/find-care/pharmacy-services-bc" class="dropdown-item" data-drupal-link-system-path="node/12119">Pharmacy services in B.C.</a>
+      </li>
+
+                                    <li class="nav-item">
+          <a href="/find-care/primary-care" class="dropdown-item" data-drupal-link-system-path="node/11223">Primary Care</a>
+      </li>
+
+                      </ul>
+        </div>
+      </div>
+      
+      </li>
+
+              </ul>
+      
+
+
+
+      </div>
+</nav>
+<div class="block-header-buttons order-2 order-xl-3">
+  <a class="btn btn-secondary header-call-button" href="tel:811"><span class="d-none d-sm-inline">Call </span>8-1-1</a>
+  <button class="btn btn-primary header-search-button" data-bs-toggle="collapse" data-bs-target="#block-kb-bootstrap5-simplesearchform" aria-expanded="false" aria-controls="block-kb-bootstrap5-simplesearchform">
+    <span class="d-none d-sm-inline">Search</span>
+  </button>
+  <div id="block-kb-bootstrap5-simplesearchform" class="block block-simple-search-form block-simple-search-form-block collapse">
+    <div class="container header-search-container">
+      <div class="row header-search-row">
+        
+                
+                  <form class="simple-search-form" data-drupal-selector="simple-search-form" action="/search" method="get" id="simple-search-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-kw form-item-kw form-no-label">
+      <label for="edit-kw--3" class="visually-hidden">Search</label>
+        
+  <input placeholder="Search your question" class="form-search form-control" data-drupal-selector="edit-kw" type="search" id="edit-kw--3" name="kw" value="" size="60" maxlength="128" />
+
+
+        </div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--3">
+    <input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Find" class="button js-form-submit form-submit btn btn-primary" />
+
+</div>
+
+</form>
+
+                <button class="btn btn-close" data-bs-toggle="collapse" data-bs-target="#block-kb-bootstrap5-simplesearchform" aria-controls="block-kb-bootstrap5-simplesearchform" aria-label="Close"></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+        <div class="region region-banner">
+    <div class="container">
+  <div id="block-kb-bootstrap5-page-title" class="block block-core block-page-title-block">
+    
+        
+          
+<h1>Search Results</h1>
+
+
+      </div>
+</div>
+
+  </div>
+
+  
+        <div class="region region-breadcrumb">
+    <div class="container">
+      <div id="block-kb-bootstrap5-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav aria-label="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+                  <a href="/">Home</a>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+
+  
+    <div class="region region-content">
+    <div class="container">
+      <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-kb-bootstrap5-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="views-element-container"><div class="view view-search-results view-id-search_results view-display-id-page_1 js-view-dom-id-1e1a5454ab4d75bca9122c739e1197e7f7320383e372dbfacb06a6be2cfd53ae">
+  
+    
+
+      <div class="view-filters">
+      <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-search-results-page-1" action="/search" method="get" id="views-exposed-form-search-results-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-kw form-item-kw">
+      
+        
+  <input placeholder="Search by illness, nutrition, symptom, parenting..." data-drupal-selector="edit-kw" type="text" id="edit-kw--2" name="kw" value="healthyfamilies bc joins healthlinkbcca" size="30" maxlength="128" class="form-text form-control" />
+
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-cat form-item-cat form-no-label">
+      <label for="edit-cat--2" class="visually-hidden">Type</label>
+        <div class="bef-links-use-ajax bef-links" data-drupal-selector="edit-cat" multiple="multiple" name="cat" id="edit-cat--2">
+                    <ul><li><a href="https://www.healthlinkbc.ca/search?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;cat%5B0%5D=236" id="edit-cat-236" name="cat[236]" class="bef-link">Health topics (179)</a>                      <li><a href="https://www.healthlinkbc.ca/search?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;cat%5B0%5D=239" id="edit-cat-239" name="cat[239]" class="bef-link">Medical tests (2)</a>                      <li><a href="https://www.healthlinkbc.ca/search?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;cat%5B0%5D=235" id="edit-cat-235" name="cat[235]" class="bef-link">Health features (1)</a>                      <li><a href="https://www.healthlinkbc.ca/search?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;cat%5B0%5D=261" id="edit-cat-261" name="cat[261]" class="bef-link">Primary care (1)</a></li></ul>      </div>
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+    <input data-drupal-selector="edit-submit-search-results-2" type="submit" id="edit-submit-search-results--2" value="Search" class="button js-form-submit form-submit btn btn-primary" />
+
+
+    <input data-drupal-selector="edit-reset-search-results-2" type="submit" id="edit-reset-search-results--2" name="reset" value="Reset" class="button js-form-submit form-submit btn btn-primary" />
+
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  
+      <div class="view-header">
+      183 results found
+    </div>
+  
+  
+      <div class="view-content">
+          <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health features</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/health-library/health-features/vaping" hreflang="en">Vaping</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/choosing-weight-loss-program" hreflang="en">Choosing a Weight-Loss Program</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/fitness-choosing-activities-are-right-you" hreflang="en">Fitness Choosing Activities That Are Right for You</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/translated-resources" hreflang="en">Translated resources</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/fitness-walking-wellness" hreflang="en">Fitness Walking for Wellness</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/living-well/physical-activity/physical-activity-tips-children" hreflang="en">Physical activity tips for children</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/johns-story-finding-way-exercise" hreflang="en">Johns Story Finding a Way to Exercise</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/fitness-staying-active-when-you-have-young-children" hreflang="en">Fitness Staying Active When You Have Young Children</a></h2></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Health topics</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/cervical-spinal-fusion" hreflang="en">Cervical Spinal Fusion</a></h2></div><div class="views-field views-field-search-api-excerpt"><span class="field-content">… Surgery Overview Cervical spinal fusion is surgery that <strong>joins</strong> two or more of the vertebrae in your neck . When these … while you recover. Why It Is Done Cervical spinal fusion <strong>joins</strong> two or more vertebrae in the neck to make the neck … … Surgery Overview Cervical spinal fusion is surgery that <strong>joins</strong> two or more of the vertebrae in your neck . When these …</span></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-search-facet"><span class="field-content">Medical tests</span></div><div class="views-field views-field-title"><h2 class="field-content"><a href="/healthwise/sperm-penetration-tests" hreflang="en">Sperm Penetration Tests</a></h2></div></div>
+
+    </div>
+  
+        <nav class="pager"  role="navigation" aria-labelledby="pagination-heading" aria-label="Pagination">
+    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+    <ul class="pagination js-pager__items">
+                                                        <li class="page-item is-active active" aria-current="page">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=0" title="Current page" aria-current="page" class="page-link">
+            <span class="visually-hidden">
+              Current page
+            </span>1</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=1" title="Go to page 2" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>2</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=2" title="Go to page 3" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>3</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=3" title="Go to page 4" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>4</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=4" title="Go to page 5" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>5</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=5" title="Go to page 6" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>6</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=6" title="Go to page 7" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>7</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=7" title="Go to page 8" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>8</a>
+        </li>
+              <li class="page-item">
+                                          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=8" title="Go to page 9" class="page-link">
+            <span class="visually-hidden">
+              Page
+            </span>9</a>
+        </li>
+                          <li class="page-item disabled">
+          <span class="page-link">&hellip;</span>
+        </li>
+                          <li class="page-item pager__item--next">
+          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=1" title="Go to next page" rel="next" class="page-link">
+            <span class="visually-hidden">Next page</span>
+            <span aria-hidden="true">››</span>
+          </a>
+        </li>
+                          <li class="page-item pager__item--last">
+          <a href="?kw=healthyfamilies%20bc%20joins%20healthlinkbcca&amp;page=18" title="Go to last page" class="page-link">
+            <span class="visually-hidden">Last page</span>
+            <span aria-hidden="true">19</span>
+          </a>
+        </li>
+          </ul>
+  </nav>
+
+          </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+
+</main>
+
+    <div class="region region-postcontent">
+    <div class="container">
+      <div class="row">
+        <div id="block-kb-bootstrap5-needhealthadvice" class="content-block--basic block block-block-content block-block-content7d982abb-505c-4fa4-be4b-e95309333c7c">
+  
+      <h2>Need health advice?</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><strong>Call toll-free in B.C., </strong><a href="tel:811"><strong><a class="emergency-number" href="tel:811">8-1-1</a></strong></a><strong>, or </strong><a href="tel:711"><strong><a class="emergency-number" href="tel:711">7-1-1</a></strong></a><strong> for the deaf and hard of hearing to get personalized assistance. Speak to a navigator who can guide you to reliable health information or connect you with a health professional.</strong></p></div>
+      
+      <div class="field field--name-field-block-paragraphs field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div id="paragraph-1604" class="full-width paragraph paragraph--type--layout-grid paragraph--view-mode--grid-4-columns-space-evenly" style="background-color: inherit;">
+    <div class="container">
+              
+<div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden">
+    <div class="field__items row d-flex justify-content-between">
+          <div class="field__item col-12 col-lg-6 col-xl-3 space-even-paragraph">
+          <div id="paragraph-1600" class="paragraph paragraph--type--card-with-icon paragraph--view-mode--borderless-image-left card">
+          <div class="clearfix bs-2col">
+  
+
+    <div class="card-icon clearfix bs-region bs-region--left">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-image">
+  
+    
+      
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/icons/nurse.svg" alt="Nurse" class="img-fluid" />
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+  </div>
+
+  </div>
+  
+    <div class="card-body clearfix bs-region bs-region--right">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-link">
+  
+    
+      
+      <div class="field field--name-field-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/find-care/healthlink-bc-8-1-1-services#paragraph-4575">Registered nurse</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+  
+</div>
+
+      </div>
+
+      </div>
+          <div class="field__item col-12 col-lg-6 col-xl-3 space-even-paragraph">
+          <div id="paragraph-1601" class="paragraph paragraph--type--card-with-icon paragraph--view-mode--borderless-image-left card">
+          <div class="clearfix bs-2col">
+  
+
+    <div class="card-icon clearfix bs-region bs-region--left">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-image">
+  
+    
+      
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/icons/apple-with-heart.svg" alt="Apple with heart" class="img-fluid" />
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+  </div>
+
+  </div>
+  
+    <div class="card-body clearfix bs-region bs-region--right">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-link">
+  
+    
+      
+      <div class="field field--name-field-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/find-care/healthlink-bc-8-1-1-services#paragraph-4577">Registered dietitian</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+  
+</div>
+
+      </div>
+
+      </div>
+          <div class="field__item col-12 col-lg-6 col-xl-3 space-even-paragraph">
+          <div id="paragraph-1603" class="paragraph paragraph--type--card-with-icon paragraph--view-mode--borderless-image-left card">
+          <div class="clearfix bs-2col">
+  
+
+    <div class="card-icon clearfix bs-region bs-region--left">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-image">
+  
+    
+      
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/icons/pharmaceuticals.svg" alt="Pharmaceuticals" class="img-fluid" />
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+  </div>
+
+  </div>
+  
+    <div class="card-body clearfix bs-region bs-region--right">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-link">
+  
+    
+      
+      <div class="field field--name-field-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/find-care/healthlink-bc-8-1-1-services#paragraph-4581">Pharmacist</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+  
+</div>
+
+      </div>
+
+      </div>
+          <div class="field__item col-12 col-lg-6 col-xl-3 space-even-paragraph">
+          <div id="paragraph-5086" class="paragraph paragraph--type--card-with-icon paragraph--view-mode--borderless-image-left card">
+          <div class="clearfix bs-2col">
+  
+
+    <div class="card-icon clearfix bs-region bs-region--left">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-image">
+  
+    
+      
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/icons/noun-doctor-6842982.svg" alt="Person with a stethoscope around their neck" class="img-fluid" />
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+  </div>
+
+  </div>
+  
+    <div class="card-body clearfix bs-region bs-region--right">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-link">
+  
+    
+      
+      <div class="field field--name-field-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/find-care/healthlink-bc-8-1-1-services/physician-services-healthlink-bc">Physician</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+  
+</div>
+
+      </div>
+
+      </div>
+          <div class="field__item col-12 col-lg-6 col-xl-3 space-even-paragraph">
+          <div id="paragraph-1602" class="paragraph paragraph--type--card-with-icon paragraph--view-mode--borderless-image-left card">
+          <div class="clearfix bs-2col">
+  
+
+    <div class="card-icon clearfix bs-region bs-region--left">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-image">
+  
+    
+      
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/icons/exercise.svg" alt="Person stretching on mat" class="img-fluid" />
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+  </div>
+
+  </div>
+  
+    <div class="card-body clearfix bs-region bs-region--right">
+    <div class="block block-layout-builder block-field-blockparagraphcard-with-iconfield-link">
+  
+    
+      
+      <div class="field field--name-field-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/find-care/healthlink-bc-8-1-1-services#paragraph-4578">Qualified exercise professionals</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+  
+</div>
+
+      </div>
+
+      </div>
+      </div>
+</div>
+
+          </div>
+  </div>
+</div>
+          </div>
+  
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <footer class="mt-auto page-footer footer-light text-dark bg-primary">
+            <div class="region region-prefooter">
+    <div class="container">
+      <div class="row">
+        <div class="col-6 col-sm-4 col-lg-2 prefooter-col">
+  <nav role="navigation" aria-labelledby="block-kb-bootstrap5-healthlinkbc-menu" id="block-kb-bootstrap5-healthlinkbc" class="block block-menu navigation menu--healthlinkbc">
+            
+    <h5 id="block-kb-bootstrap5-healthlinkbc-menu">HealthLink BC</h5>
+    
+
+              
+              <ul data-block="prefooter" class="nav navbar-nav">
+                    <li class="nav-item">
+        <a href="/about-us" class="nav-link px-0" data-drupal-link-system-path="node/11783">About us</a>
+              </li>
+                <li class="nav-item">
+        <a href="/contact-us" class="nav-link px-0" data-drupal-link-system-path="node/11782">Contact us</a>
+              </li>
+                <li class="nav-item">
+        <a href="/careers" class="nav-link px-0" data-drupal-link-system-path="node/11492">Careers</a>
+              </li>
+                <li class="nav-item">
+        <a href="/find-care/healthlink-bc-8-1-1-services" class="nav-link px-0" data-drupal-link-system-path="node/11237">8-1-1 Services</a>
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+<div class="col-6 col-sm-4 col-lg-2 prefooter-col">
+  <nav role="navigation" aria-labelledby="block-kb-bootstrap5-helpfullinks-menu" id="block-kb-bootstrap5-helpfullinks" class="block block-menu navigation menu--helpful-links">
+            
+    <h5 id="block-kb-bootstrap5-helpfullinks-menu">Helpful links</h5>
+    
+
+              
+              <ul data-block="prefooter" class="nav navbar-nav">
+                    <li class="nav-item">
+        <a href="/healthwise/check-your-symptoms" class="nav-link px-0" data-drupal-link-system-path="node/8430">Symptom Checker</a>
+              </li>
+                <li class="nav-item">
+        <a href="/find-care/find-health-services" class="nav-link px-0" data-drupal-link-system-path="node/11263">Find health services</a>
+              </li>
+                <li class="nav-item">
+        <a href="/health-library/healthlinkbc-files" class="nav-link px-0" data-drupal-link-system-path="node/11736">HealthLinkBC Files</a>
+              </li>
+                <li class="nav-item">
+        <a href="/resource-order-form" class="nav-link px-0" data-drupal-link-system-path="node/11235">Resource order form</a>
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+<div class="col-6 col-sm-4 col-lg-2 prefooter-col">
+  <nav role="navigation" aria-labelledby="block-kb-bootstrap5-accessibility-menu" id="block-kb-bootstrap5-accessibility" class="block block-menu navigation menu--accessibility">
+            
+    <h5 id="block-kb-bootstrap5-accessibility-menu">Accessibility</h5>
+    
+
+              
+              <ul data-block="prefooter" class="nav navbar-nav">
+                    <li class="nav-item">
+        <a href="/contact-us#deaf" class="nav-link px-0" data-drupal-link-system-path="node/11782">Deaf and hard of hearing</a>
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+<div class="col-12 col-sm-8 col-lg-4 prefooter-col">
+  <div id="block-kb-bootstrap5-prefootertext" class="content-block--basic block block-block-content block-block-contentc4afb0a1-4661-44ea-86a7-ff9f8b140cde">
+    
+        
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h4><strong>Is it an emergency?</strong>&nbsp;</h4><p>Call <a href="tel:911">9-1-1</a> or the local emergency number immediately.</p><h4><strong>Poison control</strong></h4><p>Call <a href="tel:1-800-567-8911">1-800-567-8911</a> if you were exposed to a toxic substance or poison.</p></div>
+      
+      </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+
+          <div class="region region-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-xl-2 d-flex justify-content-center align-items-center">
+          <img class="footer-bc-logo"
+               src="/themes/custom/kb_bootstrap5/assets/logos/BC_Logo_Horizontal_Dark.svg"
+               alt="British Columbia"
+          />
+        </div>
+        <div class="col-12 col-xl-5">
+          <nav role="navigation" aria-labelledby="block-kb-bootstrap5-footer-menu" id="block-kb-bootstrap5-footer" class="block block-menu navigation menu--footer">
+            
+  <h5 class="visually-hidden" id="block-kb-bootstrap5-footer-menu">Footer</h5>
+  
+
+        
+              <ul data-block="footer" class="nav navbar-nav navbar-expand-lg flex-row">
+                    <li class="nav-item">
+        <a href="https://www2.gov.bc.ca/gov/content/about-gov-bc-ca" class="nav-link">About gov.bc.ca</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www2.gov.bc.ca/gov/content/home/copyright" class="nav-link">Copyright</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www2.gov.bc.ca/gov/content/home/disclaimer" class="nav-link">Disclaimer</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www2.gov.bc.ca/gov/content/home/privacy" class="nav-link">Privacy</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+        </div>
+        <div class="col-12 col-xl-5">
+          <span class="copyright">Copyright © 2025 Province of British Columbia. All rights reserved.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_05Uccqk87dVejP9wTpnF1FcTSybNsvk5OWkhPBdppb8.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=kb_bootstrap5&amp;include=eJx9jtFuwzAIRX_IiV-270FgM9cJNVagTfr3tdpJ2R42CaGDLlwuYVrBdVSPdDIsFojdeQM-uhpn-KoyRouFG28of8lS22pwMwZc8Aik6uYb9g-4akaJZN8054qiZf699hlPnBabBJ3NQ8kHYEN5eE0Gebt1FLCmexfd47_qvDMNu7SOsBehFFaCH--KKKFM5o-RvIR75d3iq7-TvfA8iEmvXRs3tycsUX07"></script>
+
+  </body>
+</html>

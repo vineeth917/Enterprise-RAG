@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta property="og:site_name" content="Umbra Search African American History" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta name="twitter:site" content="@umbrasearch" />
+  <meta property="fb:app_id" content="304349596442657" />
+  <meta name="p:domain_verify" content="6ef008f6a3f3593f7b00c4f123000974"/>
+  <!-- Mobile viewport optimization h5bp.com/ad -->
+  <meta name="HandheldFriendly" content="True" />
+
+  <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+  <!--[if IEMobile]>
+  <meta http-equiv="cleartype" content="on">
+  <![endif]-->
+
+  <title>Umbra Search African American History</title>
+  <link href="https://umbrasearch.org/catalog/opensearch.xml" title="Umbra" type="application/opensearchdescription+xml" rel="search" />
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-1abc51aa7d9ffb413d04322debba9ea075c33f21cd91a08fb22316aa8782a5e0.ico" />
+  <link rel="stylesheet" media="screen" href="/assets/application-89024395a66567ca76fd70352e6bb89dbff84fea6f6ff741bca14475aa433943.css" />
+  <script src="/assets/application-0e1c1df7da22be4ed6b255bf39caa5afb998fd138bdf37233212dbb573cb067f.js"></script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="uN1XOP/PN+erbmbPy/mxvaIE+xG4CAJho66e3yRPQMUErThEUHl5iTXbcLw8ru3yqYxQ79KOWvQPfO3pQ9WXzg==" />
+  
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="blacklight-pages blacklight-pages-home">
+  <a class="sr-only" href="#content">Skip to main content</a>
+<nav class="navbar navbar-default navbar-static-top navbar-inverse navbar-primary navbar-fixed-top" role="navigation">
+
+  <div class="container">
+    <div class="navbar-header">
+      <div class="clearfix"><a class="navbar-brand" href="/"><img alt="Umbra Home" title="Umbra Search Home" src="/assets/umbra-color-notag-thumb-e412e1af2d3e13ba780332700d701f3a2aa1fb5287e99729a0e18eb0beaf9c4d.png" width="80" height="80" /></a></div>
+    </div>
+    <ul class="nav navbar-nav navbar-left" id="primary-nav">
+      <li>  <form class="search-query-form form-inline clearfix navbar-form" action="https://umbrasearch.org/catalog" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    
+
+    <div class="input-group ">
+      <span class="input-group-addon">
+        <select name="search_field" id="search_field" title="Targeted search options" class="search_field" aria-label="Search in"><option value="all_fields">All Fields</option>
+<option value="title">Title</option>
+<option value="Creator">Creator</option>
+<option value="Institution">Institution</option>
+<option value="keyword">Keyword</option></select>
+        <span class="sr-only">for</span>
+        </span>
+         <input type="text" name="q" id="q" placeholder="Search" class="search_q q form-control typeahead" aria-label="Search" data-autocomplete-enabled="true" data-autocomplete-path="suggest" />
+
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary search-btn" id="search" alt="Search" title="Search" autofocus>
+          <span class="submit-search-text"></span>
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+        </span>
+      </div>
+</form></li>
+      <li class="browse-item">
+  <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+  <i class="icon-help-circled"></i>
+  Help
+  <b class="caret"></b>
+  </a>
+  <ul aria-labelledby="help" class="dropdown-menu" id="help" role="menu">
+    <li role="menuitem">
+      <a id="about-nav-link" href="/pages/about">About</a>
+    </li>
+    <li role="menuitem">
+      <a id="participate-nav-link" href="/pages/participate">Get Involved</a>
+    </li>
+    <li role="menuitem">
+      <a id="contact-nav-link" href="/pages/contact">Contact Us</a>
+    </li>
+  </ul>
+</li>
+
+    </ul>
+      <div id="navbar" class="navbar-collapse collapse">
+          <div class="dropdown">
+            <ul class="nav navbar-nav navbar-right authentication-info">
+            </ul>
+          </div>
+        </div><!--/.nav-collapse -->
+  </div>
+</nav>
+
+  <div id="main-content">
+    <div class="navbar-secondary">
+      
+    </div>
+
+    <div id="main-container" class="container-fluid">
+      <style media="screen"> .home-panel { background-image: url(/uploads/featured_image/uploaded_image/21/EbonyTopaz.png); } </style>
+<div id="left"></div>
+<div id="right"></div>
+<div id="top"></div>
+<div class="home-panel-skin"></div>
+<div class='home-nav-bar'>
+<ul>
+<li>
+<li role="presentation" class=" about-homenav-link about-link homenav-link"><a tabindex="-1" role="menuitem" href="/pages/about">About</a></li>
+</li>
+<li>
+<li role="presentation" class=" participate-homenav-link participate-link homenav-link"><a tabindex="-1" role="menuitem" href="/pages/participate">Get Involved</a></li>
+</li>
+<li>
+<li role="presentation" class=" contact-homenav-link contact-link homenav-link"><a tabindex="-1" role="menuitem" href="/pages/contact">Contact Us</a></li>
+</li>
+<li>
+<li role="presentation" class=" blog-homenav-link blog-link homenav-link"><a tabindex="-1" role="menuitem" href="https://umbrasearchblog.org">#UmbraSearch</a></li>
+</li>
+</ul>
+</div>
+
+<div class="home-panel">
+  <div class="hidden-xs">
+    <div class="col-md-1 col-sm-1"></div>
+    <div id="home-search" class="col-centered col-lg-5 col-md-6 col-sm-8">
+      <div class="row">
+        <div id="home-search-logo"></div>
+        <div id="home-search-slogan"><h1>African American History</h1></div>
+      </div>
+      <div class="row search-bar">
+  <div class="col-md-12 col-sm-12 search-actions " >
+    <form class="search-query-form form-inline clearfix navbar-form" action="https://umbrasearch.org/catalog" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    
+
+    <div class="input-group input-group-lg">
+      <span class="input-group-addon">
+        <select name="search_field" id="search_field" title="Targeted search options" class="search_field" aria-label="Search in"><option value="all_fields">All Fields</option>
+<option value="title">Title</option>
+<option value="Creator">Creator</option>
+<option value="Institution">Institution</option>
+<option value="keyword">Keyword</option></select>
+        <span class="sr-only">for</span>
+        </span>
+         <input type="text" name="q" id="q" placeholder="Search" class="search_q q form-control typeahead" aria-label="Search" data-autocomplete-enabled="true" data-autocomplete-path="suggest" />
+
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary search-btn" id="search" alt="Search" title="Search" autofocus>
+          <span class="submit-search-text"></span>
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+        </span>
+      </div>
+</form>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+<div class="tagline"><span class="record-count">824,363</span> items from more than 1,000 U.S. archives, libraries, and museums.</div>
+
+<div class="col-sm-12">
+  <div class="col-sm-1"></div>
+  <div class="featured-image-title">
+        <a href="/catalog/50277c4636e3ff5c1c0b4b0708475d631c62e23b">Ebony and Topaz: A Collecteana (1927): Givens Collection of African American Literature, University of Minnesota Libraries <span class="glyphicon glyphicon-eye-open"></span></a>
+  </div>
+</div>
+
+<div id="content">
+<div id="featured">
+  <div class='col-sm-12 col-centered' id='featured'>
+<div class='featured-content-widgets'>
+<div class='row'>
+<div class='col-md-12'>
+<div class='col-md-2'></div>
+<div class='col-md-8' id='example-searches'>
+<h3>
+Get Started
+</h3>
+<div class='description'>
+Try some example searches to see what you can find in
+<em>
+Umbra Search.
+</em>
+</div>
+<div class='feature-boxes'>
+<a href='/catalog?qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;q=&quot;first african american&quot;&amp;qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;example-search=phrase-search'>
+<div class='feature-box' style='background-image: url(&#39;/assets/welcome-shirley-1ba2a73e7f8d2fa748efe4c36429641e11ae0ca316311c83361ebaf0d5113872.png&#39;);'>
+<div class='content'>
+<div class='title'>
+African American Firsts
+</div>
+<div class='item-count'>
+2974 items
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a href='/catalog?qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;q=&quot;Civil rights movement&quot;&amp;qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;f[sourceResource_type_ssi][]=video&amp;example-search=search-with-facet-video'>
+<div class='feature-box' style='background-image: url(&#39;/assets/king-98f8aa0de2049b296acd35f823ee398f03f949a2985f79e7502fd29112a07e05.png&#39;);'>
+<div class='content'>
+<div class='title'>
+Video from the Civil Rights Movement
+</div>
+<div class='item-count'>
+531 items
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a href='/catalog?qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;q=+&quot;underground railroad&quot; -&quot;subways&quot;&amp;qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;example-search=operator-search'>
+<div class='feature-box' style='background-image: url(&#39;/assets/railroad-d0f2331055e196a488401777e376af4d241e44303182340de1dfbf466ab32281.png&#39;);'>
+<div class='content'>
+<div class='title'>
+Underground Railroad (Advanced Search)
+</div>
+<div class='item-count'>
+2123 items
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a href='/catalog?qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;q=&quot;Niagara movement&quot;&amp;qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;example-search=phrase-search'>
+<div class='feature-box' style='background-image: url(&#39;/assets/niagara-c0357f59dd1a2f05412b1d946adba1b8d7da40f19029110012d2bb2e1a8fb958.png&#39;);'>
+<div class='content'>
+<div class='title'>
+The Creation of the Niagara Movement
+</div>
+<div class='item-count'>
+380 items
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a href='/catalog?qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;q=&quot;Alvin ailey&quot;&amp;qt=umbra_search&amp;fl=*&amp;rows=20&amp;bq=sourceResource_type_ssi:text^50.0&amp;f[keywords_ssim][]=Alvin Ailey American Dance Theater&amp;example-search=search-with-facet-subject'>
+<div class='feature-box' style='background-image: url(&#39;/assets/dance-2727d2ff9f1a855b8491958a742725938351a1e4b707f9eacf6c45a8d268d9bd.png&#39;);'>
+<div class='content'>
+<div class='title'>
+The Repertoire of Alvin Ailey American Dance Theater
+</div>
+<div class='item-count'>
+103 items
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class='col-md-2'></div>
+</div>
+<div class='col-md-12' id='featured-contents'>
+<div class='col-md-2'></div>
+<div class='col-md-8'>
+<h3>
+Discover and Share with #UmbraSearch
+</h3>
+<div class='description'>
+Exploring African American stories through digital projects by students, artists, and archivists.
+</div>
+<div class='feature-boxes'>
+<a class=' blog ' href='https://umbrasearchblog.org/2016/10/31/a-timeline-of-the-life-and-travels-of-hallie-quinn-brown/'>
+<div class='feature-box' style='background-image: url(&#39;/uploads/featured_content/preview_image/8/HQB_UmbraSearch.png&#39;);'>
+<div class='content'>
+<div class='title'>
+Life and Times of Hallie Q. Brown
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a class=' blog ' href='https://umbrasearchblog.org/2016/10/31/labor-work-and-class-in-the-digital-classroom/'>
+<div class='feature-box' style='background-image: url(&#39;/uploads/featured_content/preview_image/11/labor_work_class.jpg&#39;);'>
+<div class='content'>
+<div class='title'>
+Labor, Work, and Class in the Digital Classroom
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a class=' blog ' href='https://umbrasearchblog.org/2016/10/26/photographic-journeys-across-cultural-barrier-the-photography-of-john-w-mosley-part-i/'>
+<div class='feature-box' style='background-image: url(&#39;/uploads/featured_content/preview_image/15/Temple_UmbraSearch.png&#39;);'>
+<div class='content'>
+<div class='title'>
+Partner Feature: Temple University
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a class=' news ' href='http://eepurl.com/bvKUWD'>
+<div class='feature-box' style='background-image: url(&#39;/uploads/featured_content/preview_image/22/newsletter.png&#39;);'>
+<div class='content'>
+<div class='title'>
+Sign Up for the Newsletter!
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+<a class=' blog ' href='https://umbrasearchblog.org/2017/05/03/umbra-search-wins-award-for-access/'>
+<div class='feature-box' style='background-image: url(&#39;/uploads/featured_content/preview_image/23/FocusSpring2017-vol36-2-image4.jpg&#39;);'>
+<div class='content'>
+<div class='title'>
+Umbra Search Wins CRL 2017 Access Award
+</div>
+<div class='glyphicon glyphicon-new-window'></div>
+<div class='overlay'></div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class='col-md-2'></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+    </div>
+  </div>
+
+  <section id='footer'>
+<div class='col-sm-12'>
+<div class='row'>
+<div class='col-sm-2'></div>
+<div class='col-sm-6 col-xs-12 static-page-links'>
+<ul class='list-unstyled'>
+<li>
+<a class='about-foot-link about-link foot-link' href='/about'>About</a>
+|
+</li>
+<li>
+<a class='participate-foot-link participate-link foot-link' href='/about/participate'>Get Involved</a>
+|
+</li>
+<li>
+<a class='contact-foot-link contact-link foot-link' href='/about/contact'>Contact Us</a>
+|
+</li>
+<li>
+<a class='blog-foot-link blog-link foot-link' href='https://umbrasearchblog.org'>#UmbraSearch</a>
+|
+</li>
+<li>
+<a class='contact-link foot-link' href='https://z.umn.edu/report-accessibility-issue'>Report Web Accessibility Issues</a>
+</li>
+</ul>
+</div>
+<div class='col-sm-2 col-xs-12 credits'>
+<div class='addthis_custom_follow'></div>
+</div>
+</div>
+</div>
+</section>
+
+  
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://apps.lib.umn.edu/matomo/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '42']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+</body>
+</html>
+

@@ -1,0 +1,1290 @@
+ <!DOCTYPE html> <html lang="en"> <head> <!-- Source Defense --> <script> 
+    vice= { 
+            config: { 
+                viceAccountId: 'conservationinternational', 
+                viceSiteId: 'conservationinternational', 
+                viceSectionId: ''
+            }
+        } 
+    </script> <script src='//vice-prod.sdiapi.com/vice_loader/conservationinternational/conservationinternational'></script> <!-- Source Defense --> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0"> <meta name="theme-color" content="#00205b"> <title>
+	404
+</title> <script src="/ResourcePackages/CI/JS/vendor/jquery.js" type="text/javascript"></script> <!-- OneTrust Cookies Consent Notice start for www.conservation.org --> <script type="text/javascript" src="https://cdn.cookielaw.org/consent/bdf320cb-7f39-4c74-a4c7-5f45d3aaf250/OtAutoBlock.js"></script> <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="bdf320cb-7f39-4c74-a4c7-5f45d3aaf250"></script> <script type="text/javascript">
+            function OptanonWrapper() { }
+        </script> <!-- OneTrust Cookies Consent Notice end for www.conservation.org --> <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);   })(window,document,'script','dataLayer','GTM-594HVV');</script> <!-- End Google Tag Manager --><!-- Fundraise Up: the new standard for online giving --> <script> (function(w,d,s,n,a){if(!w[n]){var l='call,catch,on,once,set,then,track' .split(','),i,o=function(n){return'function'==typeof n?o.l.push([arguments])&&o :function(){return o.l.push([n,arguments])&&o}},t=d.getElementsByTagName(s)[0], j=d.createElement(s);j.async=!0;j.src='https://cdn.fundraiseup.com/widget/'+a; t.parentNode.insertBefore(j,t);o.s=Date.now();o.v=4;o.h=w.location.href;o.l=[]; for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o} })(window,document,'script','FundraiseUp','ARGDWDPW'); </script> <!-- End Fundraise Up --> <!-- Set parameters to define if donate CTA points to default provider or backup source --> <input type="hidden" class="emailCTAs__backupMode" value="false" /> <input type="hidden" class="donateCTAs__backupMode" value="false" /> <input type="hidden" class="georestriction" value="US" /> <!-- Start OG Tags--> <meta property="og:title" content="404 - Page Not Found" /> <meta property="og:description" content="We can&#39;t find the page you requested but we will take a look." /> <meta property="og:url" content="https://www.conservation.org/404" /> <meta property="og:image" content="https://ciorg.imgix.net/images/default-source/default-album/ci_75416982.jpg?sfvrsn=fbc057c8_31&amp;auto=compress&amp;auto=format&amp;w=1200&amp;h=630" /> <meta property="og:type" content="website" /> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:site" content="@conservationorg"> <meta name="twitter:creator" content="@ConservationOrg"> <!-- End OG Tags--> <!-- Start CSS --> <link href="/ResourcePackages/CI/CSS/CIStyle.min.css?version=20231121" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Bootstrap/assets/dist/css/owl.carousel.min.css" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Bootstrap/assets/dist/css/owl.theme.default.min.css" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/Cta2Across.min.css?version=20200124" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/CTA3Across.min.css?version=20200124" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/CINavBar.min.css?version=20210917" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/CIFooter.min.css?version=20200124" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/mediaContainer.min.css?version=20220525" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/SearchBlog.min.css?version=20230610" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/MoreOfOurWork.min.css?version=20200124" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/CI/CSS/CISocialShare.min.css?version=20200124" rel="stylesheet" type="text/css" /> <!-- End CSS--> <!-- Start FavIcons --> <!-- ===== STARTER: Favicon / Windows Tile ======================================================================================== --> <link rel="apple-touch-icon" sizes="57x57" href="/ResourcePackages/CI/images/favicon/apple-icon-57x57.png"> <link rel="apple-touch-icon" sizes="60x60" href="/ResourcePackages/CI/images/favicon/apple-icon-60x60.png"> <link rel="apple-touch-icon" sizes="72x72" href="/ResourcePackages/CI/images/favicon/apple-icon-72x72.png"> <link rel="apple-touch-icon" sizes="76x76" href="/ResourcePackages/CI/images/favicon/apple-icon-76x76.png"> <link rel="apple-touch-icon" sizes="114x114" href="/ResourcePackages/CI/images/favicon/apple-icon-114x114.png"> <link rel="apple-touch-icon" sizes="120x120" href="/ResourcePackages/CI/images/favicon/apple-icon-120x120.png"> <link rel="apple-touch-icon" sizes="144x144" href="/ResourcePackages/CI/images/favicon/apple-icon-144x144.png"> <link rel="apple-touch-icon" sizes="152x152" href="/ResourcePackages/CI/images/favicon/apple-icon-152x152.png"> <link rel="apple-touch-icon" sizes="180x180" href="/ResourcePackages/CI/images/favicon/apple-icon-180x180.png"> <link rel="icon" type="image/png" sizes="192x192"  href="/ResourcePackages/CI/images/favicon/android-icon-192x192.png"> <link rel="icon" type="image/png" sizes="32x32" href="/ResourcePackages/CI/images/favicon/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="96x96" href="/ResourcePackages/CI/images/favicon/favicon-96x96.png"> <link rel="icon" type="image/png" sizes="16x16" href="/ResourcePackages/CI/images/favicon/favicon-16x16.png"> <meta name="msapplication-TileColor" content="#ffffff"> <meta name="msapplication-TileImage" content="/ResourcePackages/CI/images/favicon/ms-icon-144x144.png"> <meta name="theme-color" content="#ffffff"> <meta name="msapplication-TileImage" content="/ResourcePackages/CI/images/logo.svg" /><meta name="msapplication-TileColor" content="#0072C6" /> <!-- End FavIcons --> <meta name="robots" content="noindex" /><link href="/ResourcePackages/CI/CSS/CTA-Email-DefaultEmail.min.css" media="all" rel="stylesheet" type="text/css" /><style type="text/css" media="all">.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA,
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA,
+.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA,
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA {
+    display: inline-block;
+}
+
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA,
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA {
+    width: 100%;
+}
+
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA:hover,
+.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA:hover,
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA:focus,
+.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA:focus {
+    background-color: #144985;
+}
+
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA,
+.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA {
+    background-color: #b50303
+}
+
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA:hover,
+.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA:hover,
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA:focus,
+.CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_DonateCTA:focus {
+    background-color: #8f0202;
+}</style><style type="text/css" media="all">.underline--ocean {
+	 border-bottom: 3px solid #1a5eab;
+}
+ .CITopNav .CINavBar_TopMenuDesktop {
+	 background-color: #f3f3f3;
+	 height: 43px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li {
+	 color: #1a5eab;
+	 height: 43px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.mainMenuItem {
+	 font-family: 'PN Bold';
+	 font-size: 13px;
+	 padding: 14px 20px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.mainMenuItem:hover {
+	 border-top: 5px solid #1a5eab;
+	 padding-top: 9px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.mainMenuItem a, .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.mainMenuItem a:active, .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.mainMenuItem a:link, .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.mainMenuItem a:visited {
+	 color: #1a5eab;
+	 font-family: 'PN Bold';
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.secondaryMenuItem {
+	 color: #5b5c61;
+	 padding: 14px 20px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.socialMenuItem {
+	 padding: 18px 6px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.CILogo {
+	 padding: 0 12px 0 30px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.CILogo:hover {
+	 border-top: none;
+	 padding: 0 12px 0 30px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SectionContainerItem ul li.CILogo .CILogoImage {
+	 background-color: #fff;
+	 background-position: center center;
+	 background-size: 50px 56px;
+	 box-shadow: 0 3px 5px 0 rgba(91, 92, 97, 0.2);
+	 height: 73px;
+	 padding: 10px;
+	 text-indent: 150%;
+	 width: 64px;
+}
+ .CITopNav .CINavBar_TopMenuDesktop .CINavBar_TopMenuDesktop_SectionContainer .CINavBar_TopMenuDesktop_SearchButton {
+	 font-size: 16px;
+	 height: 43px;
+	 width: 43px;
+}
+ .CITopNav .CINavBar_TopMenuMobile .CINavBar_TopMenuMobile_Logo a .CILogoImage {
+	 background-size: 30px 33px;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown {
+	 background-color: #1a5eab;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder {
+	 margin-left: 63px;
+	 width: 810px;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownHighlight {
+	 display: none;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems {
+	 width: 100%;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Title {
+	 font-family: 'PN Bold';
+	 font-size: 16px;
+	 line-height: 1.5;
+	 padding-bottom: 4px;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li:hover {
+	 border-left: 3px solid #fff;
+	 margin-left: -13px;
+	 padding-left: 10px;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li:hover a, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li:hover a:active, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li:hover a:link, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li:hover a:visited {
+	 color: #ffe912;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li a, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li a:active, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li a:link, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Items ul li a:visited {
+	 font-weight: normal;
+	 opacity: 1;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Sock a, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Sock a:active, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Sock a:link, .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Sock a:visited {
+	 color: #fff;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownNavigation .CINavBar_DropdownNavigationItems .CINavBar_DropdownColumnThird .CINavBar_DropdownColumnThird_Sock a:hover {
+	 border-left: 3px solid #fff;
+	 color: #ffe912;
+	 margin-left: -13px;
+	 padding-left: 10px;
+}
+ .CITopNav .CINavBar_DropdownPlaceholderContainer .CINavBar_Dropdown .CINavBar_DropdownPlaceholder .CINavBar_DropdownSearch {
+	 display: none;
+}
+ .CITopNav .CINavBar_CountryDropdownPlaceholder .CINavBar_CountriesListPlaceholder {
+	 background-color: #1a5eab;
+	 left: auto;
+	 right: 122px;
+}
+ .CITopNav .CINavBar_CountryDropdownPlaceholder .CINavBar_CountriesListPlaceholder .CINavBar_CountriesList .CINavBar_CountriesListItem a, .CITopNav .CINavBar_CountryDropdownPlaceholder .CINavBar_CountriesListPlaceholder .CINavBar_CountriesList .CINavBar_CountriesListItem a:active, .CITopNav .CINavBar_CountryDropdownPlaceholder .CINavBar_CountriesListPlaceholder .CINavBar_CountriesList .CINavBar_CountriesListItem a:link, .CITopNav .CINavBar_CountryDropdownPlaceholder .CINavBar_CountriesListPlaceholder .CINavBar_CountriesList .CINavBar_CountriesListItem a:visited {
+	 font-weight: normal;
+	 opacity: 1;
+}
+ .CITopNav .CINavBar_CountryDropdownPlaceholder .CINavBar_CountriesListPlaceholder .CINavBar_CountriesList .CINavBar_CountriesListItem a:hover {
+	 border-left: 3px solid #fff;
+	 color: #ffe912;
+	 margin-left: -13px;
+	 padding-left: 10px;
+}
+ .CITopNav .TopNavDropDown:after {
+	 background-image: url("/images/default-source/graphics/dropdownarrow_down.svg");
+}
+ .CITopNav .TopNavDropDown:hover:after {
+	 background-image: url("/images/default-source/graphics/dropdownarrow_up.svg");
+}
+ .CITopNav .TopNavDropDown--isactive {
+	 background-color: transparent;
+	 border-top: 5px solid #1a5eab;
+	 color: #1a5eab !important;
+	 padding-top: 9px !important;
+}
+ .CITopNav .TopNavDropDown--isactive:after {
+	 background-image: url("/images/default-source/graphics/dropdownarrow_up.svg") !important;
+}
+ .CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_ButtonCTA {
+	 height: 43px;
+}
+ @media (max-width: 1925px) and (min-width: 1015px) {
+	 .mainContent {
+		 padding-top: 43px;
+	}
+	 .mainContent > .sf_colsIn.wrapper:first-child {
+		 padding-top: 30px;
+	}
+}
+ 
+.CITopNav #mobileNavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA, .CITopNav #topnavCTAs .nav-cta-item .CINavBar_TopMenuDesktop_JoinUsCTA {
+  background-color: #1a5eab;
+}</style><style type="text/css" media="all">.mediaContainer p.lead a, .mediaContainer p.lead strong {
+  font-family: "PN Bold", Helvetica;
+  line-height: 1;
+}
+
+.mediaContainer .SearchCustom .single-field-form__input {
+    color: #434347 !important;
+}
+
+.mediaContainer .SearchCustom .single-field-form__button {
+    color: #1a5eab !important;
+}
+
+.mediaContainer .SearchCustom .single-field-form__button:focus, .mediaContainer .SearchCustom .single-field-form__button:hover {
+  background-color: #1a5eab;
+  border: 1px solid #1a5eab;
+  color: #fff !important;
+}
+
+.mediaContainer .SearchCustom .icon-search {
+    color: #1a5eab !important;
+}
+
+.mediaContainer .SearchBox .SearchBox__SearchTermField {
+  border-color: #fff;
+}
+
+.mediaContainer a.highlight, .mediaContainer a.highlight:active, .mediaContainer a.highlight:visited {
+  background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 50%, #ffe912 50%);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, #ffe912 50%);
+  background-position: 0% 0;
+  background-size: 200% auto;
+  color: #fff !important;
+  -webkit-transition: background-position 0.2s ease-out;
+          transition: background-position 0.2s ease-out;
+}
+.mediaContainer a.highlight:focus, .mediaContainer a.highlight:hover {
+  background-position: -99.99% 0;
+  color: #434347 !important;
+}</style><script type="text/javascript">
+var script = document.createElement('script');
+script.setAttribute('src', 'https://embed.typeform.com/next/embed.js');
+script.setAttribute('type', 'text/javascript');
+document.getElementsByTagName('head')[0].appendChild(script);
+
+</script><style type="text/css" media="all">.comments-count-wrapper {display:none;}
+div[id^="comments"] {display:none;}</style><meta name="Generator" content="Sitefinity 13.3.7649.0 OME" /><link rel="canonical" href="https://www.conservation.org/404" /><script type="text/javascript">
+	
+(function(){
+    var metadataStr = '{\"Id\":\"b3254a65-bdf8-4693-86dd-184ccbe2e363\",\"ContentType\":\"Page\",\"Title\":\"404\",\"CanonicalTitle\":\"404\",\"CanonicalUrl\":\"https://www.conservation.org/404\",\"Language\":\"en\",\"CreatedOn\":\"2018-09-27T14:18:56.353Z\",\"ModifiedOn\":\"2023-12-11T18:21:30.433Z\",\"SiteName\":\"ConservationInternational\",\"PageId\":\"b3254a65-bdf8-4693-86dd-184ccbe2e363\"}';
+    window.decMetadata = window.decMetadata || {};
+    window.decMetadata.contentMetadata = JSON.parse(metadataStr);
+})();
+</script><script type="text/javascript">
+	InsightInitScript = { _settings: null, _client: null, _createClient: function (t) { InsightInitScript._client = new sfDataIntell.Client({ apiKey: InsightInitScript._settings.apiKey, source: InsightInitScript._settings.applicationName, apiServerUrl: InsightInitScript._settings.apiServerUrl, trackingCookieDomain: InsightInitScript._settings.trackingCookieDomain, maxAgeForTrackingCookieInDays: InsightInitScript._settings.maxAgeForTrackingCookieInDays, slidingExpirationForTrackingCookie: InsightInitScript._settings.slidingExpirationForTrackingCookie, trackPageVisits: !0, trackUtmParameters: !0, instrument: !0, trackBrowserInformation: !0, enableTracking: t }); var n = InsightInitScript._settings.keepDecTrackingCookieOnTrackingConsentRejection || !1; if (!1 === t && !1 === n && InsightInitScript._client.deleteCookie(InsightInitScript._settings.trackingCookieDomain), window.DataIntelligenceSubmitScript = InsightInitScript, "function" == typeof window.CustomEvent) window.dispatchEvent(new window.CustomEvent("decclientready")); else { var e = function (t, n) { n = n || { bubbles: !1, cancelable: !1, detail: void 0 }; var e = document.createEvent("CustomEvent"); return e.initCustomEvent(t, n.bubbles, n.cancelable, n.detail), e }; e.prototype = window.Event.prototype, window.CustomEvent = e; var i = new e("decclientready", { bubbles: !0, cancelable: !0 }); window.dispatchEvent(i) } }, load: function (t) { this._settings = t, window.TrackingConsentManager ? (TrackingConsentManager.removeEventListener("ConsentChanged", this._createClient), TrackingConsentManager.addEventListener("ConsentChanged", this._createClient), this._createClient(TrackingConsentManager.canTrackCurrentUser())) : this._createClient(!0) } };
+</script><script src="https://cdn.insight.sitefinity.com/sdk/sitefinity-insight-client.min.3.1.2.js" async="async" onload="InsightInitScript.load({&quot;apiServerUrl&quot;:&quot;https://api.insight.sitefinity.com&quot;,&quot;apiKey&quot;:&quot;2beb11ab-3184-1aa7-5023-baac5372d4c6&quot;,&quot;applicationName&quot;:&quot;Website&quot;,&quot;trackingCookieDomain&quot;:&quot;&quot;,&quot;keepDecTrackingCookieOnTrackingConsentRejection&quot;:false,&quot;slidingExpirationForTrackingCookie&quot;:false,&quot;maxAgeForTrackingCookieInDays&quot;:365,&quot;strategy&quot;:&quot;Persist|False&quot;});">
+
+</script></head> <body> <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-594HVV"   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) --> <script src="/ScriptResource.axd?d=okuX3IVIBwfJlfEQK32K3iMFwOpfwazEIqQm0BPyEFV_up94kcpMWP6P6EQIhLkcnavX2B0jbvHY0OHg3hB6mbWAqXh8H6dP7WrHoSdamDm2GgHEGtV3qZNQOH3GUqygwkrRt_0iGqwgWuX-qpomKXB7P0CqfZNErfBEph73Vjz_pxQMFVghB3JdYtthi7170&amp;t=ffffffffc6a832bf" type="text/javascript"></script><script src="/ScriptResource.axd?d=EydukmxBmDstn7gSYzQESAbdX-n9FO4ogiqKdjMxsypsqp3u-BEF9b1EGjS559LByJPEMleuzNVVIAfY5IIu6rg2TAH5iYht2qw0LAfJlfw407MiQOp8IaSuJgPYNx4rcNQ-dHh7l3wCqEGoavd1N9sdmnW6NrcBIpwnJJVUeGhU_4cq2_FTz2wYJkM4iWer0&amp;t=ffffffffc6a832bf" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend/Mvc/Scripts/Bootstrap/js/bootstrap.min.js?package=Bootstrap&amp;v=MTMuMy43NjQ5LjA%3d" type="text/javascript"></script><script src="/ScriptResource.axd?d=VKaJmfFWDpQxp1_HxsR1qEpMbalRKI4-8xE4jh5az8BHYQ9yE9qwGzTm7edqM1aEhyF8zEzQhrAlzpL4vuJXUFGAN3ileqIVIms3kIjsuPliGuWnmb_5qULPKHPC8DK79SsV_-YJ3QxLJQStn_bXzt8-fDsc_fBZ7xmc5YejkMCQ4cU4bRTbE8CIJD7d1Q9xjQYH2vdAmIQHvvEWyLbzuQ2&amp;t=ffffffffc6a832bf" type="text/javascript"></script> <!-- Start TopNav --> <header class="CITopNav"> <div id="CINavBar"> <div class="CINavBarShadowCover"></div> 
+
+
+ <nav id="CINavBarDesktop"> <div class="CINavBar_TopMenuDesktop"> <div class="CINavBar_TopMenuDesktop_SectionContainer"> <div class="CINavBar_TopMenuDesktop_SectionContainerItem"> 
+
+
+
+
+        <ul>
+                <li class="mainMenuItem CILogo" id="">
+                                <a href="/home" class="CINavBar_Link">
+                    <div class="CILogoImage" style="background-image:url('https://cicloud.imgix.net/images/default-source/logos-s3/ci/ci_94320658.png?sfvrsn=6908de72_18&amp;&amp;auto=compress&amp;auto=format&amp;fit=crop');">
+                        Home
+                    </div>
+
+            </a>
+
+                </li>
+                <li class="mainMenuItem test" id="MenuItemId2">
+                    Our Work
+                </li>
+                <li class="mainMenuItem " id="">
+                                <a href="/about" class="CINavBar_Link">
+About Us
+            </a>
+
+                </li>
+                <li class="mainMenuItem primaryNavLink--joinUs" id="">
+                                <a href="/act" class="CINavBar_Link">
+Join Us
+            </a>
+
+                </li>
+        </ul>
+ </div> </div> <div class="CINavBar_TopMenuDesktop_SectionContainer CINavBar_TopMenuDesktop_SectionContainer_FloatRight CINavBar_TopMenuDesktop_SectionContainer--Social-CTA-Search"> 
+
+            <div class="CINavBar_TopMenuDesktop_SectionContainerItem">
+                <ul>
+                        <li class="socialMenuItem">
+                            <a href="https://www.facebook.com/conservation.intl" class="icon-facebook CINavBar_SocialLink">
+                                <span class="screen-reader">Facebook</span>
+                            </a>
+                        </li>
+                        <li class="socialMenuItem">
+                            <a href="https://twitter.com/conservationorg" class="icon-twitter CINavBar_SocialLink">
+                                <span class="screen-reader">twitter</span>
+                            </a>
+                        </li>
+                        <li class="socialMenuItem">
+                            <a href="https://www.youtube.com/user/ConservationDotOrg" class="icon-youtube CINavBar_SocialLink">
+                                <span class="screen-reader">YouTube</span>
+                            </a>
+                        </li>
+                        <li class="socialMenuItem">
+                            <a href="https://www.instagram.com/conservationorg/" class="icon-instagram CINavBar_SocialLink">
+                                <span class="screen-reader">Instagram</span>
+                            </a>
+                        </li>
+                        <li class="socialMenuItem">
+                            <a href="https://www.linkedin.com/company/conservation-international/" class="icon-linkedin CINavBar_SocialLink">
+                                <span class="screen-reader">LinkedIn</span>
+                            </a>
+                        </li>
+                </ul>
+            </div>
+ <div class="CINavBar_TopMenuDesktop_SectionContainerItem" id="topnavCTAs"> 
+
+<div class="nav-cta-item"><a class="CINavBar_TopMenuDesktop_ButtonCTA CINavBar_TopMenuDesktop_JoinUsCTA" href="/act/subscribe">Subscribe</a></div>
+
+<div class="nav-cta-item"><a class="CINavBar_TopMenuDesktop_ButtonCTA CINavBar_TopMenuDesktop_DonateCTA" href="https://give.conservation.org/-/XGEULXUQ" target="_blank">Donate</a></div> </div> <div class="CINavBar_TopMenuDesktop_SectionContainerItem CINavBar_TopMenuDesktop_SearchButtonContainer"> <div class="CINavBar_TopMenuDesktop_SearchButton TopNavDropDown TopNavSearchDropDown icon-search" id="MenuItemIdSearch"></div> </div> </div> <div class="CINavBar_TopMenuDesktop_SectionContainer CINavBar_TopMenuDesktop_SectionContainer_FloatRight"> 
+
+        <div class="CINavBar_TopMenuDesktop_SectionContainerItem">
+            <ul>
+                    <li class="secondaryMenuItem CINavBar_Link" id="">
+                            <a href="/blog" class="CINavBar_Link">Blog</a>
+                    </li>
+                    <li class="secondaryMenuItem TopNavCountryDropDown" id="MenuItemIdCountry">
+USA                    </li>
+            </ul>
+        </div>
+ </div> </div> <div class="CINavBar_DropdownPlaceholderContainer"> <div class="CINavBar_Dropdown CINavBar_DropdownId2"> <div class="CINavBar_DropdownPlaceholder "> <!--<div class="topNav_MainClosePlaceholder"></div>--> <div class="CINavBar_DropdownNavigation"> <div class="CINavBar_DropdownHighlight">Protecting the nature we all rely on for food, fresh water and livelihoods</div> 
+
+            <div class="CINavBar_DropdownNavigationItems">
+
+                        <div class="CINavBar_DropdownColumnThird">
+                                            <div class="CINavBar_DropdownColumnThird_Title">What</div>
+                <div class="CINavBar_DropdownColumnThird_Items">
+                    <ul>
+                                            <li>
+                        <a href="/priorities/stabilizing-our-climate-by-protecting-and-restoring-nature" class="CINavBar_Link" target="">
+                            Stabilizing Our Climate by Protecting and Restoring Nature
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/priorities/doubling-ocean-protection" class="CINavBar_Link" target="">
+                            Doubling Ocean Protection
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/priorities/expanding-nature-positive-economies" class="CINavBar_Link" target="">
+                            Expanding Nature-Positive Economies
+                        </a>
+                    </li>
+
+                    </ul>
+                </div>
+
+                        </div>
+                        <div class="CINavBar_DropdownColumnThird">
+                                            <div class="CINavBar_DropdownColumnThird_Title">How</div>
+                <div class="CINavBar_DropdownColumnThird_Items">
+                    <ul>
+                                            <li>
+                        <a href="/priorities/innovations-in-science" class="CINavBar_Link" target="">
+                            Innovations in Science
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/priorities/innovations-in-finance" class="CINavBar_Link" target="">
+                            Innovations in Finance
+                        </a>
+                    </li>
+                    <li>
+                        <a href=" /priorities/partnering-with-communities" class="CINavBar_Link" target="">
+                            Partnering with Communities
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/priorities/working-with-governments" class="CINavBar_Link" target="">
+                            Working with Governments
+                        </a>
+                    </li>
+                    <li>
+                        <a href=" /priorities/engaging-with-corporations" class="CINavBar_Link" target="">
+                            Engaging with Corporations
+                        </a>
+                    </li>
+
+                    </ul>
+                </div>
+
+                        </div>
+                        <div class="CINavBar_DropdownColumnThird">
+                                            <div class="CINavBar_DropdownColumnThird_Title">Where</div>
+                <div class="CINavBar_DropdownColumnThird_Items">
+                    <ul>
+                                            <li>
+                        <a href="/places/americas" class="CINavBar_Link" target="">
+                            Americas
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/places/africa" class="CINavBar_Link" target="">
+                            Africa
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/places/asia-pacific" class="CINavBar_Link" target="">
+                            Asia-Pacific
+                        </a>
+                    </li>
+
+                    </ul>
+                </div>
+
+                        </div>
+                        <div class="CINavBar_DropdownColumnThird">
+                            <div class="CINavBar_DropdownColumnThird_Sock">
+                                <a href="" class="CINavBar_Link"></a>
+                            </div>
+                        </div>
+                        <div class="CINavBar_DropdownColumnThird">
+                            <div class="CINavBar_DropdownColumnThird_Sock">
+                                <a href="" class="CINavBar_Link"></a>
+                            </div>
+                        </div>
+                        <div class="CINavBar_DropdownColumnThird">
+                            <div class="CINavBar_DropdownColumnThird_Sock">
+                                <a href="" class="CINavBar_Link"></a>
+                            </div>
+                        </div>
+            </div>
+ </div> <div class="CINavBar_DropdownSearch"> 
+
+
+
+<div class="form-inline" style="padding-bottom:10px;">
+
+
+
+
+
+<div class="form-group CINavBar_DropdownSearchForm">
+    <input title="Search input" placeholder="Search" id="dc3778e8-3fdd-45ee-868e-31a2ab22376c" class="form-control CINavBar_DropdownSearch_inputField inputSearch" value="" />
+    <button type="button" class="CINavBar_DropdownSearch_Submit icon-caret-right btn btn-primary" id="1fe10a6f-1491-475d-8f37-6630fa816ccb"></button>
+</div>
+</div>
+
+
+
+<input type="hidden" data-sf-role="resultsUrl" value="/search" />
+<input type="hidden" data-sf-role="indexCatalogue" value="site-search" />
+<input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+<input type="hidden" data-sf-role="disableSuggestions" value='false' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#dc3778e8-3fdd-45ee-868e-31a2ab22376c' />
+<input type="hidden" data-sf-role="searchButtonId" value='#1fe10a6f-1491-475d-8f37-6630fa816ccb' />
+
+
+
+
+
+
+
+ 
+
+            <div class="CINavBar_DropdownSearchSocial">
+                <div class="CINavBar_DropdownSearchSocialPlaceholder">
+                    <a href="https://www.facebook.com/conservation.intl" class="CINavBar_DropdownSeachSocial_Item">
+                        <div class="icon-facebook CINavBar_SocialLink"></div>
+                    </a>
+                </div>
+            </div>
+            <div class="CINavBar_DropdownSearchSocial">
+                <div class="CINavBar_DropdownSearchSocialPlaceholder">
+                    <a href="https://twitter.com/conservationorg" class="CINavBar_DropdownSeachSocial_Item">
+                        <div class="icon-twitter CINavBar_SocialLink"></div>
+                    </a>
+                </div>
+            </div>
+            <div class="CINavBar_DropdownSearchSocial">
+                <div class="CINavBar_DropdownSearchSocialPlaceholder">
+                    <a href="https://www.youtube.com/user/ConservationDotOrg" class="CINavBar_DropdownSeachSocial_Item">
+                        <div class="icon-youtube CINavBar_SocialLink"></div>
+                    </a>
+                </div>
+            </div>
+            <div class="CINavBar_DropdownSearchSocial">
+                <div class="CINavBar_DropdownSearchSocialPlaceholder">
+                    <a href="https://www.instagram.com/conservationorg/" class="CINavBar_DropdownSeachSocial_Item">
+                        <div class="icon-instagram CINavBar_SocialLink"></div>
+                    </a>
+                </div>
+            </div>
+            <div class="CINavBar_DropdownSearchSocial">
+                <div class="CINavBar_DropdownSearchSocialPlaceholder">
+                    <a href="https://www.linkedin.com/company/conservation-international/" class="CINavBar_DropdownSeachSocial_Item">
+                        <div class="icon-linkedin CINavBar_SocialLink"></div>
+                    </a>
+                </div>
+            </div>
+ </div> </div> </div> </div> 
+
+
+
+        <div class="CINavBar_CountryDropdownPlaceholder CINavBar_Dropdown CINavBar_DropdownIdCountry">
+            <div class="CINavBar_CountriesListPlaceholder">
+                <ul class="CINavBar_CountriesList">
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/aotearoa" class="CINavBar_Link">Aotearoa</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/australia" class="CINavBar_Link">Australia</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/bolivia" class="CINavBar_Link">Bolivia</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/botswana" class="CINavBar_Link">Botswana</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/brasil" class="CINavBar_Link">Brazil</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/cambodia" class="CINavBar_Link">Cambodia</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/china" class="CINavBar_Link">China</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="https://www.conservation.org.co/" class="CINavBar_Link">Colombia</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/costa-rica" class="CINavBar_Link">Costa Rica</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/ecuador" class="CINavBar_Link">Ecuador</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="https://conservation.org.gy/" class="CINavBar_Link">Guyana</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/hong-kong" class="CINavBar_Link">Hong Kong</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/places/indonesia" class="CINavBar_Link">Indonesia</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/japan" class="CINavBar_Link">Japan</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/madagascar" class="CINavBar_Link">Madagascar</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/mexico" class="CINavBar_Link">Mexico</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/peru" class="CINavBar_Link">Peru</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/philippines" class="CINavBar_Link">Philippines</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/samoa" class="CINavBar_Link">Samoa</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/singapore" class="CINavBar_Link">Singapore</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/south-africa" class="CINavBar_Link">South Africa</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/suriname" class="CINavBar_Link">Suriname</a>
+                                </li>
+                                <li class="CINavBar_CountriesListItem">
+                                    <a href="/timor-leste" class="CINavBar_Link">Timor-Leste</a>
+                                </li>
+                </ul>
+            </div>
+        </div>
+ 
+
+
+
+<div class="form-inline">
+
+
+
+
+
+<div class="CINavBar_SearchDropdownPlaceholder CINavBar_DropdownIdSearch">
+    <input title="Search input" placeholder="Search" id="dbe8040d-fa5a-4391-ab59-602093152be7" class="form-control TopNavSearchField inputSearch CINavBar_DropdownSearch_inputField" value="" />
+    <button type="button" class="CINavBar_DropdownDesktopSearch_Submit icon-caret-right btn btn-primary" id="e6e976b9-fa14-4089-8a1c-19fbb32211a4"></button>
+</div>
+</div>
+
+<style>
+    .sf-autocomplete
+    {
+        display: none !important;
+    }
+</style>
+
+
+<input type="hidden" data-sf-role="resultsUrl" value="/search" />
+<input type="hidden" data-sf-role="indexCatalogue" value="site-search" />
+<input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+<input type="hidden" data-sf-role="disableSuggestions" value='false' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#dbe8040d-fa5a-4391-ab59-602093152be7' />
+<input type="hidden" data-sf-role="searchButtonId" value='#e6e976b9-fa14-4089-8a1c-19fbb32211a4' />
+
+
+
+
+
+
+
+ </nav> <nav id="CINavBarMobile"> <div class="CINavBar_TopMenuMobile"> 
+
+
+
+        <div class="CINavBar_TopMenuMobile_Logo">
+            <a href="/home" class="CINavBar_Link">
+                <div class="CILogoImage" style="background-image: url('https://cicloud.imgix.net/images/default-source/logos-s3/ci/ci_94320658.png?sfvrsn=6908de72_18&amp;&amp;auto=compress&amp;auto=format&amp;fit=crop');">Home</div>
+            </a>
+        </div>
+					 <div class="CINavBar_TopMenuMobile_Hambuguer icon-menu"></div> </div> <div class="CINavBar_SideMenu"> <div class="CINavBar_SideMenuContents"> 
+
+            <div class="CINavBar_SideMenuContents">
+                <ul class="CINavBar_SideMenuContentsList">
+                        <li id="" class="CINavBar_SideMenuContentsListItems CILogo">
+                                <div class="CINavBar_SideMenuItemsTitle"><a class="CINavBar_Link" href="/home"> Home </a></div>
+
+                            <div class="CINavBar_SideMenuPlaceholder">
+                                <ul class="CINavBar_SideMenuSections">
+                                </ul>
+                            </div>
+                        </li>
+                        <li id="SideMenuItemId2" class="CINavBar_SideMenuContentsListItems test">
+                                <div class="CINavBar_SideMenuItemsTitle"> Our Work </div>
+
+                            <div class="CINavBar_SideMenuPlaceholder">
+                                <ul class="CINavBar_SideMenuSections">
+                                        <li class="CINavBar_SideMenuSectionItems">
+                                            <div class="CINavBar_SideMenuSectionItemsTitle">What</div>
+                                            <ul class="CINavBar_SideMenuSubsections">
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/priorities/stabilizing-our-climate-by-protecting-and-restoring-nature" class="CINavBar_Link">Stabilizing Our Climate by Protecting and Restoring Nature</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/priorities/doubling-ocean-protection" class="CINavBar_Link">Doubling Ocean Protection</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/priorities/expanding-nature-positive-economies" class="CINavBar_Link">Expanding Nature-Positive Economies</a>
+                                                    </li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="CINavBar_SideMenuSectionItems">
+                                            <div class="CINavBar_SideMenuSectionItemsTitle">How</div>
+                                            <ul class="CINavBar_SideMenuSubsections">
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/priorities/innovations-in-science" class="CINavBar_Link">Innovations in Science</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/priorities/innovations-in-finance" class="CINavBar_Link">Innovations in Finance</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href=" /priorities/partnering-with-communities" class="CINavBar_Link">Partnering with Communities</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/priorities/working-with-governments" class="CINavBar_Link">Working with Governments</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href=" /priorities/engaging-with-corporations" class="CINavBar_Link">Engaging with Corporations</a>
+                                                    </li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="CINavBar_SideMenuSectionItems">
+                                            <div class="CINavBar_SideMenuSectionItemsTitle">Where</div>
+                                            <ul class="CINavBar_SideMenuSubsections">
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/places/americas" class="CINavBar_Link">Americas</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/places/africa" class="CINavBar_Link">Africa</a>
+                                                    </li>
+                                                    <li class="CINavBar_SideMenuSubsectionsItems">
+                                                        <a href="/places/asia-pacific" class="CINavBar_Link">Asia-Pacific</a>
+                                                    </li>
+
+                                            </ul>
+                                        </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li id="" class="CINavBar_SideMenuContentsListItems ">
+                                <div class="CINavBar_SideMenuItemsTitle"><a class="CINavBar_Link" href="/about"> About Us </a></div>
+
+                            <div class="CINavBar_SideMenuPlaceholder">
+                                <ul class="CINavBar_SideMenuSections">
+                                </ul>
+                            </div>
+                        </li>
+                        <li id="" class="CINavBar_SideMenuContentsListItems primaryNavLink--joinUs">
+                                <div class="CINavBar_SideMenuItemsTitle"><a class="CINavBar_Link" href="/act"> Join Us </a></div>
+
+                            <div class="CINavBar_SideMenuPlaceholder">
+                                <ul class="CINavBar_SideMenuSections">
+                                </ul>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+
+ </div> <div class="CINavBar_SideMenuMinorContents"> 
+
+        <ul class="CINavBar_SideMenuMinorContentsList">
+                <li class="CINavBar_SideMenuMinorContentsListItem">
+                    <a href="/blog" class="CINavBar_Link">Blog</a>
+                </li>
+        </ul>
+ </div> <div class="CINavBar_SideMenuSearchForm"> 
+
+
+
+
+
+<input title="Search input" placeholder="Search" id="507eb1ab-67e3-47b1-b7d8-fb87cf922c97" class="CINavBar_SideMenu_SearchField inputSearch TopNavSearchField"  />
+<label class="CINavBar_SideMenu_SearchLabel icon-search" for="CINavBar_SideMenu_SearchField"><span class="screen-reader">Search</span></label>
+<button class="CINavBar_SideMenu_SearchSubmit icon-caret-right"><span class="screen-reader"></span></button>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/search" />
+<input type="hidden" data-sf-role="indexCatalogue" value="site-search" />
+<input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+<input type="hidden" data-sf-role="disableSuggestions" value='false' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#507eb1ab-67e3-47b1-b7d8-fb87cf922c97' />
+<input type="hidden" data-sf-role="searchButtonId" value='#1605b885-0043-40f6-8493-7e536935fc89' />
+
+
+
+
+
+
+ </div> 
+
+            <div class="CINavBar_SideMenuSocial">
+                    <div class="CINavBar_SideMenuSocialPlaceholder">
+                        <a class="CINavBar_SideMenuSocialItem" href="https://www.facebook.com/conservation.intl">
+                            <div class="icon-facebook CINavBar_SocialLink"></div>
+                        </a>
+                    </div>
+                    <div class="CINavBar_SideMenuSocialPlaceholder">
+                        <a class="CINavBar_SideMenuSocialItem" href="https://twitter.com/conservationorg">
+                            <div class="icon-twitter CINavBar_SocialLink"></div>
+                        </a>
+                    </div>
+                    <div class="CINavBar_SideMenuSocialPlaceholder">
+                        <a class="CINavBar_SideMenuSocialItem" href="https://www.youtube.com/user/ConservationDotOrg">
+                            <div class="icon-youtube CINavBar_SocialLink"></div>
+                        </a>
+                    </div>
+                    <div class="CINavBar_SideMenuSocialPlaceholder">
+                        <a class="CINavBar_SideMenuSocialItem" href="https://www.instagram.com/conservationorg/">
+                            <div class="icon-instagram CINavBar_SocialLink"></div>
+                        </a>
+                    </div>
+                    <div class="CINavBar_SideMenuSocialPlaceholder">
+                        <a class="CINavBar_SideMenuSocialItem" href="https://www.linkedin.com/company/conservation-international/">
+                            <div class="icon-linkedin CINavBar_SocialLink"></div>
+                        </a>
+                    </div>
+            </div>
+ </div> </nav> </div> <div id="mobileNavCTAs"> 
+
+<div class="nav-cta-item"><a class="CINavBar_TopMenuDesktop_ButtonCTA CINavBar_TopMenuDesktop_JoinUsCTA" href="/act/subscribe">Subscribe</a></div>
+<div class="nav-cta-item"><a class="CINavBar_TopMenuDesktop_ButtonCTA CINavBar_TopMenuDesktop_DonateCTA" href="https://give.conservation.org/-/XGEULXUQ" target="_blank">Donate</a></div> </div> </header> <!-- End TopNav --> <main class="mainContent wrapper--full-bleed"> 
+<div class="mediaContainer mediaContainer--full">
+    <div id="Contentplaceholder1_C033_Col00" class="sf_colsIn fullWidthPadding mediaContainerOverlay" data-sf-element="Media Container Full Bleed" data-placeholder-label="Drop the Media Controller here to update its behavior">
+
+
+
+<span data-video=""
+      data-coverImage=""
+      data--vAlign="va--bottom"
+      data--overlayOpacity="0.4"
+      data--id="6779d1f3-8c1a-498b-8f90-53f196d00d33"
+      data--credits="&#169; Rod Mast"
+      data--resumeLabel="Resume Video"
+      data--pauseLabel="Pause Video"
+      class="mediaContainerController"></span>
+    
+
+
+
+<style type="text/css">
+.mediaContainerOverlay.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+    background-color: rgba(0,0,0,0.4);
+}
+
+
+@media (max-width: 415px) {
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33{
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=830&h=1600')
+    }
+}
+
+@media (min-width: 415px) and (max-width: 775px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33{
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=1550&h=1600')
+    }
+}
+
+@media (min-width: 775px) and (max-width: 1015px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=2030&h=1600')
+    }
+}
+
+@media (min-width: 1015px) and (max-width: 1285px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=1285&h=723')
+    }
+}
+
+@media (min-width: 1285px) and (max-width: 1445px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=1445&h=813')
+    }
+}
+
+@media (min-width: 1445px) and (max-width: 1925px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=1925&h=1083')
+    }
+}
+
+@media (min-width: 1925px) and (max-width: 2565px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=2565&h=1443')
+    }
+}
+
+@media (min-width: 2565px) and (max-width: 3845px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=3840&h=2163')
+    }
+}
+
+@media (min-width: 3845px){
+    .mediaContainer.item-6779d1f3-8c1a-498b-8f90-53f196d00d33 {
+        background-image: url('https://ciorg.imgix.net/images/default-source/default-album/ci_75416982?&auto=compress&auto=format&fit=crop&w=3840&h=2163')
+    }
+}
+
+</style><div id="Contentplaceholder1_C035_Col00" class="sf_colsIn wrapper--narrow" data-sf-element="Page Margins narrow" data-placeholder-label="Displays at max width of 750px. Drag in column layout widgets to break up layout and/or drag content widgets from Content tab.">
+<div >
+    <div class="sfContentBlock sf-Long-text" ><h1 style="text-align: center">404 NOT FOUND</h1></div>    
+</div>
+<div >
+    <div class="sfContentBlock sf-Long-text" ><p class="lead align--center"><strong>Where’d that page go?</strong></p><p class="lead" style="text-align: center">We will take a look for you. In the meantime, please <a class="highlight" href="/home">visit our home page</a> or retry your search:</p><p style="text-align: center">&nbsp;</p></div>    
+</div>
+
+
+
+
+
+
+
+
+<form class="SearchBox" role="search" action="/" method="get">
+
+<label for="5e1c4c2e-3992-4cb7-a5b7-d5e073917b10">
+    <span class="SearchBox__Label">Search</span>
+    <input type="text" class="SearchBox__SearchTermField" id="5e1c4c2e-3992-4cb7-a5b7-d5e073917b10" value="">
+</label>
+<button class="btn--blue SearchBox__SubmitButton" id="ccb0be77-0cc1-44d9-9ef2-0a0c25c0dd02" onclick="" type="submit"><span class="visually-hidden screen-reader ">Submit </span>Search</button>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/search" />
+    <input type="hidden" data-sf-role="indexCatalogue" value="site-search" />
+<input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+<input type="hidden" data-sf-role="disableSuggestions" value='false' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#5e1c4c2e-3992-4cb7-a5b7-d5e073917b10' />
+<input type="hidden" data-sf-role="searchButtonId" value='#ccb0be77-0cc1-44d9-9ef2-0a0c25c0dd02' />
+</form>
+</div>
+
+    </div>
+</div><section class="more-of-our-work">
+    <div class="more-of-our-work__container hide-overflow">
+        <h3 id="Contentplaceholder1_C012_Col00" class="sf_colsIn more-of-our-work__header" data-sf-element="MORE OF OUR WORK HEADER" data-placeholder-label="Click on Content tab to select the Rich Text content widget.">
+<div >
+    <div class="sfContentBlock sf-Long-text" >Popular Content</div>    
+</div></h3>
+        <figure id="Contentplaceholder1_C012_Col01" class="sf_colsIn more-of-our-work__item" data-sf-element="Column 1" data-placeholder-label="Click on Content tab to select the More Of Our Work content widget (Content folder).">
+
+
+
+
+<div class="more-of-our-work__card">
+    <a href="https://footprint.conservation.org">
+
+            <picture>
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600&dpr=2" media="(min-width: 600px) and (min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=600&amp;h=450" media="(min-width: 600px)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600&dpr=2" media="(min-width: 400px) and (min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=300" media="(min-width: 400px)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=640&amp;h=480&dpr=2" media="(min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=320&amp;h=240" />
+
+                <img alt="YUS Conservation Area" srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600">
+                    <div class="image-credits--overlay">© Trond Larsen</div>
+                <!--[if (lt IE 9) & (!IEMobile)]>
+                    <span data-src="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=300"></span>
+                <![endif]-->
+                <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                <noscript>
+                    &lt;img src="https://ciorg.imgix.net/images/default-source/default-album/ci_15164886?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=320&amp;h=240" alt="YUS Conservation Area"
+                </noscript>
+            </picture>
+        <figcaption>
+            <h4 class="more-of-our-work__item-title">Carbon Footprint Calculator</h3>
+        </figcaption>
+    </a>
+</div></figure>
+        <figure id="Contentplaceholder1_C012_Col02" class="sf_colsIn more-of-our-work__item" data-sf-element="Column 2" data-placeholder-label="Click on Content tab to select the More Of Our Work content widget (Content folder).">
+
+
+
+
+<div class="more-of-our-work__card">
+    <a href="/quizzes">
+
+            <picture>
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600&dpr=2" media="(min-width: 600px) and (min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=600&amp;h=450" media="(min-width: 600px)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600&dpr=2" media="(min-width: 400px) and (min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=300" media="(min-width: 400px)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=640&amp;h=480&dpr=2" media="(min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=320&amp;h=240" />
+
+                <img alt="" srcset="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600">
+                    <div class="image-credits--overlay">© Luciano Candisani/iLCP</div>
+                <!--[if (lt IE 9) & (!IEMobile)]>
+                    <span data-src="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=300"></span>
+                <![endif]-->
+                <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                <noscript>
+                    &lt;img src="https://ciorg.imgix.net/images/default-source/default-album/nanday_conures_animal_love_75584281_v3?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=320&amp;h=240" alt=""
+                </noscript>
+            </picture>
+        <figcaption>
+            <h4 class="more-of-our-work__item-title">Quizzes: Test Your Nature Knowledge</h3>
+        </figcaption>
+    </a>
+</div></figure>
+        <figure id="Contentplaceholder1_C012_Col03" class="sf_colsIn more-of-our-work__item" data-sf-element="Column 3" data-placeholder-label="Click on Content tab to select the More Of Our Work content widget (Content folder).">
+
+
+
+
+<div class="more-of-our-work__card">
+    <a href="/climate-facts">
+
+            <picture>
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600&dpr=2" media="(min-width: 600px) and (min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=600&amp;h=450" media="(min-width: 600px)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600&dpr=2" media="(min-width: 400px) and (min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=300" media="(min-width: 400px)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=640&amp;h=480&dpr=2" media="(min-resolution: 2dppx)" />
+                <source srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=320&amp;h=240" />
+
+                <img alt="Skyline of a small rural town with rolling hills in Tibet during sunset." srcset="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=800&amp;h=600">
+                    <div class="image-credits--overlay">© Gong Hangxu</div>
+                <!--[if (lt IE 9) & (!IEMobile)]>
+                    <span data-src="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=300"></span>
+                <![endif]-->
+                <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                <noscript>
+                    &lt;img src="https://ciorg.imgix.net/images/default-source/default-album/ci_97755238?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=320&amp;h=240" alt="Skyline of a small rural town with rolling hills in Tibet during sunset."
+                </noscript>
+            </picture>
+        <figcaption>
+            <h4 class="more-of-our-work__item-title">Climate Change Facts</h3>
+        </figcaption>
+    </a>
+</div></figure>
+    </div>
+</section>
+
+
+
+
+<div class="floatingSocialShare__Container">
+    <div class='floatingSocialShare__Button floatingSocialShare__ButtonFacebook'>
+        <a href='' target="_blank" onclick="popupOpener({url: this.href, title: 'fbShare', w: 600, h: 450});  return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-facebook-1" class="at-icon at-icon-facebook" style="fill: rgb(255, 255, 255);"><title id="at-svg-facebook-1">Share with Facebook</title><g><path d="M22 5.16c-.406-.054-1.806-.16-3.43-.16-3.4 0-5.733 1.825-5.733 5.17v2.882H9v3.913h3.837V27h4.604V16.965h3.823l.587-3.913h-4.41v-2.5c0-1.123.347-1.903 2.198-1.903H22V5.16z" fill-rule="evenodd"></path></g></svg>
+        </a>
+    </div>
+    <div class='floatingSocialShare__Button floatingSocialShare__ButtonTwitter' data-home='@ConservationOrg'>
+        <a href='' target="_blank" onclick="popupOpener({url: this.href, title: 'twShare', w: 600, h: 450});  return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="at-svg-twitter-2" class="at-icon at-icon-twitter" style="fill: rgb(255, 255, 255);"><path d="M361.7,89.9H418L294.9,230.6l144.9,191.5H326.4L237.5,306L135.9,422.1H79.4l131.7-150.5L72.2,89.9h116.3L268.8,196 L361.7,89.9z M341.8,388.4h31.2L171.5,121.8H138L341.8,388.4z"/></svg>
+        </a>
+    </div>
+    <div class='floatingSocialShare__Button floatingSocialShare__ButtonLinkedin'>
+        <a href='#linkedin' target="_blank" onclick="popupOpener({url: this.href, title: 'liShare', w: 600, h: 450});  return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-linkedin-3" class="at-icon at-icon-linkedin" style="fill: rgb(255, 255, 255);"><title id="at-svg-linkedin-3">Share with LinkedIn</title><g><path d="M26 25.963h-4.185v-6.55c0-1.56-.027-3.57-2.175-3.57-2.18 0-2.51 1.7-2.51 3.46v6.66h-4.182V12.495h4.012v1.84h.058c.558-1.058 1.924-2.174 3.96-2.174 4.24 0 5.022 2.79 5.022 6.417v7.386zM8.23 10.655a2.426 2.426 0 0 1 0-4.855 2.427 2.427 0 0 1 0 4.855zm-2.098 1.84h4.19v13.468h-4.19V12.495z" fill-rule="evenodd"></path></g></svg>
+        </a>
+    </div>
+    <div class='floatingSocialShare__Button floatingSocialShare__ButtonWhatsapp'>
+        <a href='#whatsapp' target="_blank" onclick="popupOpener({url: this.href, title: 'waShare', w: 600, h: 450});  return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-whatsapp-4" class="at-icon at-icon-whatsapp" style="fill: rgb(255, 255, 255);"><title id="at-svg-whatsapp-4">Share with WhatsApp</title><g><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z" fill-rule="evenodd"></path></g></svg>
+        </a>
+    </div>
+</div>
+<script type="text/javascript">
+
+    let thisPageUrl = document.location.href;
+    let thisTitle = document.title;
+    let thisTwitterHome = $(".floatingSocialShare__ButtonTwitter").attr("data-home");
+
+    const facebookSharerLink = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURI(thisPageUrl);
+    const twitterSharerLink = "https://twitter.com/intent/tweet?url=" + encodeURI(thisPageUrl) + "&text=" + encodeURI(" | " + thisTitle + " - " + thisTwitterHome);
+    const linkedinSharerLink = "https://www.linkedin.com/shareArticle?mini=true&url=" + encodeURI(thisPageUrl);
+    const whatsappSharerLink = "https://api.whatsapp.com/send?text=" + encodeURI(" | " + thisTitle + ": " + thisPageUrl);
+
+    $(".floatingSocialShare__ButtonFacebook a").attr("href", facebookSharerLink);
+    $(".floatingSocialShare__ButtonTwitter a").attr("href", twitterSharerLink);
+    $(".floatingSocialShare__ButtonLinkedin a").attr("href", linkedinSharerLink);
+    $(".floatingSocialShare__ButtonWhatsapp a").attr("href", whatsappSharerLink);
+    
+    $(document).ready(function(){
+        $(".global-footer__nav").addClass("global-footer__nav--floatingSocialShare");
+    })
+    
+
+    const popupOpener = ({ url, title, w, h }) => {
+        // Fixes dual-screen position                             Most browsers      Firefox
+        const dualScreenLeft = window.screenLeft !== undefined ? window.screenLeft : window.screenX;
+        const dualScreenTop = window.screenTop !== undefined ? window.screenTop : window.screenY;
+
+        const width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+        const height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+        const systemZoom = width / window.screen.availWidth;
+        const left = (width - w) / 2 / systemZoom + dualScreenLeft
+        const top = (height - h) / 2 / systemZoom + dualScreenTop
+        const newWindow = window.open(url, title,
+            `
+        scrollbars=yes,
+        width=${w / systemZoom},
+        height=${h / systemZoom},
+        top=${top},
+        left=${left}
+        `
+        )
+
+        if (window.focus) newWindow.focus();
+    }
+
+</script> </main> <!-- Start Footer --> <footer class="global-footer"> <div class="global-footer__actions"> <div class="global-footer__actions__wrapper"> <div class="global-footer__social"> 
+
+            <ul class="social-links">
+                <li class="social-links__header">
+                    <h5>Follow</h5>
+                </li>
+                <li>
+                    <a class="icon-facebook" target="_blank" href="https://www.facebook.com/conservation.intl">
+                        <span class="social-link__label">Facebook</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="icon-twitter" target="_blank" href="https://twitter.com/conservationorg">
+                        <span class="social-link__label">Twitter</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="icon-youtube" target="_blank" href="https://www.youtube.com/user/ConservationDotOrg">
+                        <span class="social-link__label">YouTube</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="icon-instagram" target="_blank" href="https://www.instagram.com/conservationorg/">
+                        <span class="social-link__label">Instagram</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="icon-linkedin" target="" href="https://www.linkedin.com/company/conservation-international/">
+                        <span class="social-link__label">LinkedIn</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="icon-rss" target="" href="/blog/rss-feeds">
+                        <span class="social-link__label">RSS</span>
+                    </a>
+                </li>
+            </ul>
+
+<!--<div class="typeformPlaceholder"></div>-->
+<!--<script>
+ var lb = localStorage.getItem("13Nov2024LightboxTriggered");
+if(lb!="true")
+{
+    localStorage.setItem("13Nov2024LightboxTriggered", "true");
+    if (Math.floor(Math.random() * 2))
+    {
+        $(".typeformPlaceholder").append("<div data-tf-live=\"01JCKA1RB0V0RXRBDA35EDA05K\"></div>");
+    }
+    else
+    {
+        $(".typeformPlaceholder").append("<div data-tf-live=\"01JCKA3H6580RCBDXMMFZCBV8T\"></div>");
+    }
+}
+</script>-->
+
+ </div> <div class="global-footer__utils"> <div class="global-footer__utils__links"> 
+
+            <div>
+                        <ul class="list--links">
+                                                <h5>Resources</h5>
+                        <li>
+                            <a href="/newsroom" class="global-footer__link" target="">
+                                Newsroom
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/video" class="global-footer__link" target="">
+                                Videos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/blog" class="global-footer__link" target="">
+                                Conservation News Blog
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://footprint.conservation.org" class="global-footer__link" target="">
+                                Carbon Footprint Calculator
+                            </a>
+                        </li>
+
+                        </ul>
+                        <ul class="list--links">
+                                                <h5>About Us</h5>
+                        <li>
+                            <a href="/about" class="global-footer__link" target="">
+                                Mission + Vision
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/centers-and-programs" class="global-footer__link" target="">
+                                Our Centers
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/annual-report" class="global-footer__link" target="">
+                                Annual Reports + Financials
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/our-commitment-to-ethics" class="global-footer__link" target="">
+                                Our Policies
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.ci.ethicspoint.com/" class="global-footer__link" target="_blank">
+                                Ethics Hotline
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/our-commitment-to-ethics/accountability-and-grievance-mechanism" class="global-footer__link" target="">
+                                Grievance Mechanism
+                            </a>
+                        </li>
+
+                        </ul>
+                        <ul class="list--links">
+                                                <h5>Leadership</h5>
+                        <li>
+                            <a href="/about/board-of-directors" class="global-footer__link" target="">
+                                Board of Directors
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/senior-staff" class="global-footer__link" target="">
+                                Senior Staff
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/leadership-council" class="global-footer__link" target="">
+                                Leadership Council
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about/fellowships" class="global-footer__link" target="">
+                                Fellows
+                            </a>
+                        </li>
+
+                        </ul>
+            </div>
+
+
+
+
+        <div class="global-footer__utils__affiliates">
+
+            <div class="global-footer__utils__affiliates__unit--text">
+                <div>
+                    We&#39;re proud to be recognized as a financially accountable and transparent organization.
+                </div>
+            </div>
+        </div>
+        <div class="SockCharityLogos">
+        <div class="SockCharityLogosItem">
+            <a href="https://www.charitynavigator.org/ein/521497470" target="_blank">
+                <img alt="" src="https://ciorg.imgix.net/images/default-source/logos/charitynavigator?&amp;auto=compress&amp;auto=format&amp;fit=crop" />
+            </a>
+        </div>
+        <div class="SockCharityLogosItem">
+            <a href="https://www.charitywatch.org/charities/conservation-international-foundation" target="_blank">
+                <img alt="" src="https://ciorg.imgix.net/images/default-source/graphics/charitywatch?&amp;auto=compress&amp;auto=format&amp;fit=crop" />
+            </a>
+        </div>
+        </div>
+ </div> <div class="global-footer__utils__pledge"> 
+
+
+            <h5>Listen to Nature</h5>
+            <a href="/hearme" class="global-footer__utils__pledge__graphic global-footer__link" target="">
+                <span class="global-footer__utils__pledge__graphic global-footer__link" data-picture="" data-alt="">
+                    <picture>
+                        <source srcset="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=346&amp;h=480" media="(min-width: 950px)" />
+                        <source srcset="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=370&amp;h=515" media="(min-width: 590px) and (max-width: 949px) " />
+                        <source srcset="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=536&amp;h=746" media="(min-width: 320px)  and (max-width: 589px) " />
+                        <source srcset="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=346&amp;h=480" />
+
+                        <img alt="" srcset="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=346&amp;h=480">
+                        <!--[if (lt IE 9) & (!IEMobile)]>
+                            <span data-src="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=346&amp;h=480"></span>
+                        <![endif]-->
+                        <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                        <noscript>
+                            <img src="https://ciorg.imgix.net/images/default-source/graphics/hear_me_campaign_sock?&amp;auto=compress&amp;auto=format&amp;fit=crop&amp;w=346&amp;h=480" alt="">
+                        </noscript>
+                    </picture>
+                </span>
+            </a>
+
+
+
+
+             </div> </div> </div> </div> <div class="global-footer__nav"> 
+
+        <p class="global-footer__nav__logo">
+            <a href="/">Conservation International</a>
+        </p>
+        <ul class="global-footer__nav__links">
+            <li>
+                <a href="/contact" class="global-footer__link" target="">Contact Us</a>
+            </li>
+            <li>
+                <a href="/about/our-commitment-to-ethics/terms" class="global-footer__link" target="">Terms of Use</a>
+            </li>
+            <li>
+                <a href="/about/our-commitment-to-ethics/privacy-policy" class="global-footer__link" target="">Privacy Policy</a>
+            </li>
+            <li>
+                <a href="/about/our-commitment-to-ethics/donor-privacy-commitment" class="global-footer__link" target="">Donor Privacy</a>
+            </li>
+            <li>
+                <a href="/about/conservation-international-jobs" class="global-footer__link" target="">Careers</a>
+            </li>
+            <li>
+                <a href="/about/procurement-opportunities" class="global-footer__link" target="">Request for Proposals</a>
+            </li>
+        </ul>
+            <span class="global-footer__nav__legal">
+                © 2025 Conservation International
+            </span>
+ </div> </footer> <!-- End Footer --> <script src="/ResourcePackages/Bootstrap/assets/dist/js/vendor/browser-polyfill.min.js" type="text/javascript"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Bootstrap/assets/dist/js/vendor/owl.carousel.min.js" type="text/javascript"></script> <!-- mainES6.js == debug file. main,js == production--> <script src="/ResourcePackages/Bootstrap/assets/dist/js/main.js" type="text/javascript"></script><script src="/ResourcePackages/CI/JS/min/cipixel.js" type="text/javascript"></script> <script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.js?package=Bootstrap&amp;v=MTMuMy43NjQ5LjA%3d" type="text/javascript"></script><script src="/ResourcePackages/CI/JS/min/mediaContainerController.js?version=20220530" type="text/javascript"></script><script src="/ResourcePackages/CI/JS/SearchBoxBlog.js?package=Bootstrap" type="text/javascript"></script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPqDSGFYM-JUXO4VIxi-sUtWT2kcwaTkGZlhcF-01pOpo-VAXVbltaq_9WamKAomH6ZVXyTw9yQpAHne-62682pYa7SZ0Fib7AFvJEr9VnZkYf6T3XgcTT3WSLdpaqeioo7k3QqK3P8eCogXyJqn6odJ2oPGP7H861ETSAz1hmU5niKeMvYuPJK2iSFTTh0RSzgFumY0T0SOqEirjwrcvkx41&amp;t=638442788100000000">
+
+</script> </body> </html>

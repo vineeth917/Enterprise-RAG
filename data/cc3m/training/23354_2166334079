@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<!--[if lt IE 9]>
+	<script src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/js/html5.js"></script>
+	<![endif]-->
+	<!-- Foundation -->
+	<link rel="stylesheet" href="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/stylesheets/app.css" />
+	<link rel='dns-prefetch' href='//www.white-rainbow.art' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="White Rainbow &raquo; Feed" href="https://www.white-rainbow.art/feed/" />
+<link rel="alternate" type="application/rss+xml" title="White Rainbow &raquo; Comments Feed" href="https://www.white-rainbow.art/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.white-rainbow.art\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.26"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='portfolio_slideshow-css'  href='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/css/portfolio-slideshow.min.css?ver=1.7.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='fancybox-css'  href='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4a' type='text/css' media='screen' />
+<link rel='stylesheet' id='ps-photoswipe-style-css'  href='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/css/photoswipe.min.css?ver=1.7.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='wpts_ui_css-css'  href='https://www.white-rainbow.art/wp-content/plugins/wordpress-post-tabs/css/styles/default/style.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-combobox-css'  href='https://www.white-rainbow.art/wp-content/plugins/custompress/datepicker/js/jquery.combobox/style.css?ver=0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='image-lazy-load-frontend-css'  href='https://www.white-rainbow.art/wp-content/plugins/image-lazy-load/css/frontend.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/genericons/genericons.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/style.css?ver=4.9.26' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/custompress/datepicker/js/cp-dynamic-css.js?ver=1.8.18'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/custompress/ui-admin/js/jquery.validate.min.js?ver=1.8.18'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/custompress/datepicker/js/jquery.combobox/jquery.combobox.js?ver=1.8.18'></script>
+<link rel='https://api.w.org/' href='https://www.white-rainbow.art/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.white-rainbow.art/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.white-rainbow.art/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://www.white-rainbow.art/" />
+<link rel='shortlink' href='https://www.white-rainbow.art/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.white-rainbow.art/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.white-rainbow.art%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.white-rainbow.art/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.white-rainbow.art%2F&#038;format=xml" />
+
+<!-- Portfolio Slideshow-->
+<noscript><link rel="stylesheet" type="text/css" href="https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/css/portfolio-slideshow-noscript.css?ver=1.7.5" /></noscript><style type="text/css">.centered a.next.browse.right {} .scrollable {height:75px;} a.prev.browse.left {top:42.5px} a.next.browse.right {top:-47.5px} .slideshow-wrapper .pscarousel img {margin-right:8px !important; margin-bottom:8px !important;} }</style><script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array(); psAudio = new Array(); var psAutoplay = new Array(); var psDelay = new Array(); var psFluid = new Array(); var psTrans = new Array(); var psRandom = new Array(); var psCarouselSize = new Array(); var touchWipe = new Array(); var psPagerStyle = new Array(); psCarousel = new Array(); var psSpeed = new Array(); var psLoop = new Array(); var psClickOpens = new Array(); /* ]]> */</script>
+<!--//Portfolio Slideshow-->
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.white-rainbow.art/?wordfence_lh=1&hid=426A442065C09592DE3078192ACC7AA3');
+</script>	<!-- IPAD Portrait FIX -->
+	<script type="text/javascript">
+	if  (navigator.userAgent.match(/iPad/i)) {
+		document.write('<meta name="viewport" content="width=1024">');
+	}else{
+		document.write('<meta name="viewport" content="width=device-width">');
+	}
+	</script>
+	<!-- END IPAD Portrait FIX -->
+	<title>White Rainbow</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.white-rainbow.art/xmlrpc.php">
+	<link rel="shortcut icon" href="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/favicon.png" />
+	<link rel="icon" href="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/favicon.png" type="image/png"/>
+</head>
+<body class="home page-template page-template-home_2019 page-template-home_2019-php page page-id-2576 masthead-fixed full-width grid">
+	<div class="wrapper">
+	<!-- Begin off-canvas-wrap -->
+	<div class="off-canvas-wrap" data-offcanvas>
+		<div class="inner-wrap">
+			<a href="#" class="left-off-canvas-toggle menu-icon" ><span></span></a>
+			<nav class="tab-bar">
+				<div class="left-small">
+					<a href="#" class="left-off-canvas-toggle menu-icon" ><span></span></a>
+				</div>
+			</nav>
+			<!-- Off Canvas Menu -->
+			<aside class="left-off-canvas-menu">
+				<ul class="off-canvas-list">
+					<li>
+						<a class="left-off-canvas-toggle" href="/">
+							<img alt="Exit" src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/close.png" />
+						</a>
+					</li>
+					<!-- WP MENU -->
+					<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-2579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2576 current_page_item menu-item-2579"><a href="https://www.white-rainbow.art/">Home</a></li>
+<li id="menu-item-2578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2578"><a title="projects" href="https://www.white-rainbow.art/exhibition/past/">Projects</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="https://www.white-rainbow.art/events/">Events</a></li>
+<li id="menu-item-2285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2285"><a href="https://www.white-rainbow.art/press/">Press</a></li>
+<li id="menu-item-2281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2281"><a target="_blank" href="http://archive.white-rainbow.art">Archive</a></li>
+<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="https://www.white-rainbow.art/about/">About</a></li>
+</ul></div>				</ul>
+			</aside>
+			<a class="exit-off-canvas"></a><!--  After Aside -->
+			<!-- END -->
+			<div id="page" class="hfeed site">
+				<header id="header-wrapper" class="site-header" role="banner">
+					<div id="header-main">
+						<h1 class="site-title1"><a href="https://www.white-rainbow.art/" rel="home"></a></h1>
+						<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+							<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-2580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2580"><a title="projects" href="https://www.white-rainbow.art/exhibition/past/">Projects</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://www.white-rainbow.art/events/">Events</a></li>
+<li id="menu-item-1263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1263"><a href="https://www.white-rainbow.art/press/">Press</a></li>
+<li id="menu-item-2172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2172"><a target="_blank" href="https://archive.white-rainbow.art">Archive</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://www.white-rainbow.art/about/">About</a></li>
+</ul></div>						</nav>
+						<h1 class="site-title2"><a href="https://www.white-rainbow.art/" rel="home"></a></h1>
+					</div>
+				</header><!-- #masthead -->
+				<div id="main" class="site-main cf">
+<div id="second_level_menu" class="show">
+    <div class="menu-exhibitions-second-level-container"><ul id="menu-exhibitions-second-level" class="nav-menu"><li id="menu-item-2526" class="menu-item menu-item-type-post_type menu-item-object-exhibitions menu-item-2526"><a href="https://www.white-rainbow.art/exhibitions/mari-katayama/">Current</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.white-rainbow.art/exhibition/future/">Future</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.white-rainbow.art/exhibition/past/">Past</a></li>
+</ul></div></div>
+
+<div class="second_level_mob hide">
+    <div class="menu-exhibitions-second-level-container"><ul id="menu-exhibitions-second-level-1" class="nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-exhibitions menu-item-2526"><a href="https://www.white-rainbow.art/exhibitions/mari-katayama/">Current</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.white-rainbow.art/exhibition/future/">Future</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.white-rainbow.art/exhibition/past/">Past</a></li>
+</ul></div></div>
+
+<div id="main-content" class="main-content cf">    
+    <div id="primary" class="content-area cf">
+		<div id="content" class="site-content cf" role="main">
+
+            <article id="post-2237" class="custom_post_list cf post-2237 exhibitions type-exhibitions status-publish format-standard has-post-thumbnail hentry">
+	<a class="list_img" href="https://www.white-rainbow.art/exhibitions/mari-katayama/">
+		<div class="img-wrapper">
+			<img width="450" height="300" src="https://www.white-rainbow.art/wp-content/uploads/2018/01/mk004-450x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://www.white-rainbow.art/wp-content/uploads/2018/01/mk004-450x300.jpg 450w, https://www.white-rainbow.art/wp-content/uploads/2018/01/mk004-615x410.jpg 615w, https://www.white-rainbow.art/wp-content/uploads/2018/01/mk004.jpg 750w" sizes="(max-width: 450px) 100vw, 450px" />		</div>
+	</a>
+	<div class="list_meta">
+		<h1><a href="https://www.white-rainbow.art/exhibitions/mari-katayama/">Mari Katayama</a></h1>
+		<h2>Broken Heart</h2>
+		<h3>24 January – 2 March 2019</h3>
+	</div>
+</article><!-- #post-## --><article id="post-2228" class="custom_post_list cf post-2228 exhibitions type-exhibitions status-publish format-standard has-post-thumbnail hentry">
+	<a class="list_img" href="https://www.white-rainbow.art/exhibitions/meiro-koizumi/">
+		<div class="img-wrapper">
+			<img width="450" height="300" src="https://www.white-rainbow.art/wp-content/uploads/2018/01/1-450x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://www.white-rainbow.art/wp-content/uploads/2018/01/1-450x300.jpg 450w, https://www.white-rainbow.art/wp-content/uploads/2018/01/1-768x512.jpg 768w, https://www.white-rainbow.art/wp-content/uploads/2018/01/1-615x410.jpg 615w, https://www.white-rainbow.art/wp-content/uploads/2018/01/1.jpg 1350w" sizes="(max-width: 450px) 100vw, 450px" />		</div>
+	</a>
+	<div class="list_meta">
+		<h1><a href="https://www.white-rainbow.art/exhibitions/meiro-koizumi/">Meiro Koizumi</a></h1>
+		<h2>Battlelands</h2>
+		<h3>22 November 2018 – 12 January 2019</h3>
+	</div>
+</article><!-- #post-## --><article id="post-2222" class="custom_post_list cf post-2222 exhibitions type-exhibitions status-publish format-standard has-post-thumbnail hentry">
+	<a class="list_img" href="https://www.white-rainbow.art/exhibitions/taro-izumi/">
+		<div class="img-wrapper">
+			<img width="450" height="300" src="https://www.white-rainbow.art/wp-content/uploads/2018/01/TIslides01-450x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://www.white-rainbow.art/wp-content/uploads/2018/01/TIslides01-450x300.jpg 450w, https://www.white-rainbow.art/wp-content/uploads/2018/01/TIslides01-768x512.jpg 768w, https://www.white-rainbow.art/wp-content/uploads/2018/01/TIslides01-615x410.jpg 615w, https://www.white-rainbow.art/wp-content/uploads/2018/01/TIslides01.jpg 825w" sizes="(max-width: 450px) 100vw, 450px" />		</div>
+	</a>
+	<div class="list_meta">
+		<h1><a href="https://www.white-rainbow.art/exhibitions/taro-izumi/">Taro Izumi</a></h1>
+		<h2>My eyes are not in the centre</h2>
+		<h3>14 September – 3 November 2018</h3>
+	</div>
+</article><!-- #post-## --><article id="post-2213" class="custom_post_list cf post-2213 exhibitions type-exhibitions status-publish format-standard has-post-thumbnail hentry">
+	<a class="list_img" href="https://www.white-rainbow.art/exhibitions/aki-sasamoto/">
+		<div class="img-wrapper">
+			<img width="450" height="300" src="https://www.white-rainbow.art/wp-content/uploads/2018/01/004-450x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://www.white-rainbow.art/wp-content/uploads/2018/01/004-450x300.jpg 450w, https://www.white-rainbow.art/wp-content/uploads/2018/01/004-615x410.jpg 615w, https://www.white-rainbow.art/wp-content/uploads/2018/01/004.jpg 750w" sizes="(max-width: 450px) 100vw, 450px" />		</div>
+	</a>
+	<div class="list_meta">
+		<h1><a href="https://www.white-rainbow.art/exhibitions/aki-sasamoto/">Aki Sasamoto</a></h1>
+		<h2>Clothes Line</h2>
+		<h3>19 July – 4 August 2018</h3>
+	</div>
+</article><!-- #post-## --><article id="post-2204" class="custom_post_list cf post-2204 exhibitions type-exhibitions status-publish format-standard has-post-thumbnail hentry">
+	<a class="list_img" href="https://www.white-rainbow.art/exhibitions/chim-pom/">
+		<div class="img-wrapper">
+			<img width="450" height="300" src="https://www.white-rainbow.art/wp-content/uploads/2018/01/cp01-1-450x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://www.white-rainbow.art/wp-content/uploads/2018/01/cp01-1-450x300.jpg 450w, https://www.white-rainbow.art/wp-content/uploads/2018/01/cp01-1-615x410.jpg 615w, https://www.white-rainbow.art/wp-content/uploads/2018/01/cp01-1.jpg 750w" sizes="(max-width: 450px) 100vw, 450px" />		</div>
+	</a>
+	<div class="list_meta">
+		<h1><a href="https://www.white-rainbow.art/exhibitions/chim-pom/">Chim↑Pom </a></h1>
+		<h2>Why Open?</h2>
+		<h3>18 May – 7 July 2018</h3>
+	</div>
+</article><!-- #post-## --><article id="post-2190" class="custom_post_list cf post-2190 exhibitions type-exhibitions status-publish format-standard has-post-thumbnail hentry">
+	<a class="list_img" href="https://www.white-rainbow.art/exhibitions/chikako-yamashiro/">
+		<div class="img-wrapper">
+			<img width="450" height="300" src="https://www.white-rainbow.art/wp-content/uploads/2018/01/003-450x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://www.white-rainbow.art/wp-content/uploads/2018/01/003-450x300.jpg 450w, https://www.white-rainbow.art/wp-content/uploads/2018/01/003-615x410.jpg 615w, https://www.white-rainbow.art/wp-content/uploads/2018/01/003.jpg 675w" sizes="(max-width: 450px) 100vw, 450px" />		</div>
+	</a>
+	<div class="list_meta">
+		<h1><a href="https://www.white-rainbow.art/exhibitions/chikako-yamashiro/">Chikako Yamashiro</a></h1>
+		<h2>Shapeshifter</h2>
+		<h3>15 March – 28 April 2018</h3>
+	</div>
+</article><!-- #post-## -->            
+            
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	</div><!-- #main-content -->
+
+
+
+                                    </div><!-- #main -->
+            </div><!-- #page -->
+
+        </div><!-- end inner wrapp, must go after all content -->
+    </div><!-- end off canvas --> 
+
+    <div class="push"></div><!-- http://ryanfait.com/resources/footer-stick-to-bottom-of-page/ --> 
+
+</div><!-- end main wrapper -->
+
+<!-- START FOOTER -->
+<footer id="footer-wrapper" class="site-footer footer" role="contentinfo">
+ <div id="footer-main" class="cf">
+    <div class="sections cf">
+        <h3>Menu</h3>
+        <ul>
+            <li>
+                <a title="Exhibition" href="/exhibition/chikako-yamashiro/">Exhibitions</a>
+            </li>
+<!--
+            <li>
+                <a title="Events" href="/events/">Events</a>
+            </li>
+-->
+            <li>
+                <a title="Press" href="/press/">Press</a>
+            </li>
+            <li>
+                <a target="_blank" href="http://archive.white-rainbow.art">Archive</a>
+            </li>
+            <li>
+                <a title="About" href="/about/">About</a>
+            </li>
+        </ul>
+    </div>
+    <div class="footer_contact cf">
+       <h3>Contact</h3>
+       <p class="left">
+        <a href="https://www.google.co.uk/maps/place/47+Mortimer+St,+Fitzrovia,+London+W1W/@51.5180027,-0.1395147,18z/data=!4m2!3m1!1s0x48761b2a66dd6ba7:0x7668f972fb852f19" target="_blank">
+            47 Mortimer Street<br>
+            London<br>
+            W1W 8HJ
+        </a>
+    </p>
+    <p class="right">+44 (0)20 7637 1050<br>
+     <a href="mailto:info@white-rainbow.art">info@white-rainbow.art</a><br>
+     <a class="f_google" href="https://www.google.co.uk/maps/place/47+Mortimer+St,+Fitzrovia,+London+W1W/@51.5180027,-0.1395147,18z/data=!4m2!3m1!1s0x48761b2a66dd6ba7:0x7668f972fb852f19" target="_blank">Map</a>
+ </p>
+</div>
+<div class="footer_opening cf">
+    <h3>Opening times</h3>
+    <p>Tuesday–Friday 11:00–19:00<br>
+    Last Saturday of each exhibition and by appointment
+    </p>
+    </div>
+    <div class="footer_follow cf">
+        <h3>Follow us</h3>
+        <p>
+            <a class="footer_newsletter" title="Newsletter" href="http://eepurl.com/djnkDT" target="_blank">Sign up to our newsletter</a>
+            
+            <a class="footer_facebook" target="_blank" title="Facebook" href="https://www.facebook.com/pages/White-Rainbow/755394691165216?fref=ts"><img src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/ico_facebook.png" width="28px" height="28px" style="opacity:1"/></a>
+            <a class="footer_twitter" target="_blank" title="Twitter" href="https://twitter.com/WhiteRainbowLdn"><img src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/ico_twitter.png" width="28px" height="28px" style="opacity:1"/></a>
+            <a class="footer_instagram" target="_blank" title="Instagram" href="https://www.instagram.com/white_rainbow_london/"><img src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/ico_instagram.png" width="28px" height="28px" style="opacity:1"/></a>
+        </div>
+        <div class="credits">
+            <div class="logo hide">
+                <a href="/">
+                    <img title="White Rainbow" 
+                    src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/images/whiterainbow_logo_white_x2.png" 
+                    width="125px" height="16px" style="opacity:1"
+                    />
+                </a>
+            </div>
+            <p>Site by <a title="Tamassy Creative" href="http://tamassy.co.uk">Tamassy</a></p>
+        </div>
+    </div>
+</div><!-- .site-info -->
+</footer><!-- #colophon -->
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-541c489b5688d043"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->    
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    jQuery(window).scroll(function(){ 
+        if(jQuery(this).scrollTop() < 50){
+            jQuery("header").removeClass("header-compact");
+        }
+        else{
+            jQuery("header").addClass("header-compact");
+        }
+    });
+});
+</script>
+
+
+<script type="text/javascript">
+//         window.onload = function() {
+//             stickyFooter();
+
+//             //you can either uncomment and allow the setInterval to auto correct the footer
+//             //or call stickyFooter() if you have major DOM changes
+//             //setInterval(checkForDOMChange, 1000);
+//         };
+//         //check for changes to the DOM
+//         function checkForDOMChange() {
+//             stickyFooter();
+//         }
+
+//         //check for resize event if not IE 9 or greater
+//         window.onresize = function() {
+//             stickyFooter();
+//         }
+
+//         //lets get the marginTop for the <footer>
+//         function getCSS(element, property) {
+
+//           var elem = document.getElementsByTagName(element)[0];
+//           var css = null;
+
+//           if (elem.currentStyle) {
+//             css = elem.currentStyle[property];
+
+//           } else if (window.getComputedStyle) {
+//             css = document.defaultView.getComputedStyle(elem, null).
+//             getPropertyValue(property);
+//           }
+
+//           return css;
+
+//         }
+
+//         function stickyFooter() {
+    
+//             if (document.getElementsByTagName("footer")[0].getAttribute("style") != null) {
+//                 document.getElementsByTagName("footer")[0].removeAttribute("style");
+//             }
+
+//             if (window.innerHeight != document.body.offsetHeight) {
+//                 var offset = window.innerHeight - document.body.offsetHeight;
+//                 var current = getCSS("footer", "margin-top");
+
+//                 if (isNaN(current) == true) {
+//                     document.getElementsByTagName("footer")[0].setAttribute("style","margin-top:0px;");
+//                     current = 0;
+//                 } else {
+//                     current = parseInt(current);
+//                 }
+
+//                 if (current+offset > parseInt(getCSS("footer", "margin-top"))) {            
+//                     document.getElementsByTagName("footer")[0].setAttribute("style","margin-top:"+(current+offset)+"px;");
+//                 }
+//             }
+//         }
+//         /*
+//         ! end sticky footer
+//         */
+</script>
+
+<!-- LOAD FOUNDATION -->
+
+<script src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/bower_components/foundation/js/foundation.min.js"></script>
+<script>
+jQuery.noConflict();
+jQuery(document).foundation();
+</script>
+<script src="https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/js/app.js"></script>
+<span id="bruteprotect_uptime_check_string" style="display:none;">7ads6x98y</span><script type='text/javascript'>/* <![CDATA[ */ var portfolioSlideshowOptions = { psFancyBox:true, psHash:0, psThumbSize:'75', psFluid:false, psTouchSwipe:true, psKeyboardNav:true, psBackgroundImages:true, psInfoTxt:'of' };/* ]]> */</script><script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/js/scrollable.min.js?ver=1.2.5'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/js/portfolio-slideshow.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4a'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/js/code.photoswipe.jquery-3.0.4.min.js?ver=3.0.4'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/portfolio-slideshow-pro/js/jquery.cycle.all.min.js?ver=2.99'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/wordpress-post-tabs/js/jquery.posttabs.js?ver=1.6.2'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var image_lazy_load = {"image_unveil_load":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/plugins/image-lazy-load/js/min/frontend-min.js?ver=1.0.9'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-content/themes/whiterainbow2014-v1.4/js/functions.js?ver=20140319'></script>
+<script type='text/javascript' src='https://www.white-rainbow.art/wp-includes/js/wp-embed.min.js?ver=4.9.26'></script>
+</body>
+</html>

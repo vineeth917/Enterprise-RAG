@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Something Went Wrong</title>
+    <link rel="shortcut icon" href="./failover_assets/favicon.ico" />
+    <style>
+        html,
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            width: 100%;
+            /* padding: 0 13px; */
+            margin: 0 auto;
+        }
+
+        #logo {
+            width: 140px;
+            height: 41px;
+            background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA5Ni4xIDI4LjMiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDk2LjEgMjguMzsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiM2RUIwMjc7fQo8L3N0eWxlPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNzksMTcuNmwyLjktOS41bDIuOSw5LjVINzl6IE01Ny45LDIwLjhoLTEuOFY3LjZoMS44YzIuNywwLDUuNiwxLjEsNS42LDYuNkM2My41LDE5LDYwLjgsMjAuOCw1Ny45LDIwLjgKCSBNMTEsMTcuNkwxNCw4bDIuOSw5LjZIMTF6IE04Ny4xLDAuN2gtOS45TDcxLjUsMTdjMC4zLTEuNCwwLjMtMi40LDAuMy0yLjljMC02LjgtMy45LTEzLjQtMTMuMi0xMy40SDQ4LjFWMTcKCWMtMC45LTQuNi01LjEtNS45LTEwLjQtNy40Yy0yLTAuNi0zLTEuNi0yLjYtMi41YzAuMy0wLjgsMS41LTEsMy0wLjhjMi4yLDAuMyw0LDEuMSw1LjcsMmwyLjMtNS44QzQ1LjYsMi4yLDQxLjgsMCwzNywwCgljLTYuNiwwLTEwLjksMy4yLTEwLjksOGMwLDQuMiwyLjYsNi43LDcuNCw4LjFjNS4yLDEuNSw2LjUsMi4xLDYuMywzLjZjLTAuMSwxLjMtMy4zLDIuOC0xMS4yLTJsLTIuMSw0LjhMMTkuMywwLjhIOS40TDAsMjcuOGg3LjgKCUw5LDI0aDkuOGwxLjIsMy44aDguMmwtMC45LTIuNmMyLjgsMS42LDYuMiwzLjEsMTAuMywzLjFjNi4zLDAsOS43LTMuNCwxMC41LTYuN3Y2LjNoMTAuNmM2LjMsMCw5LjYtMywxMS4zLTYuMmwtMi4yLDYuMmg3LjgKCWwxLjMtMy44aDkuOGwxLjEsMy44SDk2TDg3LjEsMC43eiIvPgo8L3N2Zz4K);
+            background-repeat: no-repeat;
+            display: block;
+            margin: 19px auto 37px auto;
+            cursor: default;
+        }
+
+        #pageHeader {
+            margin: 0 auto 41px auto;
+            width: 266px;
+        }
+
+        #subHeader {
+            width: 265px;
+            height: 41px;
+            font-size: 18px;
+            font-weight: 600;
+            text-align: center;
+            letter-spacing: 0.3px;
+            color: #191919;
+
+        }
+
+        #pageContent {
+            margin: 34px auto 38px auto;
+            width: 280px;
+        }
+
+        #subPageContent {
+            font-family: Helvetica;
+            text-align: center;
+            line-height: 22px;
+            margin: 33px auto 23px auto;
+            max-width: 348px;
+            font-size: 16px;
+            letter-spacing: 0.5px;
+            padding: 0 10px;
+
+        }
+
+        .btn-accent {
+            cursor: pointer;
+            min-width: 145px;
+            width: 46%;
+            height: 50px;
+            font-size: 15px;
+            background-color: #68a51c;
+            color: #fff;
+            font-weight: bold;
+            display: inline-block;
+            border: none;
+            margin: 0 auto;
+            outline: none;
+            border-radius: 6px;
+        }
+
+        .btn-accent-div {
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin: 0 auto;
+            padding: 0 10px;
+        }
+
+        #statusImage {
+            text-align: center;
+        }
+
+        #statusImageContent {
+            max-width: 100%;
+            height: 170px;
+        }
+
+        @media screen and (min-width: 415px) {
+            .container {
+                padding: 0 170px;
+            }
+
+            #logo {
+                width: 179px;
+                height: 53px;
+                margin: 60px auto 0 auto;
+            }
+
+            #pageHeader {
+                width: 556px;
+            }
+
+            #subHeader {
+                width: 554px;
+                height: 31px;
+                font-size: 24px;
+                font-weight: 600;
+                text-align: center;
+                letter-spacing: 0.5px;
+                color: #191919;
+            }
+
+            #pageContent {
+                width: 440px;
+            }
+            .btn-accent-div {
+                max-width: 560px;
+            }
+            .btn-accent {
+                height: 60px;
+                font-size: 18px;
+            }
+        }
+
+        @media screen and (min-width: 769px) {
+            .container {
+                width: 500px;
+                padding: 0;
+            }
+
+            #logo {
+                width: 179px;
+                height: 53px;
+                margin: 60px auto 26px auto;
+            }
+
+            #pageHeader {
+                width: 460px;
+            }
+
+            #subHeader {
+                width: 456px;
+                height: 44px;
+                font-size: 24px;
+                font-weight: 600;
+                text-align: center;
+                color: #191919;
+            }
+
+            #pageContent {
+                width: 342px;
+            }
+
+            #subPageContent {
+                max-width: 500px;
+            }
+        }
+    </style>
+</head>
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>
+
+<body>
+    <div class="container">
+        <div id="logo">
+        </div>
+
+        <div id="pageHeader">
+            <p id="subHeader">Oops! Something went wrong...</p>
+        </div>
+
+        <div id="statusImage">
+            <img src="./failover_assets/maintanance.png" alt="High Volume Traffic" id="statusImageContent">
+        </div>
+
+        <div id="pageContent">
+            <p id="subPageContent">Refresh won&#39;t work on this page. Go back to the previous page and try again to see if
+                we fixed it.</p>
+        </div>
+        <div class="btn-accent-div">
+            <input type="button" class="btn-accent" onclick="goBack();" value="Go Back" />
+        </div>
+    </div>
+</body>
+
+</html>

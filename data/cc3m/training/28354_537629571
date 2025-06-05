@@ -1,0 +1,1517 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sensationalcolor.com/color-pallet-palate-palette/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:site_name" content="Sensational Color" />
+<meta property="og:title" content="Palate, Palette, Or Pallet? " />
+<meta name="twitter:title" content="Palate, Palette, Or Pallet? " />
+<meta property="og:image" content="https://sensationalcolor.com/wp-content/uploads/2017/03/Color-Palette-1.jpg" />
+<meta name="twitter:image:src" content="https://sensationalcolor.com/wp-content/uploads/2017/03/Color-Palette-1.jpg" />
+<meta property="og:description" content="Which is correct when talking about colors,Check your answer now." />
+<meta name="twitter:description" content="Which is correct when talking about colors,Check your answer now." />
+<meta name="twitter:creator" content="@@colorexpert" />
+<meta name="twitter:site" content="@@colorexpert" />
+
+	<!--[if lt IE 9]>
+	<script src="https://sensationalcolor.com/wp-content/themes/pressive/js/html5/dist/html5shiv.js"></script>
+	<script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="https://sensationalcolor.com/wp-content/themes/pressive/css/ie8.css"/>
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="https://sensationalcolor.com/wp-content/themes/pressive/css/ie7.css"/>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta charset="UTF-8">
+	
+	
+				<script type="text/javascript">
+			window.flatStyles = window.flatStyles || ''
+
+			window.lightspeedOptimizeStylesheet = function () {
+				const currentStylesheet = document.querySelector( '.tcb-lightspeed-style:not([data-ls-optimized])' )
+
+				if ( currentStylesheet ) {
+					try {
+						if ( currentStylesheet.sheet && currentStylesheet.sheet.cssRules ) {
+							if ( window.flatStyles ) {
+								if ( this.optimizing ) {
+									setTimeout( window.lightspeedOptimizeStylesheet.bind( this ), 24 )
+								} else {
+									this.optimizing = true;
+
+									let rulesIndex = 0;
+
+									while ( rulesIndex < currentStylesheet.sheet.cssRules.length ) {
+										const rule = currentStylesheet.sheet.cssRules[ rulesIndex ]
+										/* remove rules that already exist in the page */
+										if ( rule.type === CSSRule.STYLE_RULE && window.flatStyles.includes( `${rule.selectorText}{` ) ) {
+											currentStylesheet.sheet.deleteRule( rulesIndex )
+										} else {
+											rulesIndex ++
+										}
+									}
+									/* optimize, mark it such, move to the next file, append the styles we have until now */
+									currentStylesheet.setAttribute( 'data-ls-optimized', '1' )
+
+									window.flatStyles += currentStylesheet.innerHTML
+
+									this.optimizing = false
+								}
+							} else {
+								window.flatStyles = currentStylesheet.innerHTML
+								currentStylesheet.setAttribute( 'data-ls-optimized', '1' )
+							}
+						}
+					} catch ( error ) {
+						console.warn( error )
+					}
+
+					if ( currentStylesheet.parentElement.tagName !== 'HEAD' ) {
+						/* always make sure that those styles end up in the head */
+						const stylesheetID = currentStylesheet.id;
+						/**
+						 * make sure that there is only one copy of the css
+						 * e.g display CSS
+						 */
+						if ( ( ! stylesheetID || ( stylesheetID && ! document.querySelector( `head #${stylesheetID}` ) ) ) ) {
+							document.head.prepend( currentStylesheet )
+						} else {
+							currentStylesheet.remove();
+						}
+					}
+				}
+			}
+
+			window.lightspeedOptimizeFlat = function ( styleSheetElement ) {
+				if ( document.querySelectorAll( 'link[href*="thrive_flat.css"]' ).length > 1 ) {
+					/* disable this flat if we already have one */
+					styleSheetElement.setAttribute( 'disabled', true )
+				} else {
+					/* if this is the first one, make sure he's in head */
+					if ( styleSheetElement.parentElement.tagName !== 'HEAD' ) {
+						document.head.append( styleSheetElement )
+					}
+				}
+			}
+		</script>
+		<title>Color Pallet, Palette Or Palate? - Sensational Color</title>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO Pro 4.8.1.1 - aioseo.com -->
+	<meta name="description" content="Color Pallet, Palette Or Palate? Which is the right term to use when describing a range of colors or the board that artists use to hold and mix paints?" />
+	<meta name="robots" content="max-image-preview:large" />
+	<meta name="author" content="Kate Smith"/>
+	<link rel="canonical" href="https://sensationalcolor.com/color-pallet-palate-palette/" />
+	<meta name="generator" content="All in One SEO Pro (AIOSEO) 4.8.1.1" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Sensational Color - Color Explained" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Color Pallet, Palette Or Palate? - Sensational Color" />
+		<meta property="og:description" content="Color Pallet, Palette Or Palate? Which is the right term to use when describing a range of colors or the board that artists use to hold and mix paints?" />
+		<meta property="og:url" content="https://sensationalcolor.com/color-pallet-palate-palette/" />
+		<meta property="article:published_time" content="2016-03-15T01:34:51+00:00" />
+		<meta property="article:modified_time" content="2019-11-06T13:42:18+00:00" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Color Pallet, Palette Or Palate? - Sensational Color" />
+		<meta name="twitter:description" content="Color Pallet, Palette Or Palate? Which is the right term to use when describing a range of colors or the board that artists use to hold and mix paints?" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BlogPosting","@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#blogposting","name":"Color Pallet, Palette Or Palate? - Sensational Color","headline":"Color Pallet, Palette Or Palate?","author":{"@id":"https:\/\/sensationalcolor.com\/author\/kate-smith-2\/#author"},"publisher":{"@id":"https:\/\/sensationalcolor.com\/#organization"},"image":{"@type":"ImageObject","url":"https:\/\/sensationalcolor.com\/wp-content\/uploads\/2017\/03\/Color-Palette-1.jpg","width":700,"height":568,"caption":"Color Pallet, Palette, Palate - Which is Correct?"},"datePublished":"2016-03-15T01:34:51+00:00","dateModified":"2019-11-06T13:42:18+00:00","inLanguage":"en-US","commentCount":2,"mainEntityOfPage":{"@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#webpage"},"isPartOf":{"@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#webpage"},"articleSection":"Color Words &amp; Phrases, color quiz, color words"},{"@type":"BreadcrumbList","@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/sensationalcolor.com\/#listItem","position":1,"name":"Home","item":"https:\/\/sensationalcolor.com\/","nextItem":{"@type":"ListItem","@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#listItem","name":"Color Pallet, Palette Or Palate?"}},{"@type":"ListItem","@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#listItem","position":2,"name":"Color Pallet, Palette Or Palate?","previousItem":{"@type":"ListItem","@id":"https:\/\/sensationalcolor.com\/#listItem","name":"Home"}}]},{"@type":"Organization","@id":"https:\/\/sensationalcolor.com\/#organization","name":"Sensational Color","description":"Color Explained","url":"https:\/\/sensationalcolor.com\/"},{"@type":"Person","@id":"https:\/\/sensationalcolor.com\/author\/kate-smith-2\/#author","url":"https:\/\/sensationalcolor.com\/author\/kate-smith-2\/","name":"Kate Smith"},{"@type":"WebPage","@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#webpage","url":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/","name":"Color Pallet, Palette Or Palate? - Sensational Color","description":"Color Pallet, Palette Or Palate? Which is the right term to use when describing a range of colors or the board that artists use to hold and mix paints?","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/sensationalcolor.com\/#website"},"breadcrumb":{"@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#breadcrumblist"},"author":{"@id":"https:\/\/sensationalcolor.com\/author\/kate-smith-2\/#author"},"creator":{"@id":"https:\/\/sensationalcolor.com\/author\/kate-smith-2\/#author"},"image":{"@type":"ImageObject","url":"https:\/\/sensationalcolor.com\/wp-content\/uploads\/2017\/03\/Color-Palette-1.jpg","@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#mainImage","width":700,"height":568,"caption":"Color Pallet, Palette, Palate - Which is Correct?"},"primaryImageOfPage":{"@id":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/#mainImage"},"datePublished":"2016-03-15T01:34:51+00:00","dateModified":"2019-11-06T13:42:18+00:00"},{"@type":"WebSite","@id":"https:\/\/sensationalcolor.com\/#website","url":"https:\/\/sensationalcolor.com\/","name":"Sensational Color","description":"Color Explained","inLanguage":"en-US","publisher":{"@id":"https:\/\/sensationalcolor.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO Pro -->
+
+<link rel='dns-prefetch' href='//accounts.google.com' />
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel="alternate" type="application/rss+xml" title="Sensational Color &raquo; Color Pallet, Palette Or Palate? Comments Feed" href="https://sensationalcolor.com/color-pallet-palate-palette/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.4.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sensationalcolor.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5e89e53ec0b7d30e5e441eff177687a1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='cf-frontend-style-inline-css' type='text/css'>
+@font-face {
+	font-family: 'Ball Pen Regular';
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://sensationalcolor.com/wp-content/uploads/2019/09/Ball-Pen-Regular-1.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Ball Pen Regular';
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://sensationalcolor.com/wp-content/uploads/2019/09/Ball-Pen-Regular-1.otf') format('OpenType');
+}
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://sensationalcolor.com/wp-includes/css/dist/block-library/style.min.css?ver=5e89e53ec0b7d30e5e441eff177687a1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='art_style-css' href='https://sensationalcolor.com/wp-content/plugins/art-custom-css/css/custom.css?v1_0_2&#038;ver=09:58:09' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_style_family_tve_flt-css' href='https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=10.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pressive-style-css' href='https://sensationalcolor.com/wp-content/themes/pressive/style.css?ver=5e89e53ec0b7d30e5e441eff177687a1' type='text/css' media='all' />
+<link rel='stylesheet' id='pressive-child-style-css' href='https://sensationalcolor.com/wp-content/themes/pressive-child/style.css?ver=5e89e53ec0b7d30e5e441eff177687a1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css' href='https://sensationalcolor.com/wp-content/themes/pressive-child/css/custom.css?ver=0.1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='thrive-reset-css' href='https://sensationalcolor.com/wp-content/themes/pressive/css/reset.css?ver=20120208' type='text/css' media='all' />
+<link rel='stylesheet' id='thrive-main-style-css' href='https://sensationalcolor.com/wp-content/themes/pressive/css/main_blue.css?ver=2014123' type='text/css' media='all' />
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/art-custom-css/js/custom.js?ver=2.5.1" id="custom_js-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/jquery/ui/menu.min.js" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/jquery/ui/autocomplete.min.js" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/jquery/jquery.masonry.min.js" id="jquery-masonry-js"></script>
+<script type="text/javascript" id="tve_frontend-js-extra">
+/* <![CDATA[ */
+var tve_frontend_options = {"ajaxurl":"https:\/\/sensationalcolor.com\/wp-admin\/admin-ajax.php","is_editor_page":"","page_events":[],"is_single":"1","social_fb_app_id":"","dash_url":"https:\/\/sensationalcolor.com\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard","queried_object":{"ID":1849,"post_author":"2"},"query_vars":{"page":"","name":"color-pallet-palate-palette"},"$_POST":[],"translations":{"Copy":"Copy","empty_username":"ERROR: The username field is empty.","empty_password":"ERROR: The password field is empty.","empty_login":"ERROR: Enter a username or email address.","min_chars":"At least %s characters are needed","no_headings":"No headings found","registration_err":{"required_field":"<strong>Error<\/strong>: This field is required","required_email":"<strong>Error<\/strong>: Please type your email address.","invalid_email":"<strong>Error<\/strong>: The email address isn&#8217;t correct.","passwordmismatch":"<strong>Error<\/strong>: Password mismatch"}},"routes":{"posts":"https:\/\/sensationalcolor.com\/wp-json\/tcb\/v1\/posts","video_reporting":"https:\/\/sensationalcolor.com\/wp-json\/tcb\/v1\/video-reporting"},"nonce":"50f6ccd5e1","allow_video_src":"","google_client_id":null,"google_api_key":null,"facebook_app_id":null,"lead_generation_custom_tag_apis":["activecampaign","aweber","convertkit","drip","klicktipp","mailchimp","sendlane","zapier"],"post_request_data":[],"user_profile_nonce":"8a0bc65937","ip":"85.208.96.205","current_user":[],"post_id":"1849","post_title":"Color Pallet, Palette Or Palate?","post_type":"post","post_url":"https:\/\/sensationalcolor.com\/color-pallet-palate-palette\/","is_lp":"","conditional_display":{"is_tooltip_dismissed":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/general.min.js?ver=10.6.1" id="tve_frontend-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/plupload/moxie.min.js?ver=1.3.5.1" id="moxiejs-js"></script>
+<link rel="https://api.w.org/" href="https://sensationalcolor.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://sensationalcolor.com/wp-json/wp/v2/posts/1849" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sensationalcolor.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://sensationalcolor.com/?p=1849' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://sensationalcolor.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsensationalcolor.com%2Fcolor-pallet-palate-palette%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://sensationalcolor.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsensationalcolor.com%2Fcolor-pallet-palate-palette%2F&#038;format=xml" />
+<style type="text/css" id="tve_global_variables">:root{--tcb-background-author-image:url(https://secure.gravatar.com/avatar/ad412359731a5d21acb845acc87eec278be13d4fe028e90f1a5a67d57d27fa3a?s=256&d=https%3A%2F%2Fsensationalcolor.com%2Fwp-content%2Fthemes%2Fpressive%2Fimages%2Fdefault_avatar.png&r=pg);--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url(https://sensationalcolor.com/wp-content/uploads/2017/03/Color-Palette-1.jpg);}</style>		<style type="text/css">.wp-video-shortcode {
+				max-width: 100% !important;
+			}body { background:#ffffff; }.cnt article h1.entry-title a { color:#003468; }.cnt article h2.entry-title a { color:#003468; }.bSe h1, .b-tt h1 { color:#003468; }.bSe h2, .b-tt h2 { color:#003468; }.bSe h3, .b-tt h3 { color:#003468; }.bSe h4, .b-tt h4 { color:#003468; }.bSe h5, .b-tt h5 { color:#003468; }.bSe h6, .b-tt h6 { color:#003468; }.cnt article p, .b-tt p { color:#333333; }.cnt .bSe article, .cnt .bSe .tve-c p { color:#333333; }.cnt article h1 a, .tve-woocommerce .bSe .awr .entry-title, .tve-woocommerce .bSe .awr .page-title{font-family:Raleway,sans-serif;}.bSe h1, .b-tt h1{font-family:Raleway,sans-serif;}.bSe h2,.tve-woocommerce .bSe h2, .b-tt h2{font-family:Raleway,sans-serif;}.bSe h3,.tve-woocommerce .bSe h3, .b-tt h3{font-family:Raleway,sans-serif;}.bSe h4, .b-tt h4{font-family:Raleway,sans-serif;}.bSe h5, .b-tt h5{font-family:Raleway,sans-serif;}.bSe h6, .b-tt h6{font-family:Raleway,sans-serif;}#text_logo{font-family:Raleway,sans-serif;}.cnt article h1 a { font-weight:500; }.bSe h1, .b-tt h1 { font-weight:500; }.bSe h2, .b-tt h2 { font-weight:500; }.bSe h3, .b-tt h3 { font-weight:500; }.bSe h4, .b-tt h4 { font-weight:500; }.bSe h5, .b-tt h5 { font-weight:500; }.bSe h6, .b-tt h6 { font-weight:500; }.cnt, .bp-t, .b-tt p, .b-tt, .tve-woocommerce .product p, .tve-woocommerce .products p{font-family:Raleway,sans-serif;font-weight:400;}article strong {font-weight: bold;}.bSe h1, .b-tt .entry-title, .ind .bSe .awr .awr-i .entry-title { font-size:30px; }.cnt, .b-tt p, .b-tt { font-size:20px; }.thrivecb { font-size:20px; }.out { font-size:20px; }.aut p { font-size:20px; }.cnt p, .tve-c { line-height:1.7em; }.thrivecb { line-height:1.7em; }.bSe a, .cnt article a { color:#0076c0; }.bSe .faq h4{font-family:Raleway,sans-serif;font-weight:400;}article strong {font-weight: bold;}header nav > ul.menu > li > a { color:#000!important; }header nav > ul.menu > li >  a:hover { color:#99aec2; }header nav > ul > li.current_page_item > a:hover { color:#99aec2; }header nav > ul > li.current_menu_item > a:hover { color:#99aec2; }header nav > ul > li.current_menu_item > a:hover { color:#99aec2; }header nav > ul > li > a:active { color:#99aec2; }header #logo > a > img { max-width:200px; }header ul.menu > li.h-cta > a { color:#6b98c2!important; }header ul.menu > li.h-cta > a { background:#transparent; }header ul.menu > li.h-cta > a { border-color:#6b98c2; }header ul.menu > li.h-cta > a:hover { color:#FFFFFF!important; }header ul.menu > li.h-cta > a:hover { background:#6b98c2; }</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<style type="text/css" id="thrive-default-styles">@media (min-width: 300px) { .tcb-plain-text {color:rgb(51, 51, 51);background-color:rgba(0, 0, 0, 0);font-family:Raleway, sans-serif;font-size:20px;font-weight:500;font-style:normal;margin:10px 0px 35px;padding:0px;text-decoration:none solid rgb(51, 51, 51);text-transform:none;border-left:0px none rgb(51, 51, 51);--tcb-applied-color:;} }</style><link rel="icon" href="https://sensationalcolor.com/wp-content/uploads/2016/03/cropped-Sensational-Color-Logo-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://sensationalcolor.com/wp-content/uploads/2016/03/cropped-Sensational-Color-Logo-220x220.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sensationalcolor.com/wp-content/uploads/2016/03/cropped-Sensational-Color-Logo-220x220.png" />
+<meta name="msapplication-TileImage" content="https://sensationalcolor.com/wp-content/uploads/2016/03/cropped-Sensational-Color-Logo-300x300.png" />
+			<style class="tve_custom_style">@media (min-width: 300px){:not(#tve) [data-css="tve-u-16af7bfb097"]{font-size: 16px !important;}[data-css="tve-u-16b53b858d8"]{margin-top: 40px !important;}[data-css="tve-u-16b53baf47a"]{float: none;margin: 10px auto 40px !important;}[data-css="tve-u-16e40ef142c"]{width: 50%;float: none;margin: 10px auto 40px !important;}[data-css="tve-u-16e40ef1430"]{margin-top: 0px;margin-left: 0px;}}</style> 						<style type="text/css">footer, .fmw{
+background-image: url("https://sensationalcolor.com/wp-content/uploads/2016/04/Sensational-Color-Explained-Header-e1471991549513.jpg") !important;
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+position: relative;
+}
+.btn.small.mrb > span {
+    background: #b2b5b6;
+color:#ffffff;
+}
+.met-c {
+    background: #b2b5b6 !important;
+}
+.ta {
+    background: #eeeeee;
+}
+.scl {
+    display: none !important;
+}
+.left.tat > h4 {
+    display: none;
+}
+.left.tat > p {
+    color: #333333;
+    font-family: open sans;
+    font-size: 14px;
+}
+/*.wrp .aut .scl, .bSe .pgn > span, .bSe .pgn > a:hover, .pgn > span.current, .pgn > a:hover, .pgn > span.current, .pgn > a.current, header nav ul li > ul li a:hover, .cnt .met-c, .ssf {
+    background: #eeeeee none repeat scroll 0 0;
+}*/
+.colch {
+    background: #eeeeee none repeat scroll 0 0;
+}
+.lrp textarea:hover {
+    background: #eeeeee none repeat scroll 0 0;
+}
+.fmm p
+{
+ color:#fff !important;
+}
+.fmm a
+{
+ color:#fff !important;
+}
+.fmm
+{
+background:#000 !important;
+}
+
+body.page-id-8390 {
+    padding-right: 0 !important;
+}
+
+html.tve-o-hidden.tve-hide-overflow.tve-l-open {
+    overflow: visible !important;
+}
+</style>
+		
+</head>
+<body class="wp-singular post-template-default single single-post postid-1849 single-format-standard custom-background wp-theme-pressive wp-child-theme-pressive-child metaslider-plugin">
+
+
+
+
+
+<!--
+<div class="h-b c-o"
+     style="background-image:url('https://sensationalcolor.com/wp-content/uploads/Default-Header.jpg');">
+	<div class="c-ti" style="background-color: ;">
+	</div>
+-->			<header
+				class="side "
+				style="">
+								<div class="h-i">
+					<div class="wrp">
+														<div id="logo">
+								    <!--
+									<a href="https://sensationalcolor.com/">
+										<img src="https://sensationalcolor.com/wp-content/uploads/2016/03/SCLogo-WHITE.png" class="l-d"
+										     alt="Sensational Color"></a>                                 -->
+									<a href="https://sensationalcolor.com/"><img
+											src="https://sensationalcolor.com/wp-content/uploads/2017/08/Sensational-Color-Logo.jpg" class="l-l"
+											alt="Sensational Color"></a>
+								</div>
+								
+						<div class="hsm"
+						     >
+							<span>Menu</span>
+						</div>
+						<div class="m-s"
+						     >
+							<div class="m-si">
+																	<!-- Cart Dropdown -->
+									<nav class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li  id="menu-item-9170" class="menu-item menu-item-type-post_type menu-item-object-page toplvl"><a  href="https://sensationalcolor.com/color-theory/">Color Theory</a></li>
+<li  id="menu-item-9168" class="menu-item menu-item-type-post_type menu-item-object-page toplvl"><a  href="https://sensationalcolor.com/color-meaning-psychology-symbolism/">Color Meaning</a></li>
+<li  id="menu-item-9167" class="menu-item menu-item-type-post_type menu-item-object-page toplvl"><a  href="https://sensationalcolor.com/color-psychology/">Color Psychology</a></li>
+<li  id="menu-item-1844" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children toplvl dropdown"><a  href="https://sensationalcolor.com/color-blog/">MORE ABOUT COLOR</a><ul class="sub-menu">	<li  id="menu-item-9888" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/color-words/" class=" colch ">Color Words & Idioms</a></li>
+	<li  id="menu-item-17714" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/color-quotes/" class=" colch ">Quotes About Color</a></li>
+	<li  id="menu-item-9169" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/books-about-color/" class=" colch ">Books About Color</a></li>
+	<li  id="menu-item-14772" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/colorful-places-around-the-world/" class=" colch ">Color Around the World</a></li>
+	<li  id="menu-item-11293" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/business-colors/" class=" colch ">Business Colors</a></li>
+	<li  id="menu-item-11603" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/fashion-colors/" class=" colch ">Fashion and Beauty Colors</a></li>
+	<li  id="menu-item-18096" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a  href="https://sensationalcolor.com/color-blog/" class=" colch ">Color Blog</a></li>
+	<li  id="menu-item-21156" class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.color.institute/color-confidence-home-interior-ebook/" class=" colch ">Colors for Your Interior Ebook</a></li>
+</ul></li>
+<li  id="menu-item-19911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children toplvl dropdown"><a  href="https://sensationalcolor.com/color-expert-kate-smith/">About</a><ul class="sub-menu">	<li  id="menu-item-19912" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/color-expert-kate-smith/" class=" colch ">About Kate Smith</a></li>
+	<li  id="menu-item-19915" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/speaker-kate-smith/" class=" colch ">Speaker Kate Smith</a></li>
+	<li  id="menu-item-19914" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/press/" class=" colch ">Sensational Color Press</a></li>
+	<li  id="menu-item-19916" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://sensationalcolor.com/color-expert-consulting-services/" class=" colch ">Color Expert Consulting Services</a></li>
+</ul></li>
+</ul></nav>																								<div class="s-b clearfix">
+									<form action="https://sensationalcolor.com/" method="get">
+										<label for="search">SEARCH: </label>
+										<input type="text" name="s" id="search"/>
+
+										<div class="clear"></div>
+									</form>
+									<span class="s-bb"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+		</div>
+	</div>
+
+			<div class="b-tt b-tl">
+			<div class="wrp">
+				
+			
+	
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</div>
+	
+</div>
+
+
+
+			
+		<div class="wrp cnt">
+			
+
+			
+						<div class="bSeCont">
+								<section class="bSe left">
+
+					
+					
+					
+					
+
+					<div
+						class="awr h-me">
+						<div class="meta">
+														<div class="met-c"
+							     >
+								<div>
+									<a href="#comments"><span></span> 2</a>
+								</div>
+							</div>
+						</div>
+						<div class="awr-i">
+
+																							<div class="fwit">
+									<img src="https://sensationalcolor.com/wp-content/uploads/2017/03/Color-Palette-1.jpg"
+									     alt="Color Pallet, Palette, Palate - Which is Correct?"
+									     title="Color Palette"/>
+								</div>
+							
+														<div class="tve-c">
+								<div id="tve_flt" class="tve_flt tcb-style-wrap"><div id="tve_editor" class="tve_shortcode_editor tar-main-content" data-post-id="1849"><div class="thrv_wrapper thrv_text_element" data-tag="h4"><h4>Time For A Color Quiz</h4></div><div class="thrv_wrapper thrv_text_element"><p>Choose the correct word for the following sentence -- When I get back from vacation, I'm going to use my photos to inspire a new color pallet / palette / palate for decorating my home office.<br><br>If you chose palette, congratulations, that is the correct answer.<br><br>If you chose one of the other words, you aren't alone in being confused. I often see the words palate or pallet incorrectly used to reference color, and it is an easy mistake to make.<br><br>All three words sound alike but have different spellings and meanings. Bonus points if you know what term is used to describe words that have the same pronunciation but have different meanings, origins, or spelling. The answer is at the end of this post.</p></div><div class="thrv_wrapper thrv_tw_qs tve_clearfix" data-tve-style="1" data-url="https://twitter.com/intent/tweet" data-via="" data-css="tve-u-16b53baf47a">
+<div class="thrv_tw_qs_container">
+<div class="thrv_tw_quote">
+<p>#Color #Quiz: When talking about colors, which is correct - Palate, Palette, Or Pallet ? Check your answer now.</p>
+</div>
+<div class="thrv_tw_qs_button tve_p_right">
+<span>
+<i></i>
+<span class="thrv_tw_qs_button_text thrv-inline-text tve_editable">Click to Tweet</span>
+</span>
+</div>
+</div>
+</div><div class="thrv_wrapper thrv_text_element" data-tag="h4"><h4>Color Palette Not Palate Or Pallet</h4></div><div class="thrv_wrapper thrv_text_element"><p><span class="bold_text">Palette</span><br>A palette is a range of colors. It is also the board that artists use to hold and mix paint. According to <a data-tcb-events="" href="https://www.vocabulary.com/" rel="" target="_blank">vocabulary.com</a>, palette has extended beyond actual colors to include figurative colors. For example, a musician can use a palette of tones and modes.<br><br><strong>Palate</strong><br>When you touch your tongue to the top of your mouth, you're feeling your palate. The word palate also means taste in a broader sense as in, "Just picked strawberries are pleasing to my palate."<br><br><strong>Pallet</strong><br>This word has several meanings, but none directly related to color. Pallet mainly refers to a slab or framework of wood used for carrying things or moving cargo.<br><br>If you knew that the term to describe words like pallet, palette, palate is homophone, give yourself a smile about how smart you are.<br><br>And if you aren't familiar with this word here's the definition again. A homophone is used to describe words that have the same pronunciation but have different meanings, origins, or spelling.<br><br>Now be sure to use the right word - palette - when writing about color. You can thank me later for saving you from the keen eyes and judgmental thoughts of the spelling and grammar police.</p></div><div class="thrv_wrapper thrv_text_element tve-froala fr-box"><p>To make sure you aren't making any other mistakes with color idioms, words or phrases, <a href="https://sensationalcolor.com/color-words/" class="tve-froala fr-basic" style="outline: none; display: inline-block;">check here.</a></p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-16e40ef142c"><span class="tve_image_frame"><a href="https://sensationalcolor.com/color-words/"><img decoding="async" class="tve_image wp-image-19900" alt="Color Words, Idioms and Phrases" width="1200" height="974" title="Color Words Idioms Feature Image" data-id="19900" src="https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image.jpg" data-css="tve-u-16e40ef1430" srcset="https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image.jpg 1200w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-150x122.jpg 150w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-300x244.jpg 300w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-768x623.jpg 768w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-1024x831.jpg 1024w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-100x81.jpg 100w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-220x179.jpg 220w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-123x100.jpg 123w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-277x225.jpg 277w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-325x264.jpg 325w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-360x292.jpg 360w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-450x365.jpg 450w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-419x340.jpg 419w, https://sensationalcolor.com/wp-content/uploads/2019/11/Color-Words-Idioms-Feature-Image-702x570.jpg 702w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></span></div><div class="thrv_wrapper thrv_text_element" data-tag="h4"><h4>Talk to Us About this Article</h4></div><div class="thrv_wrapper thrv_text_element"><p>Have you seen this mistake? Have you made it yourself? Leave a comment below to let us know.</p></div><div class="thrv_wrapper thrv_text_element tve-froala fr-box" data-css="tve-u-16b53b858d8"><p data-css="tve-u-16af7bfb097"><span class="italic_text" data-css="tve-u-16af7bfb099"><span class="tve_custom_font_size" data-css="tve-u-16af7bfb09a">Feature Image Credit: </span></span><a class="tve-froala" href="https://unsplash.com/@freephotocc" style="outline: none; display: inline-block;" target="_blank"><span class="italic_text" data-css="tve-u-16af7bfb099"><span class="tve_custom_font_size" data-css="tve-u-16af7bfb09a">Andrian Valeanu</span></span></a><span class="italic_text" data-css="tve-u-16af7bfb099"><span class="tve_custom_font_size" data-css="tve-u-16af7bfb09a"> on Unsplash</span></span></p></div></div></div><span class="span-reading-time rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Read Time: </span> <span class="rt-time"> 2</span> <span class="rt-label rt-postfix">min</span></span><div class="tcb_flag" style="display: none"></div>
+																		<script type="text/javascript">
+		var _thrive_share_no_params = {'url': "https://sensationalcolor.com/color-pallet-palate-palette/"};
+		_thrive_share_no_params.facebook = true;		_thrive_share_no_params.twitter = true;		_thrive_share_no_params.google = true;		_thrive_share_no_params.linkedin = true;		_thrive_share_no_params.pinterest = true;		jQuery( document ).ready( function () {
+			ThriveApp.display_no_shares( _thrive_share_no_params );
+		} );
+	</script>
+<div class="ssf ">
+				<div class="cou" id="tt-share-count" style="display: none">
+			<span id="share_no_element">0</span>
+			<input type="hidden" id="tt-hidden-share-no" value="0"/>
+			Shares		</div>
+		<div class="ssf-i">
+					<div class="ss">
+				<a class="fbk" href="//www.facebook.com/sharer/sharer.php?u=https://sensationalcolor.com/color-pallet-palate-palette/"
+				   onclick="return ThriveApp.open_share_popup(this.href, 545, 433);">
+					<span>Share</span>
+				</a>
+			</div>
+							<div class="ss">
+				<a class="tw"
+				   href="https://twitter.com/share?text=Color Pallet, Palette Or Palate?:&url=https://sensationalcolor.com/color-pallet-palate-palette/&via=colorexpert"
+				   onclick="return ThriveApp.open_share_popup(this.href, 545, 433);">
+					<span>Tweet</span>
+				</a>
+			</div>
+							<div class="ss">
+				<a class="gg" href="https://plus.google.com/share?url=https://sensationalcolor.com/color-pallet-palate-palette/"
+				   onclick="return ThriveApp.open_share_popup(this.href, 545, 433);">
+					<span>Share</span>
+				</a>
+			</div>
+							<div class="ss">
+				<a class="lk" href="https://www.linkedin.com/cws/share?url=https://sensationalcolor.com/color-pallet-palate-palette/"
+				   onclick="return ThriveApp.open_share_popup(this.href, 545, 433);">
+					<span>Share</span>
+				</a>
+			</div>
+				
+			<div class="ss">
+				<a class="prinster" href="#"
+				   onclick="return ThriveApp.open_share_popup('https://pinterest.com/pin/create/button/?url=https://sensationalcolor.com/color-pallet-palate-palette/&media=https://sensationalcolor.com/wp-content/uploads/2017/03/Color-Palette-1.jpg', 545, 433);">
+					<span data-pin-no-hover="true">Share</span>
+				</a>
+			</div>
+			</div>
+</div>
+															</div>
+
+							
+							<div class="clear"></div>
+
+							
+							
+							
+															
+	<script type="text/javascript">
+		_thriveCurrentPost = 1849;
+	</script>
+
+	<article id="comments">
+				<div class="awr">
+			
+			<div class="cmb" style="margin-left: 0px;" id="thrive_container_list_comments">
+							</div>
+
+						<!-- /comment_list -->
+							<div class="no_comm">
+					<h4 class="ctr">
+						Comments are closed					</h4>
+				</div>
+					</div>
+		<div id="comment-bottom"></div>
+	</article>
+							
+													</div>
+					</div>
+
+				</section>
+							</div>
+		
+								<div class="sAsCont">
+				<aside class="sAs right">
+							<section id="text-5"><div class="scn">			<div class="textwidget"><p><span style="font-size: medium;">Hi. I’m Kate Smith, an internationally recognized color expert, consultant, and designer. For many years, I spent hours studying, researching, and designing with color. As a result, I became an exceptional colorist &amp; business consultant sought out by companies worldwide. My goal in sharing my color knowledge and know-how on this site is to help YOU to understand color, create with color confidently, and discover your unique color sense-ability.</span><br />
+<img loading="lazy" decoding="async" class="aligncenter wp-image-17468 size-full" src="https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith.jpg" alt="Color Expert Kate Smith of Sensational Color on a Color Wheel at the Color Factory NYC" width="1024" height="788" srcset="https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith.jpg 1024w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-150x115.jpg 150w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-300x231.jpg 300w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-768x591.jpg 768w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-100x77.jpg 100w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-220x169.jpg 220w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-130x100.jpg 130w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-292x225.jpg 292w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-325x250.jpg 325w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-360x277.jpg 360w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-474x365.jpg 474w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-442x340.jpg 442w, https://sensationalcolor.com/wp-content/uploads/2019/09/Colorful-World-Kate-Smith-741x570.jpg 741w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
+</div>
+		</div></section><section id="text-6"><div class="scn">			<div class="textwidget"><p><span style="font-size: medium;">LEARN ABOUT COLOR<br />
+<a href="https://sensationalcolor.com/color-theory/"><small>Color Theory</small></a><br />
+<a href="https://sensationalcolor.com/color-classes/courses-webinars/" target="_blank" rel="noopener"><small>Color Classes</small></a><br />
+<a href="https://sensationalcolor.com/color-psychology/"><small>Color Psychology</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/color-meaning-psychology-symbolism/"><small>Color Meaning &amp; Symbolism</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/color-words/"><small>Color Words and Idioms</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/color-quotes/"><small>Quotes About Color</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/books-about-color/"><small>Books About Color</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/color-classes/color-resources/" target="_blank" rel="noopener"><small>Color Resources</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/colorful-places-around-the-world/"><small>Color Around the World</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/business-colors/"><small>Business Colors</small></a><a href="https://sensationalcolor.com/color-theory/"><br />
+</a><a href="https://sensationalcolor.com/fashion-colors/"><small>Beauty and Fashion Colors</small></a><br />
+</span></p>
+</div>
+		</div></section><section id="search-3"><div class="scn"><!--<section class="widget search_widget clear">-->
+<form action="https://sensationalcolor.com/" method="get" class="srh">
+	<input type="text" id="search-field" class="search-field" placeholder="Search..."
+	       name="s"/>
+	<button type="submit" id="search-button" class="search-button sBn"></button>
+</form>
+<!--</section>--></div></section>			
+		</aside>
+			</div>
+						<div class="clear"></div>
+
+		</div>
+
+
+		</div>
+</div> <!-- Close the wrapper div -->
+
+
+
+
+<div class="thrv_wrapper thrv_symbol  thrive-shortcode thrv_footer thrv_symbol_11793 tve_no_drag tcb-mp"
+    data-shortcode="thrive_footer" data-selector=".thrv_symbol.thrv_footer" data-tcb-elem-type="footer"
+    data-element-name="Thrive Footer" data-id="11793" style="z-index: 14;">
+    <div class="thrive-shortcode-config" style="display: none !important"></div>
+    <div class="thrive-shortcode-html thrive-symbol-shortcode tcb-mp" data-symbol-id="11793" style="z-index: 14;">
+        <style class="tve-symbol-custom-style">
+            @import url("//fonts.googleapis.com/css?family=Raleway:400,600,800,700,900,500&subset=latin");
+
+            @media (min-width: 300px) {
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] {
+                    max-width: 1080px;
+                    text-align: center;
+                    min-height: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d0923206"] {
+                    background-color: rgb(0, 0, 0) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d0927213"] {
+                    padding: 20px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] p,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] li,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] blockquote,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] address,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] .tcb-plain-text,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] label,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] h1,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] h2,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] h3,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] h4,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] h5,
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] h6 {
+                    color: rgb(131, 134, 139);
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d0927213"] .tve-page-section-in {
+                    justify-content: center;
+                    display: flex;
+                    flex-direction: column;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d09209b1"] p {
+                    margin: 0px !important;
+                    padding: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d0d9fbe5"] {
+                    font-family: Arial, Helvetica, sans-serif !important;
+                    font-size: 14px !important;
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item)>a {
+                    text-transform: uppercase;
+                    font-size: 14px !important;
+                    font-weight: 500 !important;
+                    font-family: Raleway !important;
+                    color: rgb(255, 255, 255) !important;
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item) {
+                    border-bottom: 1px solid rgba(131, 134, 139, 0);
+                    padding: 3px 14px !important;
+                    margin-right: 0px !important;
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item):hover {
+                    border-bottom: 1px solid rgb(131, 134, 139) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ac0c2452e"] {
+                    margin-bottom: 0px !important;
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item) strong {
+                    font-weight: 500;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cd8e8a4ca"] {
+                    float: none;
+                    display: block;
+                    padding: 0px 20px !important;
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                    margin-top: 30px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2b2165"] {
+                    border: none !important;
+                    padding-left: 10px !important;
+                    padding-right: 10px !important;
+                }
+
+                .thrv_symbol_11793 .thrive-symbol-shortcode {
+                    border-bottom: 1px solid rgb(0, 0, 0);
+                    border-right: 1px solid rgb(178, 181, 182);
+                    padding-bottom: 5px !important;
+                    margin-bottom: 2px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2da10d"] {
+                    background-color: rgba(102, 102, 102, 0.1) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] {
+                    border: none;
+                    margin: 20px 150px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb35247a"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb35247a"] strong {
+                    font-weight: 500 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb393eb6"] {
+                    margin-left: 0px;
+                    padding-bottom: 0px !important;
+                    padding-top: 0px !important;
+                    flex-direction: row !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fb"] input,
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fb"] select {
+                    font-size: 14px;
+                    border: 1px solid rgba(183, 216, 209, 0.5);
+                    margin-left: 0px !important;
+                    margin-right: 0px !important;
+                    margin-top: 0px !important;
+                    padding: 5px 40px 5px 20px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fd"] input,
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fd"] select {
+                    font-size: 14px;
+                    border: 1px solid rgba(183, 216, 209, 0.5);
+                    margin-left: 0px !important;
+                    margin-right: 0px !important;
+                    margin-top: 0px !important;
+                    padding: 5px 40px 5px 20px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fb"] input,
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fb"] input::placeholder,
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fb"] select {
+                    color: rgba(102, 102, 102, 0.7) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fd"] input,
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fd"] input::placeholder,
+                .thrv_symbol_11793 [data-css="tve-u-16ce36cb5fd"] select {
+                    color: rgba(102, 102, 102, 0.7) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce3d84907"] button {
+                    border-color: rgb(102, 228, 210);
+                    background-image: none !important;
+                    background-color: rgba(0, 118, 192, 0.8) !important;
+                    padding: 5px !important;
+                    margin-top: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce3d84907"]:hover button {
+                    background-image: none !important;
+                    background-color: rgb(0, 118, 192) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce3d84907"] {
+                    max-width: 24%;
+                    width: 24%;
+                    float: none;
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce3db96a5"] {
+                    float: left;
+                    z-index: 3;
+                    position: relative;
+                    margin-top: 10px !important;
+                    margin-bottom: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce3f3a1bd"] {
+                    float: right;
+                    display: block;
+                    z-index: 3;
+                    position: relative;
+                    padding: 0px 30px 0px 10px !important;
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                    margin-top: 20px !important;
+                    border: none !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb393eb6"]>.tcb-flex-col {
+                    padding-left: 0px;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] p,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] li,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] blockquote,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] address,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] .tcb-plain-text,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] label,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] h1,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] h2,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] h3,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] h4,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] h5,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] h6 {
+                    font-weight: 400 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] p,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] li,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] blockquote,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] address,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] .tcb-plain-text,
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] label {
+                    font-family: Raleway;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2feab7"] strong {
+                    font-weight: 500;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce43c810c"] {
+                    width: 250px;
+                    border: none;
+                    display: block;
+                    float: right;
+                    z-index: 3;
+                    position: relative;
+                    margin-top: 0px !important;
+                    margin-bottom: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce444a523"] {
+                    display: block;
+                    padding-left: 20px !important;
+                    padding-right: 80px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce4622459"] {
+                    width: 125px;
+                    float: none;
+                    margin: 0px auto !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce4622459"] img {
+                    opacity: 0.7;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cf3642ec4"] {
+                    font-size: 18px !important;
+                    color: rgb(72, 146, 180) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d263bf8a2"] {
+                    display: block;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d26e3c543"] {
+                    padding-bottom: 2px !important;
+                    margin-bottom: 2px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77d037fd"]::after {
+                    clear: both;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77d2eeb4"]::after {
+                    clear: both;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77e80192"] {
+                    float: left;
+                    display: block;
+                    z-index: 3;
+                    position: relative;
+                    padding: 0px 10px 0px 30px !important;
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                    margin-top: 20px !important;
+                    border: none !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc1"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc1"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc5"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc5"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc7"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc7"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc9"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dc9"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dcb"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dcb"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dce"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dce"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dd0"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dd0"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dd2"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dd2"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dd4"] {
+                    font-family: Raleway !important;
+                    font-weight: 400 !important;
+                    font-size: 18px !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77ee1dd4"] strong {
+                    font-weight: 800 !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f47447"] {
+                    font-size: 16px !important;
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f47453"] {
+                    font-size: 16px !important;
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480f1"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480f3"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480f5"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480f7"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480f8"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480fa"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f480fb"] {
+                    font-size: 16px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a710"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a715"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a716"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a719"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a71a"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a71d"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a71e"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a721"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a722"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a725"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a727"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a72a"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a72b"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a72d"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a72f"] {
+                    letter-spacing: 0px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77f7a731"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d77fb9b68"] {
+                    color: rgb(102, 102, 102) !important;
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d781ff0bc"] {
+                    max-width: 24.9%;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d781ff0d8"] {
+                    max-width: 25%;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d781ff0ef"] {
+                    max-width: 24.9%;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d781ff104"] {
+                    max-width: 25.3%;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d78278823"]::after {
+                    clear: both;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d78279aff"]::after {
+                    clear: both;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d79dda547"] {
+                    line-height: 1.5em !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d8f3d89b6"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d8f3dad9e"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d8f3dada0"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d8f3dada1"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d8f3dada3"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d9c126101"] {
+                    color: rgb(102, 102, 102) !important;
+                }
+
+                :not(#tve) .thrv_symbol_11793 [data-css="tve-u-16d9c12eb0f"] {
+                    font-size: 18px !important;
+                    color: rgb(72, 146, 180) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d9c131970"] {
+                    font-size: 18px !important;
+                }
+
+                :not(#tve) .thrv_symbol_11793 [data-css="tve-u-16d9c136ad5"] {
+                    color: rgb(72, 146, 180) !important;
+                    font-size: 18px !important;
+                }
+
+                :not(#tve) .thrv_symbol_11793 [data-css="tve-u-16cdb35247a"] {
+                    color: rgb(72, 146, 180) !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d9c148c1f"] {
+                    color: rgb(72, 146, 180) !important;
+                }
+            }
+
+            @media (max-width: 1023px) {
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2b2165"] {
+                    border-width: initial !important;
+                    border-style: none !important;
+                    border-color: initial !important;
+                    padding-top: 10px !important;
+                    padding-bottom: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16d26e3c543"] {
+                    padding-top: 10px !important;
+                    padding-bottom: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ce444a523"] {
+                    padding-top: 10px !important;
+                    padding-bottom: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d0927213"] {
+                    padding-bottom: 20px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ac0c2452e"] .tcb-icon-open> :first-child {
+                    color: rgb(254, 254, 254);
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16ac0c2452e"] .tcb-icon-close> :first-child {
+                    color: rgb(254, 254, 254);
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item) {
+                    padding-left: 11px !important;
+                    padding-right: 11px !important;
+                }
+            }
+
+            @media (max-width: 767px) {
+                .thrv_symbol_11793 [data-css="tve-u-164d0927213"] {
+                    padding: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-164d0d9fbe5"] {
+                    font-size: 11px !important;
+                }
+
+                .thrv_symbol_11793 .thrive-symbol-shortcode {
+                    padding-bottom: 5px !important;
+                    margin-bottom: 5px !important;
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item) {
+                    padding-left: 8px !important;
+                    padding-right: 8px !important;
+                }
+
+                .thrv_symbol_11793 .thrv_widget_menu #m-16ac0c2452b>li:not(.tcb-excluded-from-group-item)>a {
+                    font-size: 10px !important;
+                }
+
+                .thrv_symbol_11793 [data-css="tve-u-16cdb2da10d"] {
+                    background-color: rgba(102, 102, 102, 0) !important;
+                }
+            }
+
+            .grecaptcha-badge{
+                visibility: collapse !important;
+            }
+        </style>
+
+
+
+
+
+        <div class="symbol-section-out" data-ct-name="Halftone" data-ct="fancydivider-37902"
+            data-element-name="Fancy Divider" data-css="tve-u-16cdb2da10d"></div>
+        <div class="symbol-section-in tcb-mp" style="z-index: 14;" data-css="tve-u-16d263bf8a2">
+            <div class="thrv_wrapper thrv-columns" data-css="tve-u-16cdb2feab7">
+                <div class="tcb-flex-row tcb-desktop-no-wrap tcb--cols--4 tcb-resized" data-css="tve-u-16cdb393eb6">
+                    <div class="tcb-flex-col" data-css="tve-u-16d781ff0bc" style="">
+                        <div class="tcb-col" data-css="tve-u-16d26e3c543">
+                            <div class="tcb-clear" data-css="tve-u-16d77d037fd">
+                                <div class="thrv_wrapper tve_image_caption tcb-mobile-hidden"
+                                    data-css="tve-u-16ce43c810c" style=""><span class="tve_image_frame"
+                                        style="width: 100%;"><img class="tve_image wp-image-16543"
+                                            alt="Think Creatively, Speak Kindly, Live Colorfully" width="600"
+                                            height="600" title="Live Colorfully" data-id="16543"
+                                            src="//www.sensationalcolor.com/wp-content/uploads/2019/08/Live-Colorfully.png"
+                                            style="width: 100%;"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tcb-flex-col" data-css="tve-u-16d781ff0d8" style="">
+                        <div class="tcb-col" data-css="tve-u-16cdb2b2165" style="">
+                            <div class="tcb-clear" data-css="tve-u-16d78278823">
+                                <div class="thrv_wrapper thrv_text_element tcb-mobile-hidden"
+                                    data-css="tve-u-16ce3f3a1bd">
+                                    <p data-css="tve-u-16d9c12eb0f" style="text-align: center;">LEARN</p>
+                                    <p data-css="tve-u-16d77fb9b68" style="text-align: center;"><span
+                                            data-css="tve-u-16d9c126101" style="color: rgb(102, 102, 102);"><a
+                                                href="https://sensationalcolor.com/color-classes/courses-webinars/"
+                                                target="_blank">Color Classes</a><br><a
+                                                href="https://sensationalcolor.com/color-classes/color-resources/"
+                                                target="_blank">Resource Center</a><br><a
+                                                href="https://www.sensationalcolor.com/color-blog/">Color
+                                                Blog</a></span></p>
+                                    <p data-css="tve-u-16d77fb9b68" style="text-align: center;"><span
+                                            data-css="tve-u-16d8f3d89b6"
+                                            style="color: rgb(102, 102, 102);">&#8203;</span><br></p>
+                                    <p data-css="tve-u-16d77fb9b68" style="text-align: center;"><br></p>
+                                    <p data-css="tve-u-16d79dda547" style="text-align: center;"><span
+                                            data-css="tve-u-16d9c131970" style="font-size: 18px;">&#8203;<span
+                                                data-css="tve-u-16d9c148c1f"
+                                                style="color: rgb(72, 146, 180);">ABOUT</span></span><br><span
+                                            data-css="tve-u-16d8f3dad9e" style="color: rgb(102, 102, 102);"><a
+                                                href="https://www.sensationalcolor.com/color-expert-kate-smith/">Color
+                                                Expert Kate Smith</a></span><br><span data-css="tve-u-16d8f3dada0"
+                                            style="color: rgb(102, 102, 102);"><a
+                                                href="https://www.sensationalcolor.com/color-expert-consulting-services/">Services</a></span><br><span
+                                            data-css="tve-u-16d8f3dada1" style="color: rgb(102, 102, 102);"><a
+                                                href="https://www.sensationalcolor.com/speaker-kate-smith/">Speaking</a></span><br><span
+                                            data-css="tve-u-16d8f3dada3" style="color: rgb(102, 102, 102);"><a
+                                                href="https://www.sensationalcolor.com/press/">Press</a></span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tcb-flex-col" data-css="tve-u-16d781ff0ef" style="">
+                        <div class="tcb-col">
+                            <div class="tcb-clear" data-css="tve-u-16d78279aff">
+                                <div class="thrv_wrapper thrv_text_element tcb-mobile-hidden"
+                                    data-css="tve-u-16d77e80192">
+                                    <p data-css="tve-u-16d9c136ad5" style="text-align: center;">EXPLORE</p>
+                                    <p data-css="tve-u-16d77ee1dc1" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a710" style="color: rgb(102, 102, 102);"><a
+                                                href="https://www.sensationalcolor.com/color-meaning-psychology-symbolism/"><span
+                                                    data-css="tve-u-16d77f47447"
+                                                    style="font-size: 16px; letter-spacing: 0px;">Color
+                                                    Meaning</span></a></span></p>
+                                    <p data-css="tve-u-16d77ee1dc5" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a715" style="color: rgb(102, 102, 102);"><span
+                                                data-css="tve-u-16d77f7a716" style="letter-spacing: 0px;"><span
+                                                    data-css="tve-u-16d77f480f1" style="font-size: 16px;"><a
+                                                        href="https://www.sensationalcolor.com/color-psychology/">Color
+                                                        Psychology</a></span></span></span></p>
+                                    <p data-css="tve-u-16d77ee1dc7" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a719" style="color: rgb(102, 102, 102);"><span
+                                                data-css="tve-u-16d77f7a71a" style="letter-spacing: 0px;"><span
+                                                    data-css="tve-u-16d77f480f3" style="font-size: 16px;"><a
+                                                        href="https://www.sensationalcolor.com/color-theory/">Color
+                                                        Theory</a></span></span></span></p>
+                                    <p data-css="tve-u-16d77ee1dc9" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a71d" style="color: rgb(102, 102, 102);"><span
+                                                data-css="tve-u-16d77f7a71e" style="letter-spacing: 0px;"><span
+                                                    data-css="tve-u-16d77f480f5" style="font-size: 16px;"><a
+                                                        href="https://www.sensationalcolor.com/books-about-color/">Books
+                                                        About Color</a></span></span></span></p>
+                                    <p data-css="tve-u-16d77ee1dcb" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a721" style="color: rgb(102, 102, 102);"><span
+                                                data-css="tve-u-16d77f7a722" style="letter-spacing: 0px;"><span
+                                                    data-css="tve-u-16d77f480f7" style="font-size: 16px;"><a
+                                                        href="https://www.sensationalcolor.com/color-quotes/">Quotes
+                                                        About Color</a></span></span></span></p>
+                                    <p data-css="tve-u-16d77ee1dce" style="text-align: center;"><a
+                                            href="https://www.sensationalcolor.com/color-words/"><span
+                                                data-css="tve-u-16d77f7a725" style="color: rgb(102, 102, 102);"><span
+                                                    data-css="tve-u-16d77f7a727" style="letter-spacing: 0px;"><span
+                                                        data-css="tve-u-16d77f480f8" style="font-size: 16px;">Color
+                                                        Words &amp; Idioms</span></span></span></a></p>
+                                    <p data-css="tve-u-16d77ee1dd0" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a72a" style="color: rgb(102, 102, 102);"><span
+                                                data-css="tve-u-16d77f7a72b" style="letter-spacing: 0px;"><span
+                                                    data-css="tve-u-16d77f480fa" style="font-size: 16px;"><a
+                                                        href="https://www.sensationalcolor.com/colorful-places-around-the-world/">Color
+                                                        Around the World</a></span></span></span></p>
+                                    <p data-css="tve-u-16d77ee1dd2" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a72d" style="color: rgb(102, 102, 102);"><span
+                                                data-css="tve-u-16d77f7a72f" style="letter-spacing: 0px;"><span
+                                                    data-css="tve-u-16d77f480fb" style="font-size: 16px;"><a
+                                                        href="https://www.sensationalcolor.com/business-colors/">Business
+                                                        Colors</a></span></span></span></p>
+                                    <p data-css="tve-u-16d77ee1dd4" style="text-align: center;"><span
+                                            data-css="tve-u-16d77f7a731" style="color: rgb(102, 102, 102);"><a
+                                                href="https://www.sensationalcolor.com/fashion-colors/"><span
+                                                    data-css="tve-u-16d77f47453"
+                                                    style="font-size: 16px; letter-spacing: 0px;">Beauty &amp; Fashion
+                                                    Color</span></a></span><br><br></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--
+
+                    <div class="tcb-flex-col" data-css="tve-u-16d781ff104" style="">
+
+                        <div class="tcb-col" data-css="tve-u-16ce444a523" style="">
+                            <div class="thrv_wrapper thrv_text_element thrv-plain-text tcb-mobile-hidden"
+                                data-css="tve-u-16cd8e8a4ca">
+                                <div class="tcb-plain-text" data-css="tve-u-16cdb35247a" style="text-align: center;">
+                                    <strong><span data-css="tve-u-16cf3642ec4"
+                                            style="font-size: 18px; color: rgb(72, 146, 180);">BE AN
+                                            INSIDER</span></strong><strong><br>and get free color resources and
+                                        occasional emails!</strong></div>
+                            </div>
+                            <div class="thrv_wrapper tve_image_caption tcb-mobile-hidden" data-css="tve-u-16ce4622459">
+                                <span class="tve_image_frame" style="width: 100%;"><img class="tve_image wp-image-16604"
+                                        alt="three lines" width="200" height="62" title="Doodle Icon 2" data-id="16604"
+                                        src="//www.sensationalcolor.com/wp-content/uploads/2019/08/Doodle-Icon-2.png"
+                                        style="width: 100%;"></span></div>
+                            <div class="tcb-clear" data-css="tve-u-16d77d2eeb4">
+                                <div class="thrv_wrapper thrv_lead_generation tcb-mobile-hidden" data-connection="api"
+                                    data-css="tve-u-16ce3db96a5" style=""><input type="hidden" class="tve-lg-err-msg"
+                                        value="{&quot;email&quot;:&quot;Email address invalid&quot;,&quot;phone&quot;:&quot;Phone number invalid&quot;,&quot;password&quot;:&quot;Password invalid&quot;,&quot;passwordmismatch&quot;:&quot;Password mismatch error&quot;,&quot;required&quot;:&quot;Required field missing&quot;}">
+                                    <div class="thrv_lead_generation_container tve_clearfix">
+                                    <form accept-charset="UTF-8" action="https://vk109.infusionsoft.com/app/form/process/a6e958e2afa909c664049bafe3f387e3" class="infusion-form" id="inf_form_a6e958e2afa909c664049bafe3f387e3" method="POST">
+                                        <input name="inf_form_xid" type="hidden" value="a6e958e2afa909c664049bafe3f387e3" />
+                                        <input name="inf_form_name" type="hidden" value="Web Form submitted" />
+                                        <input name="infusionsoft_version" type="hidden" value="1.70.0.154931" />
+                                        <div class="infusion-field">
+                                            <input class="infusion-field-input" id="inf_field_FirstName" name="inf_field_FirstName" placeholder="Name" type="text" />
+                                        </div>
+                                        <div class="infusion-field">
+                                            <input class="infusion-field-input" id="inf_field_Email" name="inf_field_Email" placeholder="Email" type="text" />
+                                        </div>
+                                        <div>
+                                            <div>&nbsp;</div>
+                                        </div>
+                                        <div class="infusion-submit">
+                                            <button class="infusion-recaptcha" id="recaptcha_a6e958e2afa909c664049bafe3f387e3" type="submit">YES!</button>
+                                        </div>
+                                    </form>
+                                    <script type="text/javascript" src="https://vk109.infusionsoft.app/app/webTracking/getTrackingCode"></script>
+                                    <script type="text/javascript" src="https://vk109.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js?b=1.70.0.154931"></script>
+                                    <script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
+                                    <script type="text/javascript" src="https://vk109.infusionsoft.com/app/timezone/timezoneInputJs?xid=a6e958e2afa909c664049bafe3f387e3"></script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<footer class="">
+	<div class="f-i">
+						<div class="fmw">
+			<div class="wrp">
+								<div class="colm oth ">
+					<section id="text-3" class="col"><div class="scn">			<div class="textwidget"><p><img decoding="async" src="https://sensationalcolor.com/wp-content/uploads/2016/03/SCLogo-WHITE.png" /></p>
+</div>
+		</div></section>				</div>
+								<div class="colm oth ">
+									</div>
+								<div class="colm oth lst">
+					<section id="search-2" class="col"><div class="scn"><!--<section class="widget search_widget clear">-->
+<form action="https://sensationalcolor.com/" method="get" class="srh">
+	<input type="text" id="search-field" class="search-field" placeholder="Search..."
+	       name="s"/>
+	<button type="submit" id="search-button" class="search-button sBn"></button>
+</form>
+<!--</section>--></div></section>				</div>
+								<div class="clear"></div>
+			</div>
+		</div>
+				<div class="fmm">
+			<div class="wrp">
+				<p>
+										Copyright 2005-2025 by Kate Smith LLC														</p>
+				<div class="fm-m">
+										<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer_menu"><li id="menu-item-2429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429"><a href="https://sensationalcolor.com/terms-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-14453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14453"><a href="https://sensationalcolor.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-7596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7596"><a href="https://sensationalcolor.com/sitemap.xml">Sitemap</a></li>
+</ul></div>									</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+			</div>
+</footer>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/pressive-child\/*","\/wp-content\/themes\/pressive\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type='text/javascript'>( $ => {
+	/**
+	 * Displays toast message from storage, it is used when the user is redirected after login
+	 */
+	if ( window.sessionStorage ) {
+		$( window ).on( 'tcb_after_dom_ready', () => {
+			const message = sessionStorage.getItem( 'tcb_toast_message' );
+
+			if ( message ) {
+				tcbToast( sessionStorage.getItem( 'tcb_toast_message' ), false );
+				sessionStorage.removeItem( 'tcb_toast_message' );
+			}
+		} );
+	}
+
+	/**
+	 * Displays toast message
+	 *
+	 * @param {string}   message  - message to display
+	 * @param {Boolean}  error    - whether the message is an error or not
+	 * @param {Function} callback - callback function to be called after the message is closed
+	 */
+	function tcbToast( message, error, callback ) {
+		/* Also allow "message" objects */
+		if ( typeof message !== 'string' ) {
+			message = message.message || message.error || message.success;
+		}
+		if ( ! error ) {
+			error = false;
+		}
+		TCB_Front.notificationElement.toggle( message, error ? 'error' : 'success', callback );
+	}
+} )( typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j );
+</script><style type="text/css" id="tve_notification_styles"></style>
+<div class="tvd-toast tve-fe-message" style="display: none">
+	<div class="tve-toast-message tve-success-message">
+		<div class="tve-toast-icon-container">
+			<span class="tve_tick thrv-svg-icon"></span>
+		</div>
+		<div class="tve-toast-message-container"></div>
+	</div>
+</div><script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/acf-dynamic-elements.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_acf-dynamic-elements-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/audio.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_audio-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/carousel-libs.min.js?ver=10.6.1" id="carousel-libs-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/carousel.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_carousel-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/contact-form-compat.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_contact-form-compat-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/content-reveal.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_content-reveal-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/countdown.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_countdown-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/conditional-display.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_conditional-display-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/search-form.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_search-form-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/dropdown.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_dropdown-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/country.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_country-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/state.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_state-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/date-picker.min.js?ver=10.6.1" id="date-picker-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/datepicker.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_datepicker-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/divider.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_divider-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-includes/js/plupload/plupload.min.js?ver=2.1.9" id="plupload-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/file-upload.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_file-upload-js"></script>
+<script type="text/javascript" src="https://accounts.google.com/gsi/client?ver=10.6.1" id="google-client-js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/api.js?ver=10.6.1" id="google-api-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/avatar-picker.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_avatar-picker-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/fill-counter.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_fill-counter-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/number-counter.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_number-counter-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/image-gallery-libs.min.js?ver=10.6.1" id="image-gallery-libs-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/image-gallery.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_image-gallery-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/lead-generation.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_lead-generation-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/login.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_login-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/menu.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_menu-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/number-counter-compat.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_number-counter-compat-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/post-grid-compat.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_post-grid-compat-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/pagination.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_pagination-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/post-list.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_post-list-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/post-list-filter.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_post-list-filter-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/pricing-table.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_pricing-table-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/progress-bar.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_progress-bar-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/social-share.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_social-share-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/table.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_table-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/tabs.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_tabs-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/timer.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_timer-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/toc.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_toc-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/toggle.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_toggle-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/twitter.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_twitter-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/user-profile.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_user-profile-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/video.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_video-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/google-api.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_google-api-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/facebook-api.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_facebook-api-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/modal.min.js?v=10.6.1&amp;ver=10.6.1" id="tve_frontend_modal-js"></script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/themes/pressive-child/js/custom.js?ver=1.0.0" id="custom-js"></script>
+<script type="text/javascript" id="thrive-main-script-js-extra">
+/* <![CDATA[ */
+var ThriveApp = {"ajax_url":"https:\/\/sensationalcolor.com\/wp-admin\/admin-ajax.php","is_singular":"1","post_type":"post","lazy_load_comments":"1","comments_loaded":"0","theme_uri":"https:\/\/sensationalcolor.com\/wp-content\/themes\/pressive","translations":{"ProductDetails":"Product Details"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/themes/pressive/js/script.min.js?ver=5e89e53ec0b7d30e5e441eff177687a1" id="thrive-main-script-js"></script>
+<script type="text/javascript" id="tve-dash-frontend-js-extra">
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/sensationalcolor.com\/wp-admin\/admin-ajax.php","force_ajax_send":"","is_crawler":"1","recaptcha":[],"turnstile":[],"post_id":"1849"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sensationalcolor.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=10.6.1" id="tve-dash-frontend-js"></script>
+<script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script>		<script type="text/javascript">
+			(function() {
+			var t   = document.createElement( 'script' );
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute( 'data-site-id', '678e733c7867f43994cf9178' );
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName( 'script' )[0];
+			s.parentNode.insertBefore( t, s );
+			})();
+		</script>
+		</body>
+
+</html>

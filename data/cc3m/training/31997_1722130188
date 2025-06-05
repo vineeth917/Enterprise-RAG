@@ -1,0 +1,2206 @@
+<!doctype html>
+<html dir="ltr" lang="ru-RU" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script>
+    var block_classes = ["content_rb", "cnt32_rl_bg_str", "rl_cnt_bg"];
+
+    function addAttrItem(className) {
+        if (document.querySelector("." + className) && !block_classes.includes(className)) {
+            block_classes.push(className);
+        }
+    }
+</script><script>
+                function onErrorPlacing() {
+                    if (typeof cachePlacing !== 'undefined' && typeof cachePlacing === 'function' && typeof window.jsInputerLaunch !== 'undefined' && [15, 10].includes(window.jsInputerLaunch)) {
+                        let errorInfo = [];
+                        cachePlacing('low',errorInfo);
+                    } else {
+                        setTimeout(function () {
+                            onErrorPlacing();
+                        }, 100)
+                    }
+                }
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET',"//newrotatormarch23.bid/l1o3.json",true);
+                xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                xhr.onreadystatechange = function() {
+                    if (xhr.status != 200) {
+                        if (xhr.statusText != 'abort') {
+                            onErrorPlacing();
+                        }
+                    }
+                };
+                xhr.send();
+            </script><script type="text/javascript" src="//izuminki.com/wp-content/l1o3.js?ver=1.1.3" id="l1o3-js" async=""></script><script>console.log('reboot ad: presents')</script><script>
+                function onErrorPlacing() {
+                    if (typeof cachePlacing !== 'undefined' && typeof cachePlacing === 'function' && typeof window.jsInputerLaunch !== 'undefined' && [15, 10].includes(window.jsInputerLaunch)) {
+                        let errorInfo = [];
+                        cachePlacing('low',errorInfo);
+                    } else {
+                        setTimeout(function () {
+                            onErrorPlacing();
+                        }, 100)
+                    }
+                }
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET',"//newrotatormarch23.bid/l1o3.min.js",true);
+                xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                xhr.onreadystatechange = function() {
+                    if (xhr.status != 200) {
+                        if (xhr.statusText != 'abort') {
+                            onErrorPlacing();
+                        }
+                    }
+                };
+                xhr.send();
+            </script><title>Изюминки</title>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.8.1.1 - aioseo.com -->
+	<meta name="description" content="Новости моды, полезные советы по красоте, маникюру и интересный гороскоп" />
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://izuminki.com" />
+	<link rel="next" href="https://izuminki.com/page/2" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.8.1.1" />
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:site_name" content="Изюминки | в каждой из нас" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Изюминки" />
+		<meta property="og:description" content="Новости моды, полезные советы по красоте, маникюру и интересный гороскоп" />
+		<meta property="og:url" content="https://izuminki.com" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Изюминки" />
+		<meta name="twitter:description" content="Новости моды, полезные советы по красоте, маникюру и интересный гороскоп" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/izuminki.com#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/izuminki.com\/#listItem","position":1,"name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430"}]},{"@type":"CollectionPage","@id":"https:\/\/izuminki.com#collectionpage","url":"https:\/\/izuminki.com","name":"\u0418\u0437\u044e\u043c\u0438\u043d\u043a\u0438","description":"\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u043c\u043e\u0434\u044b, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u0441\u043e\u0432\u0435\u0442\u044b \u043f\u043e \u043a\u0440\u0430\u0441\u043e\u0442\u0435, \u043c\u0430\u043d\u0438\u043a\u044e\u0440\u0443 \u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0441\u043a\u043e\u043f","inLanguage":"ru-RU","isPartOf":{"@id":"https:\/\/izuminki.com\/#website"},"breadcrumb":{"@id":"https:\/\/izuminki.com#breadcrumblist"},"about":{"@id":"https:\/\/izuminki.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/izuminki.com\/#organization","name":"\u0418\u0437\u044e\u043c\u0438\u043d\u043a\u0438","description":"\u0432 \u043a\u0430\u0436\u0434\u043e\u0439 \u0438\u0437 \u043d\u0430\u0441","url":"https:\/\/izuminki.com\/"},{"@type":"WebSite","@id":"https:\/\/izuminki.com\/#website","url":"https:\/\/izuminki.com\/","name":"\u0418\u0437\u044e\u043c\u0438\u043d\u043a\u0438","description":"\u0432 \u043a\u0430\u0436\u0434\u043e\u0439 \u0438\u0437 \u043d\u0430\u0441","inLanguage":"ru-RU","publisher":{"@id":"https:\/\/izuminki.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 19.5px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36.5px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 22px;--wp--preset--font-size--huge: 49.5px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpo_min-header-0-css' href='https://izuminki.com/wp-content/cache/wpo-minify/1737389436/assets/wpo-minify-header-eb0a1cb9.min.css'  media='all' />
+<script type="text/javascript" src="https://izuminki.com/wp-content/cache/wpo-minify/1737389436/assets/wpo-minify-header-7b7b0e45.min.js" id="wpo_min-header-0-js"></script>
+<link rel="https://api.w.org/" href="https://izuminki.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://izuminki.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<link rel="preload" href="https://izuminki.com/wp-content/themes/reboot/assets/fonts/wpshop-core.ttf" as="font" crossorigin>
+    <style>.site-logotype img{max-height:60px}::selection, .card-slider__category, .card-slider-container .swiper-pagination-bullet-active, .post-card--grid .post-card__thumbnail:before, .post-card:not(.post-card--small) .post-card__thumbnail a:before, .post-card:not(.post-card--small) .post-card__category,  .post-box--high .post-box__category span, .post-box--wide .post-box__category span, .page-separator, .pagination .nav-links .page-numbers:not(.dots):not(.current):before, .btn, .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle, .comment-respond .form-submit input, .page-links__item:hover{background-color:#7127ad}.entry-image--big .entry-image__body .post-card__category a, .home-text ul:not([class])>li:before, .home-text ul.wp-block-list>li:before, .page-content ul:not([class])>li:before, .page-content ul.wp-block-list>li:before, .taxonomy-description ul:not([class])>li:before, .taxonomy-description ul.wp-block-list>li:before, .widget-area .widget_categories ul.menu li a:before, .widget-area .widget_categories ul.menu li span:before, .widget-area .widget_categories>ul li a:before, .widget-area .widget_categories>ul li span:before, .widget-area .widget_nav_menu ul.menu li a:before, .widget-area .widget_nav_menu ul.menu li span:before, .widget-area .widget_nav_menu>ul li a:before, .widget-area .widget_nav_menu>ul li span:before, .page-links .page-numbers:not(.dots):not(.current):before, .page-links .post-page-numbers:not(.dots):not(.current):before, .pagination .nav-links .page-numbers:not(.dots):not(.current):before, .pagination .nav-links .post-page-numbers:not(.dots):not(.current):before, .entry-image--full .entry-image__body .post-card__category a, .entry-image--fullscreen .entry-image__body .post-card__category a, .entry-image--wide .entry-image__body .post-card__category a{background-color:#7127ad}.comment-respond input:focus, select:focus, textarea:focus, .post-card--grid.post-card--thumbnail-no, .post-card--standard:after, .post-card--related.post-card--thumbnail-no:hover, .spoiler-box, .btn-primary, .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle, .inp:focus, .entry-tag:focus, .entry-tag:hover, .search-screen .search-form .search-field:focus, .entry-content ul:not([class])>li:before, .entry-content ul.wp-block-list>li:before, .text-content ul:not([class])>li:before, .text-content ul.wp-block-list>li:before, .page-content ul:not([class])>li:before, .page-content ul.wp-block-list>li:before, .taxonomy-description ul:not([class])>li:before, .taxonomy-description ul.wp-block-list>li:before, .entry-content blockquote:not(.wpremark),
+        .input:focus, input[type=color]:focus, input[type=date]:focus, input[type=datetime-local]:focus, input[type=datetime]:focus, input[type=email]:focus, input[type=month]:focus, input[type=number]:focus, input[type=password]:focus, input[type=range]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=text]:focus, input[type=time]:focus, input[type=url]:focus, input[type=week]:focus, select:focus, textarea:focus{border-color:#7127ad !important}.post-card--small .post-card__category, .post-card__author:before, .post-card__comments:before, .post-card__date:before, .post-card__like:before, .post-card__views:before, .entry-author:before, .entry-date:before, .entry-time:before, .entry-views:before, .entry-comments:before, .entry-content ol:not([class])>li:before, .entry-content ol.wp-block-list>li:before, .text-content ol:not([class])>li:before, .text-content ol.wp-block-list>li:before, .entry-content blockquote:before, .spoiler-box__title:after, .search-icon:hover:before, .search-form .search-submit:hover:before, .star-rating-item.hover,
+        .comment-list .bypostauthor>.comment-body .comment-author:after,
+        .breadcrumb a, .breadcrumb span,
+        .search-screen .search-form .search-submit:before, 
+        .star-rating--score-1:not(.hover) .star-rating-item:nth-child(1),
+        .star-rating--score-2:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-2:not(.hover) .star-rating-item:nth-child(2),
+        .star-rating--score-3:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-3:not(.hover) .star-rating-item:nth-child(2), .star-rating--score-3:not(.hover) .star-rating-item:nth-child(3),
+        .star-rating--score-4:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-4:not(.hover) .star-rating-item:nth-child(2), .star-rating--score-4:not(.hover) .star-rating-item:nth-child(3), .star-rating--score-4:not(.hover) .star-rating-item:nth-child(4),
+        .star-rating--score-5:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(2), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(3), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(4), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(5){color:#7127ad}a:hover, a:focus, a:active, .spanlink:hover, .entry-content a:not(.wp-block-button__link):hover, .entry-content a:not(.wp-block-button__link):focus, .entry-content a:not(.wp-block-button__link):active, .top-menu ul li>a:hover, .top-menu ul li>span:hover, .main-navigation ul li a:hover, .main-navigation ul li span:hover, .footer-navigation ul li a:hover, .footer-navigation ul li span:hover, .comment-reply-link:hover, .pseudo-link:hover, .child-categories ul li a:hover{color:#00b76e}.top-menu>ul>li>a:before, .top-menu>ul>li>span:before{background:#00b76e}.child-categories ul li a:hover, .post-box--no-thumb a:hover{border-color:#00b76e}.post-box--card:hover{box-shadow: inset 0 0 0 1px #00b76e}.post-box--card:hover{-webkit-box-shadow: inset 0 0 0 1px #00b76e}.site-header, .site-header a, .site-header .pseudo-link{color:#8224e3}.humburger span{background:#8224e3}.site-header{background-color:#f7f7f7}@media (min-width: 992px){.top-menu ul li .sub-menu{background-color:#f7f7f7}}.site-title, .site-title a{color:#f92743}.site-description{color:#000000}.site-title, .site-title a{font-family:"Merriweather" ,"Georgia", "Times New Roman", "Bitstream Charter", "Times", serif;font-size:45px;font-weight:bold;}.site-description{font-family:"Merriweather" ,"Georgia", "Times New Roman", "Bitstream Charter", "Times", serif;}</style>
+    <script type='text/javascript'>
+rbConfig={start:performance.now(),rbDomain:'newrotatormarch23.bid',rotator:'l1o3'};token=localStorage.getItem('l1o3')||(1e6+'').replace(/[018]/g, c => (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16));rsdfhse=document.createElement('script');
+rsdfhse.setAttribute('src','//newrotatormarch23.bid/l1o3.min.js?'+token);rsdfhse.setAttribute('async','async');rsdfhse.setAttribute('type','text/javascript');document.head.appendChild(rsdfhse);
+localStorage.setItem('l1o3', token);</script></head>
+
+<body class="home blog wp-embed-responsive sidebar-none">
+
+
+
+<div id="page" class="site">
+    <a class="skip-link screen-reader-text" href="#content"><!--noindex-->Перейти к содержанию<!--/noindex--></a>
+
+    <div class="search-screen-overlay js-search-screen-overlay"></div>
+    <div class="search-screen js-search-screen">
+        
+<form role="search" method="get" class="search-form" action="https://izuminki.com/">
+    <label>
+        <span class="screen-reader-text"><!--noindex-->Search for:<!--/noindex--></span>
+        <input type="search" class="search-field" placeholder="Поиск…" value="" name="s">
+    </label>
+    <button type="submit" class="search-submit"></button>
+</form>    </div>
+
+    
+
+<header id="masthead" class="site-header full" itemscope itemtype="http://schema.org/WPHeader">
+    <div class="site-header-inner fixed">
+
+        <div class="humburger js-humburger"><span></span><span></span><span></span></div>
+
+        
+<div class="site-branding">
+
+    <div class="site-logotype"><img src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" width="736" height="736" alt="Изюминки"></div><div class="site-branding__body"><h1 class="site-title">Изюминки</h1></div></div><!-- .site-branding -->
+    </div>
+</header><!-- #masthead -->
+
+
+
+    
+    
+    <nav id="site-navigation" class="main-navigation fixed" itemscope itemtype="http://schema.org/SiteNavigationElement">
+        <div class="main-navigation-inner full">
+            <div class="menu-top-container"><ul id="header_menu" class="menu"><li id="menu-item-1947" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1947"><a href="https://izuminki.com/category/moda">Мода</a></li>
+<li id="menu-item-1948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1948"><a href="https://izuminki.com/category/krasota">Красота</a></li>
+<li id="menu-item-6321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6321"><a href="https://izuminki.com/category/manikyur">Маникюр</a></li>
+<li id="menu-item-7910" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7910"><a href="https://izuminki.com/category/pohudenie">Похудение</a></li>
+<li id="menu-item-1949" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1949"><a href="https://izuminki.com/category/beauty-goroskop">Интересный гороскоп</a></li>
+<li id="menu-item-1951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1951"><a href="https://izuminki.com/category/lajfstajl">Лайфстайл</a></li>
+<li id="menu-item-1950" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1950"><a href="https://izuminki.com/category/hozvopros">Быт</a></li>
+<li id="menu-item-6322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6322"><a href="https://izuminki.com/category/poleznye-sovety">Полезные советы</a>
+<ul class="sub-menu">
+	<li id="menu-item-6323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6323"><a href="https://izuminki.com/category/raznoe">Разное</a></li>
+</ul>
+</li>
+</ul></div>        </div>
+    </nav><!-- #site-navigation -->
+
+    
+
+    <div class="mobile-menu-placeholder js-mobile-menu-placeholder"></div>
+    
+	
+    <div id="content" class="site-content fixed">
+
+        
+        <div class="site-content-inner">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+            
+<div class="section-block section-posts is-show-thumbnails-true">
+        <div class="post-cards post-cards--grid">
+
+        
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/perm-dlya-introvertov-kak-najti-umirotvorenie-v-shumnom-gorode">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/04/img_01-3-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" fetchpriority="high" />
+                                    <span itemprop="articleSection" class="post-card__category">Знаменитости</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/perm-dlya-introvertov-kak-najti-umirotvorenie-v-shumnom-gorode">Пермь для интровертов: как найти умиротворение в шумном городе</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Пермь — это город, полный контрастов, где за шумными улицами и привычными туристическими маршрутами скрываются места, идеально подходящие для спокойного отдыха. Если вы предпочитаете избегать толп и ищете уголки для созерцания и размышлений, стоит обратить внимание на малоизвестные локации. Тихие места для отдыха души Пермь — город, где природа и архитектура создают уникальный баланс. Однако [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/perm-dlya-introvertov-kak-najti-umirotvorenie-v-shumnom-gorode" content="Пермь для интровертов: как найти умиротворение в шумном городе">
+    <meta itemprop="dateModified" content="2025-04-21">
+            <meta itemprop="datePublished" content="2025-04-21T00:34:25+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/ekonomiya-prostranstva-i-povyshenie-effektivnosti-sovremennye-resheniya-dlya-kompaktnyh-skladov">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/04/img_01-2-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/ekonomiya-prostranstva-i-povyshenie-effektivnosti-sovremennye-resheniya-dlya-kompaktnyh-skladov">Экономия пространства и повышение эффективности: современные решения для компактных складов</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="В условиях растущей стоимости коммерческой недвижимости и ограниченности площадей в городских зонах проблема организации компактных складских помещений становится все более актуальной для бизнеса любого масштаба. Компания &#8220;Дельта-Инжиниринг&#8221; отмечает устойчивый рост запросов на оптимизацию малогабаритных складов, где каждый квадратный метр должен работать с максимальной эффективностью. Современные технологические решения позволяют превратить даже небольшое помещение в высокопроизводительный логистический [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/ekonomiya-prostranstva-i-povyshenie-effektivnosti-sovremennye-resheniya-dlya-kompaktnyh-skladov" content="Экономия пространства и повышение эффективности: современные решения для компактных складов">
+    <meta itemprop="dateModified" content="2025-04-13">
+            <meta itemprop="datePublished" content="2025-04-13T01:55:59+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid post-card--thumbnail-no w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	
+    <div class="post-card__body">
+
+	    <span class="post-card__category" itemprop="articleSection"><span itemprop="articleSection">Звёзды</span></span><div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/tovary-balace-uverennost-v-kazhdoj-dostavke">Товары Balace: уверенность в каждой доставке</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Когда вопрос касается здоровья, внешности или интимного комфорта, хочется быть уверенным в каждом шаге — от выбора до получения товара. Особенно если дело происходит онлайн, и особенно если живёшь за сотни километров от крупных городов. Именно поэтому интернет-магазин торговой марки Balace предлагает своим клиентам широкий выбор товаров с быстрой и надёжной доставкой по всей России. [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/tovary-balace-uverennost-v-kazhdoj-dostavke" content="Товары Balace: уверенность в каждой доставке">
+    <meta itemprop="dateModified" content="2025-04-12">
+            <meta itemprop="datePublished" content="2025-04-12T07:18:00+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/odezhda-marina-rinaldi-gid-po-stilyu">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/04/img_01-1-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Звёзды</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/odezhda-marina-rinaldi-gid-po-stilyu">Одежда Marina Rinaldi: гид по стилю</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Современная мода давно перестала быть миром шаблонов и ограничений. Сегодня она — пространство свободы и самовыражения, где каждая женщина может чувствовать себя уверенно, независимо от параметров. Именно этой философией вдохновлён бренд Marina Rinaldi, который вот уже более сорока лет переосмысляет моду для женщин plus-size. На сайте outletmax.ru представлен богатый выбор моделей этого бренда, и это [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/odezhda-marina-rinaldi-gid-po-stilyu" content="Одежда Marina Rinaldi: гид по стилю">
+    <meta itemprop="dateModified" content="2025-04-12">
+            <meta itemprop="datePublished" content="2025-04-12T07:15:55+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/czilajf-probudi-svoyo-telo">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/04/img_01-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/czilajf-probudi-svoyo-telo">ЦиЛайф: пробуди своё тело</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Телесные практики перестали быть чем-то экзотическим — сегодня всё больше людей стремятся к гармонии через работу с телом, дыханием и вниманием. В эпоху хронической усталости и бесконечных дедлайнов найти способ восстановления — задача не из лёгких. Если вы чувствуете, что тело перестало вас слушаться, напряжение скапливается быстрее, чем уходит, а эмоции управляют вами, а не [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/czilajf-probudi-svoyo-telo" content="ЦиЛайф: пробуди своё тело">
+    <meta itemprop="dateModified" content="2025-04-09">
+            <meta itemprop="datePublished" content="2025-04-09T08:44:02+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/chto-takoe-nutricziologiya-klyuchevye-princzipy-i-prakticheskoe-primenenie-nauki-o-pitanii">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/03/img_01-7-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Похудение</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/chto-takoe-nutricziologiya-klyuchevye-princzipy-i-prakticheskoe-primenenie-nauki-o-pitanii">Что такое нутрициология — ключевые принципы и практическое применение науки о питании</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="&nbsp; Вилка замирает в воздухе перед очередным блюдом. За привычным жестом скрывается невидимый мир сложных биохимических процессов. Каждый кусочек пищи запускает целый каскад реакций в организме, незаметных глазу, но определяющих самочувствие и здоровье. &nbsp; Современная диетология шагнула далеко вперёд от простых таблиц калорийности. Появилось целое направление, изучающее основы нутрициологии и их влияние на жизненные процессы [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/chto-takoe-nutricziologiya-klyuchevye-princzipy-i-prakticheskoe-primenenie-nauki-o-pitanii" content="Что такое нутрициология — ключевые принципы и практическое применение науки о питании">
+    <meta itemprop="dateModified" content="2025-03-25">
+            <meta itemprop="datePublished" content="2025-03-25T02:24:31+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/kvartira-v-spb-u-metro-arenda-komforta">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/03/img_01-6-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/kvartira-v-spb-u-metro-arenda-komforta">Квартира в СПб у метро: аренда комфорта</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Жизнь в большом городе диктует свои правила: быстрый ритм, насыщенный график и постоянное движение. Если важна мобильность и удобство передвижения, то можно снять квартиру в СПб возле метро, которая позволит сэкономить время и упростить повседневные поездки. Но насколько выгодно жить рядом с подземкой? Давайте попробуем разобраться во всех нюансах. Почему аренда квартиры у метро — [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/kvartira-v-spb-u-metro-arenda-komforta" content="Квартира в СПб у метро: аренда комфорта">
+    <meta itemprop="dateModified" content="2025-03-21">
+            <meta itemprop="datePublished" content="2025-03-21T09:14:00+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/dobraya-apteka-personalnyj-farm-poisk">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/03/img_01-5-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/dobraya-apteka-personalnyj-farm-poisk">&#8220;Добрая аптека&#8221;: персональный фарм-поиск</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Когда возникает необходимость срочно найти нужное лекарство, удобный и функциональный сервис может сыграть решающую роль. На своём сайте https://d-apteka.ru/ &#8220;Добрая аптека&#8221; предлагает подобрать лекарство и выбрать ближайшую аптеку, из которой его можно будет забрать самостоятельно. Однако возможности платформы этим не ограничиваются. Давайте разберёмся, в каких нестандартных ситуациях этот сервис оказывается особенно полезным. Поиск редкого препарата [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/dobraya-apteka-personalnyj-farm-poisk" content="&#8220;Добрая аптека&#8221;: персональный фарм-поиск">
+    <meta itemprop="dateModified" content="2025-03-20">
+            <meta itemprop="datePublished" content="2025-03-20T09:13:28+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/apparatnaya-ili-inekczionnaya-kosmetologiya-sravnenie-podhodov-k-omolozheniyu">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/03/img_01-4-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Красота</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/apparatnaya-ili-inekczionnaya-kosmetologiya-sravnenie-podhodov-k-omolozheniyu">Аппаратная или инъекционная косметология: сравнение подходов к омоложению</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="&nbsp; Погоня за молодостью кожи давно перестала быть уделом только звёзд и миллионеров. Современные методики омоложения стали доступны практически каждому. Да и сама индустрия красоты не стоит на месте, постоянно предлагая новые решения. Выбрать подходящий метод омоложения порой непросто. Особенно когда выбор стоит между уколами и процедурами с использованием специальных аппаратов. В чем же разница? [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/apparatnaya-ili-inekczionnaya-kosmetologiya-sravnenie-podhodov-k-omolozheniyu" content="Аппаратная или инъекционная косметология: сравнение подходов к омоложению">
+    <meta itemprop="dateModified" content="2025-03-15">
+            <meta itemprop="datePublished" content="2025-03-15T03:38:26+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/salat-mimoza-vse-sekrety-sovershenstva">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/03/img_01-3-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Праздники</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/salat-mimoza-vse-sekrety-sovershenstva">Салат Мимоза: все секреты совершенства</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Готовясь к праздничному столу, хочется, чтобы блюда были не только вкусными, но и выглядели аппетитно. Если хочется порадовать гостей чем-то нежным, воздушным и сытным, то салат мимоза с рыбными консервами и сыром может стать идеальным выбором. Этот многослойный салат известен своей мягкой текстурой, лёгкостью приготовления и разнообразием вкусовых вариаций. Однако главные секреты идеального вкуса скрыты [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/salat-mimoza-vse-sekrety-sovershenstva" content="Салат Мимоза: все секреты совершенства">
+    <meta itemprop="dateModified" content="2025-03-13">
+            <meta itemprop="datePublished" content="2025-03-13T08:40:40+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/distanczionnoe-obuchenie-dlya-pedagogov-udobnyj-format-bez-otryva-ot-raboty">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/03/img_01-2-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/distanczionnoe-obuchenie-dlya-pedagogov-udobnyj-format-bez-otryva-ot-raboty">Дистанционное обучение для педагогов: удобный формат без отрыва от работы</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Современный мир требует от педагогов постоянного развития и обновления знаний. Образовательные стандарты меняются, технологии внедряются в учебный процесс, а конкуренция среди специалистов растёт. Если педагог задумывается о профессиональном росте, то ему стоит заглянуть на сайт ЦДПО «Педагог Профи», где можно будет узнать о возможностях дистанционного обучения и о получении официальных документов. Но как выбрать правильную программу? Какие [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/distanczionnoe-obuchenie-dlya-pedagogov-udobnyj-format-bez-otryva-ot-raboty" content="Дистанционное обучение для педагогов: удобный формат без отрыва от работы">
+    <meta itemprop="dateModified" content="2025-03-13">
+            <meta itemprop="datePublished" content="2025-03-11T10:18:43+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/kak-sochetat-bizhuteriyu-s-odezhdoj-sovety-stilistov-po-podboru-ukrashenij">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-6-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/kak-sochetat-bizhuteriyu-s-odezhdoj-sovety-stilistov-po-podboru-ukrashenij">Как сочетать бижутерию с одеждой: советы стилистов по подбору украшений</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Каждая деталь в образе имеет значение — от фактуры ткани до блеска металла на браслете. Правильно подобранные украшения подчеркивают индивидуальность и превращают базовый комплект в продуманный ансамбль. Этот принцип работает как с повседневными образами, так и с вечерними нарядами. Бижутерия давно перестала быть просто дополнением к наряду. Дизайнеры создают настоящие произведения искусства из самых неожиданных [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/kak-sochetat-bizhuteriyu-s-odezhdoj-sovety-stilistov-po-podboru-ukrashenij" content="Как сочетать бижутерию с одеждой: советы стилистов по подбору украшений">
+    <meta itemprop="dateModified" content="2025-02-28">
+            <meta itemprop="datePublished" content="2025-02-28T04:48:33+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/onlajn-kursy-it-dlya-mam-uchimsya-ne-vyhodya-ot-malysha">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_02-1-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/onlajn-kursy-it-dlya-mam-uchimsya-ne-vyhodya-ot-malysha">Онлайн-курсы IT для мам: учимся, не выходя от малыша</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Мамы в декрете сталкиваются с непростым выбором: посвятить себя полностью малышу или найти время для профессионального роста? Хорошая новость — эти два пути можно совместить! Современные онлайн-курсы IT дают возможность обучаться, не выходя из дома, и открывают перспективы для новой карьеры. На сайте финансового маркетплейса Выберу.ру представлен актуальный топ обучение программированию, который поможет сделать оптимальный [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/onlajn-kursy-it-dlya-mam-uchimsya-ne-vyhodya-ot-malysha" content="Онлайн-курсы IT для мам: учимся, не выходя от малыша">
+    <meta itemprop="dateModified" content="2025-02-21">
+            <meta itemprop="datePublished" content="2025-02-21T09:20:00+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/vse-novostrojki-astany-vybiraj-svoyu">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-5-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/vse-novostrojki-astany-vybiraj-svoyu">Все новостройки Астаны: выбирай свою!</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Столица Казахстана динамично развивается и строиться, как вширь, так и ввысь. В свою очередь все новостройки в городе Астана отражают эту тенденцию, предоставляя широкий выбор квартир от элитных до доступных. Давайте разберёмся, какие варианты предлагает рынок недвижимости и как выбрать оптимальное жильё. Элитные новостройки: роскошь и комфорт Элитное жильё в Астане привлекает внимание высоким качеством строительства, [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/vse-novostrojki-astany-vybiraj-svoyu" content="Все новостройки Астаны: выбирай свою!">
+    <meta itemprop="dateModified" content="2025-02-18">
+            <meta itemprop="datePublished" content="2025-02-18T09:39:23+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/letnie-lagerya-dlya-detej-otdyh-razvitie-i-novye-druzya">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-4-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/letnie-lagerya-dlya-detej-otdyh-razvitie-i-novye-druzya">Летние лагеря для детей: отдых, развитие и новые друзья</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Летние каникулы — время, которого с нетерпением ждут школьники. Родители же часто задумываются, как организовать этот период так, чтобы ребенок провел время с пользой. Отличным решением становятся летние лагеря для детей, где можно не только отдохнуть, но и приобрести новые навыки, подружиться со сверстниками и укрепить здоровье. Виды летних лагерей Современные детские лагеря предлагают множество [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/letnie-lagerya-dlya-detej-otdyh-razvitie-i-novye-druzya" content="Летние лагеря для детей: отдых, развитие и новые друзья">
+    <meta itemprop="dateModified" content="2025-02-18">
+            <meta itemprop="datePublished" content="2025-02-18T03:41:18+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/misticheskij-kaliningrad-ob-ekskursiyah">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-3-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Праздники</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/misticheskij-kaliningrad-ob-ekskursiyah">Мистический Калининград: об экскурсиях</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Калининград – город, в котором прошлое и настоящее переплетаются самым причудливым образом. Узкие улочки, старинные здания и мощёные дороги хранят воспоминания о его предшественнике – Кёнигсберге, древнем городе с богатой и загадочной историей. Интересные и познавательные, авторские и эксклюзивные экскурсии в Калининграде позволяют прикоснуться к его тайнам и мистическим легендам, ощутить дыхание веков и, возможно, [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/misticheskij-kaliningrad-ob-ekskursiyah" content="Мистический Калининград: об экскурсиях">
+    <meta itemprop="dateModified" content="2025-02-11">
+            <meta itemprop="datePublished" content="2025-02-11T11:28:11+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/idealnyj-buket-na-8-marta-s-dostavkoj-po-moskve-i-mo-ot-azalianow">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-2-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/idealnyj-buket-na-8-marta-s-dostavkoj-po-moskve-i-mo-ot-azalianow">Идеальный букет на 8 Марта с доставкой по Москве и МО от AzaliaNow</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="8 Марта – особенный день, наполненный теплотой, радостью и искренними поздравлениями. В этот праздник хочется окружить близких женщин заботой и вниманием, выразив любовь через красивые жесты. И, конечно же, самый популярный и символичный подарок – это цветы. Они несут в себе весеннее настроение, легкость и восхищение. Красивый букет на 8 Марта способен сказать больше, чем [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/idealnyj-buket-na-8-marta-s-dostavkoj-po-moskve-i-mo-ot-azalianow" content="Идеальный букет на 8 Марта с доставкой по Москве и МО от AzaliaNow">
+    <meta itemprop="dateModified" content="2025-02-10">
+            <meta itemprop="datePublished" content="2025-02-08T03:33:05+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/kuhonnye-organajzery-kotorye-sdelayut-udobnee-vashu-kuhnyu">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-1-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Быт</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/kuhonnye-organajzery-kotorye-sdelayut-udobnee-vashu-kuhnyu">Кухонные органайзеры, которые сделают удобнее вашу кухню</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Современная кухня должна быть не только красивой, но и максимально функциональной. Важно, чтобы все предметы для приготовления блюд были под рукой, но при этом в помещении царил порядок. Какие кухонные органайзеры, аксессуары и устройства сделают кухню более удобной, мы расскажем в этой статье. Держатели для бумажных полотенец Они обеспечивает удобное хранение рулона, позволяя быстро и [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/kuhonnye-organajzery-kotorye-sdelayut-udobnee-vashu-kuhnyu" content="Кухонные органайзеры, которые сделают удобнее вашу кухню">
+    <meta itemprop="dateModified" content="2025-02-07">
+            <meta itemprop="datePublished" content="2025-02-07T04:14:08+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/pochemu-botoks-dejstvuet-ne-srazu-chto-proishodit-v-organizme-posle-proczedury-i-kogda-zhdat-rezultat">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/02/img_01-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Красота</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/pochemu-botoks-dejstvuet-ne-srazu-chto-proishodit-v-organizme-posle-proczedury-i-kogda-zhdat-rezultat">Почему ботокс действует не сразу: что происходит в организме после процедуры и когда ждать результат</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="&nbsp; Сложно представить, что микроскопическая доза ботулотоксина способна разгладить морщины на лице. Еще удивительнее то, что этот процесс занимает несколько дней, а иногда и недель. За время ожидания результата пациенты часто переживают, все ли прошло правильно. Давайте разберемся, почему нельзя увидеть результат сразу после процедуры, и какие процессы происходят в это время в организме. Путь [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/pochemu-botoks-dejstvuet-ne-srazu-chto-proishodit-v-organizme-posle-proczedury-i-kogda-zhdat-rezultat" content="Почему ботокс действует не сразу: что происходит в организме после процедуры и когда ждать результат">
+    <meta itemprop="dateModified" content="2025-02-01">
+            <meta itemprop="datePublished" content="2025-02-01T03:25:42+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/google-diagnostika-chto-rekomenduet-pediatr">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_01-5-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/google-diagnostika-chto-rekomenduet-pediatr">Google-диагностика: что рекомендует педиатр?</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Сегодня родители имеют неограниченный доступ к информации о здоровье детей, и одним из первых шагов при возникновении тревоги становится поиск ответов в интернете. В итоге, детский врач, или педиатр сталкивается с потоком вопросов, основанных на случайных статьях, блогах и обсуждениях в соцсетях. Как родителям разобраться в массе информации, не навредив ребёнку? Давайте разбираться! Можно ли [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/google-diagnostika-chto-rekomenduet-pediatr" content="Google-диагностика: что рекомендует педиатр?">
+    <meta itemprop="dateModified" content="2025-01-29">
+            <meta itemprop="datePublished" content="2025-01-29T13:20:45+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/top-5-shagov-k-spokojnomu-otdyhu-pitomcza-v-otele">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_01-4-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/top-5-shagov-k-spokojnomu-otdyhu-pitomcza-v-otele">ТОП-5 шагов к спокойному отдыху питомца в отеле</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Путешествия — это всегда волнительно, особенно если дома остаются четвероногие друзья. Ведь заботливый владелец хочет быть уверен, что его питомец чувствует себя комфортно даже в отсутствие хозяина. Заглянув по ссылке можно будет узнать о том, как воспользоваться номерами в московском отеле для кошек и собак &#8220;СэрКот&#8221;. Но как сделать так, чтобы и поездка прошла спокойно, [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/top-5-shagov-k-spokojnomu-otdyhu-pitomcza-v-otele" content="ТОП-5 шагов к спокойному отдыху питомца в отеле">
+    <meta itemprop="dateModified" content="2025-01-28">
+            <meta itemprop="datePublished" content="2025-01-28T07:52:20+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/kak-ustanovit-usilitel-interneta-na-dom-v-derevne">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_01-3-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Быт</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/kak-ustanovit-usilitel-interneta-na-dom-v-derevne">Как установить усилитель интернета на дом в деревне</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Необходимость улучшения связи и доступа к онлайн-ресурсам становится все более актуальной для многих жителей деревень и удаленных поселений. В мире, где интернет является основным источником информации и коммуникации, важно иметь стабильное и быстрое подключение к сети. В данной статье мы рассмотрим несколько способов повышения качества сигнала интернета в сельской местности, используя специальные устройства и технологии. [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/kak-ustanovit-usilitel-interneta-na-dom-v-derevne" content="Как установить усилитель интернета на дом в деревне">
+    <meta itemprop="dateModified" content="2025-01-27">
+            <meta itemprop="datePublished" content="2025-01-27T01:11:56+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/pravila-oplaty-nalogov-pri-sdache-kvartiry-v-arendu">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_01-2-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/pravila-oplaty-nalogov-pri-sdache-kvartiry-v-arendu">Правила оплаты налогов при сдаче квартиры в аренду</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="В благополучном современном обществе каждый соблюдатель законов должен быть готов к выполнению налоговых обязательств, связанных с сдачей жилой площади в аренду. Это важный аспект жизни гражданина, требующий надлежащего понимания и соблюдения. Необходимо осознавать разницу между различными видами налогов, которые могут быть применены к доходам от аренды жилья, а также узнавать способы и сроки их уплаты. [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/pravila-oplaty-nalogov-pri-sdache-kvartiry-v-arendu" content="Правила оплаты налогов при сдаче квартиры в аренду">
+    <meta itemprop="dateModified" content="2025-01-26">
+            <meta itemprop="datePublished" content="2025-01-26T01:49:10+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/kvartira-mechty-kak-kupit-eyo-v-habarovske">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_02-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/kvartira-mechty-kak-kupit-eyo-v-habarovske">Квартира мечты: как купить её в Хабаровске</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Каждый из нас мечтает о собственном уютном уголке, где хочется возвращаться после насыщенного дня, обустраивать пространство под себя и строить будущее. Хабаровск, с его уникальной атмосферой и сочетанием современного ритма жизни и природной гармонии, привлекает тех, кто планирует приобрести квартиру. На сайте https://khabarovsk.etagi.com/realty/ можно узнать о том, как купить квартиру в этом городе для жизни. [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/kvartira-mechty-kak-kupit-eyo-v-habarovske" content="Квартира мечты: как купить её в Хабаровске">
+    <meta itemprop="dateModified" content="2025-01-18">
+            <meta itemprop="datePublished" content="2025-01-18T08:28:54+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/liczo-sudby-ba-czzy-i-taro-raskryvayut-tajny">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_01-1-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/liczo-sudby-ba-czzy-i-taro-raskryvayut-tajny">Лицо судьбы: Ба Цзы и Таро раскрывают тайны</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Судьба — это карта, написанная звёздами и отражённая в нашем характере и внешности. Искусство предсказания позволяет заглянуть в тайны личности, используя древние методы, такие как Ба Цзы и Таро. Одни помогают узнать, какие качества заложены в нас с рождения, другие — увидеть внешние проявления наших внутренних черт. Но обо всём по порядку. Как определить типы [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/liczo-sudby-ba-czzy-i-taro-raskryvayut-tajny" content="Лицо судьбы: Ба Цзы и Таро раскрывают тайны">
+    <meta itemprop="dateModified" content="2025-01-16">
+            <meta itemprop="datePublished" content="2025-01-16T10:08:33+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/profilaktika-vospalenij-i-infekczij-stop">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_10-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/profilaktika-vospalenij-i-infekczij-stop">Профилактика воспалений и инфекций стоп</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Здоровье нижних конечностей существенно влияет на общее физическое состояние человека, особенно на его мобильность и способность выполнять повседневные задачи. Предупреждение различных заболеваний, включая инфекции и воспалительные процессы в области ног, является ключевым аспектом личной гигиены. Около четверти всех инфекций, передающихся через кожу, приходится на эту часть тела. Выбор обуви Подходящая обувь — это залог хорошего [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/profilaktika-vospalenij-i-infekczij-stop" content="Профилактика воспалений и инфекций стоп">
+    <meta itemprop="dateModified" content="2025-01-11">
+            <meta itemprop="datePublished" content="2025-01-11T04:49:46+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/gotovyj-dom-ili-stroitelstvo-s-nulya-chto-vybrat">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2025/01/img_01-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="Покупка готового частного дома" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/gotovyj-dom-ili-stroitelstvo-s-nulya-chto-vybrat">Готовый дом или строительство с нуля – что выбрать?</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="&nbsp; Переехать из шумного мегаполиса в загородный дом – пожалуй, мечта многих людей, которые устали от городской суеты и хотят спокойной жизни. Реализовать идею можно одним из двух способов – купить готовый объект или построить его с нуля. У каждого из вариантов есть свои «за» и «против», о которых мы поговорим в этой статье. Какие [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/gotovyj-dom-ili-stroitelstvo-s-nulya-chto-vybrat" content="Готовый дом или строительство с нуля – что выбрать?">
+    <meta itemprop="dateModified" content="2025-01-09">
+            <meta itemprop="datePublished" content="2025-01-09T03:13:44+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/mir-bez-granicz-kak-poluchit-vizu-v-moskve">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2024/12/img_01-2-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Традиции</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/mir-bez-granicz-kak-poluchit-vizu-v-moskve">Мир без границ: как получить визу в Москве</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Путешествия – это не просто отдых, но и возможность расширить горизонты, познакомиться с новыми культурами, завести друзей по всему миру. Но чтобы отправиться в ту или иную зарубежную страну, необходимо пройти важный этап – получение визы. Шенгенская, азиатская или любая другая виза в Москве – это ключ к посещению десятков стран, и получить её проще, [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/mir-bez-granicz-kak-poluchit-vizu-v-moskve" content="Мир без границ: как получить визу в Москве">
+    <meta itemprop="dateModified" content="2024-12-30">
+            <meta itemprop="datePublished" content="2024-12-30T04:10:06+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/semejnyj-master-klass-v-canvas-sozdayom-shedevry-vmeste">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2024/12/img_01-1-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Лайфстайл</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/semejnyj-master-klass-v-canvas-sozdayom-shedevry-vmeste">Семейный мастер-класс в Canvas: создаём шедевры вместе!</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="Совместное творчество — лучший способ укрепить семейные связи, подарить друг другу радость общения и раскрыть скрытые таланты. Уникальная возможность семейный арт мастер-класс ждёт вас в студии рисования Canvas, где в уютной обстановке и под руководством профессионалов можно превратить обычный день в незабываемое событие. Но обо всём по порядку! Уникальный формат для всей семьи Семейные мастер-классы [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/semejnyj-master-klass-v-canvas-sozdayom-shedevry-vmeste" content="Семейный мастер-класс в Canvas: создаём шедевры вместе!">
+    <meta itemprop="dateModified" content="2024-12-25">
+            <meta itemprop="datePublished" content="2024-12-25T10:45:07+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+<div class="post-card post-card--grid w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+	        <a href="https://izuminki.com/termonoski-na-kruglyj-god">
+            <div class="post-card__thumbnail">
+                <img width="335" height="220" src="https://izuminki.com/wp-content/uploads/2024/12/img_01-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="" itemprop="image" decoding="async" />
+                                    <span itemprop="articleSection" class="post-card__category">Мода</span>                            </div>
+        </a>
+	
+    <div class="post-card__body">
+
+	    <div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://izuminki.com/termonoski-na-kruglyj-god">Термоноски на круглый год</a></span></div>
+    </div>
+
+            <meta itemprop="articleBody" content="В мире, где климатические условия могут меняться в течение дня, выбор правильной обуви и аксессуаров становится особенно важным. Одним из ключевых элементов в создании комфорта являются термоноски. Они не только обеспечивают тепло, но и играют значительную роль в поддержании здоровья ног. Если вы хотите обеспечить себе максимальный комфорт круглый год, стоит обратить внимание на предложения [&hellip;]">
+                <meta itemprop="author" content="Olga"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://izuminki.com/termonoski-na-kruglyj-god" content="Термоноски на круглый год">
+    <meta itemprop="dateModified" content="2024-12-20">
+            <meta itemprop="datePublished" content="2024-12-20T02:10:34+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://izuminki.com/wp-content/uploads/2022/12/ings.jpg" alt="Изюминки"></div><meta itemprop="name" content="Изюминки"><meta itemprop="telephone" content="Изюминки"><meta itemprop="address" content="https://izuminki.com"></div>
+    </div>
+
+    </div><!--.post-cards-->
+</div><!--.section-posts-->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+
+</div><!--.site-content-inner-->
+
+
+</div><!--.site-content-->
+
+
+
+
+
+<div class="site-footer-container ">
+
+    
+
+    <div class="footer-navigation fixed" itemscope itemtype="http://schema.org/SiteNavigationElement">
+        <div class="main-navigation-inner full">
+            <div class="menu-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%81%d0%b0%d0%b9%d1%82%d0%b5-container"><ul id="footer_menu" class="menu"><li id="menu-item-7398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7398"><a href="https://izuminki.com/%d0%be-%d0%bd%d0%b0%d1%81">О нас</a></li>
+<li id="menu-item-7399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7399"><a href="https://izuminki.com/politika">Политика конфиденциальности</a></li>
+<li id="menu-item-7400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7400"><a href="https://izuminki.com/soglashenie">Пользовательское соглашение</a></li>
+</ul></div>        </div>
+    </div><!--footer-navigation-->
+
+
+    <footer id="colophon" class="site-footer site-footer--style-gray full">
+        <div class="site-footer-inner fixed">
+
+            
+            
+<div class="footer-bottom">
+    <div class="footer-info">
+        © 2025 Изюминки
+	        </div>
+
+    </div>
+        </div>
+    </footer><!--.site-footer-->
+</div>
+
+
+    <button type="button" class="scrolltop js-scrolltop"></button>
+
+</div><!-- #page -->
+
+<script>
+if (typeof rb_ajaxurl==='undefined') {var rb_ajaxurl = 'https://izuminki.com/wp-admin/admin-ajax.php';}
+if (typeof rb_csrf==='undefined') {var rb_csrf = '9bf2443fb5';}
+if (typeof gather_content==='undefined') {var gather_content = true;}
+window.RFWP_BlockInserting = class {
+    _blockSettingArray;
+
+    static endedSc = false;
+    static endedCc = false;
+
+    constructor(blockSettingArray) {
+        this._blockSettingArray = blockSettingArray;
+    }
+
+    static launch(blockSettingArray) {
+        var $this = this;
+        if (window.jsInputerLaunch !== undefined && [15, 10].includes(window.jsInputerLaunch)) {
+            var item = new RFWP_BlockInserting(blockSettingArray);
+            item.insert();
+            if (!this.endedSc) {
+                item.shortcodesInsert();
+            }
+            if (!this.endedCc) {
+                /* clearUnsuitableCache(0); */
+            }
+            /* blocksReposition();
+            cachePlacing();
+            symbolMarkersPlaced(); */
+        } else {
+            setTimeout(function () {
+                $this.launch(blockSettingArray);
+            }, 50);
+        }
+    }
+
+    insert() {
+        let repeatInsert = false;
+        let index, parent_with_content, usedBlockSettingArrayIds, lordOfElements, contentLength, rejectedBlocks,
+            containerFor6th, containerFor7th, countHeaders, blockSetting, currentElement, currentElementArray, elPlace;
+
+        document.querySelectorAll(".content_pointer_class").forEach((content_pointer) => {
+            parent_with_content = content_pointer.parentElement;
+            usedBlockSettingArrayIds = (content_pointer.getAttribute('data-block-ids') || "").split(',');
+            lordOfElements = parent_with_content;
+            parent_with_content = parent_with_content.parentElement;
+            contentLength = content_pointer.getAttribute('data-content-length');
+            rejectedBlocks = content_pointer.getAttribute('data-rejected-blocks');
+            if (rejectedBlocks&&rejectedBlocks.length > 0) {
+                rejectedBlocks = rejectedBlocks.split(',');
+            }
+            containerFor6th = [];
+            containerFor7th = [];
+
+            countHeaders = parent_with_content.querySelectorAll('h1, h2, h3, h4, h5, h6').length;
+
+            while((index = usedBlockSettingArrayIds.findIndex((el) => el === "")) >= 0) {
+                usedBlockSettingArrayIds.splice(index, 1);
+            }
+
+            if (contentLength < 1) {
+                contentLength = parent_with_content.innerText.length
+            }
+
+            for (var i = 0; i < this._blockSettingArray.length; i++) {
+                blockSetting = this._blockSettingArray[i];
+                currentElement = null;
+                currentElementArray = [];
+
+                try {
+                    const binderName = blockSetting["rb_under"];
+
+                    if (!blockSetting["text"] ||
+                        (blockSetting["text"] && blockSetting["text"].length < 1)
+                    ) {
+                        this._blockSettingArray.splice(i--, 1);
+                        continue;
+                    }
+
+                    if (rejectedBlocks&&rejectedBlocks.includes(blockSetting["id"]) ||
+                        (blockSetting["maxHeaders"] > 0 && blockSetting["maxHeaders"] < parseInt(countHeaders)) ||
+                        (blockSetting["maxSymbols"] > 0 && blockSetting["maxSymbols"] < parseInt(contentLength)) ||
+                        (content_pointer.classList.contains("hard-content") && blockSetting["setting_type"] !== 3)
+                    ) {
+                        continue;
+                    }
+
+                    const elementToAdd = this.createBlockElement(blockSetting),
+                        block_number = elementToAdd.children[0].attributes['data-id'].value;
+
+                    if (usedBlockSettingArrayIds.length > 0 && usedBlockSettingArrayIds.includes(block_number)) {
+                        continue;
+                    }
+
+                    if ((blockSetting["minHeaders"] > 0)&&(blockSetting["minHeaders"] > countHeaders)) {continue;}
+                    if (blockSetting["minSymbols"] > contentLength) {continue;}
+
+                    if (blockSetting["setting_type"] == 1) {
+                        currentElementArray = this.currentElementsGather(blockSetting["element"].toLowerCase(), parent_with_content);
+                        if (!!currentElementArray && currentElementArray.length > 0) {
+                            if (blockSetting["elementPlace"] < 0) {
+                                elPlace = currentElementArray.length + blockSetting["elementPlace"];
+                                if (elPlace >= 0 && elPlace < currentElementArray.length) {
+                                    currentElement = this.currentElementReceiver(true, content_pointer, blockSetting, currentElementArray, elPlace);
+                                }
+                            } else {
+                                elPlace = blockSetting["elementPlace"] - 1;
+                                if (elPlace < currentElementArray.length) {
+                                    currentElement = this.currentElementReceiver(false, content_pointer, blockSetting, currentElementArray, elPlace);
+                                }
+                            }
+                        }
+                        if (!currentElement && blockSetting["showNoElement"]) {
+                            currentElement = currentElementArray[currentElementArray.length - 1];
+                        }
+                        if (!!currentElement) {
+                            this.addBlockAd(blockSetting, currentElement, elementToAdd);
+                            usedBlockSettingArrayIds.push(block_number);
+                        } else {
+                            repeatInsert = true;
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 2) {
+                        if (blockDuplicate == 'no') {
+                            blockSetting["elementCount"] = 1;
+                        }
+                        var curFirstPlace = blockSetting["firstPlace"],
+                            curElementCount = blockSetting["elementCount"],
+                            curElementStep = blockSetting["elementStep"],
+                            repeatableBlockIdentifier = 0,
+                            successAdd = false;
+
+                        currentElementArray = this.currentElementsGather(blockSetting["element"].toLowerCase(), parent_with_content);
+                        if (currentElementArray) {
+                            for (let i1 = 0; i1 < blockSetting["elementCount"]; i1++) {
+                                elementToAdd.classList.add("repeatable-mark-" + repeatableBlockIdentifier);
+
+                                elPlace = Math.round(parseInt(blockSetting["firstPlace"]) + (i1*parseInt(blockSetting["elementStep"])) - 1);
+                                if (elPlace < currentElementArray.length) {
+                                    currentElement = this.currentElementReceiver(false, content_pointer, blockSetting, currentElementArray, elPlace);
+                                }
+                                if (!currentElement && blockSetting["showNoElement"] && !i1) {
+                                    currentElement = currentElementArray[currentElementArray.length - 1];
+                                }
+
+                                if (currentElement !== undefined && currentElement != null) {
+                                    this.addBlockAd(blockSetting, currentElement, elementToAdd);
+                                    curFirstPlace = elPlace + parseInt(blockSetting["elementStep"]) + 1;
+                                    curElementCount--;
+                                    successAdd = true;
+                                } else {
+                                    successAdd = false;
+                                    break;
+                                }
+                            }
+                        }
+                        if (successAdd === true) {
+                            usedBlockSettingArrayIds.push(block_number);
+                            repeatableBlockIdentifier++;
+                        } else {
+                            if (!blockSetting["unsuccess"]) {
+                                blockSetting["unsuccess"] = 1;
+                            } else {
+                                blockSetting["unsuccess"] = Math.round(blockSetting["unsuccess"] + 1);
+                            }
+                            if (blockSetting["unsuccess"] > 10) {
+                                usedBlockSettingArrayIds.push(block_number);
+                            } else {
+                                blockSetting["firstPlace"] = curFirstPlace;
+                                blockSetting["elementCount"] = curElementCount;
+                                blockSetting["elementStep"] = curElementStep;
+                                repeatInsert = true;
+                            }
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 3) {
+                        currentElement = this.getElementBySelection(blockSetting["directElement"].trim(), blockSetting)
+
+                        if (!!currentElement) {
+                            this.addBlockAd(blockSetting, currentElement, elementToAdd);
+                            usedBlockSettingArrayIds.push(block_number);
+                            this._blockSettingArray.splice(i--, 1);
+                        } else {
+                            repeatInsert = true;
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 4) {
+                        content_pointer.parentElement.append(elementToAdd);
+                        usedBlockSettingArrayIds.push(block_number);
+                    }
+                    else if (blockSetting["setting_type"] == 5) {
+                        currentElementArray = this.currentElementsGather('p', content_pointer.parentElement, 1);
+                        if (currentElementArray && currentElementArray.length > 0) {
+                            let pCount = currentElementArray.length;
+                            let elementNumber = Math.round(pCount/2);
+                            if (pCount > 1) {
+                                currentElement = currentElementArray[elementNumber+1];
+                            }
+                            if (!!currentElement) {
+                                if (pCount > 1) {
+                                    this.addBlockAd(blockSetting, currentElement, elementToAdd, currentElement);
+                                } else {
+                                    this.addBlockAd(blockSetting, currentElement, elementToAdd, currentElement.nextSibling);
+                                }
+                                usedBlockSettingArrayIds.push(block_number);
+                            } else {
+                                repeatInsert = true;
+                            }
+                        } else {
+                            repeatInsert = true;
+                        }
+                    }
+                    else if (blockSetting["setting_type"] == 6) {
+                        if (containerFor6th.length > 0) {
+                            for (let j = 0; j < containerFor6th.length; j++) {
+                                if (containerFor6th[j]["elementPlace"]>blockSetting["elementPlace"]) {
+                                    /* continue; */
+                                    if (j === containerFor6th.length-1) {
+                                        containerFor6th.push(blockSetting);
+                                        usedBlockSettingArrayIds.push(block_number);
+                                        break;
+                                    }
+                                } else {
+                                    containerFor6th.splice(j, 0, blockSetting)
+                                    usedBlockSettingArrayIds.push(block_number);
+                                    break;
+                                }
+                            }
+                        } else {
+                            containerFor6th.push(blockSetting);
+                            usedBlockSettingArrayIds.push(block_number);
+                        }
+                        /* vidpravutu v vidstiinuk dlya 6ho tipa */
+                    }
+                    else if (blockSetting["setting_type"] == 7) {
+                        if (containerFor7th.length > 0) {
+                            for (let j = 0; j < containerFor7th.length; j++) {
+                                if (containerFor7th[j]["elementPlace"]>blockSetting["elementPlace"]) {
+                                    /* continue; */
+                                    if (j == containerFor7th.length-1) {
+                                        containerFor7th.push(blockSetting);
+                                        usedBlockSettingArrayIds.push(block_number);
+                                        break;
+                                    }
+                                } else {
+                                    containerFor7th.splice(j, 0, blockSetting)
+                                    usedBlockSettingArrayIds.push(block_number);
+                                    break;
+                                }
+                            }
+                        } else {
+                            containerFor7th.push(blockSetting);
+                            usedBlockSettingArrayIds.push(block_number);
+                        }
+                    }
+                } catch (e) {
+                    console.log(e.message);
+                }
+            }
+
+            var array = this.textLengthGatherer(lordOfElements),
+                tlArray = array.array,
+                length = array.length;
+
+            if (containerFor6th.length > 0) {
+                this.percentInserter(lordOfElements, containerFor6th, tlArray, length);
+            }
+            if (containerFor7th.length > 0) {
+                this.symbolInserter(lordOfElements, containerFor7th, tlArray);
+            }
+            this.shortcodesInsert();
+            content_pointer.setAttribute("data-block-ids", usedBlockSettingArrayIds.join(","))
+        });
+
+        let stopper = 0,
+            $this = this;
+
+        window.addEventListener('load', function () {
+            if (repeatInsert === true) {
+                setTimeout(function () {
+                    $this.insert();
+                }, 100);
+            }
+        });
+    }
+
+    createBlockElement(blockSetting) {
+        let element = document.createElement("div");
+
+        element.classList.add("percentPointerClass");
+        element.classList.add("marked");
+        if (blockSetting["sc"] === 1) {
+            element.classList.add("scMark");
+        }
+        element.innerHTML = blockSetting["text"];
+        element.dataset.rbinder = blockSetting["rb_under"];
+
+        const block_number = element.children[0].attributes['data-id'].value,
+            elementToAddStyle = this.createStyleElement(block_number, blockSetting["elementCss"]);
+
+        if (elementToAddStyle&&elementToAddStyle!=='default') {
+            element.style.textAlign = elementToAddStyle;
+        }
+
+        return element
+    }
+
+    addBlockAd(blockSetting, currentElement, elementToAdd, position = null) {
+        if (!position) {
+            position = this.initTargetToInsert(blockSetting["elementPosition"], 'element', currentElement);
+        }
+        currentElement.parentNode.insertBefore(elementToAdd, position);
+        currentElement.classList.add('rbinder-'+blockSetting["rb_under"]);
+        elementToAdd.classList.remove('coveredAd');
+    }
+
+    getElementBySelection(directElement, blockSetting) {
+        if (directElement.search('#') > -1) {
+            return document.querySelector(directElement);
+        }
+        if ((directElement.search('#') < 0)&&(directElement.search('.') > -1)) {
+            return this.directClassElementDetecting(directElement, blockSetting);
+        }
+    }
+
+    directClassElementDetecting(directElement, blockSetting) {
+        let findQuery = false;
+        let currentElementArray = document.querySelectorAll(directElement);
+        let currentElement = null;
+
+        if (currentElementArray.length > 0) {
+            if (blockSetting['elementPlace'] > 1) {
+                if (currentElementArray.length >= blockSetting['elementPlace']) {
+                    currentElement = currentElementArray[blockSetting['elementPlace']-1];
+                } else if (currentElementArray.length < blockSetting['elementPlace']) {
+                    if (blockSetting['showNoElement'] > 0) {
+                        currentElement = currentElementArray[currentElementArray.length - 1];
+                    }
+                } else {
+                    findQuery = true;
+                }
+            } else if (blockSetting['elementPlace'] < 0) {
+                if ((currentElementArray.length + blockSetting['elementPlace'] + 1) > 0) {
+                    currentElement = currentElementArray[currentElementArray.length + blockSetting['elementPlace']];
+                } else {
+                    findQuery = true;
+                }
+            } else {
+                findQuery = true;
+            }
+        } else {
+            findQuery = true;
+        }
+
+        if (findQuery) {
+            currentElement = document.querySelector(directElement);
+        }
+
+        return currentElement;
+    }
+
+    placingArrayToH1(usedElement, elementTagToFind) {
+        let elements = usedElement.querySelectorAll(elementTagToFind);
+
+        if (elements.length < 1) {
+            if (usedElement.parentElement) {
+                elements = this.placingArrayToH1(usedElement.parentElement, elementTagToFind);
+            }
+        }
+        return elements;
+    }
+
+    elementsCleaning(excArr, elList, pwcLocal, gatherString) {
+        let markedClass = 'rb_m_inc';
+        let markedClassBad = 'rb_m_exc';
+        let cou = 0;
+        let cou1 = 0;
+        let finalArr = [];
+        let finalArrClear = [];
+        let checkNearest;
+        let outOfRangeCheck;
+        let gatherRejected;
+        let allower;
+
+        try {
+            while (elList[cou]) {
+                allower = true;
+                if (!elList[cou].classList.contains(markedClassBad)) {
+                    if (excArr&&excArr.length > 0) {
+                        cou1 = 0;
+                        while (excArr[cou1]) {
+                            checkNearest = elList[cou].parentElement.closest(excArr[cou1]);
+                            if (checkNearest) {
+                                checkNearest.classList.add('currClosest');
+                                outOfRangeCheck = pwcLocal.querySelector('.currClosest');
+                                if (outOfRangeCheck) {
+                                    allower = false;
+                                    checkNearest.classList.add(markedClass);
+                                    gatherRejected = checkNearest.querySelectorAll(gatherString);
+                                    if (gatherRejected.length > 0) {
+                                        for (let i1 = 0; i1 < gatherRejected.length; i1++) {
+                                            gatherRejected[i1].classList.add(markedClassBad);
+                                        }
+                                    }
+                                }
+                                checkNearest.classList.remove('currClosest');
+                            }
+                            cou1++;
+                        }
+                    }
+                    if (allower===true) {
+                        elList[cou].classList.add(markedClass);
+                        /* finalArr.push(elList[cou]); */
+                    }
+                }
+                cou++;
+            }
+            finalArr = pwcLocal.querySelectorAll('.'+markedClass+':not('+markedClassBad+')');
+            finalArrClear = pwcLocal.querySelectorAll('.'+markedClass+',.'+markedClassBad);
+            if (finalArrClear&&finalArrClear.length > 0) {
+                for (let i1 = 0; i1 < finalArrClear.length; i1++) {
+                    finalArrClear[i1].classList.remove(markedClass,markedClassBad);
+                }
+            }
+        } catch (er) {
+            console.log(er.message);
+        }
+        return finalArr;
+    }
+
+    currentElementsGather(usedElement, localPwc, loopLimit = 2, ) {
+        let curElementSearchRepeater = true;
+        let curElementSearchCounter = 0;
+        let currentElementArray = null;
+        let ExcludedString = '';
+        let tagListString = '';
+        let tagListStringExc = '';
+        let cou = 0;
+        let tagList;
+        /* let excArr = excIdClUnpacker(); */
+        let tagListCou = 0;
+
+        if (usedElement==='h1') {
+            currentElementArray = this.placingArrayToH1(localPwc, usedElement);
+        } else {
+            if (usedElement==='h2-4')
+                tagList = ['h2','h3','h3'];
+            else
+                tagList = [usedElement];
+
+            while (tagList[tagListCou]) {
+                tagListString += ((cou++ > 0) ? ',' : '') + tagList[tagListCou];
+                tagListStringExc += ':not(' + tagList[tagListCou] + ')';
+                tagListCou++;
+            }
+
+            ExcludedString = '';
+            if (excIdClass&&excIdClass.length > 0) {
+                for (let i2 = 0; i2 < excIdClass.length; i2++) {
+                    if (excIdClass[i2].length > 0) {
+                        ExcludedString += (i2>0?',':'')+excIdClass[i2]+tagListStringExc;
+                    }
+                }
+            }
+            let detailedQueryString = tagListString+','+ExcludedString;
+
+            /* console.log(detailedQueryString); */
+            while (curElementSearchRepeater&&curElementSearchCounter < loopLimit) {
+                try {
+                    currentElementArray = localPwc.querySelectorAll(tagListString);
+                } catch (e1) {console.log(e1.message);}
+                if (!currentElementArray || !currentElementArray.length) {
+                    if (localPwc.parentElement) {
+                        localPwc = localPwc.parentElement;
+                    } else {
+                        break;
+                    }
+                } else {
+                    currentElementArray = this.elementsCleaning(excIdClass, currentElementArray, localPwc, detailedQueryString);
+                    curElementSearchRepeater = false;
+                }
+                curElementSearchCounter++;
+            }
+        }
+        return currentElementArray;
+    }
+
+    currentElementReceiver(revert, content_pointer, blockSetting, currentElementArray, elPlace) {
+        let currentElement = null;
+        let sameElementAfterWidth = false;
+        let testCou = 0;
+        while (currentElementArray[elPlace] && sameElementAfterWidth === false && testCou < 8) {
+            currentElement = currentElementArray[elPlace];
+            try {
+                sameElementAfterWidth = this.checkAdsWidth(content_pointer, blockSetting["elementPosition"], currentElement);
+            } catch (ex) {
+                sameElementAfterWidth = true;
+                console.log(ex.message);
+            }
+            revert? elPlace--: elPlace++;
+            testCou++;
+        }
+
+        return currentElement;
+    }
+
+
+    symbolInserter(lordOfElements, containerFor7th, tlArray) {
+        try {
+            var currentChildrenLength = 0;
+            let previousBreak = 0;
+            let needleLength;
+            let currentSumLength;
+            let elementToAdd;
+            let elementToBind;
+            let binderName;
+
+            if (!lordOfElements.querySelector(".markedSpan1")) {
+                for (let i = 0; i < containerFor7th.length; i++) {
+                    previousBreak = 0;
+                    currentChildrenLength = 0;
+                    currentSumLength = 0;
+                    needleLength = Math.abs(containerFor7th[i]['elementPlace']);
+                    binderName = containerFor7th[i]["rb_under"];
+
+                    elementToAdd = this.createBlockElement(containerFor7th[i]);
+                    if (!elementToAdd) {
+                        continue;
+                    }
+
+                    if (containerFor7th[i]['elementPlace'] < 0) {
+                        for (let j = tlArray.length-1; j > -1; j--) {
+                            currentSumLength = currentSumLength + tlArray[j]['length'];
+                            if (needleLength < currentSumLength) {
+                                elementToBind = tlArray[j]['element'];
+                                elementToBind = this.currentElementReceiverSpec(true, j, tlArray, elementToBind);
+                                this.addBlockAd(containerFor7th[i], elementToBind, elementToAdd, elementToBind);
+                                break;
+                            }
+                        }
+                    } else if (containerFor7th[i]['elementPlace'] == 0) {
+                        elementToBind = tlArray[0]['element'];
+                        this.addBlockAd(containerFor7th[i], elementToBind, elementToAdd, elementToBind);
+                    } else {
+                        for (let j = 0; j < tlArray.length; j++) {
+                            currentSumLength = currentSumLength + tlArray[j]['length'];
+                            if (needleLength < currentSumLength) {
+                                elementToBind = tlArray[j]['element'];
+                                elementToBind = this.currentElementReceiverSpec(false, j, tlArray, elementToBind);
+                                this.addBlockAd(containerFor7th[i], elementToBind, elementToAdd, elementToBind.nextSibling);
+                                break;
+                            }
+                        }
+                    }
+                }
+
+                var spanMarker = document.createElement("span");
+                spanMarker.classList.add("markedSpan1");
+                lordOfElements.prepend(spanMarker);
+            }
+        } catch (e) {
+            console.log(e);
+        }
+    }
+
+    percentInserter(lordOfElements, containerFor6th, tlArray, textLength) {
+        try {
+            var textNeedyLength = 0;
+            let elementToAdd;
+            var elementToBind;
+            let elementToAddStyle;
+            let block_number;
+            var binderName;
+            let $this = this;
+
+            function insertByPercents(textLength) {
+                let localMiddleValue = 0;
+
+                for (let j = 0; j < containerFor6th.length; j++) {
+                    textNeedyLength = Math.round(textLength * (containerFor6th[j]["elementPlace"]/100));
+                    for (let i = 0; i < tlArray.length; i++) {
+                        if (tlArray[i]['lengthSum'] >= textNeedyLength) {
+                            binderName = containerFor6th[j]["rb_under"];
+                            elementToAdd = $this.createBlockElement(containerFor6th[j]);
+                            if (!elementToAdd) {
+                                break;
+                            }
+
+                            localMiddleValue = tlArray[i]['lengthSum'] - Math.round(tlArray[i]['length']/2);
+                            elementToBind = tlArray[i]['element'];
+                            $this.currentElementReceiverSpec(false, i, tlArray, elementToBind);
+                            if (textNeedyLength < localMiddleValue) {
+                                $this.addBlockAd(containerFor6th[j], elementToBind, elementToAdd, elementToBind);
+                            } else {
+                                $this.addBlockAd(containerFor6th[j], elementToBind, elementToAdd, elementToBind.nextSibling);
+                            }
+                            break;
+                        }
+                    }
+                }
+                return false;
+            }
+
+            function clearTlMarks() {
+                let marksForDeleting = document.querySelectorAll('.textLengthMarker');
+
+                if (marksForDeleting.length > 0) {
+                    for (let i = 0; i < marksForDeleting.length; i++) {
+                        marksForDeleting[i].remove();
+                    }
+                }
+            }
+
+            if (!lordOfElements.querySelector(".markedSpan")) {
+                insertByPercents(textLength);
+                clearTlMarks();
+                var spanMarker = document.createElement("span");
+                spanMarker.classList.add("markedSpan");
+                lordOfElements.prepend(spanMarker);
+            }
+        } catch (e) {
+            console.log(e.message);
+        }
+    }
+
+
+    /* "sc" in variables - mark for shortcode variable */
+    shortcodesInsert() {
+        let gatheredBlocks = document.querySelectorAll('.percentPointerClass.scMark'),
+            scBlockId = -1,
+            scAdId = -1,
+            blockStatus = '',
+            dataFull = -1,
+            gatheredBlockChild,
+            okStates = ['done','refresh-wait','no-block','fetched'],
+            scContainer,
+            sci,
+            i1 = 0,
+            skyscraperStatus = false,
+            splitedSkyscraper = [],
+            gatheredBlockChildSkyParts = [],
+            stickyStatus = false,
+            stickyCheck = [],
+            stickyFixedStatus = false,
+            stickyFixedCheck = [],
+            repeatableIdentifier = "",
+            dataCidIdentifier = null,
+            divCidElement = '';
+
+        if (typeof scArray !== 'undefined') {
+            if (scArray&&scArray.length > 0&&gatheredBlocks&&gatheredBlocks.length > 0&&typeof window.rulvW5gntb !== 'undefined') {
+                dataCidIdentifier = window.rulvW5gntb;
+                for (let i = 0; i < gatheredBlocks.length; i++) {
+                    gatheredBlockChild = gatheredBlocks[i].children[0];
+                    if (!gatheredBlockChild) {
+                        continue;
+                    }
+                    scAdId = -3;
+                    blockStatus = null;
+                    scContainer = null;
+                    dataFull = -1;
+                    skyscraperStatus = false;
+                    splitedSkyscraper = [];
+                    gatheredBlockChildSkyParts = [];
+                    stickyStatus = false;
+                    stickyCheck = [];
+                    stickyFixedStatus = false;
+                    stickyFixedCheck = [];
+                    repeatableIdentifier = "";
+                    divCidElement = null;
+
+                    scAdId = gatheredBlockChild.getAttribute('data-aid');
+                    scBlockId = gatheredBlockChild.getAttribute('data-id');
+                    blockStatus = gatheredBlockChild.getAttribute('data-state');
+                    dataFull = gatheredBlockChild.getAttribute('data-full');
+
+                    if (scBlockId&&scAdId > 0) {
+                        sci = -1;
+                        for (i1 = 0; i1 < scArray.length; i1++) {
+                            if (scBlockId == scArray[i1]['blockId']&&scAdId == scArray[i1]['adId']) {
+                                sci = i1;
+                            }
+                        }
+
+                        if (sci > -1) {
+                            if (blockStatus&&okStates.includes(blockStatus)) {
+
+                                if (blockStatus=='no-block') {
+                                    gatheredBlockChild.innerHTML = '';
+                                } else if ((blockStatus=='fetched'&&dataFull==1)||!['no-block','fetched'].includes(blockStatus)) {
+                                    for (let cl1 = 0; cl1 < gatheredBlocks[i].classList.length; cl1++) {
+                                        if (gatheredBlocks[i].classList[cl1].includes("repeatable-mark")) {
+                                            repeatableIdentifier = gatheredBlocks[i].classList[cl1];
+                                        }
+                                    }
+
+                                    if (repeatableIdentifier) {
+                                        divCidElement = document.querySelectorAll(".percentPointerClass.scMark."+repeatableIdentifier+' div[data-cid="'+dataCidIdentifier+'"]');
+                                    } else {
+                                        divCidElement = gatheredBlockChild.querySelectorAll('div[data-cid="'+dataCidIdentifier+'"]');
+                                    }
+
+                                    var text = scArray[sci]['text'];
+                                    if (divCidElement&&divCidElement.length > 0) {
+                                        for (let i2 = 0; i2 < divCidElement.length; i2++) {
+                                            jQuery(divCidElement[i2]).html(text);
+                                        }
+                                    } else {
+                                        jQuery(gatheredBlockChild).html(text);
+                                    }
+                                    this.launchUpdateRbDisplays();
+                                }
+                                if (blockStatus !== 'fetched' || (blockStatus === 'fetched' && dataFull === 1)) {
+                                    gatheredBlocks[i].classList.remove('scMark');
+                                }
+                            }
+                        }
+                    } else if (scBlockId&&scAdId < 1&&['no-block','fetched'].includes(blockStatus)) {
+                        gatheredBlocks[i].classList.remove('scMark');
+                    }
+                }
+            } else if (!scArray||(scArray&&scArray.length < 1)) {
+                this.endedSc = true;
+            }
+        } else {
+            this.endedSc = true;
+        }
+
+        if (!this.endedSc) {
+            var $this = this;
+            setTimeout(function () {
+                $this.shortcodesInsert();
+            }, 200);
+        }
+    }
+
+    currentElementReceiverSpec(revert, curSum, elList, currentElement) {
+        let origCurrentElement = currentElement;
+        let content_pointer = document.querySelector(".content_pointer_class"); /* orig */
+        let sameElementAfterWidth = false;
+        let testCou = 0;
+        while (elList[curSum] && !sameElementAfterWidth && testCou < 5) {
+            currentElement = elList[curSum]['element'];
+            try {
+                sameElementAfterWidth = this.checkAdsWidth(content_pointer, 0, currentElement);
+            } catch (ex) {
+                sameElementAfterWidth = true;
+                console.log(ex.message);
+            }
+            revert? curSum--: curSum++;
+            testCou++;
+        }
+        return currentElement?currentElement:origCurrentElement;
+    }
+
+    launchUpdateRbDisplays() {
+        if ((typeof updateRbDisplays !== 'undefined')&&(typeof updateRbDisplays === 'function')) {
+            updateRbDisplays();
+        } else {
+            setTimeout(function () {
+                this.launchUpdateRbDisplays();
+            }, 200);
+        }
+    }
+
+    checkAdsWidth(content_pointer, posCurrentElement, currentElement) {
+        let widthChecker = document.querySelector('#widthChecker');
+        let widthCheckerStyle = null;
+        let content_pointerStyle = getComputedStyle(content_pointer);
+        let content = content_pointer.parentElement;
+
+        if (!widthChecker) {
+            widthChecker = document.createElement("div");
+            widthChecker.setAttribute('id','widthChecker');
+            widthChecker.style.display = 'flex';
+        }
+
+        if (content) {
+            posCurrentElement = this.initTargetToInsert(posCurrentElement, 'term', currentElement);
+            currentElement.parentNode.insertBefore(widthChecker, posCurrentElement);
+            widthCheckerStyle = getComputedStyle(widthChecker);
+
+            if (parseInt(widthCheckerStyle.width) >= (parseInt(content_pointerStyle.width) - 50)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+
+    initTargetToInsert(position, type, currentElement) {
+        let posCurrentElement;
+        let usedElement;
+        if (type == 'element') {
+            if (position == 0) {
+                posCurrentElement = currentElement;
+                if (!(typeof obligatoryMargin!=='undefined'&&obligatoryMargin===1)) {
+                    currentElement.classList.add('rfwp_removedMarginTop');
+                }
+            } else {
+                posCurrentElement = currentElement.nextSibling;
+                if (!(typeof obligatoryMargin!=='undefined'&&obligatoryMargin===1)) {
+                    currentElement.classList.add('rfwp_removedMarginBottom');
+                }
+            }
+            currentElement.style.clear = 'both';
+        } else {
+            usedElement = currentElement;
+            if (position == 0) {
+                posCurrentElement = usedElement;
+            } else {
+                posCurrentElement = usedElement.nextSibling;
+            }
+        }
+        return posCurrentElement;
+    }
+
+    createStyleElement(blockNumber, localElementCss) {
+        let htmlToAdd = '';
+        let marginString;
+        let textAlignString;
+        let contPois = document.querySelector('.content_pointer_class');
+        let emptyValues = false;
+        let elementToAddStyleLocal;
+
+        if (!contPois.length)
+            return false;
+
+        contPois.forEach((contPoi) => {
+            elementToAddStyleLocal = contPoi.querySelector('.blocks_align_style');
+
+            if (!elementToAddStyleLocal) {
+                elementToAddStyleLocal = document.createElement('style');
+                elementToAddStyleLocal.classList.add('blocks_align_style');
+                contPoi.parentNode.insertBefore(elementToAddStyleLocal, contPoi);
+            }
+        });
+
+
+
+        switch (localElementCss) {
+            case 'left':
+                emptyValues = false;
+                marginString = '0 auto 0 0';
+                textAlignString = 'left';
+                break;
+            case 'right':
+                emptyValues = false;
+                marginString = '0 0 0 auto';
+                textAlignString = 'right';
+                break;
+            case 'center':
+                emptyValues = false;
+                marginString = '0 auto';
+                textAlignString = 'center';
+                break;
+            case 'default':
+                emptyValues = true;
+                marginString = 'default';
+                textAlignString = 'default';
+                break;
+        }
+        if (!emptyValues) {
+            htmlToAdd = '.percentPointerClass  > *[data-id="'+blockNumber+'"] {\n' +
+                '    margin: '+marginString+';\n' +
+                '}\n';
+        }
+
+        elementToAddStyleLocal.innerHTML += htmlToAdd;
+        return textAlignString;
+    }
+
+    clearUnsuitableCache(cuc_cou) {
+        let scAdId = -1;
+        let ccRepeat = false;
+
+        let gatheredBlocks = document.querySelectorAll('.percentPointerClass .' + block_classes.join(', .percentPointerClass .'));
+
+        if (gatheredBlocks&&gatheredBlocks.length > 0) {
+            for (let i = 0; i < gatheredBlocks.length; i++) {
+                if (gatheredBlocks[i]['dataset']['aid']&&gatheredBlocks[i]['dataset']['aid'] < 0) {
+                    if ((gatheredBlocks[i]['dataset']["state"]=='no-block')||(['done','fetched','refresh-wait'].includes(gatheredBlocks[i]['dataset']["state"]))) {
+                        gatheredBlocks[i]['innerHTML'] = '';
+                    } else {
+                        ccRepeat = true;
+                    }
+                } else if (!gatheredBlocks[i]['dataset']['aid']) {
+                    ccRepeat = true;
+                }
+            }
+            if (cuc_cou < 50) {
+                if (ccRepeat) {
+                    let $this = this;
+                    setTimeout(function () {
+                        $this.clearUnsuitableCache(cuc_cou+1);
+                    }, 100);
+                }
+            } else {
+                endedCc = true;
+            }
+        } else {
+            endedCc = true;
+        }
+    }
+
+
+    excIdClUnpacker() {
+        let excArr = [],
+            cou = 0,
+            currExcStr = '',
+            curExcFirst = '';
+        excArr['id'] = [];
+        excArr['class'] = [];
+        excArr['tag'] = [];
+        if (excIdClass&&excIdClass.length > 0) {
+            while (excIdClass[cou]) {
+                currExcStr = excIdClass[cou];
+                if (currExcStr.length > 0) {
+                    curExcFirst = currExcStr.substring(0,1);
+                    switch (curExcFirst) {
+                        case '#':
+                            if (currExcStr.length > 1) {
+                                currExcStr = currExcStr.substring(1);
+                                excArr['id'].push(currExcStr);
+                            }
+                            break;
+                        case '.':
+                            if (currExcStr.length > 1) {
+                                currExcStr = currExcStr.substring(1);
+                                excArr['class'].push(currExcStr);
+                            }
+                            break;
+                        default:
+                            excArr['tag'].push(currExcStr);
+                            break;
+                    }
+                    cou++;
+                }
+            }
+        }
+        return excArr;
+    }
+
+    possibleTagsInCheckConfirmer(possibleTagsArray, possibleTagsInCheck) {
+        if (possibleTagsArray.includes("LI")) {
+            if (possibleTagsArray.includes("UL")) {
+                possibleTagsInCheck.push("UL");
+            }
+            if (possibleTagsArray.includes("OL")) {
+                possibleTagsInCheck.push("OL");
+            }
+        }
+
+        return false;
+    }
+
+    textLengthGatherer(lordOfElementsLoc) {
+        var possibleTagsArray;
+        if (typeof tagsListForTextLength!=="undefined") {
+            possibleTagsArray = tagsListForTextLength;
+        } else {
+            possibleTagsArray = ["P", "H1", "H2", "H3", "H4", "H5", "H6", "DIV", "BLOCKQUOTE", "INDEX", "ARTICLE", "SECTION"];
+        }
+        let possibleTagsInCheck = ["DIV", "INDEX", "SECTION"];
+
+        this.possibleTagsInCheckConfirmer(possibleTagsArray, possibleTagsInCheck);
+        let excArr = this.excIdClUnpacker(),
+            textLength = 0,
+            tlArray = [];
+
+        function textLengthGathererRec(lordOfElementsLoc) {
+            let allowed;
+            let cou1;
+            let classesArray;
+            let countSuccess = 0;
+            try {
+                for (let i = 0; i < lordOfElementsLoc.children.length; i++) {
+                    if (possibleTagsArray.includes(lordOfElementsLoc.children[i].tagName)
+                        &&!lordOfElementsLoc.children[i].classList.contains("percentPointerClass")
+                        &&lordOfElementsLoc.children[i].id!="toc_container"
+                    ) {
+                        if (possibleTagsInCheck.includes(lordOfElementsLoc.children[i].tagName)
+                            &&(lordOfElementsLoc.children[i].children.length > 0)
+                        ) {
+                            allowed = true;
+                            if (lordOfElementsLoc.children[i].id&&excArr['id'].length > 0) {
+                                cou1 = 0;
+                                while (excArr['id'][cou1]) {
+                                    if (lordOfElementsLoc.children[i].id.toLowerCase()==excArr['id'][cou1].toLowerCase()) {
+                                        allowed = false;
+                                        break;
+                                    }
+                                    cou1++;
+                                }
+                            }
+
+                            if (lordOfElementsLoc.children[i].classList.length > 0&&excArr['class'].length > 0) {
+                                cou1 = 0;
+                                while (excArr['class'][cou1]) {
+                                    classesArray = excArr['class'][cou1].split('.');
+                                    if (classesArray.every(className => lordOfElementsLoc.children[i].classList.contains(className))) {
+                                        allowed = false;
+                                        break;
+                                    }
+                                    cou1++;
+                                }
+                            }
+
+                            if (excArr['tag'].length > 0) {
+                                cou1 = 0;
+                                while (excArr['tag'][cou1]) {
+                                    if (lordOfElementsLoc.children[i].tagName.toLowerCase()==excArr['tag'][cou1].toLowerCase()) {
+                                        allowed = false;
+                                        break;
+                                    }
+                                    cou1++;
+                                }
+                            }
+
+                            if (allowed) {
+                                if (textLengthGathererRec(lordOfElementsLoc.children[i], excArr, possibleTagsArray, possibleTagsInCheck)) {
+                                    countSuccess++;
+                                    continue;
+                                }
+                            }
+                        }
+                        textLength = textLength + lordOfElementsLoc.children[i].innerText.length;
+                        tlArray.push({
+                            tag: lordOfElementsLoc.children[i].tagName,
+                            length: lordOfElementsLoc.children[i].innerText.length,
+                            lengthSum: textLength,
+                            element: lordOfElementsLoc.children[i]
+                        });
+                        countSuccess++;
+                    }
+                }
+            } catch (er) {
+                console.log(er.message);
+            }
+            return countSuccess > 0;
+        }
+
+        textLengthGathererRec(lordOfElementsLoc);
+
+        return {array: tlArray, length: textLength};
+    }
+};if (typeof window.jsInputerLaunch==='undefined') {window.jsInputerLaunch = -1;}
+
+function asyncInsertingsInsertingFunction(insertingsArray) {
+    let currentElementForInserting = 0;
+    let currentElementToMove = 0;
+    let positionElement = 0;
+    let position = 0;
+    let insertToAdd = 0;
+    let postId = 0;
+    let repeatSearch = 0;
+    if (insertingsArray&&insertingsArray.length > 0) {
+        for (let i = 0; i < insertingsArray.length; i++) {
+            if (!insertingsArray[i]['used']||(insertingsArray[i]['used']&&insertingsArray[i]['used']==0)) {
+                positionElement = insertingsArray[i]['position_element'];
+                position = insertingsArray[i]['position'];
+                insertToAdd = insertingsArray[i]['content'];
+                postId = insertingsArray[i]['postId'];
+
+                currentElementForInserting = document.querySelector(positionElement);
+
+                currentElementToMove = document.querySelector('.coveredInsertings[data-id="'+postId+'"]');
+                if (currentElementForInserting) {
+                    if (position==0) {
+                        currentElementForInserting.parentNode.insertBefore(currentElementToMove, currentElementForInserting);
+                        currentElementToMove.classList.remove('coveredInsertings');
+                        insertingsArray[i]['used'] = 1;
+                    } else {
+                        currentElementForInserting.parentNode.insertBefore(currentElementToMove, currentElementForInserting.nextSibling);
+                        currentElementToMove.classList.remove('coveredInsertings');
+                        insertingsArray[i]['used'] = 1;
+                    }
+                } else {
+                    repeatSearch = 1;
+                }
+            }
+        }
+    }
+    if (repeatSearch == 1) {
+        setTimeout(function () {
+            asyncInsertingsInsertingFunction(insertingsArray);
+        }, 100)
+    }
+}
+
+function insertingsFunctionLaunch() {
+    if (window.jsInsertingsLaunch !== undefined&&jsInsertingsLaunch == 25) {
+        asyncInsertingsInsertingFunction(insertingsArray);
+    } else {
+        setTimeout(function () {
+            insertingsFunctionLaunch();
+        }, 100)
+    }
+}
+
+function setLongCache() {
+    let xhttp = new XMLHttpRequest();
+    let sendData = 'action=setLongCache&type=longCatching&_csrf='+rb_csrf;
+    xhttp.onreadystatechange = function(redata) {
+        if (this.readyState == 4 && this.status == 200) {
+            console.log('long cache deployed');
+        }
+    };
+    xhttp.open("POST", rb_ajaxurl, true);
+    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhttp.send(sendData);
+}
+
+function cachePlacing(alert_type, errorInfo=null) {
+    let adBlocks = document.querySelectorAll('.percentPointerClass .' + block_classes.join(', .percentPointerClass .'));
+    let curAdBlock;
+    let okStates = ['done','refresh-wait','no-block','fetched'];
+    /* let adId = -1; */
+    let blockAid = null;
+    let blockId;
+
+    if (typeof cachedBlocksArray !== 'undefined'&&cachedBlocksArray&&cachedBlocksArray.length > 0&&adBlocks&&adBlocks.length > 0) {
+        for (let i = 0; i < adBlocks.length; i++) {
+            blockAid = adBlocks[i]['dataset']['aid'];
+
+            if (!blockAid) {
+                blockId = adBlocks[i]['dataset']['id'];
+                if (cachedBlocksArray[blockId]) {
+                    jQuery(adBlocks[i]).html(cachedBlocksArray[blockId]);
+                }
+            }
+        }
+    }
+
+    if (alert_type&&alert_type=='high') {
+        setLongCache();
+    }
+}
+
+function saveContentBlock(contentContainer) {
+    try {
+        if (!gather_content) {
+            console.log('content gather save function entered');
+            let xhttp = new XMLHttpRequest();
+            let sendData = 'action=RFWP_saveContentContainer&type=gatherContentBlock&data='+contentContainer+'&_csrf='+rb_csrf;
+            xhttp.onreadystatechange = function(redata) {
+                if (this.readyState == 4 && this.status == 200) {
+                    console.log('content gather succeed');
+                } else {
+                    console.log('content gather gone wrong');
+                }
+            };
+            xhttp.open("POST", rb_ajaxurl, true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send(sendData);
+        }
+    } catch (er) {
+        console.log('content gather error: '+er+';');
+    }
+}
+
+window.gatherContentBlock = function() {
+    let cPointers = null,
+        cPointer = null,
+        cPointerParent = null,
+        cPointerParentString = null,
+        cPointerParentStringItem = null,
+        classWords = ['content','entry','post','wrap','description','taxonomy'],
+        classChoosed = false;
+
+    cPointers = document.querySelectorAll('.content_pointer_class');
+    if (cPointers.length > 0) {
+        for (let i = 0; i < cPointers.length; i++) {
+            cPointer = cPointers[i];
+
+            cPointerParentStringItem = null;
+            if (window.jsInputerLaunch!==15) {
+                return false;
+            }
+            cPointerParent = cPointer.parentElement;
+            if (cPointerParent) {
+                if (cPointerParent.classList.length > 0) {
+                    cPointerParentStringItem = cPointerParent.tagName.toLowerCase() + '.' + cPointerParent.classList[0];
+                    for (let j = 0; j < classWords.length; j++) {
+                        for (let i = 0; i < cPointerParent.classList.length; i++) {
+                            if (cPointerParent.classList[i].includes(classWords[j])) {
+                                cPointerParentStringItem = cPointerParent.tagName.toLowerCase() + '.'+cPointerParent.classList[i];
+                                classChoosed = true;
+                                break;
+                            }
+                        }
+                        if (classChoosed===true) {
+                            break;
+                        }
+                    }
+
+                    if (classChoosed===true) {
+                        cPointerParentString = cPointerParentStringItem;
+                        break;
+                    }
+                }
+                if (cPointerParentStringItem && (!cPointerParentString || cPointerParentString !== cPointerParentStringItem)) {
+                    cPointerParentString = cPointerParentStringItem;
+                }
+            }
+        }
+
+        if (cPointerParentString) {
+            console.log('content gather content block detected');
+            saveContentBlock(cPointerParentString);
+        }
+    } else {
+        console.log('content gather delayed');
+        setTimeout(function () {
+            gatherContentBlock();
+        }, 500);
+    }
+};
+
+window.removeMarginClass = function(blockObject) {
+    if (blockObject && typeof window.jsInputerLaunch !== 'undefined' && [15, 10].includes(window.jsInputerLaunch)) {
+        let binderName,
+            neededElement,
+            currentDirection,
+            seekerIterationCount,
+            currentSubling;
+
+        binderName = blockObject.dataset.rbinder;
+        if (binderName) {
+            seekerIterationCount = 0;
+            currentDirection = 'before';
+            do {
+                seekerIterationCount++;
+                currentSubling = blockObject.nextElementSibling;
+                if (currentSubling&&currentSubling.classList.contains('rbinder-'+binderName)) {
+                    neededElement = currentSubling;
+                }
+            } while (currentSubling&&!neededElement&&seekerIterationCount < 5);
+
+            if (!neededElement) {
+                seekerIterationCount = 0;
+                currentDirection = 'after';
+                do {
+                    seekerIterationCount++;
+                    currentSubling = blockObject.previousElementSibling;
+                    if (currentSubling&&currentSubling.classList.contains('rbinder-'+binderName)) {
+                        neededElement = currentSubling;
+                    }
+                } while (currentSubling&&!neededElement&&seekerIterationCount < 5);
+            }
+            if (neededElement) {
+                if (currentDirection === 'before') {
+                    neededElement.classList.remove('rfwp_removedMarginTop');
+                } else {
+                    neededElement.classList.remove('rfwp_removedMarginBottom');
+                }
+            }
+        }
+    }
+
+    return false;
+};
+</script>
+<script>
+if (typeof rb_ajaxurl==='undefined') {var rb_ajaxurl = 'https://izuminki.com/wp-admin/admin-ajax.php';}
+if (typeof rb_csrf==='undefined') {var rb_csrf = '9bf2443fb5';}
+if (typeof cache_devices==='undefined') {var cache_devices = false;}
+var nReadyBlock = false;
+var fetchedCounter = 0;
+
+function sendReadyBlocksNew(blocks) {
+    if (!cache_devices) {
+        let xhttp = new XMLHttpRequest();
+        let sendData = 'action=saveAdBlocks&type=blocksGethering&data='+blocks+'&_csrf='+rb_csrf;
+        xhttp.onreadystatechange = function(redata) {
+            if (this.readyState == 4 && this.status == 200) {
+                console.log('cache succeed');
+            }
+        };
+        xhttp.open("POST", rb_ajaxurl, true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(sendData);
+    }
+}
+
+function gatherReadyBlocks() {
+    if (block_classes && block_classes.length) {
+        let blocks = {};
+        let counter1 = 0;
+        let gatheredBlocks = document.querySelectorAll('.' + block_classes.join(', .'));
+        let checker = 0;
+        let adContent = '';
+        let curState = '';
+        let thisData = [];
+        let sumData = [];
+        let newBlocks = '';
+        let thisDataString = '';
+
+        if (gatheredBlocks.length > 0) {
+            blocks.data = {};
+
+            for (let i = 0; i < gatheredBlocks.length; i++) {
+                curState = gatheredBlocks[i]['dataset']["state"].toLowerCase();
+                checker = 0;
+                if (curState&&gatheredBlocks[i]['innerHTML'].length > 0&&gatheredBlocks[i]['dataset']['aid'] > 0&&curState!='no-block') {
+                    if (gatheredBlocks[i]['innerHTML'].length > 0) {
+                        checker = 1;
+                    }
+                    if (checker==1) {
+                        blocks.data[counter1] = {id:gatheredBlocks[i]['dataset']['id'],code:gatheredBlocks[i]['dataset']['aid']};
+                        counter1++;
+                    }
+                }
+            }
+
+            blocks = JSON.stringify(blocks);
+            sendReadyBlocksNew(blocks);
+        }
+    } else nReadyBlock = true;
+}
+
+function timeBeforeGathering() {
+    if (block_classes && block_classes.length > 0)
+    {
+        let gatheredBlocks = document.querySelectorAll('.' + block_classes.join(', .'));
+        let okStates = ['done','refresh-wait','no-block','fetched'];
+        let curState = '';
+
+        for (let i = 0; i < gatheredBlocks.length; i++) {
+            if (!gatheredBlocks[i]['dataset']["state"]) {
+                nReadyBlock = true;
+                break;
+            } else {
+                curState = gatheredBlocks[i]['dataset']["state"].toLowerCase();
+                if (!okStates.includes(curState)) {
+                    nReadyBlock = true;
+                    break;
+                } else if (curState=='fetched'&&fetchedCounter < 3) {
+                    fetchedCounter++;
+                    nReadyBlock = true;
+                    break;
+                }
+            }
+        }
+    }
+    else nReadyBlock = true;
+
+    if (nReadyBlock == true) {
+        nReadyBlock = false;
+        setTimeout(timeBeforeGathering,2000);
+    } else {
+        gatherReadyBlocks();
+    }
+}
+
+function launchTimeBeforeGathering() {
+    if (document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
+        timeBeforeGathering();
+    } else {
+        setTimeout(launchTimeBeforeGathering,100);
+    }
+}
+launchTimeBeforeGathering();
+
+</script>
+<script type="text/javascript" id="wpo_min-footer-0-js-extra">
+/* <![CDATA[ */
+var settings_array = {"rating_text_average":"\u0441\u0440\u0435\u0434\u043d\u0435\u0435","rating_text_from":"\u0438\u0437","lightbox_display":"","sidebar_fixed":"1"};
+var wps_ajax = {"url":"https:\/\/izuminki.com\/wp-admin\/admin-ajax.php","nonce":"219a206cb4"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://izuminki.com/wp-content/cache/wpo-minify/1737389436/assets/wpo-minify-footer-6f7907d1.min.js" id="wpo_min-footer-0-js"></script>
+
+
+
+</body>
+</html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: 21.04.2025 00:35 (UTC:3) -->

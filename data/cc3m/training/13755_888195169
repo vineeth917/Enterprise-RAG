@@ -1,0 +1,562 @@
+
+<!doctype html>
+
+  <html class="no-js"  lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+
+	<head>
+  
+		<meta charset="utf-8">
+		
+		<!-- Force IE to use the latest rendering engine available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- If Site Icon isn't set in customizer -->
+		
+          <link rel="icon" href="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/favicon.ico" sizes="any"><!-- 32×32 -->
+      <link rel="icon" href="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/icon.svg" type="image/svg+xml">
+      <link rel="apple-touch-icon" href="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/apple-touch-icon.png"><!-- 180×180 -->
+    
+		<title>K-12 Education</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//www.birds.cornell.edu' />
+<link rel="alternate" type="application/rss+xml" title="K-12 Education &raquo; Feed" href="https://www.birds.cornell.edu/k12/feed/" />
+<link rel="alternate" type="application/rss+xml" title="K-12 Education &raquo; Comments Feed" href="https://www.birds.cornell.edu/k12/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.birds.cornell.edu/k12/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: var(--white);--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--warm-black: var(--warm-black);--wp--preset--color--black-tint-1: var(--black-tint-1);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}.wp-block-button .wp-block-button__link{--wp--preset--color--warm-black: var(--warm-black);--wp--preset--color--white: var(--white);--wp--preset--color--red: var(--red-shade);--wp--preset--color--forest-green: var(--forest-green);--wp--preset--color--ocean-blue: var(--ocean-blue);--wp--preset--color--gold: var(--gold);--wp--preset--color--chartreuse: var(--chartreuse);--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.25rem;--wp--preset--font-size--large: 1.375rem;}.wp-block-pullquote{--wp--preset--font-size--xsmall: 1.125rem;--wp--preset--font-size--small: 1.25rem;--wp--preset--font-size--medium: 1.5rem;--wp--preset--font-size--large: 2rem;}.wp-block-group{--wp--preset--color--warm-black: var(--warm-black);--wp--preset--color--black-tint-1: var(--black-tint-1);--wp--preset--color--white: #FFFFFF;--wp--preset--color--sand: var(--sand);--wp--preset--color--sand-shade: var(--sand-shade);--wp--preset--color--sand-neutral: var(--sand-neutral);--wp--preset--color--sand-neutral-shade-1: var(--sand-neutral-shade-1);--wp--preset--color--sand-neutral-shade-2: var(--sand-neutral-shade-2);--wp--preset--color--sand-neutral-tint: var(--sand-neutral-tint);--wp--preset--color--sky-blue: var(--sky-blue);--wp--preset--color--sky-blue-tint-1: var(--sky-blue-tint-1);--wp--preset--color--sky-blue-neutral: var(--sky-blue-neutral);--wp--preset--color--sky-blue-neutral-shade-1: var(--sky-blue-neutral-shade-1);--wp--preset--color--sky-blue-neutral-shade-2: var(--sky-blue-neutral-shade-2);--wp--preset--color--sky-blue-neutral-tint: var(--sky-blue-neutral-tint);--wp--preset--color--ocean-blue: var(--ocean-blue);--wp--preset--color--ocean-blue-tint-2: var(--ocean-blue-tint-2);--wp--preset--color--forest-green: var(--forest-green);--wp--preset--color--forest-green-tint-2: var(--forest-green-tint-2);--wp--preset--color--gold: var(--gold);--wp--preset--color--gold-tint-1: var(--gold-tint-1);--wp--preset--color--gold-tint-2: var(--gold-tint-2);--wp--preset--color--chartreuse: var(--chartreuse);--wp--preset--color--chartreuse-tint-1: var(--chartreuse-tint-1);--wp--preset--color--chartreuse-tint-2: var(--chartreuse-tint-2);}.wp-block-heading{--wp--preset--font-size--small: S;--wp--preset--font-size--medium: M;--wp--preset--font-size--large: L;--wp--preset--font-size--xlarge: XL;--wp--preset--font-size--xxlarge: XXL;--wp--preset--font-family--sans: 'canada-type-gibson' ,sans-serif;--wp--preset--font-family--serif: 'SuisseWorks', serif;}.wp-block-list{--wp--preset--font-size--small: .875rem;--wp--preset--font-size--medium: 1rem;--wp--preset--font-size--large: 1.25rem;--wp--preset--font-size--xlarge: 1.5rem;--wp--preset--font-size--xxlarge: 2rem;--wp--preset--font-size--xxxlarge: 2.5rem;--wp--preset--font-family--sans: var(--font-sans);--wp--preset--font-family--serif: var(--font-serif);}p{--wp--preset--font-size--small: .875rem;--wp--preset--font-size--medium: 1rem;--wp--preset--font-size--large: 1.25rem;--wp--preset--font-size--xlarge: 1.5rem;--wp--preset--font-size--xxlarge: 2rem;--wp--preset--font-size--xxxlarge: 2.5rem;--wp--preset--font-family--sans: var(--font-sans);--wp--preset--font-family--serif: var(--font-serif);}.wp-block-quote{--wp--preset--font-size--small: 1.25rem;--wp--preset--font-size--medium: 1.5rem;--wp--preset--font-size--large: 1.75rem;}:root { --wp--style--global--content-size: 100%;--wp--style--global--wide-size: 75rem; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-warm-black-color{color: var(--wp--preset--color--warm-black) !important;}.has-black-tint-1-color{color: var(--wp--preset--color--black-tint-1) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-warm-black-background-color{background-color: var(--wp--preset--color--warm-black) !important;}.has-black-tint-1-background-color{background-color: var(--wp--preset--color--black-tint-1) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-warm-black-border-color{border-color: var(--wp--preset--color--warm-black) !important;}.has-black-tint-1-border-color{border-color: var(--wp--preset--color--black-tint-1) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.wp-block-button .wp-block-button__link.has-warm-black-color{color: var(--wp--preset--color--warm-black) !important;}.wp-block-button .wp-block-button__link.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-button .wp-block-button__link.has-red-color{color: var(--wp--preset--color--red) !important;}.wp-block-button .wp-block-button__link.has-forest-green-color{color: var(--wp--preset--color--forest-green) !important;}.wp-block-button .wp-block-button__link.has-ocean-blue-color{color: var(--wp--preset--color--ocean-blue) !important;}.wp-block-button .wp-block-button__link.has-gold-color{color: var(--wp--preset--color--gold) !important;}.wp-block-button .wp-block-button__link.has-chartreuse-color{color: var(--wp--preset--color--chartreuse) !important;}.wp-block-button .wp-block-button__link.has-warm-black-background-color{background-color: var(--wp--preset--color--warm-black) !important;}.wp-block-button .wp-block-button__link.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-button .wp-block-button__link.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.wp-block-button .wp-block-button__link.has-forest-green-background-color{background-color: var(--wp--preset--color--forest-green) !important;}.wp-block-button .wp-block-button__link.has-ocean-blue-background-color{background-color: var(--wp--preset--color--ocean-blue) !important;}.wp-block-button .wp-block-button__link.has-gold-background-color{background-color: var(--wp--preset--color--gold) !important;}.wp-block-button .wp-block-button__link.has-chartreuse-background-color{background-color: var(--wp--preset--color--chartreuse) !important;}.wp-block-button .wp-block-button__link.has-warm-black-border-color{border-color: var(--wp--preset--color--warm-black) !important;}.wp-block-button .wp-block-button__link.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.wp-block-button .wp-block-button__link.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.wp-block-button .wp-block-button__link.has-forest-green-border-color{border-color: var(--wp--preset--color--forest-green) !important;}.wp-block-button .wp-block-button__link.has-ocean-blue-border-color{border-color: var(--wp--preset--color--ocean-blue) !important;}.wp-block-button .wp-block-button__link.has-gold-border-color{border-color: var(--wp--preset--color--gold) !important;}.wp-block-button .wp-block-button__link.has-chartreuse-border-color{border-color: var(--wp--preset--color--chartreuse) !important;}.wp-block-button .wp-block-button__link.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.wp-block-button .wp-block-button__link.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.wp-block-button .wp-block-button__link.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.wp-block-pullquote.has-xsmall-font-size{font-size: var(--wp--preset--font-size--xsmall) !important;}.wp-block-pullquote.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.wp-block-pullquote.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.wp-block-pullquote.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.wp-block-group.has-warm-black-color{color: var(--wp--preset--color--warm-black) !important;}.wp-block-group.has-black-tint-1-color{color: var(--wp--preset--color--black-tint-1) !important;}.wp-block-group.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-group.has-sand-color{color: var(--wp--preset--color--sand) !important;}.wp-block-group.has-sand-shade-color{color: var(--wp--preset--color--sand-shade) !important;}.wp-block-group.has-sand-neutral-color{color: var(--wp--preset--color--sand-neutral) !important;}.wp-block-group.has-sand-neutral-shade-1-color{color: var(--wp--preset--color--sand-neutral-shade-1) !important;}.wp-block-group.has-sand-neutral-shade-2-color{color: var(--wp--preset--color--sand-neutral-shade-2) !important;}.wp-block-group.has-sand-neutral-tint-color{color: var(--wp--preset--color--sand-neutral-tint) !important;}.wp-block-group.has-sky-blue-color{color: var(--wp--preset--color--sky-blue) !important;}.wp-block-group.has-sky-blue-tint-1-color{color: var(--wp--preset--color--sky-blue-tint-1) !important;}.wp-block-group.has-sky-blue-neutral-color{color: var(--wp--preset--color--sky-blue-neutral) !important;}.wp-block-group.has-sky-blue-neutral-shade-1-color{color: var(--wp--preset--color--sky-blue-neutral-shade-1) !important;}.wp-block-group.has-sky-blue-neutral-shade-2-color{color: var(--wp--preset--color--sky-blue-neutral-shade-2) !important;}.wp-block-group.has-sky-blue-neutral-tint-color{color: var(--wp--preset--color--sky-blue-neutral-tint) !important;}.wp-block-group.has-ocean-blue-color{color: var(--wp--preset--color--ocean-blue) !important;}.wp-block-group.has-ocean-blue-tint-2-color{color: var(--wp--preset--color--ocean-blue-tint-2) !important;}.wp-block-group.has-forest-green-color{color: var(--wp--preset--color--forest-green) !important;}.wp-block-group.has-forest-green-tint-2-color{color: var(--wp--preset--color--forest-green-tint-2) !important;}.wp-block-group.has-gold-color{color: var(--wp--preset--color--gold) !important;}.wp-block-group.has-gold-tint-1-color{color: var(--wp--preset--color--gold-tint-1) !important;}.wp-block-group.has-gold-tint-2-color{color: var(--wp--preset--color--gold-tint-2) !important;}.wp-block-group.has-chartreuse-color{color: var(--wp--preset--color--chartreuse) !important;}.wp-block-group.has-chartreuse-tint-1-color{color: var(--wp--preset--color--chartreuse-tint-1) !important;}.wp-block-group.has-chartreuse-tint-2-color{color: var(--wp--preset--color--chartreuse-tint-2) !important;}.wp-block-group.has-warm-black-background-color{background-color: var(--wp--preset--color--warm-black) !important;}.wp-block-group.has-black-tint-1-background-color{background-color: var(--wp--preset--color--black-tint-1) !important;}.wp-block-group.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-group.has-sand-background-color{background-color: var(--wp--preset--color--sand) !important;}.wp-block-group.has-sand-shade-background-color{background-color: var(--wp--preset--color--sand-shade) !important;}.wp-block-group.has-sand-neutral-background-color{background-color: var(--wp--preset--color--sand-neutral) !important;}.wp-block-group.has-sand-neutral-shade-1-background-color{background-color: var(--wp--preset--color--sand-neutral-shade-1) !important;}.wp-block-group.has-sand-neutral-shade-2-background-color{background-color: var(--wp--preset--color--sand-neutral-shade-2) !important;}.wp-block-group.has-sand-neutral-tint-background-color{background-color: var(--wp--preset--color--sand-neutral-tint) !important;}.wp-block-group.has-sky-blue-background-color{background-color: var(--wp--preset--color--sky-blue) !important;}.wp-block-group.has-sky-blue-tint-1-background-color{background-color: var(--wp--preset--color--sky-blue-tint-1) !important;}.wp-block-group.has-sky-blue-neutral-background-color{background-color: var(--wp--preset--color--sky-blue-neutral) !important;}.wp-block-group.has-sky-blue-neutral-shade-1-background-color{background-color: var(--wp--preset--color--sky-blue-neutral-shade-1) !important;}.wp-block-group.has-sky-blue-neutral-shade-2-background-color{background-color: var(--wp--preset--color--sky-blue-neutral-shade-2) !important;}.wp-block-group.has-sky-blue-neutral-tint-background-color{background-color: var(--wp--preset--color--sky-blue-neutral-tint) !important;}.wp-block-group.has-ocean-blue-background-color{background-color: var(--wp--preset--color--ocean-blue) !important;}.wp-block-group.has-ocean-blue-tint-2-background-color{background-color: var(--wp--preset--color--ocean-blue-tint-2) !important;}.wp-block-group.has-forest-green-background-color{background-color: var(--wp--preset--color--forest-green) !important;}.wp-block-group.has-forest-green-tint-2-background-color{background-color: var(--wp--preset--color--forest-green-tint-2) !important;}.wp-block-group.has-gold-background-color{background-color: var(--wp--preset--color--gold) !important;}.wp-block-group.has-gold-tint-1-background-color{background-color: var(--wp--preset--color--gold-tint-1) !important;}.wp-block-group.has-gold-tint-2-background-color{background-color: var(--wp--preset--color--gold-tint-2) !important;}.wp-block-group.has-chartreuse-background-color{background-color: var(--wp--preset--color--chartreuse) !important;}.wp-block-group.has-chartreuse-tint-1-background-color{background-color: var(--wp--preset--color--chartreuse-tint-1) !important;}.wp-block-group.has-chartreuse-tint-2-background-color{background-color: var(--wp--preset--color--chartreuse-tint-2) !important;}.wp-block-group.has-warm-black-border-color{border-color: var(--wp--preset--color--warm-black) !important;}.wp-block-group.has-black-tint-1-border-color{border-color: var(--wp--preset--color--black-tint-1) !important;}.wp-block-group.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.wp-block-group.has-sand-border-color{border-color: var(--wp--preset--color--sand) !important;}.wp-block-group.has-sand-shade-border-color{border-color: var(--wp--preset--color--sand-shade) !important;}.wp-block-group.has-sand-neutral-border-color{border-color: var(--wp--preset--color--sand-neutral) !important;}.wp-block-group.has-sand-neutral-shade-1-border-color{border-color: var(--wp--preset--color--sand-neutral-shade-1) !important;}.wp-block-group.has-sand-neutral-shade-2-border-color{border-color: var(--wp--preset--color--sand-neutral-shade-2) !important;}.wp-block-group.has-sand-neutral-tint-border-color{border-color: var(--wp--preset--color--sand-neutral-tint) !important;}.wp-block-group.has-sky-blue-border-color{border-color: var(--wp--preset--color--sky-blue) !important;}.wp-block-group.has-sky-blue-tint-1-border-color{border-color: var(--wp--preset--color--sky-blue-tint-1) !important;}.wp-block-group.has-sky-blue-neutral-border-color{border-color: var(--wp--preset--color--sky-blue-neutral) !important;}.wp-block-group.has-sky-blue-neutral-shade-1-border-color{border-color: var(--wp--preset--color--sky-blue-neutral-shade-1) !important;}.wp-block-group.has-sky-blue-neutral-shade-2-border-color{border-color: var(--wp--preset--color--sky-blue-neutral-shade-2) !important;}.wp-block-group.has-sky-blue-neutral-tint-border-color{border-color: var(--wp--preset--color--sky-blue-neutral-tint) !important;}.wp-block-group.has-ocean-blue-border-color{border-color: var(--wp--preset--color--ocean-blue) !important;}.wp-block-group.has-ocean-blue-tint-2-border-color{border-color: var(--wp--preset--color--ocean-blue-tint-2) !important;}.wp-block-group.has-forest-green-border-color{border-color: var(--wp--preset--color--forest-green) !important;}.wp-block-group.has-forest-green-tint-2-border-color{border-color: var(--wp--preset--color--forest-green-tint-2) !important;}.wp-block-group.has-gold-border-color{border-color: var(--wp--preset--color--gold) !important;}.wp-block-group.has-gold-tint-1-border-color{border-color: var(--wp--preset--color--gold-tint-1) !important;}.wp-block-group.has-gold-tint-2-border-color{border-color: var(--wp--preset--color--gold-tint-2) !important;}.wp-block-group.has-chartreuse-border-color{border-color: var(--wp--preset--color--chartreuse) !important;}.wp-block-group.has-chartreuse-tint-1-border-color{border-color: var(--wp--preset--color--chartreuse-tint-1) !important;}.wp-block-group.has-chartreuse-tint-2-border-color{border-color: var(--wp--preset--color--chartreuse-tint-2) !important;}.wp-block-heading.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.wp-block-heading.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.wp-block-heading.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.wp-block-heading.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.wp-block-heading.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}.wp-block-heading.has-sans-font-family{font-family: var(--wp--preset--font-family--sans) !important;}.wp-block-heading.has-serif-font-family{font-family: var(--wp--preset--font-family--serif) !important;}.wp-block-list.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.wp-block-list.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.wp-block-list.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.wp-block-list.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.wp-block-list.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}.wp-block-list.has-xxxlarge-font-size{font-size: var(--wp--preset--font-size--xxxlarge) !important;}.wp-block-list.has-sans-font-family{font-family: var(--wp--preset--font-family--sans) !important;}.wp-block-list.has-serif-font-family{font-family: var(--wp--preset--font-family--serif) !important;}p.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}p.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}p.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}p.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}p.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}p.has-xxxlarge-font-size{font-size: var(--wp--preset--font-size--xxxlarge) !important;}p.has-sans-font-family{font-family: var(--wp--preset--font-family--sans) !important;}p.has-serif-font-family{font-family: var(--wp--preset--font-family--serif) !important;}.wp-block-quote.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.wp-block-quote.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.wp-block-quote.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}
+:root :where(.wp-block-button .wp-block-button__link){border-color: var(--red-shade);border-style: solid;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.birds.cornell.edu/k12/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-form-css-css' href='https://www.birds.cornell.edu/k12/wp-content/plugins/mailchimp-sync/assets/form.css?ver=20140212' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-site-css-css' href='https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/styles/style.css?ver=1743598260' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.birds.cornell.edu/k12/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.birds.cornell.edu/k12/wp-json/wp/v2/pages/5" /><link rel="canonical" href="https://www.birds.cornell.edu/k12/" />
+<link rel='shortlink' href='https://www.birds.cornell.edu/k12/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.birds.cornell.edu/k12/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.birds.cornell.edu%2Fk12%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.birds.cornell.edu/k12/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.birds.cornell.edu%2Fk12%2F&#038;format=xml" />
+<meta name="p:domain_verify" content="f710c71ce27763a0c94002e98d9feb8c"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P7854M');</script>
+<!-- End Google Tag Manager -->		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		
+<!-- START - Open Graph and Twitter Card Tags 3.3.5 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="K-12 Education"/>
+  <meta property="og:title" content="K-12 Education Home"/>
+  <meta property="og:url" content="https://www.birds.cornell.edu/k12"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Attend Our 2025 Summer Educator Retreat
+
+
+
+
+Join us from July 15-17 at the Cornell Lab of Ornithology in Ithaca, NY for a wonderful experience. Learn about birds and participatory science, network with educators from around the country, and explore the outdoors. 
+
+
+
+
+Register for the Retreat"/>
+  <meta property="og:image" content="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/Group_of_Students_Banner-e1624984298644.jpg"/>
+  <meta property="og:image:url" content="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/Group_of_Students_Banner-e1624984298644.jpg"/>
+  <meta property="og:image:secure_url" content="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/Group_of_Students_Banner-e1624984298644.jpg"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="K-12 Education Home"/>
+  <meta itemprop="headline" content="K-12 Education Home"/>
+  <meta itemprop="description" content="Attend Our 2025 Summer Educator Retreat
+
+
+
+
+Join us from July 15-17 at the Cornell Lab of Ornithology in Ithaca, NY for a wonderful experience. Learn about birds and participatory science, network with educators from around the country, and explore the outdoors. 
+
+
+
+
+Register for the Retreat"/>
+  <meta itemprop="image" content="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/Group_of_Students_Banner-e1624984298644.jpg"/>
+  <meta itemprop="author" content="starter_admin"/>
+  <!--<meta itemprop="publisher" content="K-12 Education"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="K-12 Education Home"/>
+  <meta name="twitter:url" content="https://www.birds.cornell.edu/k12"/>
+  <meta name="twitter:description" content="Attend Our 2025 Summer Educator Retreat
+
+
+
+
+Join us from July 15-17 at the Cornell Lab of Ornithology in Ithaca, NY for a wonderful experience. Learn about birds and participatory science, network with educators from around the country, and explore the outdoors. 
+
+
+
+
+Register for the Retreat"/>
+  <meta name="twitter:image" content="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/Group_of_Students_Banner-e1624984298644.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 3.3.5 -->
+	
+
+  </head>
+  
+  			
+	<body class="home page-template-default page page-id-5 wp-embed-responsive theme-orange nav-stacked has-hero">
+
+  
+  <header id="main-nav-header">
+    <a href="#main-content" class="skip-main" id="skip-main">Skip to Content Area</a>
+    <div id="header-wrapper">
+
+      
+      <div class="tiny-bar hide-for-scroll hide-for-print grid-container show-for-medium">
+        <div class="top-bar align-right">
+
+                  
+              <nav class="navbar navbar-default align-middle align-right" aria-label="Task-oriented">
+                <ul class="topbar-nav menu row"><li class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/enews-signup/">Get eNews</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/contact-us/">Contact Us</a></li>
+</ul> 
+              </nav>
+
+        </div><!-- .top-bar -->
+      </div><!-- .tiny-bar -->
+    
+      <div class="website-header-container grid-container">
+        <div class="header-content main-nav nav-stacked logo-stacked product">
+
+                    <div class="website-identity">
+
+                              <div class="lab-logo">
+                                            <a href="https://www.birds.cornell.edu/k12/" rel="parent" title="Return Home">
+                                                                        <img data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2023/12/clo_k12_stacked.svg" alt="Cornell Lab | K-12 Education" class="hide-for-scroll show-for-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                          <img data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2023/12/clo_k12_short.svg" alt="Cornell Lab | K-12 Education" class="show-for-scroll hide-for-small lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                          <img data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2023/12/clo_k12_short.svg" alt="Cornell Lab | K-12 Education" class="hide-for-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                                                  </a>
+                                      </div>
+                              
+
+              
+          </div><!-- .website-identity -->          
+          
+  <!-- Main navigation -->
+  <div class="cell website-nav-container large-12 small-12">
+    
+    <nav class="grid-x website-nav hide-for-print" aria-label="Primary">
+      <div id="primary-nav-container">
+        <ul id="primary-nav" class="dropdown menu"><li id="nav-menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a target="_self" href="https://www.birds.cornell.edu/k12/setup/" class="menu-link main-menu-link">About Us</a><button aria-haspopup="true" aria-label="Show submenu for About Us"><span class="fa fa-chevron-down" aria-hidden="true"></span></button>
+<ul class="sub-menu hidden menu-odd  menu-depth-1" aria-hidden="true">
+	<li id="nav-menu-item-1926" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/contact-us/" class="menu-link sub-menu-link">Contact Us</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a target="_self" href="https://www.birds.cornell.edu/k12/get-started/" class="menu-link main-menu-link">Lessons &#038; Activities</a><button aria-haspopup="true" aria-label="Show submenu for Lessons &#038; Activities"><span class="fa fa-chevron-down" aria-hidden="true"></span></button>
+<ul class="sub-menu hidden menu-odd  menu-depth-1" aria-hidden="true">
+	<li id="nav-menu-item-1106" class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/k-2-resources/" class="menu-link sub-menu-link">Grades K-2</a></li>
+	<li id="nav-menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/3-5-resources/" class="menu-link sub-menu-link">Grades 3-5</a></li>
+	<li id="nav-menu-item-1272" class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/6-8-resources/" class="menu-link sub-menu-link">Grades 6-8</a></li>
+	<li id="nav-menu-item-1271" class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/9-12-resources/" class="menu-link sub-menu-link">Grades 9-12</a></li>
+	<li id="nav-menu-item-7872" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/international/" class="menu-link sub-menu-link">International</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a target="_self" href="https://www.birds.cornell.edu/k12/professional-development/" class="menu-link main-menu-link">Professional Development</a><button aria-haspopup="true" aria-label="Show submenu for Professional Development"><span class="fa fa-chevron-down" aria-hidden="true"></span></button>
+<ul class="sub-menu hidden menu-odd  menu-depth-1" aria-hidden="true">
+	<li id="nav-menu-item-6739" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/workshops-retreats/" class="menu-link sub-menu-link">Workshops &#038; Retreats</a></li>
+	<li id="nav-menu-item-4474" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/webinars-2/" class="menu-link sub-menu-link">Webinars</a></li>
+	<li id="nav-menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/courses-and-ceu/" class="menu-link sub-menu-link">Online Courses</a></li>
+	<li id="nav-menu-item-7246" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/district-training/" class="menu-link sub-menu-link">Request a Training</a></li>
+	<li id="nav-menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/credit-options/" class="menu-link sub-menu-link">Credit Options</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-4378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a target="_self" href="https://www.birds.cornell.edu/k12/parents/" class="menu-link main-menu-link">Parents</a><button aria-haspopup="true" aria-label="Show submenu for Parents"><span class="fa fa-chevron-down" aria-hidden="true"></span></button>
+<ul class="sub-menu hidden menu-odd  menu-depth-1" aria-hidden="true">
+	<li id="nav-menu-item-9916" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/a-wondergrove-for-birds/" class="menu-link sub-menu-link">A WonderGrove for Birds</a></li>
+	<li id="nav-menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/science-nature-activities-for-cooped-up-kids/" class="menu-link sub-menu-link">Science &#038; Nature Activities for Cooped Up Kids</a></li>
+	<li id="nav-menu-item-4441" class="menu-item menu-item-type-post_type menu-item-object-post"><a target="_self" href="https://www.birds.cornell.edu/k12/quests/" class="menu-link sub-menu-link">Nature Quests for Families</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-1343" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_self" href="https://www.birds.cornell.edu/k12/nasco-science-kits/" class="menu-link main-menu-link">Shop</a></li>
+</ul><ul class="topbar-nav menu row"><li class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/enews-signup/">Get eNews</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_self" href="https://www.birds.cornell.edu/k12/contact-us/">Contact Us</a></li>
+</ul>      </div>
+      
+              <button class="cell flex-child-shrink search-toggle" data-open="search-modal" aria-label="Open the Search Modal">
+          <span class="search-icon" aria-hidden="true"></span> 
+          <span class="show-for-medium search-label hide-for-scroll">Search</span>
+        </button>
+          </nav>
+  </div><!-- .website-nav-container -->
+                      <div class="menu-toggle" data-responsive-toggle="primary-nav-container"  data-hide-for="medium">
+              <button class="menu-icon" type="button" data-toggle="primary-nav-container"><span class="title-bar-title sr-only">Menu</span></button>
+            </div>
+          
+        </div><!-- .header-content -->
+
+        
+      </div><!-- .grid-container -->
+
+      
+
+    </div><!-- header-.wrapper -->
+  </header>
+  <main id="main-content" class="page has-hero has-social">
+
+    
+      
+
+<article id="article" class="post-5 page type-page status-publish hentry">
+            
+  
+  <header id="hero-wrapper" class="textured-glass left">
+
+    
+    <div id="hero-content-container" class="hero-container">
+              <div class="hero-text">
+          <div class="hero-text-container">
+              <h1>K-12 Materials and Professional Development for Educators</h1><p>“<em>Students who are given the chance to discover the wonders of nature gain a better appreciation of life.</em>“—Elementary Teacher</p>            </div><!-- .hero-text-container-->
+          </div><!-- .hero-text-->
+                  </div><!-- .hero-container -->
+          <div class="hero-background article-header hide-for-print media-image-rotate mobile-stack lazyload" style="background-image:inherit" data-bg-image="url(&#039;https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20736721416_178a192ca1_o-e1538060118912.jpg&#039;)">
+    
+      
+    </div><!-- .hero-background-->
+
+    
+  </header> <!-- .#hero-wrapper -->
+
+  	
+    <div class="content-container page-wide" data-sticky-container>
+      
+          <!-- Social Share Toolbox -->
+      
+      
+                  
+        <section id="content" class="content" aria-label="Main content">
+ 
+      
+<div class="wp-block-group alignwide is-layout-flow wp-block-group-is-layout-flow"><div class="article-list card-display card-three "><ul><li class="article-item"><div class="article-item-container"><div class="article-item-media content-article" data-link-to="https://www.birds.cornell.edu/k12/nature-connection/"><figure class="article-item-media-ratio"><img decoding="async" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/14258972240_e9790463f7_o-e1540815668527.jpg" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/14258972240_e9790463f7_o-e1540815658621-720x473.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/14258972240_e9790463f7_o-e1540815658621-768x505.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/14258972240_e9790463f7_o-e1540815658621-480x316.jpg 480w" sizes="" alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/329;" /></figure></div><div class="article-item-body"><a class="article-item-link" href="https://www.birds.cornell.edu/k12/nature-connection/"><span class="article-item-header">Connect Kids to Nature</span></a></div></div></li><li class="article-item"><div class="article-item-container"><div class="article-item-media content-article" data-link-to="https://www.birds.cornell.edu/k12/citizen-science/"><figure class="article-item-media-ratio"><img decoding="async" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-1280x960.jpg" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-720x540.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-768x576.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-1280x960.jpg 1280w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-1920x1440.jpg 1920w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-480x360.jpg 480w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/36032943700_b8fae7a775_o-e1538063901216.jpg 157w" data-sizes="(max-width: 1280px) 100vw, 1280px" alt="citizen science" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 1280px; --smush-placeholder-aspect-ratio: 1280/960;" /></figure></div><div class="article-item-body"><a class="article-item-link" href="https://www.birds.cornell.edu/k12/citizen-science/"><span class="article-item-header">Engage in Participatory Science</span></a></div></div></li><li class="article-item"><div class="article-item-container"><div class="article-item-media content-article" data-link-to="https://www.birds.cornell.edu/k12/conducting-investigations/"><figure class="article-item-media-ratio"><img decoding="async" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-1280x850.jpg" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-720x478.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-768x510.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-1280x850.jpg 1280w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-1920x1275.jpg 1920w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-480x319.jpg 480w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/09/20575360680_b5dcc69c19_o-e1538068559602.jpg 200w" data-sizes="(max-width: 1280px) 100vw, 1280px" alt="Inquiry" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 1280px; --smush-placeholder-aspect-ratio: 1280/850;" /></figure></div><div class="article-item-body"><a class="article-item-link" href="https://www.birds.cornell.edu/k12/conducting-investigations/"><span class="article-item-header">Conduct Science Investigations</span></a></div></div></li></ul></div></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer connecting-line "></div>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><strong>Attend Our 2025 Summer Educator Retreat</strong></h2>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img fetchpriority="high" decoding="async" width="1280" height="853" src="https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-1280x853.jpg" alt="" class="wp-image-9642 size-full" srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-1280x853.jpg 1280w, https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-720x480.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-768x512.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-1536x1024.jpg 1536w, https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-2048x1365.jpg 2048w, https://www.birds.cornell.edu/k12/wp-content/uploads/2024/12/2024_1290_051by-Alexandra-Bayer-480x320.jpg 480w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure><div class="wp-block-media-text__content">
+<p>Join us from July 15-17 at the Cornell Lab of Ornithology in Ithaca, NY for a wonderful experience. Learn about birds and participatory science, network with educators from around the country, and explore the outdoors. </p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-width wp-block-button__width-50 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-text-align-left wp-element-button" href="https://www.birds.cornell.edu/k12/2025-retreat/">Register for the Retreat</a></div>
+</div>
+</div></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer connecting-line "></div>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><header class="article-header" style="--global-width: 75rem; --global-width-margin: calc(50% - (75rem/2)); --narrow-margin: calc(50% - (54rem/2)); --narrow-width: 54rem; --narrow-margin-alignfull: calc(50% - (62.5rem/2)); --narrow-width-alignfull: 62.5rem; --narrower-margin: auto; --narrower-width: 40rem; --full-width: 100vw; --full-width-margin: calc(50% - 50vw); box-sizing: inherit; --container-width: 66.5rem; --scroll-margin: 75px; --container-margin: calc(50% - (var(--container-width)/2)); --search-height: 55px; --search-sidebar-height: 36px; --email-form-height: 50px; --email-form-height-sidebar: 40px; --tiny-bar-height: 43px; --main-nav-height: 110px; --logo-height: 48px; --logo-padding: 1rem 0; --aspect-ratio: 2 / 1; --hero-text-container: 33.3333%; --hero-text-padding: calc((100vw - 1240px) / 2); --hero-text-container-textured: 41.6666%; --hero-text-padding-textured: calc((100vw - 1250px) / 2); --hero-caption-width: calc((100vw - 1280px) / 2); margin-bottom: 0px; color: rgb(46, 38, 31); font-size: 16px; letter-spacing: normal; text-align: start; white-space-collapse: collapse;"><div><i style="--global-width: 75rem; --global-width-margin: calc(50% - (75rem/2)); --narrow-margin: calc(50% - (54rem/2)); --narrow-width: 54rem; --narrow-margin-alignfull: calc(50% - (62.5rem/2)); --narrow-width-alignfull: 62.5rem; --narrower-margin: auto; --narrower-width: 40rem; --full-width: 100vw; --full-width-margin: calc(50% - 50vw); box-sizing: inherit; --container-width: 66.5rem; --scroll-margin: 75px; --container-margin: calc(50% - (var(--container-width)/2)); --search-height: 55px; --search-sidebar-height: 36px; --email-form-height: 50px; --email-form-height-sidebar: 40px; line-height: inherit;"></i></div><div class="social-interact" style="--global-width: 75rem; --global-width-margin: calc(50% - (75rem/2)); --narrow-margin: calc(50% - (54rem/2)); --narrow-width: 54rem; --narrow-margin-alignfull: calc(50% - (62.5rem/2)); --narrow-width-alignfull: 62.5rem; --narrower-margin: auto; --narrower-width: 40rem; --full-width: 100vw; --full-width-margin: calc(50% - 50vw); box-sizing: inherit; --container-width: 66.5rem; --scroll-margin: 75px; --container-margin: calc(50% - (var(--container-width)/2)); --search-height: 55px; --search-sidebar-height: 36px; --email-form-height: 50px; --email-form-height-sidebar: 40px; margin: 0px 0px 1rem; padding: 0px; align-items: center; display: flex; flex-direction: row; justify-content: flex-end; width: auto !important;"><div class="social-icons" style="--global-width: 75rem; --global-width-margin: calc(50% - (75rem/2)); --narrow-margin: calc(50% - (54rem/2)); --narrow-width: 54rem; --narrow-margin-alignfull: calc(50% - (62.5rem/2)); --narrow-width-alignfull: 62.5rem; --narrower-margin: auto; --narrower-width: 40rem; --full-width: 100vw; --full-width-margin: calc(50% - 50vw); box-sizing: inherit; --container-width: 66.5rem; --scroll-margin: 75px; --container-margin: calc(50% - (var(--container-width)/2)); --search-height: 55px; --search-sidebar-height: 36px; --email-form-height: 50px; --email-form-height-sidebar: 40px; margin: 0px; padding: 0px; align-items: center; display: flex;"></div></div></header></h2>
+
+
+
+<div class="wp-block-group cta is-layout-flow wp-block-group-is-layout-flow">
+<h2 class="wp-block-heading has-text-align-center is-style-default">Upcoming Webinars</h2>
+
+
+
+<p>From easy, hands-on activities, and building observation skills through art, to engaging in participatory science, and incorporating culturally responsive teaching into inquiry-based science, our webinars provide you with fresh ideas for you classroom or program. Register for our 2024-2025 series below.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-4 logos wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-medium"><img decoding="async" width="720" height="540" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2019/06/Darcy-Petzold_Dirty-Hands-720x540.jpg" alt="Kids in the garden holding up their hands." class="wp-image-4486 lazyload" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2019/06/Darcy-Petzold_Dirty-Hands-720x540.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2019/06/Darcy-Petzold_Dirty-Hands-768x576.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2019/06/Darcy-Petzold_Dirty-Hands-480x360.jpg 480w, https://www.birds.cornell.edu/k12/wp-content/uploads/2019/06/Darcy-Petzold_Dirty-Hands.jpg 1024w" data-sizes="(max-width: 720px) 100vw, 720px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 720px; --smush-placeholder-aspect-ratio: 720/540;" /><figcaption class="wp-element-caption"><a href="https://www.birds.cornell.edu/k12/february-webinar-2/"><strong>May 21 – Enhancing Schoolyard Habitats for Birds</strong></a></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-medium"><img decoding="async" width="720" height="540" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-720x540.jpg" alt="" class="wp-image-7644 lazyload" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-720x540.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-1280x960.jpg 1280w, https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-240x180.jpg 240w, https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-768x576.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-1536x1152.jpg 1536w, https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-2048x1536.jpg 2048w, https://www.birds.cornell.edu/k12/wp-content/uploads/2023/08/Nature-art-journaling-480x360.jpg 480w" data-sizes="(max-width: 720px) 100vw, 720px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 720px; --smush-placeholder-aspect-ratio: 720/540;" /><figcaption class="wp-element-caption"><a href="https://www.birds.cornell.edu/k12/may-webinar/"><strong>June 11 – Wild About Art: Creatively Connecting Science and Nature Through Art</strong></a></figcaption></figure>
+</figure>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer connecting-line "></div>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+<h2 class="wp-block-heading">Resources You Might Like&#8230;</h2>
+
+
+<div class="article-list card-display card-three "><ul><li class="article-item"><div class="article-item-container"><div class="article-item-media content-article" data-link-to="https://www.birds.cornell.edu/k12/multimedia-inspired/"><figure class="article-item-media-ratio"><img decoding="async" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/34627573124_3c9576b1c6_o.jpg" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/34627573124_3c9576b1c6_o-720x405.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/34627573124_3c9576b1c6_o-240x135.jpg 240w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/34627573124_3c9576b1c6_o-768x432.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/34627573124_3c9576b1c6_o-480x270.jpg 480w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/34627573124_3c9576b1c6_o.jpg 1024w" sizes="" alt="student with laptop" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 1024px; --smush-placeholder-aspect-ratio: 1024/576;" /></figure></div><div class="article-item-body"><a class="article-item-link" href="https://www.birds.cornell.edu/k12/multimedia-inspired/"><span class="article-item-header">Multimedia Inspired</span></a></div></div></li><li class="article-item"><div class="article-item-container"><div class="article-item-media content-article" data-link-to="https://www.birds.cornell.edu/k12/spanish-language/"><figure class="article-item-media-ratio"><img decoding="async" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/39930198490_43484e3e7e_o.jpg" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/39930198490_43484e3e7e_o.jpg 500w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/10/39930198490_43484e3e7e_o-480x319.jpg 480w" sizes="" alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/332;" /></figure></div><div class="article-item-body"><a class="article-item-link" href="https://www.birds.cornell.edu/k12/spanish-language/"><span class="article-item-header">Spanish Language</span></a></div></div></li><li class="article-item"><div class="article-item-container"><div class="article-item-media content-article" data-link-to="https://www.birds.cornell.edu/k12/science-theme/"><figure class="article-item-media-ratio"><img decoding="async" data-src="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-1280x853.jpg" data-srcset="https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-720x480.jpg 720w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-768x512.jpg 768w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-1280x853.jpg 1280w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-1920x1280.jpg 1920w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-480x320.jpg 480w, https://www.birds.cornell.edu/k12/wp-content/uploads/2018/11/30914377451_a29536237f_o-e1541610354182.jpg 800w" data-sizes="(max-width: 1280px) 100vw, 1280px" alt="producers and consumers" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 1280px; --smush-placeholder-aspect-ratio: 1280/853;" /></figure></div><div class="article-item-body"><a class="article-item-link" href="https://www.birds.cornell.edu/k12/science-theme/"><span class="article-item-header">By Science Theme</span></a></div></div></li></ul></div></div>
+
+
+
+<div class="wp-block-group alignfull cta has-gold-background-color has-background add-padding-top add-padding-bottom is-layout-flow wp-block-group-is-layout-flow">
+<h2 class="wp-block-heading">Join Our Monthly Educator eNews</h2>
+
+
+<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.10.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-4852 mc4wp-ajax" method="post" data-id="4852" data-name="eNews" ><div class="mc4wp-form-fields"><div class="checkboxes">
+    <label>
+        <input name="INTERESTS[e49185fbaf][]" type="checkbox" value="5f780d73e0"
+        checked="true"> <span>Cornell Lab eNews</span>
+    </label>
+
+    <label>
+        <input name="INTERESTS[e49185fbaf][]" type="checkbox" value="4102a508b6"
+        checked="true"> <span>K-12 Education</span>
+    </label>
+</div>
+
+<label for="email">Email address <span class="required">*</span></label>
+<input type="email" id="email" name="EMAIL" placeholder="Your email address"
+required="">
+
+<input type="submit" value="Subscribe" /></div><label style="display: none !important;">Leave this field empty if you&#8217;re human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1745206004" /><input type="hidden" name="_mc4wp_form_id" value="4852" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+
+      
+        </section> <!-- end Main content -->
+
+      
+      
+      
+      
+                  
+                          
+      
+  </div><!-- .content-container -->
+					
+</article> <!-- end article -->      
+    	
+    
+  </main>
+
+
+					
+  <footer id="main-footer">
+
+  
+    <div class="grid-container grid-x has-logo has-footer-nav has-contact-nav has-social has-links">
+
+      
+          <div class="logos">
+          <div class="cell lab-logo">
+        <a href="http://www.birds.cornell.edu/" rel="parent" title="The Cornell Lab of Ornithology">
+          <img data-src="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/images/cornell-lab-logo-full-white.svg" alt="The Cornell Lab of Ornithology" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload">
+        </a>
+      </div>
+      </div>
+
+              
+        <div class="footer-content row hide-for-print">
+
+                            <div class="cell sitemap">
+            <nav aria-label="Site map">
+              <ul id="footer-nav" class="menu"><li id="menu-item-2204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2204"><a href="https://www.birds.cornell.edu/k12/setup/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-2210" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2210"><a href="https://www.birds.cornell.edu/k12/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-2205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2205"><a href="https://www.birds.cornell.edu/k12/get-started/">Lessons &#038; Activities</a>
+<ul class="sub-menu">
+	<li id="menu-item-4907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4907"><a href="https://www.birds.cornell.edu/k12/k-2-resources/">Grades K-2</a></li>
+	<li id="menu-item-4904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4904"><a href="https://www.birds.cornell.edu/k12/3-5-resources/">Grades 3-5</a></li>
+	<li id="menu-item-4905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4905"><a href="https://www.birds.cornell.edu/k12/6-8-resources/">Grades 6-8</a></li>
+	<li id="menu-item-4906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4906"><a href="https://www.birds.cornell.edu/k12/9-12-resources/">Grades 9-12</a></li>
+	<li id="menu-item-3810" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3810"><a href="https://www.birds.cornell.edu/k12/student-publication/">BirdSleuth Investigator</a></li>
+</ul>
+</li>
+<li id="menu-item-2206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2206"><a href="https://www.birds.cornell.edu/k12/professional-development/">Professional Development</a>
+<ul class="sub-menu">
+	<li id="menu-item-7025" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7025"><a href="https://www.birds.cornell.edu/k12/workshops-retreats/">Workshops &#038; Retreats</a></li>
+	<li id="menu-item-2220" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2220"><a href="https://www.birds.cornell.edu/k12/webinars-2/">Webinars</a></li>
+	<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2219"><a href="https://www.birds.cornell.edu/k12/courses-and-ceu/">Online Courses</a></li>
+	<li id="menu-item-2218" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2218"><a href="https://www.birds.cornell.edu/k12/credit-options/">Credit Options</a></li>
+</ul>
+</li>
+<li id="menu-item-4918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4918"><a href="#">Explore</a>
+<ul class="sub-menu">
+	<li id="menu-item-4377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4377"><a href="https://www.birds.cornell.edu/k12/parents/">Parents</a></li>
+	<li id="menu-item-4376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4376"><a href="https://www.birds.cornell.edu/k12/science-nature-activities-for-cooped-up-kids/">Science &#038; Nature Activities for Cooped Up Kids</a></li>
+	<li id="menu-item-4698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4698"><a href="https://www.birds.cornell.edu/k12/women-in-stem-blog-series/">Women in STEM Blog Series</a></li>
+</ul>
+</li>
+<li id="menu-item-3811" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3811"><a href="https://www.birds.cornell.edu/k12/science-kits/">Shop</a></li>
+</ul>            </nav>
+          </div>
+                  
+                  
+          <div class="cell contact-links">
+                        
+            <ul id="contact-nav" class="menu hide-for-print"><li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="https://www.birds.cornell.edu/k12/contact-us/">Contact Us</a></li>
+<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="https://www.birds.cornell.edu/k12/enews-signup/">eNews Signup</a></li>
+</ul>
+                          <ul id="global-footer-links" class="menu hide-for-print">
+                <li><a href="https://www.birds.cornell.edu/home/web-accessibility-assistance/" class="menu-item">Web Accessibility Assistance</a></li>
+                <li><a href="https://privacy.cornell.edu/information-use-cornell" class="menu-item">Privacy Policy</a></li>
+                <li><a href="https://www.birds.cornell.edu/home/terms-of-use/" class="menu-item">Terms of use</a></li>
+              </ul>          </div>
+
+                        
+        <div class="cell social">
+
+                              <div class="social hide-for-print">
+            <h2>Follow Us</h3><ul class="social-icons"><li class="facebook"><a href="https://www.facebook.com/K12Lab%20" title="Like us on Facebook"><span class="fa-brands fa-facebook"></span></a></li><li class="instagram"><a href="https://www.instagram.com/k12_cornellbirds/" title="Follow us on Instagram"><span class="fa-brands fa-instagram"></span></a></li><li class="twitter"><a href="https://twitter.com/k12_lab" title="Follow us on Twitter"><span class="fa-brands fa-x-twitter"></span></a></li><li class="youtube"><a href="https://www.youtube.com/@k12_cornellbirds" title="Subscribe to us on YouTube"><span class="fa-brands fa-youtube"></span></a></li><li class="pinterest"><a href="https://www.pinterest.com/k12_lab/" title="Follow us on Pinterest"><span class="fa-brands fa-pinterest-p"></span></a></li></ul>          </div>
+                  </div>
+      
+        </div><!-- .footer-content -->
+      
+      </div> <!-- end .grid-container -->
+
+      
+
+            <div class="footer-bottom">
+        <div class="grid-container grid-x">
+
+                      <div class="cell cu-logo">
+              <img data-src="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/images/cornell-logo-white.svg" alt="Cornell University" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload">
+            </div><!-- .cu-logo -->
+          
+          
+          <div class="copyright">
+            <p class="copyright">&copy; 2025 Cornell University</p>
+          </div>
+          
+        </div> <!-- end .grid-container -->
+      </div><!-- .footer-bottom -->      
+  </footer> <!-- end .footer -->
+
+  
+<!-- BEGIN Search modal -->
+  <div class="reveal" id="search-modal" data-reveal role="dialog" data-animation-in="fade-in fast" aria-label="Search">
+    <button class="close-button" data-close aria-label="Close" type="button"><span class="text">Close</span> <span class="symbol" aria-hidden="true">&times;</span></button>
+    <div class="search-container">
+  <div class="search-area row">
+    <form role="search" method="get" class="search-form" action="https://www.birds.cornell.edu/k12/">
+      <span class="search-icon" aria-hidden="true"></span>
+      <label for="modal-search" class="sr-only">Search this website</label>
+      <input id="modal-search" type="search" class="search-field" placeholder="Search: Enter Keywords" value="" name="s" title="Search for:" />
+      <input type="submit" class="search-submit button" value="Search" />
+    </form>
+  </div><!-- .search-form -->
+</div><!-- .search-container -->  </div><!-- .reveal -->
+<!-- END Search modal -->
+
+<!-- Image Viewer -->
+  <div class="reveal" id="image-block-viewer" data-reveal role="dialog" data-animation-in="fade-in fast" aria-label="Image Viewer">
+    <button class="close-button" data-close aria-label="Close" type="button"><span class="text">Close</span> <span class="symbol" aria-hidden="true">&times;</span></button>
+    <figure class="wp-block-image"></figure>
+  </div>
+<!-- END Image Viewer -->
+		
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P7854M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><style id='core-block-supports-inline-css' type='text/css'>
+.wp-block-gallery.wp-block-gallery-1{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+</style>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.birds.cornell.edu\/k12\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.18.0" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/scripts/foundation.min.js?ver=6.7.1" id="foundation-js-js"></script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/scripts/slick.min.js?ver=20240415" id="slick-js-js"></script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/themes/birdpress3/scripts/scripts.min.js?ver=1742904901" id="bp-site-js-js"></script>
+<script type="text/javascript" defer src="https://www.birds.cornell.edu/k12/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.10.3" id="mc4wp-forms-api-js"></script>
+<script type="text/javascript" id="mc4wp-ajax-forms-js-extra">
+/* <![CDATA[ */
+var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"https:\/\/www.birds.cornell.edu\/k12\/wp-admin\/admin-ajax.php?action=mc4wp-form","error_text":"Oops. Something went wrong. Please try again later."};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://www.birds.cornell.edu/k12/wp-content/plugins/mc4wp-premium/ajax-forms/assets/js/ajax-forms.js?ver=4.10.11" id="mc4wp-ajax-forms-js"></script>
+<script type="text/javascript" id="mailchimp-form-js-js-extra">
+/* <![CDATA[ */
+var mailchimp_form_captions = {"ajaxurl":"https:\/\/www.birds.cornell.edu\/k12\/wp-admin\/admin-ajax.php","nonce":"bc3d1e5710"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.birds.cornell.edu/k12/wp-content/plugins/mailchimp-sync/assets/form.js?ver=20140212" id="mailchimp-form-js-js"></script>
+		
+</body><!-- end body from header.php -->
+	
+</html><!-- end html from header.php -->

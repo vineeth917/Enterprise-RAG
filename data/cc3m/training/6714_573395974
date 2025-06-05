@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+
+  <!-- SITE TITTLE -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CreteTravel</title>
+
+  <!-- PLUGINS CSS STYLE -->
+  
+
+<!-- penny -->
+
+  <!-- GOOGLE FONT -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,600,700' rel='stylesheet' type='text/css'>
+
+  <!-- CUSTOM CSS -->
+
+<link href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet">
+  <link href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/selectbox/select_option1.css">
+  <!--<link rel="stylesheet" type="text/css" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/datepicker/datepicker.css">-->
+  <link rel="stylesheet" type="text/css" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/isotope/jquery.fancybox.css">
+  <link rel="stylesheet" type="text/css" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/isotope/isotope.css">
+  <!-- REVOLUTION SLIDER -->
+	<link rel="stylesheet" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/revolution/css/settings.css">
+	<link rel="stylesheet" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/revolution/css/layers.css">
+	<link rel="stylesheet" href="https://www.cretetravel.com/templates/themes/cretetravel/plugins/revolution/css/navigation.css">
+
+
+  <!-- GOOGLE FONT -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,600,700' rel='stylesheet' type='text/css'>
+  
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Paytone+One&display=swap" rel="stylesheet">
+
+  <!-- CUSTOM CSS -->
+  <link href="https://www.cretetravel.com/templates/themes/cretetravel/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.cretetravel.com/templates/themes/cretetravel/css/colors/blue.css" id="blue">
+<style>
+.typeahead , .tt-query, .tt-hint {
+	border-radius: 5px 0px 0px 5px;
+	border: 1px solid #CCCCCC;
+	font-family: 'HelveticaNeue-Light', sans-serif ;
+	font-size:  16px;
+	line-height: 20px;
+	outline: medium none;
+	padding: 8px 10px;
+	width: 215px;
+
+}
+.typeahead .typeahead {
+	background-color: #FFFFFF;
+}
+.typeahead .typeahead:focus {
+	border: 1px solid #0097CF;
+}
+.tt-query {
+	box-shadow: 0 0px 0px rgba(0, 0, 0, 0.075) inset;
+}
+.tt-hint {
+	
+  margin: 5px -7px 15px -3px;
+	width:80%;
+}
+.tt-dropdown-menu {
+  position:fixed;
+  z-index:9999;
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 8px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+	margin-top: 12px;
+	padding: 8px 0;
+	width: 350px;
+  height:auto;
+  overflow-y: auto;
+  
+}
+.tt-suggestion {
+	font-size:16px;
+	line-height: 24px;
+	padding: 3px 20px;
+  
+}
+.tt-suggestion.tt-is-under-cursor {
+	background-color: #0097CF;
+	
+}
+.tt-suggestion p {
+	margin: 0;
+}
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: white;
+            opacity: 1; /* Firefox */
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: white;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+            color: white;
+ }
+
+
+select:invalid option:not(:disabled) { color: red; }
+.for-over a:hover{
+
+  display:inline-block;
+  cursor:pointer!important; 
+  pointer-events: auto;
+}
+.for-over a{
+
+  display:block;
+  cursor:pointer!important; 
+  pointer-events: auto;
+}
+.for-over:before {
+  background-color: black;
+  width: 100%;
+  height: 263px;
+}
+</style>
+
+
+<script>if ( top !== self ) top.location.replace( self.location.href );</script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/jquery-2.2.4.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/waypoints.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!--<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/datepicker/bootstrap-datepicker.js"></script>-->
+<script src="https://www.cretetravel.com/templates/admin/assets/vendor/jquery-bootstrap-datepicker/bootstrap-datepicker.js"></script>
+<link rel="stylesheet" href="https://www.cretetravel.com/templates/admin/assets/vendor/jquery-bootstrap-datepicker/bootstrap-datepicker3.standalone.css">
+
+<script type="text/javascript">
+	
+	/* move top on the page*/
+	// When the user scrolls down 20px from the top of the document, show the button
+
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+	window.onscroll = function() {scrollFunction()};
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+</script>
+<script  type="text/javascript">
+	 var jQuery = jQuery.noConflict();
+    var search;
+	jQuery(document).ready(function(){
+		jQuery("input.typeahead").typeahead({
+			name: 'typeahead',
+			remote:'https://www.cretetravel.com/modules/hotels/autocomplete/search.php?lang=en&search=hotel_index&key=%QUERY',
+			limit : 10
+		}); 
+});
+
+
+jQuery(document).ready(function() {
+  
+  jQuery.fn.datepicker.defaults.autoclose = true;
+  jQuery.fn.datepicker.defaults.todayHighlight = true;
+  jQuery.fn.datepicker.defaults.startDate = '-1d';
+  jQuery.fn.datepicker.defaults.format = "dd/mm/yyyy";
+
+  var date = new Date();
+  jQuery('.ed-datepicker').datepicker();
+ 
+});
+jQuery(document).ready(function() {
+jQuery(".checkIn").datepicker({
+   autoclose: true
+  }).on("changeDate", function(selected) {
+    var checkInDate = selected.date, $checkOut = jQuery(".checkOut");    
+    checkInDate.setDate(checkInDate.getDate() + 1);
+    $checkOut.datepicker("setStartDate", checkInDate);
+    $checkOut.datepicker("setDate", checkInDate).focus();
+  });
+
+jQuery(".checkOut").datepicker({
+  format: "dd/mm/yyyy",
+  todayBtn: true,
+  autoclose: true
+});
+ 
+});
+
+</script>
+<!-- start Omniconvert.com code -->
+<link rel="dns-prefetch" href="//app.omniconvert.com" />
+<script type="text/javascript">window._mktz=window._mktz||[];</script>
+<script src="//cdn.omniconvert.com/js/f003c81.js"></script>
+<!-- end Omniconvert.com code -->
+
+
+<!-- end penny -->
+
+<!-- FAVICON -->
+  <link rel="shortcut icon" type="image/png" href="https://www.cretetravel.com/templates/themes/cretetravel/img/favicon.ico"/>
+               
+       <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    //ga('create', 'UA-6082180-24', 'auto');
+    ga('create', '343557829', 'auto');
+    ga('send', 'pageview');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66RD8S6RTH"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+
+
+  gtag('config', 'G-66RD8S6RTH');
+
+</script>
+
+    </head>
+
+
+<body class="body-wrapper changeHeader " >
+  <div class="main-wrapper">
+
+    <!-- HEADER -->
+    <header >
+      <nav class="navbar navbar-default navbar-main navbar-fixed-top lightHeader" role="navigation">
+        <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+           <a class="navbar-brand" href="https://www.cretetravel.com/en/index.php"></a>
+          </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+ <script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/jquery-2.2.4.min.js" ></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery-ui/jquery-ui.min.js"></script>
+ 
+  <script type="text/javascript">
+ 	var jQuery = jQuery.noConflict(true);
+
+
+/*jQ1(document).ready(function() { var pathname = window.location.pathname;
+
+jQ1(".singleDrop li").click(function(){
+jQ1(this).addClass('active');console.log("test1"+pathname);
+            jQ1(this).parent().find('.dropdown-toggle').addClass('active');
+});
+
+  var pathname = window.location.pathname;
+ jQ1('.dropdown .singleDrop').find('.active').removeClass('active');
+  jQ1('.dropdown .singleDrop ').each(function() {console.log("test2"+pathname);console.log(jQ1(this).attr('href'));
+    if (jQ1(this).attr('href') == pathname) {
+       jQ1(this).addClass('active');
+    }
+    var link = '/' + jQ1(this).attr('href');console.log("test3"+jQ1(this).attr('href')+ pathname) ;
+
+});
+});
+
+jQuery(document).ready(function($){
+  // Get current path and find target link
+  var path = window.location.pathname.split("/").pop();
+  
+  // Account for home page with empty path
+  if ( path == '' ) {
+    path = 'index.php';
+  }
+      
+  var target = $('nav a[href="'+path+'"]');
+  // Add active class to target link
+  target.addClass('active');
+});
+
+ jQuery(document).ready(function($) { 
+   jQuery(".dropdown .singleDrop").find("a[href='"+window.location.href+"']").each(function(){ 
+     jQuery(this).addClass("active");
+     }) }); //add additional code here if needed }) }); [/code] 
+     function test()
+     {
+       jQuery(document).ready(function($) { 
+         
+          jQuery(this).addClass("active");
+            });
+     }
+     jQuery(document).ready(function(){
+  jQuery('ul li a').click(function(){
+    jQuery('li a').removeClass("active");
+    jQuery(this).addClass("active");
+});
+});*/
+</script>
+ 
+ <div class="collapse navbar-collapse navbar-ex1-collapse"><ul class="nav navbar-nav navbar-right"><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Stay#" rel="Stay" class="dropdown-toggle" data-toggle="dropdown" >Stay</a><ul class="dropdown-menu dropdown-menu-right"><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/hotels/area/West_Crete/list" >West Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/hotels/area/East_Crete/list" >East Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/hotels/area/South_Crete/list" >South Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/hotels/area/Central_Crete/list" >Central Crete</a></li></ul></li><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Guides#" rel="Guides" class="dropdown-toggle" data-toggle="dropdown" >Guides</a><ul class="dropdown-menu dropdown-menu-right"><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/guides/area/East_Crete/list" >East Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/guides/area/West_Crete/list" >West Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/guides/area/South_Crete/list" >South Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/guides/area/Central_Crete/list" >Central Crete</a></li></ul></li><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Activities#" rel="Activities" class="dropdown-toggle" data-toggle="dropdown" >Activities</a><ul class="dropdown-menu dropdown-menu-right"><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/activities/area/East_Crete/list" >East Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/activities/area/West_Crete/list" >West Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/activities/area/South_Crete/list" >South Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/activities/area/Central_Crete/list" >Central Crete</a></li></ul></li><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Events#" rel="Events" class="dropdown-toggle" data-toggle="dropdown" >Events</a><ul class="dropdown-menu dropdown-menu-right"><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/events/area/East_Crete/list" >East Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/events/area/West_Crete/list" >West Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/events/area/South_Crete/list" >South Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/events/area/Central_Crete/list" >Central Crete</a></li></ul></li><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Eat#" rel="Eat" class="dropdown-toggle" data-toggle="dropdown" >Eat</a><ul class="dropdown-menu dropdown-menu-right"><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/gastronomies/area/East_Crete/list" >East Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/gastronomies/area/West_Crete/list" >West Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/gastronomies/area/South_Crete/list" >South Crete</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/gastronomies/area/Central_Crete/list" >Central Crete</a></li></ul></li><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Travel_Tips#" rel="Travel Tips" class="dropdown-toggle" data-toggle="dropdown" >Travel Tips</a><ul class="dropdown-menu dropdown-menu-right"><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/Travel_Tips/Eat_Drink">Cretan Gastronomy</a></li><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/Travel_Tips/Money_Fees">Money & Currency</a></li><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/Travel_Tips/Culture_Life">Cretan Culture & Life</a></li><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/Travel_Tips/Transport_Car_Bus">Transport In Crete</a></li><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/Travel_Tips/Flights_Ferry_Tickets">Flight & Ferry Tickets</a></li><li class="dropdown singleDrop "><a href="https://www.cretetravel.com/en/Travel_Tips/Health_Insurance_Security">Travel Insurance</a></li></ul></li><!--for external/internal link--><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/General/Reserve_cars.html" rel="Cars" target="_new">Cars</a></li><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/Tickets#" rel="Tickets" class="dropdown-toggle" data-toggle="dropdown" >Tickets</a><ul class="dropdown-menu dropdown-menu-right"><!--for link from files--><li class="dropdown singleDrop "><a href="https://tickets.ferries.gr/index.php?aff=cretetravel&lang=en" target="_new" >Ferry Tickets</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://go.linkwi.se/z/11739-1/CD17608/?" target="_new" >Ferries</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://go.linkwi.se/z/73-57/CD17608/?lnkurl=http%3A%2F%2Fen.aegeanair.com%2F" target="_new" >Flights</a></li><!--for link from files--><li class="dropdown singleDrop "><a href="https://www.welcomepickups.com/crete/airport-transfer-book/?tap_a=55065-9ccfb0&tap_s=716202-b57e89" target="_new" >Taxi</a></li></ul></li><!--for external/internal link--><li class="dropdown singleDrop" ><a href="https://www.cretetravel.com/en/hotels/general/offers/list" rel="Offers" >Offers</a></li><li ><a href="https://www.cretetravel.com/en/login" ><span class="text-danger">Login</span></a></li></ul></div>         </div>
+      </nav>
+    </header>
+  <!-- BANNER -->
+    
+   <section class="bannercontainer">
+   <span class="hidden-sm hidden-xs">
+    <div id="rev_slider_wrapper1" class="rev_slider_wrapper fullscreen-container" data-alias="christmas-snow-scene" data-source="gallery" style="background-color:transparent;padding:0px;">
+    <!-- START REVOLUTION SLIDER 5.4.1 fullscreen mode -->
+      <div id="rev_slider_container" class="rev_slider custom_rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
+      
+         <ul  >
+                                  <li data-transition="parallaxvertical" >
+        <img src="https://www.cretetravel.com/files/slider/3/Ammos_Boutique_Hotel_Breakfast1.jpg" alt="slidebg"   class="rev-slidebg" data-bgparallax="3"  data-no-retina>
+         
+           
+              <div class="container">                
+                  <div class="tp-caption tp-resizeme slide-layer-2" id="slide-layer-2"
+        data-x="left" 
+        data-y="center" 
+        data-hoffset="['20', '40', '80', '60']"
+                           data-voffset="-50"
+                                data-width="['auto']"
+        data-height="['auto']"
+        data-type="text"
+        data-responsive_offset="on"
+        data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+        data-textAlign="['center']"
+        data-fontsize="['30', '30', '30', '25']"
+        data-color="#fff"
+        style="z-index: 1; text-transform: uppercase; ">The Crete you are looking for <div style="padding-top:10px;"></div></div> 
+             </div>        </li> 
+                                       <li data-transition="parallaxvertical" >
+        <img src="https://www.cretetravel.com/files/slider/3/Blue_Crete_ForNewWebsite.jpg" alt="slidebg1"   class="rev-slidebg" data-bgparallax="3"  data-no-retina>
+         
+           
+                              
+                  <div class="tp-caption tp-resizeme slide-layer-3" id="slide-layer-3"
+        data-x="left" 
+        data-y="center" 
+        data-hoffset="['20', '40', '80', '60']"
+                                   data-voffset="20"
+                        data-width="['auto']"
+        data-height="['auto']"
+        data-type="text"
+        data-responsive_offset="on"
+        data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+        data-textAlign="['center']"
+        data-fontsize="['30', '30', '30', '25']"
+        data-color="#fff"
+        style="z-index: 1; text-transform: uppercase; "> <div style="padding-top:10px;"></div></div> 
+                     </li> 
+                                       <li data-transition="parallaxvertical" >
+        <img src="https://www.cretetravel.com/files/slider/3/Sailinng_SeaKayak_Gavdos27.jpg" alt="slidebg2"   class="rev-slidebg" data-bgparallax="3"  data-no-retina>
+         
+           
+                              
+                  <div class="tp-caption tp-resizeme slide-layer-4" id="slide-layer-4"
+        data-x="left" 
+        data-y="center" 
+        data-hoffset="['20', '40', '80', '60']"
+                                            data-voffset="['108', '108', 15, '15']"
+                data-width="['auto']"
+        data-height="['auto']"
+        data-type="text"
+        data-responsive_offset="on"
+        data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+        data-textAlign="['center']"
+        data-fontsize="['30', '30', '30', '25']"
+        data-color="#fff"
+        style="z-index: 1; text-transform: uppercase; "> <div style="padding-top:10px;"></div></div> 
+                     </li> 
+                                       <li data-transition="parallaxvertical" >
+        <img src="https://www.cretetravel.com/files/slider/3/Villa_Thetis_Sfakia.jpg" alt="slidebg3"   class="rev-slidebg" data-bgparallax="3"  data-no-retina>
+         
+           
+                              
+                  <div class="tp-caption tp-resizeme slide-layer-5" id="slide-layer-5"
+        data-x="left" 
+        data-y="center" 
+        data-hoffset="['20', '40', '80', '60']"
+                                         data-width="['auto']"
+        data-height="['auto']"
+        data-type="text"
+        data-responsive_offset="on"
+        data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+        data-textAlign="['center']"
+        data-fontsize="['30', '30', '30', '25']"
+        data-color="#fff"
+        style="z-index: 1; text-transform: uppercase; "> <div style="padding-top:10px;"></div></div> 
+                     </li> 
+                             </ul>   
+          <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+      </div>
+    </div><!-- END REVOLUTION SLIDER -->
+     </span>
+    </section>
+   <span class="visible-sm visible-xs">
+    <span style=" display: inline-block;padding-top: 80px;"></span>
+   </span>
+   
+	    <!-- SEARCH TOUR -->
+    <section class="darkSection" style="color: #ffffff !important;">
+      <div class="container">
+        <div class="row gridResize " >
+          <div class="col-sm-3 col-xs-12">
+            <div class="sectionTitleDouble" >
+              <p>Search</p>
+              <h2>your <span>hotels</span></h2>
+            </div>
+          </div>
+          <div class="col-sm-7 col-xs-12">
+          <form method="post">
+            <div class="row" >
+
+            <div class="col-sm-3 col-xs-12" >
+                <div class="searchTour" >
+                 <select name="guiest_id2" id="guiest_id2" class="select-drop">
+                    <option value="" >Destinations</option>
+                    <option value="West_Crete">West Crete</option>
+                    <option value="East_Crete">East Crete</option>
+                    <option value="South_Crete">South Crete</option>
+                    <option value="Central_Crete">Central Crete</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="col-sm-3 col-xs-12">
+                <div class="searchTour" style="color:rgba(255, 255, 255, 0.3);">
+                  <span style="font-size:12px; color:#01ace4;margin:5px 2px 5px -20px;">OR</span><input type="text" name="typeahead" id="typeahead" class="form-control typeahead tt-query inputHotels" autocomplete="off" spellcheck="false" placeholder="HOTELS &amp; ACTIVITIES" value="">
+                  
+                </div> 
+              </div>
+              
+
+              <div class="col-sm-3 col-xs-12">
+                <div class="input-group date ed-datepicker checkIn" >
+                  <input type="text" class="form-control checkIn" placeholder="DD/MM/YYYY" name="start_date">
+                  <div class="input-group-addon">
+                      <span class="fa fa-calendar"></span>
+                  </div>
+                </div>
+              </div>
+           
+           
+              <div class="col-sm-3 col-xs-12">
+                <div class="input-group date ed-datepicker " data-provide="ed-datepicker">
+                  <input type="text" class="form-control checkOut" placeholder="DD/MM/YYYY"  name="end_date">
+                  <div class="input-group-addon">
+                      <span class="fa fa-calendar"></span>
+                  </div>
+                </div>
+              </div>
+           </div></div> 
+              
+          <div class="col-sm-2 col-xs-12">
+            <input type="submit" name="search_tour"  value="Search" class="btn btn-block buttonCustomPrimary">
+          </div>
+        </div></form>
+      </div> 
+    </section>
+    <!-- TOP DEALS -->
+    <section class="mainContentSection packagesSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="sectionTitle">
+              <h2><span class="lightBg">Brilliant places to stay</span></h2>
+              <p>For people who love special</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+                  <div class="col-sm-4 col-xs-12">
+            <div class="thumbnail deals ">
+                              <a href="https://www.cretetravel.com/en/hotel/157/Daios-Cove-Luxury-Resort-Villas-crete" class="for-over" >
+               
+              <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/East_Crete/157/tn_DC_Overview_Aerial_03.jpg"  alt="deal-image" ></a>
+             
+              <div class="discountInfo">                <div class="discountOffer">
+                  <h4>
+                     <span>OFFER</span> 
+                  </h4>
+                </div>              </div>
+              <div class="caption">
+             
+                                     <h4><a href="https://www.cretetravel.com/en/hotel/157/Daios-Cove-Luxury-Resort-Villas-crete" class="captionTitle">Daios Cove Luxury Resort & Villas</a></h4><br/>
+                                  <p>Touch the dream ... <br/><br/> Combine harmony, tranquillity, privacy, exceptional location and...</p>
+                <div class="detailsInfo">
+                  <h5>
+                    <span>Start From</span>
+                    € 250
+                  </h5>
+                  <ul class="list-inline detailsBtn">
+                    
+                                           <li><a href='https://www.cretetravel.com/en/hotel/157/Daios-Cove-Luxury-Resort-Villas-crete' class="btn buttonTransparent">Book now</a></li>
+                                        </ul>
+                </div>
+              </div>
+            </div> </div>
+                      <div class="col-sm-4 col-xs-12">
+            <div class="thumbnail deals ">
+                              <a href="https://www.cretetravel.com/en/hotel/85/Thomais-Resort-Residences-agia-pelagia-crete" class="for-over" >
+               
+              <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/Central_Crete/85/tn_Elia_Thomais_Resort_25.jpg"  alt="deal-image" ></a>
+             
+              <div class="discountInfo">                <div class="discountOffer">
+                  <h4>
+                     <span>OFFER</span> 
+                  </h4>
+                </div>              </div>
+              <div class="caption">
+             
+                                     <h4><a href="https://www.cretetravel.com/en/hotel/85/Thomais-Resort-Residences-agia-pelagia-crete" class="captionTitle">Thomais Resort-Residences</a></h4><br/>
+                                  <p>Thomais Resort Residences, nestled conveniently on the foot of the mountain above the Agia...</p>
+                <div class="detailsInfo">
+                  <h5>
+                    <span>Start From</span>
+                    € 300
+                  </h5>
+                  <ul class="list-inline detailsBtn">
+                    
+                                           <li><a href='https://www.cretetravel.com/en/hotel/85/Thomais-Resort-Residences-agia-pelagia-crete' class="btn buttonTransparent">Book now</a></li>
+                                        </ul>
+                </div>
+              </div>
+            </div> </div>
+                      <div class="col-sm-4 col-xs-12">
+            <div class="thumbnail deals ">
+                              <a href="https://www.cretetravel.com/en/hotel/165/Caves-Villas-Xerokambos-Crete" class="for-over" >
+               
+              <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/East_Crete/165/tn_Cave_Villa_1_Xerokambos_8.jpg"  alt="deal-image" ></a>
+             
+              <div class="discountInfo">              </div>
+              <div class="caption">
+             
+                                     <h4><a href="https://www.cretetravel.com/en/hotel/165/Caves-Villas-Xerokambos-Crete" class="captionTitle">Caves Villas - Xerokambos</a></h4><br/>
+                                  <p>Meet you at the Sunrise ... <br/><br/> ... the definition of freedom and tranquility!</p>
+                <div class="detailsInfo">
+                  <h5>
+                    <span>Start From</span>
+                    € 1995
+                  </h5>
+                  <ul class="list-inline detailsBtn">
+                    
+                                           <li><a href='https://www.cretetravel.com/en/hotel/165/Caves-Villas-Xerokambos-Crete' class="btn buttonTransparent">Book now</a></li>
+                                        </ul>
+                </div>
+              </div>
+            </div> </div>
+                      <div class="col-sm-4 col-xs-12">
+            <div class="thumbnail deals ">
+                              <a href="https://www.cretetravel.com/en/hotel/167/Phaestias-Terra-Villas-Kalamaki-Village-Crete" class="for-over" >
+               
+              <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/South_Crete/167/tn_Phaestias_Terra_Villas_30b.jpg"  alt="deal-image" ></a>
+             
+              <div class="discountInfo">                <div class="discountOffer">
+                  <h4>
+                     <span>OFFER</span> 
+                  </h4>
+                </div>              </div>
+              <div class="caption">
+             
+                                     <h4><a href="https://www.cretetravel.com/en/hotel/167/Phaestias-Terra-Villas-Kalamaki-Village-Crete" class="captionTitle">Phaestias Terra Villas</a></h4><br/>
+                                  <p>Simplicity at its best at these quintessential summer villas with direct access to sandy...</p>
+                <div class="detailsInfo">
+                  <h5>
+                    <span>Start From</span>
+                    € 250
+                  </h5>
+                  <ul class="list-inline detailsBtn">
+                    
+                                           <li><a href='https://www.cretetravel.com/en/hotel/167/Phaestias-Terra-Villas-Kalamaki-Village-Crete' class="btn buttonTransparent">Book now</a></li>
+                                        </ul>
+                </div>
+              </div>
+            </div> </div>
+                      <div class="col-sm-4 col-xs-12">
+            <div class="thumbnail deals ">
+                              <a href="https://www.cretetravel.com/en/hotel/107/Istron_Bay_Hotel" class="for-over" >
+               
+              <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/East_Crete/107/tn_IstronBayHotel_111.jpg"  alt="deal-image" ></a>
+             
+              <div class="discountInfo">                <div class="discountOffer">
+                  <h4>
+                     <span>OFFER</span> 
+                  </h4>
+                </div>              </div>
+              <div class="caption">
+             
+                                     <h4><a href="https://www.cretetravel.com/en/hotel/107/Istron_Bay_Hotel" class="captionTitle">Istron Bay Hotel</a></h4><br/>
+                                  <p>One of a few places in Crete in just the right location, quite special.  <br/>Istron Bay Hotel at...</p>
+                <div class="detailsInfo">
+                  <h5>
+                    <span>Start From</span>
+                    € 115
+                  </h5>
+                  <ul class="list-inline detailsBtn">
+                    
+                                             <li><a href='https://www.cretetravel.com/en/hotel/107/Istron_Bay_Hotel' class="btn buttonTransparent">Book now</a></li>
+                                       </ul>
+                </div>
+              </div>
+            </div> </div>
+                      <div class="col-sm-4 col-xs-12">
+            <div class="thumbnail deals ">
+                              <a href="https://www.cretetravel.com/en/hotel/15/DomicileChania-Venetian-Residence-chania-crete" class="for-over" >
+               
+              <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/West_Crete/15/tn_DomicileChania_Venetian_Residence-11_1.jpg"  alt="deal-image" ></a>
+             
+              <div class="discountInfo">                <div class="discountOffer">
+                  <h4>
+                     <span>OFFER</span> 
+                  </h4>
+                </div>              </div>
+              <div class="caption">
+             
+                                     <h4><a href="https://www.cretetravel.com/en/hotel/15/DomicileChania-Venetian-Residence-chania-crete" class="captionTitle">DomicileChania - Venetian Residence</a></h4><br/>
+                                  <p>DomicileChania Venetian Residence, a dream come true. The path to heaven is not a secret one...</p>
+                <div class="detailsInfo">
+                  <h5>
+                    <span>Start From</span>
+                    € 105
+                  </h5>
+                  <ul class="list-inline detailsBtn">
+                    
+                                           <li><a href='https://www.cretetravel.com/en/hotel/15/DomicileChania-Venetian-Residence-chania-crete' class="btn buttonTransparent">Book now</a></li>
+                                        </ul>
+                </div>
+              </div>
+            </div> </div>
+                     </div>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="btnArea">
+             <a href="https://www.cretetravel.com/en/hotels/general/all/list" class="btn buttonTransparent" style="color:#ffffff;background-color: #01ace4 !important;">Discover Places That Strip Your Soul</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+
+     <!-- TOUR PACKAGES -->
+    <section class="whiteSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="sectionTitle">
+              <h2><span>Our Most Popular Activities</span></h2>
+              <p>For the most memorable experiences</p>
+            </div>
+          </div>
+        </div>
+       
+        <div class="row isotopeContainer1" >
+                      <div class="col-sm-4 isotopeSelector" > 
+             
+              <article >
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/West_Crete/48/tn_Olive_Farm_Crete_13.jpg" alt="Cretetravel" />
+                  <h4 style="font-decoration:capitalize;">Artisan Cheese Workshop and Tasting</h4>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/activity/48/Artisan_Cheese_Workshop_and_Tasting">
+                                        <div class="overlayInfo">
+                      <h5>duration <span>1-4 Hours</span></h5>
+                     
+                        <p><i class="fa fa-running" aria-hidden="true"></i><br/>Small Group</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+           </div>
+                      <div class="col-sm-4 isotopeSelector" > 
+             
+              <article >
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/East_Crete/95/tn_Spathi_Day_Trip_CreteTravel_3.jpg" alt="Cretetravel" />
+                  <h4 style="font-decoration:capitalize;">Spathi Hiking - Day Trip</h4>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/activity/95/Spathi_Hiking_-_Day_Trip">
+                                        <div class="overlayInfo">
+                      <h5>duration <span>Full Day</span></h5>
+                     
+                        <p><i class="fa fa-running" aria-hidden="true"></i><br/>Private</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+           </div>
+                      <div class="col-sm-4 isotopeSelector" > 
+             
+              <article >
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/Central_Crete/120/tn_R_MigadisGiannis.jpg" alt="Cretetravel" />
+                  <h4 style="font-decoration:capitalize;">Viannos Art Gallery - Savvas Petrakis</h4>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/activity/120/Viannos_Art_Gallery_-_Savvas_Petrakis">
+                                        <div class="overlayInfo">
+                      <h5>duration <span>1-4 Hours</span></h5>
+                     
+                        <p><i class="fa fa-running" aria-hidden="true"></i><br/>Self-Guided</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+           </div>
+                      <div class="col-sm-4 isotopeSelector" > 
+             
+              <article >
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/South_Crete/131/tn_Agiofaraggo_Manolis_Dretakis_1.jpg" alt="Cretetravel" />
+                  <h4 style="font-decoration:capitalize;">Agiofaraggo Beach</h4>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/activity/131/Agiofaraggo_Beach">
+                                        <div class="overlayInfo">
+                      <h5>duration <span>Full Day</span></h5>
+                     
+                        <p><i class="fa fa-running" aria-hidden="true"></i><br/>Self-Guided</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+           </div>
+                      <div class="col-sm-4 isotopeSelector" > 
+             
+              <article >
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/West_Crete/54/tn_R_CreteTravel.com_Cooking_10.jpg" alt="Cretetravel" />
+                  <h4 style="font-decoration:capitalize;">Cretan - Greek Pie Workshop</h4>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/activity/54/Cretan_-_Greek_Pie_Workshop">
+                                        <div class="overlayInfo">
+                      <h5>duration <span>1-4 Hours</span></h5>
+                     
+                        <p><i class="fa fa-running" aria-hidden="true"></i><br/>Small Group</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+           </div>
+                      <div class="col-sm-4 isotopeSelector" > 
+             
+              <article >
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/South_Crete/187/tn_Sfakia_Fishing_Experience_11.jpg" alt="Cretetravel" />
+                  <h4 style="font-decoration:capitalize;">Most memorable and authentic fishing experience in south Chania</h4>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/activity/187/Most_memorable_and_authentic_fishing_experience_in_south_Chania">
+                                        <div class="overlayInfo">
+                      <h5>duration <span>Full Day</span></h5>
+                     
+                        <p><i class="fa fa-running" aria-hidden="true"></i><br/>Small Group</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+           </div>
+                      
+        </div>
+     
+
+       <div class="row">
+          <div class="col-xs-12">
+            <div class="btnArea">
+               <a href="https://www.cretetravel.com/en/activities/general/all/list" class="btn buttonTransparent" style="color:#ffffff;background-color: #01ace4 !important;">CHOOSE YOUR NEXT EXCITING EXPERIENCE</a>
+            </div>
+          </div>
+      </div>
+      
+     </div>
+    </section>
+
+    
+
+    <!-- TOUR PACKAGES -->
+    <section class="mainContentSection packagesSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="sectionTitle">
+              <h2><span class="lightBg">Offers to not miss</span></h2>
+              <p>Discover our most tempting deals & offers</p>
+            </div>
+          </div>
+        </div>
+       
+        <div class="row isotopeContainer1">
+                      <div class="col-sm-4 isotopeSelector ">
+              <article class="">
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/West_Crete/8/tn_Alcanea_Boutique_Hotel_30.jpg" alt="Cretetravel" />
+                                          <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/8/Alcanea_Boutique_Hotel_-_Chania">
+                                        <h4>Alcanea Boutique Hotel - Chania</h4>
+                    </a>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                    
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/8/Alcanea_Boutique_Hotel_-_Chania">
+                                        <div class="overlayInfo">
+                      <h5>from <span> € 75</span></h5>
+                     
+                        <p><i class="fa fa-home" aria-hidden="true"></i>Mid-Size Hotels</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+            </div>
+                      <div class="col-sm-4 isotopeSelector ">
+              <article class="">
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/East_Crete/123/tn_Terra_Minoika_Villas_101.jpg" alt="Cretetravel" />
+                                          <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/123/Terra_Minoika_Boutique_Resort">
+                                        <h4>Terra Minoika Boutique Resort</h4>
+                    </a>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                    
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/123/Terra_Minoika_Boutique_Resort">
+                                        <div class="overlayInfo">
+                      <h5>from <span> € 100</span></h5>
+                     
+                        <p><i class="fa fa-home" aria-hidden="true"></i>Houses</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+            </div>
+                      <div class="col-sm-4 isotopeSelector ">
+              <article class="">
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/West_Crete/18/tn_Falasarna_Villas_10.jpg" alt="Cretetravel" />
+                                          <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/18/Falasarna_Villas">
+                                        <h4>Falasarna Villas</h4>
+                    </a>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                    
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/18/Falasarna_Villas">
+                                        <div class="overlayInfo">
+                      <h5>from <span> € 190</span></h5>
+                     
+                        <p><i class="fa fa-home" aria-hidden="true"></i>Villas</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+            </div>
+                      <div class="col-sm-4 isotopeSelector ">
+              <article class="">
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/West_Crete/30/tn_Dias_House_NataliasHouses_10.jpg" alt="Cretetravel" />
+                                          <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/30/Natalia’s_Houses">
+                                        <h4>Natalia’s Houses</h4>
+                    </a>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                    
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/30/Natalia’s_Houses">
+                                        <div class="overlayInfo">
+                      <h5>from <span> € 89</span></h5>
+                     
+                        <p><i class="fa fa-home" aria-hidden="true"></i>Houses</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+            </div>
+                      <div class="col-sm-4 isotopeSelector ">
+              <article class="">
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/South_Crete/24/tn_Libyan_Mare_Hotel_-_Paleochora_-_9.jpg" alt="Cretetravel" />
+                                          <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/24/Libyan_Mare_Hotel_-_Suites">
+                                        <h4>Libyan Mare Hotel - Suites</h4>
+                    </a>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                    
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/24/Libyan_Mare_Hotel_-_Suites">
+                                        <div class="overlayInfo">
+                      <h5>from <span> € 55</span></h5>
+                     
+                        <p><i class="fa fa-home" aria-hidden="true"></i>Small Hotels/Inns</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+            </div>
+                      <div class="col-sm-4 isotopeSelector ">
+              <article class="">
+                <figure>
+                  <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/South_Crete/86/tn_Villa_Kamilari_1.jpg" alt="Cretetravel" />
+                                          <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/86/Villa_Kamilari">
+                                        <h4>Villa Kamilari</h4>
+                    </a>
+                  <div class="overlay-background">
+                    <div class="inner"></div>
+                  </div>
+                  <div class="overlay">
+                    
+                                            <a class="fancybox-pop" href="https://www.cretetravel.com/en/hotel/86/Villa_Kamilari">
+                                        <div class="overlayInfo">
+                      <h5>from <span> € 110</span></h5>
+                     
+                        <p><i class="fa fa-home" aria-hidden="true"></i>Villas</p>
+                    </div>
+                    </a>
+                  </div>
+                </figure>
+              </article>
+            </div>
+                      
+        </div>
+      
+
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="btnArea">
+          
+              <a href="https://www.cretetravel.com/en/hotels/general/offers/list" class="btn buttonTransparent" style="color:#ffffff;background-color: #01ace4 !important;">CHECK OUT THE SPECIAL OFFERS</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- INQUIRY MODAL -->
+    <div class="modal fade bookingModal modalBook" id="inquiryModal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Inquiry About Tour</h4>
+          </div>
+          <div class="modal-body">
+            <form action="#">
+              <div class="form-group">
+                <input type="text" class="form-control" id="yourName" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" id="yourEmail" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" id="phoneNumber" placeholder="Phone Number">
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+              </div>
+              <button type="submit" class="btn buttonCustomPrimary">Submit</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+<section class="whiteSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="sectionTitle">
+              <h2><span>Our Sites</span></h2>
+              
+            </div>
+          </div>
+        </div>
+
+      <div class="row" >
+        <div class="col-xs-12 col-sm-4" >
+          <a href="https://www.crete-car-rental.com"><img src="https://www.cretetravel.com/templates/themes/cretetravel/img/crete-car-rental.png" alt="Crete Travel" /><br/><caption>Quality Cars at Best Prices</caption></a>
+        </div>
+        <div class="col-xs-12 col-sm-4" >
+          <a href="https://www.superbtravel.gr"><img src="https://www.cretetravel.com/templates/themes/cretetravel/img/superb-travel.png" alt="Crete Car Rental" /><br/><caption>Superb Travel</caption></a>
+        </div>
+        <div class="col-xs-12 col-sm-4 " >
+          <a href="https://www.superbgreece.com"><img src="https://www.cretetravel.com/templates/themes/cretetravel/img/superb-greece.png" alt="Superb Greece" /><br/><caption>The Greece You Are Looking For</caption></a>
+        </div> 
+      </div>
+    </div>
+  </section>
+<p></p><hr>
+  <footer>
+  <div class="footer clearfix">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-xs-12">
+          <div class="footerContent">
+            <a href="https://www.cretetravel.com/en/index.php" class="footer-logo"><img src="https://www.cretetravel.com/templates/themes/cretetravel/img/favicon.ico" alt="footer-logo"> CreteTravel.com</a>
+              <ul class="list-unstyled" >
+                    <li style="border-radius: 5px;margin-bottom: 5px;margin-top: 15px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>We are real people (from Crete)</li>
+                    <li style="border-radius: 5px;margin-bottom: 5px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>We do what we love</li>
+                    <li style="border-radius: 5px;margin-bottom: 5px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>Expert destination knowledge(20 years)</li>
+                    <li style="border-radius: 5px;margin-bottom: 5px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>Hand picked selection of small hotels & villas</li>
+                    <li style="border-radius: 5px;margin-bottom: 5px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>Most amazing activities in Crete</li>
+                    <li style="border-radius: 5px;margin-bottom: 5px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>High quality personal service</li>
+                    <li style="border-radius: 5px;margin-bottom: 5px;"><span style="color: #01ace4;"><i class="fa fa-check-square" aria-hidden="true"></i></span>Tailor-made holidays (no touristy).</li>
+                  </ul>
+          </div>
+        </div>
+        <div class="col-sm-3 col-xs-12">
+          <div class="footerContent">
+            <h5>Need to contact us?</h5>
+            <p>We will love to hear from you</p>
+            <ul class="list-unstyled">
+              <li><i class="fa fa-home" aria-hidden="true"></i>Boniali 12, 73100 Chania, Crete, Greece </li>
+              <li><i class="fa fa-phone" aria-hidden="true"></i>Write us via WhatsApp :<br/> +30 6944357275 (based in Crete)</li>
+              <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailTo:reservations@cretetravel.com"><span class="__cf_email__" data-cfemail="0f7d6a7c6a7d796e7b6660617c4f6c7d6a7b6a7b7d6e796a63216c6062">[email&#160;protected]</span></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-3 col-xs-12">
+          <div class="footerContent imgGallery">
+            <h5>Gallery</h5>
+            <div class="row">
+                              <div class="col-xs-4">
+                  <a class="fancybox-pop" href="https://www.cretetravel.com/modules/hotels/fotografies/hotels/Central_Crete/82/R_Siornikoletos9.jpg">
+                    <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/Central_Crete/82/tn_R_Siornikoletos9.jpg" alt="image"></a>
+                </div>
+                              <div class="col-xs-4">
+                  <a class="fancybox-pop" href="https://www.cretetravel.com/modules/hotels/fotografies/events/East_Crete/11/R_casadeimezzo7.jpg">
+                    <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/events/East_Crete/11/tn_R_casadeimezzo7.jpg" alt="image"></a>
+                </div>
+                              <div class="col-xs-4">
+                  <a class="fancybox-pop" href="https://www.cretetravel.com/modules/hotels/fotografies/events/Central_Crete/8/Rethymno_Days_111.jpg">
+                    <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/events/Central_Crete/8/tn_Rethymno_Days_111.jpg" alt="image"></a>
+                </div>
+                              <div class="col-xs-4">
+                  <a class="fancybox-pop" href="https://www.cretetravel.com/modules/hotels/fotografies/hotels/East_Crete/106/Glaros_Apartments_Garden3.jpg">
+                    <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/hotels/East_Crete/106/tn_Glaros_Apartments_Garden3.jpg" alt="image"></a>
+                </div>
+                              <div class="col-xs-4">
+                  <a class="fancybox-pop" href="https://www.cretetravel.com/modules/hotels/fotografies/gastronomies/South_Crete/6/IliosRestaurant_Loutro_9.jpg">
+                    <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/gastronomies/South_Crete/6/tn_IliosRestaurant_Loutro_9.jpg" alt="image"></a>
+                </div>
+                              <div class="col-xs-4">
+                  <a class="fancybox-pop" href="https://www.cretetravel.com/modules/hotels/fotografies/activities/West_Crete/65/Elafonisi_Beach_CreteTravel_13.jpg">
+                    <img src="https://www.cretetravel.com/modules/hotels/fotografies/thumbnails/activities/West_Crete/65/tn_Elafonisi_Beach_CreteTravel_13.jpg" alt="image"></a>
+                </div>
+                          </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 col-xs-12">
+          <div class="footerContent">          
+            <button type="button" onclick="topFunction()" id="myBtn" title="Go to top" type="button">Top</button> 
+          </div>
+        </div>
+
+        <div class="col-sm-3 col-xs-12">
+          <div class="footerContent">
+          
+            <h5>newsletter</h5>
+            <p>Bring the sunshine of Crete, our latest news and offers to you.</p>
+            <form  method="post" action="https://newsletter.cretetravel.com/?p=subscribe&id=1" name="subscribeform" id="subscribeform" enctype="multipart/form-data">
+            <div class="input-group">
+             
+            <input type="text" id="email_newsletter" name="email_newsletter" class="form-control" placeholder="Enter your email" aria-describedby="basic-addon21">
+            <input type="hidden" name="htmlemail" value="1" /> 
+            <input type="hidden" name="list[3]" value="signup" /> 
+            <input type="hidden" name="listname[3]" value="Newsletter"/>
+            <input type="hidden" name="subscribe" value="subscribe"/> 
+            <span class="input-group-addon"  id="basic-addon21">
+            <button type="submit" style="background: transparent;border:0px;"  name="submit_newsletter" id="submit_newsletter" ><i class="fa fa-long-arrow-right"></i></button></span>
+            </div> 
+            <div id="result"></div>
+            </form>          
+           
+            <ul class="list-inline">
+              <li><a href="https://www.facebook.com/CreteTravelcom" target="_new"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/cretetravel" target="_new"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <!--<li><a href="https://plus.google.com/u/0/b/106965057175922340750/106965057175922340750/posts"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
+              <li><a href="https://www.google.de/search?hl=en&_ga=2.211268885.1012371054.1593942137-2119759875.1591975426&q=CreteTravel&ludocid=3895016811032592402&lsig=AB86z5XUBWmF488NCQJ2le0P5g7W" target="_new"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.pinterest.ch/superbtravel/" target="_new"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+              <li><a href="https://vimeo.com/user16147272" target="_new"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyRight clearfix">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-sm-push-6 col-xs-12">
+          <ul class="list-inline">
+            <li><a href="https://www.cretetravel.com/en/General/Privacy_Policy.html">Privacy Policy</a></li>
+            <li><a href="https://www.cretetravel.com/en/General/Terms_Conditions.html">Terms &amp; Conditions</a></li>
+            <li><a href="https://www.cretetravel.com/en/General/About_Us.html">About Us</a></li>
+            <li><a href="https://www.cretetravel.com/en/General/Why_us.html">Why Us</a></li>
+            <li><a href="https://www.cretetravel.com/en/contactUs.html">Support</a></li>
+            <li><a href="https://www.cretetravel.com/en/Travel_Tips/Health_Insurance_Security/Travel_Insurance">Travel Insurance</a></li>
+            <li><a href="https://www.cretetravel.com/en/Blog">Visit Our Blog</a></li>
+             <li><a href="https://www.cretetravel.com/en/faq/all">FAQ</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-6 col-sm-pull-6 col-xs-12">
+          <div class="copyRightText">
+            <p ><span class="small text-muted">GNTO (EOT) License Number: 1042E60000259801</span></p>
+            <p>Copyright © 2019. All Rights Reserved by <a target="_blank" href="https://www.guru-host.co.uk/">Guru host</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</div>
+
+<!-- Signup Modal -->
+<div class="modal fade signupLoging" id="signup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content modalContentCustom">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Create your account</h4>
+      </div>
+      <div class="modal-body">
+        <form method="post" action="">
+          <div class="form-group">
+            <input type="text" class="form-control bg-ash" id="thename" placeholder="Full Name">
+          </div>
+          <div class="form-group">
+            <input type="email" class="form-control bg-ash" id="theemail" placeholder="Email">
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control bg-ash" id="thepassword" placeholder="Password">
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox"> I agree to the terms of use and privacy.
+            </label>
+          </div>
+          <button type="submit" class="btn btn-default">Login</button>
+        </form>
+        <div class="or">
+          or
+        </div>
+        <a class="btn btn-default btnSocial"  href="#">Log in with facebook</a>
+      </div>
+
+      <div class="modal-footer">
+          <div class="dontHaveAccount">
+            <p>Don’t have an Account?<a href=""> Sign up</a></p>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Login Modal -->
+<div class="modal fade signupLoging" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content modalContentCustom">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Log in to your account</h4>
+      </div>
+      <div class="modal-body">
+        <form method="post" action="">
+          <div class="form-group">
+            <input type="email" class="form-control bg-ash" id="email" placeholder="Email">
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control bg-ash" id="password" placeholder="Password">
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox"> Remember me
+            </label>
+            <a class="forgotPass clerfix" href="">Fogot Password?</a>
+          </div>
+          <button type="submit" class="btn btn-default">Login</button>
+        </form>
+        <div class="or">
+          or
+        </div>
+        <a class="btn btn-default btnSocial"  href="#">Log in with facebook</a>
+      </div>
+
+      <div class="modal-footer">
+          <div class="dontHaveAccount">
+            <p>Don’t have an Account?<a href=""> Sign up</a></p>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+   <!-- Iframe -->
+<!--<div class="iframe-wrapper">
+  <iframe class="demo-iframe" frameborder="0" noresize="noresize"></iframe>
+</div>-->
+
+
+<!-- JAVASCRIPTS -->
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>if ( top !== self ) top.location.replace( self.location.href );</script>
+
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/jquery-2.2.4.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/selectbox/jquery.selectbox-0.1.3.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/datepicker/bootstrap-datepicker.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/jquery/waypoints.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/counter-up/jquery.counterup.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/isotope/isotope.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/isotope/jquery.fancybox.pack.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/isotope/isotope-triger.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/countdown/jquery.syotimer.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/plugins/slick/slick.min.js"></script>
+<script src="https://www.cretetravel.com/templates/themes/cretetravel/js/custom.js"></script>
+
+<script src="https://www.cretetravel.com/modules/hotels/autocomplete/typeahead.bundle.js"></script>
+<script src="https://www.cretetravel.com/modules/hotels/autocomplete/typeahead.min.js"></script>
+
+<!-- Begin of Chaport Live Chat code -->
+<script type="text/javascript">
+(function(w,d,v3){
+w.chaportConfig = {
+appId : '5b102468a0b66d7b8919d943'
+};
+
+if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+</script>
+<!-- End of Chaport Live Chat code -->
+
+</body>
+
+</html>

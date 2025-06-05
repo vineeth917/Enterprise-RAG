@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <title>A bit of background</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow" />
+        <meta property="og:title" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:image" content="" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://www.nomadicgilpins.net" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="" />
+        <meta name="twitter:description" content="" />
+        <meta name="twitter:image" content="" />
+        
+        
+        <link rel="canonical" href="http://www.nomadicgilpins.net">
+        <link rel="shortcut icon" href="/img/preset/favicon_publish/favicon_000.ico?no_cache=5ffb47d04af33" >
+        <link rel="alternate" href="http://www.nomadicgilpins.net" hreflang="en" />
+        <!-- Google Font or other font -->
+        <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:700|Crimson+Text:700|Droid+Serif:700|Lora:700" rel="stylesheet">
+        <!-- Javascript libraly -->
+        <script src="/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="/js/vendor/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="/js/vendor/jquery-ui-1.12.1/jquery-ui.min.css">
+        <!-- Simdif v2 script -->
+        <script src="/js/main.js"></script>
+        <!-- 3rd party script -->
+        <script src="/js/plugins.js"></script>
+        <script src="/js/vendor/imagelightbox.min.js"></script>
+        <script src="/js/vendor/validator.min.js"></script>
+        
+        
+        
+        <script type="text/javascript" src="/js/vendor/jquery.onoff.js"></script>
+        <link rel="stylesheet" href="/css/jquery.onoff.css" type="text/css" />
+        <!-- CSS -->
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/imagelightbox.css">
+        <link rel="stylesheet" href="/css/sd_main.css">
+        <link rel="stylesheet" href="/css/sd_icon.css">
+        <link rel="stylesheet" href="/css/sd_color.css">
+        <link rel="stylesheet" href="/css/sd_shapes.css">
+        <link rel="stylesheet" href="/css/sd_header.css">
+        <link rel="stylesheet" href="/css/sd_footer.css">
+        <link rel="stylesheet" href="/css/sd_media.css">
+        <style>
+            
+        </style>
+        <link rel="stylesheet" href="css/sd_style.css">
+                
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <img src="/img/sd_main_logo.jpg" alt="sd main logo" style="display: none; position: absolute; left: -1000px; top: -1000px;">
+        <div class="sd-home-page">
+            <div id="sd-wrapper" class="sd-publish-site sd-header-page-type-classic">
+                <div class="sd-bg-wrapper sd-header-image"></div>
+                <div class="sd-bg-wrapper-texture"></div>
+                <div id="sd-wrap-content" class="sd-container">
+                    <div class="sd-top-panel"> <span class="sd-top-panel-view-cart sd-top-panel-view-cart-top"></span>
+                        
+                    </div>
+                                        <div id="sd-main-wrap">
+                                                <header id="sd-header">
+                            <div id="sd-strip-bar-main-wrapper">
+    <div id="sd-strip-bar" class="fix-height">
+                    <div id="sd-site-logo" class="sd-site-logo-none">
+                <img src="/img/preset/logos/logo_001.png?nocache=1610303440" >
+            </div>
+                <div id="sd-strip-bar-wrap-container">
+            <div id="sd-strip-bar-wrap" >
+                                    <h1 id="sd-site-title" class="">Nomadic Gilpins</h1>
+                    <div class="sd-site-contact">
+                        <a href="contact.html" class="sd-button sd-contact-btn">Contact us</a>
+                    </div>
+                                <div id="sd-strip-bar-background"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<a href="#" class="sd-button sd-mobnav-btn">
+    <span class="sd-nav-icon">
+        <span class="sd-icon-bar1"></span>
+        <span class="sd-icon-bar2"></span>
+        <span class="sd-icon-bar3"></span>
+    </span><span id="phone_menu_button" name="phone_menu_button" class="sd-nav-menu">Menu</span><span class="menu-triangle">&#9662;</span>
+</a>
+<div class="sd-header-image">
+                </div>
+<div id="sd-header-gradient"></div>
+<!--  -->
+                        </header>
+                                                <div id="sd-overlay"></div>
+    
+                        <main id="sd-main" class="clearfix">
+                            <div id="sd-column-nav">
+                                <nav class="sd-main-nav">
+                                    <ul class="sd-tab" >
+            
+        
+                                    <li class="sd-tab-item sd-tab-item-active" ><a href="index.html"><div class="">Introduction</div></a></li>
+                        
+                        
+                    
+        
+                                    <li class="sd-tab-item" ><a href="how-to-read-this-blog.html"><div class="">Updates </div></a></li>
+                                            
+        
+                     <li class="sd-tab-item sd-tab-item-space" ></li>
+        
+                    
+        
+                                    <li class="sd-tab-item" ><a href="page-3757130.html"><div class="">2020 COVID continues...</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="page-2980370.html"><div class="">2020 first half </div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="xmas-greetings.html"><div class="">Annual message - 2019</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2018-jan-to-mar.html"><div class="">2018 & 2019</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2017-oct-8-to-dec.html"><div class="">2017 Oct 8 to Dec</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2017-jul-to-sep-.html"><div class="">2017 Jul to Oct 7</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2017-apr-to-jun.html"><div class="">2017 Apr to Jun</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2017-jan-to-mar.html"><div class="">2017 Jan to Mar</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="using-this-blog.html"><div class="">2016 Oct to Dec</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2016-oct-to-dec.html"><div class="">2016 Jul to Sep</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="2016-jul-to-sep.html"><div class="">2016 Apr to Jun</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="travel-posts-2016-jan-to-mar.html"><div class="">2016 Jan to Mar</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="travel-posts-2016.html"><div class="">2015 Apr to Dec</div></a></li>
+                                            
+        
+                     <li class="sd-tab-item sd-tab-item-space" ></li>
+        
+                    
+        
+                                    <li class="sd-tab-item" ><a href="page-1823728.html"><div class="">Previous annual messages</div></a></li>
+                                            
+        
+                                    <li class="sd-tab-item" ><a href="contact.html"><div class="">Contact us</div></a></li>
+                                            
+        
+                     <li class="sd-tab-item sd-tab-item-space" ></li>
+        
+                    
+                
+                
+                
+                
+            
+    </ul>
+                                </nav>
+                            </div>
+    
+                            <section id="sd-column-page" class="sd-content-border sd-page-content">
+                                <div class="sd-column-page-content">
+                                    <h1 class="sd-page-title">A bit of background</h1>
+    
+<div id="sd-block-content">
+        
+    <div class="sd-block sd-block-text-image clearfix" >
+            
+        
+        <div class="sd-block-image sd-img-align-right sd-img-small">
+                            <a href="images/public/sd_5d3db996e2d13.jpg?nocache=1610303453" target="_blank" data-imagelightbox=show>
+                    <img class="" src="images/th/sd_5d3db996e2d13.jpg?nocache=1610303453" alt="Offas Dyke Path, October 2014" />
+                </a>
+                                        <div class="sd-image-desc">Offas Dyke Path, October 2014</div>
+                    </div>
+        
+        <div class="sd-block-title-div">
+                            <h2 class="sd-block-title" ></h2>
+                    </div>
+        
+                    <div class="sd-block-text-desc" ><p>In northern summer 2015 we finally bit the bullet and started a blog.  It's not that we think our travels are worthy of publication;  more that we struggle to keep up the communications with our friends and relatives, most
+    of them back home in Australia.  We're hoping this blog will help in that regard, as well as reminding us where we're been.</p>
+<p>
+    <br>
+</p>
+<p>So in summary, the story thus far is this.  2011 saw retirement arrive for us both;  Rosemarie from her house renovation activities and John from corporate life.  The first task was to downsize from the large family home of the last
+    twenty years on Sydney's North Shore.  This proved more difficult than we expected and after two years, punctuated by both a long trip through Outback Australia and a visit to China, we headed to London in March 2013 intending
+    to stay for a couple of years while tenants in the house helped us defer the downsizing plan.  We did have serious thoughts of living in a narrowboat, roaming the amazing UK canal network, but instead our 7.5m French motorhome
+    proved to be the ideal accommodation and transport for over 20,000 kms of European meandering.</p>
+<p>
+    <br>
+</p>
+<p>We've camped since before we were married and since then have always enjoyed the mobile and outdoor life, whether it be bicycle or motorcycle touring, family holiday or outback (4WD) camping.  By comparison our motorhome lifestyle in Europe feels
+    like soft luxury camping so it's no surprise that we're become very partial to this lifestyle.
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p>We've had some great travels in mainland Europe, spending time in the Czech Republic and Austria but mostly
+    in France, Germany, Belgium and the Netherlands in which four countries we've also done a lot of cycling.  Highlights include the MotoGP in Brno, the Berlin Marathon, a rally with the German Vintage Cycling Club, tandem rallies
+    in Brittany and the Netherlands and a fortnight on the Western Front.  We'll try, when or if we get around to it, to backfill with more details of our European travels during the two years before March 2015, and even earlier
+    if possible.
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p>To explain why London is our European base, for those of our more recently acquired friends, the one-word answer is children.  Amy, then Louisa, then Tim one by one from the late nineties to the late noughties, migrated to London;
+     their moves readily facilitated by dual nationality.  While they remain Australians to the core, not even Sydney can beat London as a location for jobs, nightlife and travel.  And the acquisition of British partners has helped
+    keep them there, despite the weather.</p>
+<p>
+    <br>
+</p>
+<p>In August 2016 we upgraded our motorhome to a larger German model more suitable for quite some more years of this most enjoyable touring lifestyle. Ultimately, no doubt, we'll have to work out whether a more permanent residence is required,
+    and whether it's going to be in Europe or Australia. We think that might take a little while.</p>
+<p>
+    <br>
+</p>
+<p>                                                                JFG  June 2017</p></div>
+            </div>
+    
+<div class="sd-block sd-block-text clearfix" >
+            
+        
+        <div class="sd-block-title-div">
+                            <h2 class="sd-block-title" ></h2>
+                    </div>
+        
+                    <div class="sd-block-text-desc" > <h2>Navigating this blog...</h2>
+<div>
+    <p>As you can see, I use SimDif as the web-builder for this blog.  It's simple to use and great for anyone with iPad, iPhone or Android not wanting to get caught up in any coding or technical issues.  </p><p><span style="font-size: 1em; -webkit-text-size-adjust: 100%;">From 2020, the blog layout has changed to incorporate a cloud storage product called SmugMug that stores our photos.  Each year’s page will now be in less confusing chronological layout.  Hopefully it’s easier to follow and easier for us to keep it up to date!</span><br></p><p><span style="font-size: 1em; -webkit-text-size-adjust: 100%;">But the quarterly journal
+        pages I used for chronicling our activities up till 2018 were a bit clunky to follow.  </span><span style="font-size: 1em; -webkit-text-size-adjust: 100%;">Just remember to pick the calendar quarter you're interested in and then remember that, like email, the most recent entries will be at the top. Each entry shows the relevant date.  So the more recent dates are at the top of the first page,
+        and those at the beginning of the quarter will be at the bottom of the last page.</span></p>
+    <p>For those less familiar with blogs, click or touch pictures for an enlarged view, and click or touch any blue text to link to relevant web references.   
+        <br>
+    </p>
+</div>
+</div>
+            </div>
+    
+    
+    </div>
+    
+                                </div>
+                            </section>
+                        </main>
+    
+                        <footer id="sd-footer">
+                            
+                        </footer>
+    
+                    </div>
+                    <div id="sd-bottom" class="clear">
+                        <div id="sd-bottom-icon" class="sd-bottom-style">
+                                          <a href="https://play.google.com/store/apps/details?id=com.simple_different.android" target="_blank">
+                    <div class="sd-btn-author sd-btn-author-app">
+                        <div class="sd-img-2-icon sd-icon-android"></div>
+                    </div>
+                </a>
+                <a href="https://apps.apple.com/app/id560089880" target="_blank">
+                    <div class="sd-btn-author sd-btn-author-app">
+                        <div class="sd-img-2-icon sd-icon-appleinc"></div>
+                    </div>
+                </a>
+                <a href="https://simdif.com/en" target="_blank">
+                    <div class="sd-btn-author">
+                        <div class="sd-bottom-text">Made with SimDif 2</div>
+                    </div>
+                </a>
+                        </div>
+<div id="sd-credit" class="sd-bottom-style">
+                        <div class="sd-btn-created">John F. Gilpin</div>
+            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sd-publish-loader-icon"><img src="/img/loader.gif"></div>
+        <!-- Image lightbox wrapper content -->
+        <div class="imagelightbox-wrap"></div>
+                
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25286939-59"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag("js", new Date());
+            
+              gtag("config", "UA-25286939-59", {
+                    "page_path"     : "/www.nomadicgilpins.net/index.html",
+                });
+            </script>
+            
+                
+                
+    </body>
+</html>

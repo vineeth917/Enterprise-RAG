@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+		<script src='/assets/jquery/js/jquery-3.7.1.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/bootstrap/css/bootstrap.css' type='text/css' media='all'/>
+<script src='/assets/bootstrap/js/bootstrap.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/bootstrap/css/bootstrap-theme.css' type='text/css' media='all'/>
+<script src='/assets/jquery/js/jquery-migrate-3.4.0.min.js' type='text/javascript'></script>
+<script src='/assets/plyr/plyr.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/plyr/plyr.css' type='text/css' media='all'/>
+<script src='/assets/jquery/circular-slider/circular-slider.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/jquery/circular-slider/circular-slider.css' type='text/css' media='all'/>
+<script src='/assets/jquery/js/threesixty.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/fontawesome/css/all.css' type='text/css' media='all'/>
+<script src='/assets/pdfjs/pdf.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/pdfjs/viewer/viewer.css' type='text/css' media='all'/>
+<script src='/assets/jquery/js/jquery.scrollTo.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/themes/otherminds/assets/pawtucket/css/fonts.css' type='text/css' media='all'/>
+<script src='/assets/jquery/js/jquery.cookie.js' type='text/javascript'></script>
+<script src='/assets/jquery/js/jquery.cookiejar.js' type='text/javascript'></script>
+<script src='/assets/jquery/js/jquery.jscroll.js' type='text/javascript'></script>
+<script src='/assets/jquery/js/jquery.hscroll.js' type='text/javascript'></script>
+<script src='/assets/jquery/js/jquery.jscrollpane.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/jquery/js/jquery.jscrollpane.css' type='text/css' media='all'/>
+<script src='/assets/ca/js/ca.utils.js' type='text/javascript'></script>
+<script src='/assets/jquery/jquery-ui/jquery-ui.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/jquery/jquery-ui/jquery-ui.min.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='/assets/jquery/jquery-ui/jquery-ui.structure.min.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='/assets/jquery/jquery-ui/jquery-ui.theme.min.css' type='text/css' media='all'/>
+<script src='/assets/ca/js/ca.genericpanel.js' type='text/javascript'></script>
+<script src='/assets/mediaelement/mediaelement-and-player.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/mediaelement/mediaelementplayer.min.css' type='text/css' media='all'/>
+<script src='/assets/jquery/js/jquery.mousewheel.js' type='text/javascript'></script>
+<script src='/assets/chartist/dist/chartist.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/chartist/dist/chartist.min.css' type='text/css' media='all'/>
+<script src='/assets/jquery/js/jquery.jCarousel.js' type='text/javascript'></script>
+<link rel='stylesheet' href='/assets/jquery/js/jquery.jCarousel.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='/themes/otherminds/assets/pawtucket/css/main.css' type='text/css' media='all'/>
+
+	<title>Other Minds Archives Online</title>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+    		jQuery('#browse-menu').on('click mouseover mouseout mousemove mouseenter',function(e) { e.stopPropagation(); });
+    	});
+	</script>
+	<link rel='stylesheet' href='/themes/otherminds/assets/pawtucket/css/custom.css?v=1.2.3' type='text/css' media='all'/>
+	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-16XHQLSVQY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-16XHQLSVQY');
+</script>
+
+</head>
+
+<body class="page-front">
+<div id="site-container">
+	<div id="skipNavigation"><a href="#main">Skip to main content</a></div>
+	<nav class="navbar navbar-default yamm" role="navigation">
+		<div id="mininav">
+			<div class="container">
+				<ul id="mininav-menu">
+					<li>
+						<a href="https://www.otherminds.org/join-mailing-list">Join Email List</a>
+					</li>
+					<li>
+						<a href="https://www.otherminds.org/news/">OM News</a>
+					</li>
+					<li>
+						<a href="https://webstore.otherminds.org/">OM Store</a>
+					</li>
+				<!--	<li>
+						<a href="https://www.otherminds.org/about/#om-contact">Contact</a>
+					</li> -->
+				</ul>
+									<ul class="nav navbar-nav navbar-right" id="user-navbar" role="list" aria-label="User Navigation">
+						<li class="dropdown" style="position:relative;">
+							<a href="#" class="dropdown-toggle icon" data-toggle="dropdown"><span class="glyphicon glyphicon-user" aria-label="User options"></span></a>
+							<ul class="dropdown-menu" role="list"><li><a href='#' onclick='caMediaPanel.showPanel("/index.php/LoginReg/LoginForm"); return false;' >Login</a></li>
+<li><a href='#' onclick='caMediaPanel.showPanel("/index.php/LoginReg/RegisterForm"); return false;' >Register</a></li></ul>
+						</li>
+					</ul>
+									<form class="navbar-form navbar-right" role="search" action="/index.php/MultiSearch/Index" aria-label="Search">
+					<div class="formOutline">
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Search" name="search" autocomplete="off" aria-label="Search text" />
+						</div>
+						<button type="submit" class="btn-search"><span class="glyphicon glyphicon-search" aria-label="Submit"></span></button>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="container menuBar">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle navbar-toggle-user" data-toggle="collapse" data-target="#user-navbar-toggle">
+					<span class="sr-only">User Options</span>
+					<span class="glyphicon glyphicon-user"></span>
+				</button>
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-main-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+<a href='/index.php' class='navbar-brand'><img src='/themes/otherminds/assets/pawtucket/graphics/OM_archives_faux_logo_v1b2_with-type-285.png' alt='Other Minds Archives Online' /></a>			</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+			<!-- bs-user-navbar-collapse is the user menu that shows up in the toggle menu - hidden at larger size -->
+			<div class="collapse navbar-collapse" id="user-navbar-toggle">
+				<ul class="nav navbar-nav" role="list" aria-label="Mobile User Navigation">
+					<li><a href='#' onclick='caMediaPanel.showPanel("/index.php/LoginReg/LoginForm"); return false;' >Login</a></li>
+<li><a href='#' onclick='caMediaPanel.showPanel("/index.php/LoginReg/RegisterForm"); return false;' >Register</a></li>				</ul>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-main-navbar-collapse-1">
+				<form class="navbar-form navbar-right" role="search" action="/index.php/MultiSearch/Index" aria-label="Search">
+					<div class="formOutline">
+						<div class="form-group">
+							<input type="text" class="form-control" id="headerSearchInput" placeholder="Search" name="search" autocomplete="off" aria-label="Search text" />
+						</div>
+					    <button type="submit" class="btn-search" id="headerSearchButton"><span class="glyphicon glyphicon-search" aria-label="Submit"></span></button>
+					</div>
+				</form>
+				<script type="text/javascript">
+					$(document).ready(function(){
+						$('#headerSearchButton').prop('disabled',true);
+						$('#headerSearchInput').on('keyup', function(){
+							$('#headerSearchButton').prop('disabled', this.value == "" ? true : false);     
+						})
+					});
+				</script>
+				<ul class="nav navbar-nav navbar-right menuItems" role="list" aria-label="Primary Navigation">
+				    
+				   
+					<li class="dropdown " style="position:relative;">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT OMA</a>
+						<ul class="dropdown-menu">
+							<li ><a href='/index.php/About/History'>OM Archives History</a></li>
+							<li ><a href='/index.php/Collections/Index'>Our Collections</a></li>
+							<li ><a href='/index.php/About/Licensing'>Use Policies</a></li>
+							<li ><a href='/index.php/Contact/Form'>Inquire</a></li>
+					</ul>
+				</li>
+					
+					
+					<ul class="nav navbar-nav navbar-right menuItems" role="list" aria-label="Primary Navigation">
+					<li class="dropdown " style="position:relative;">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">BROWSE</a>
+						<ul class="dropdown-menu">
+						
+			           
+				    	<li ><a href='/index.php/Browse/objects'>Browse Materials</a></li>
+						<li ><a href='/index.php/Search/advanced/objects'>Advanced Search</a></li>
+					    <li ><a href='/index.php/About/Guide'>User Guide</a></li>
+					</ul>
+				</li>
+					
+					
+					<li ><a href='/index.php/Gallery/Index'>EXHIBITS</a></li>
+
+					
+					<li class="dropdown " style="position:relative;">
+					    <a href="#" class="dropdwon-toggle" data-toggle="dropdown">SUPPORT US</a>
+			            <ul class="dropdown-menu">
+					
+					<li ><a href='/index.php/About/Supporters'>Our Supporters</a></li>
+					<li ><a href='/index.php/About/Donations'>Donations</a></li>
+					
+					</ul>
+				</li>
+				
+					 <li><a href="https://www.otherminds.org/">OM HOME</a></li>
+					 
+				</ul> 
+				</li>
+				
+				
+			</div><!-- /.navbar-collapse -->
+		</div><!-- end container -->
+	</nav>
+	<div class="container"><div class="row"><div class="col-xs-12">
+		<div role="main" id="main"><div id="pageArea" class='front'>
+   
+		<div class="jcarousel-wrapper">
+			<!-- Carousel -->
+			<div class="jcarousel">
+				<ul>
+<li><div class='frontSlide'><a href="/index.php/Detail/objects/20507"><img src="http://archives.otherminds.org/media/collectiveaccess/images/3/6/6617_ca_object_representations_media_3602_large.jpg" width="700" height="475" alt="Paul D. Miller, Leroy Jenkins, Pamela Z, &amp; Hamza El Din, half length portrait, standing, looking forward, (2000)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/21719"><img src="http://archives.otherminds.org/media/collectiveaccess/images/0/85621_ca_object_representations_media_97_large.jpg" width="700" height="475" alt="Participating composers of the 1990 Composer-to-Composer Festival on stage, with Laurie Anderson reading aloud their manifesto on censorship, Telluride, CO." /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/23078"><img src="http://archives.otherminds.org/media/collectiveaccess/images/6/3/31216_ca_object_representations_media_6393_large.jpg" width="700" height="456" alt="A Bord piano sitting in the overgrown greens of Annea Lockwood&#039;s backyard, Ingatestone (1972)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/22812"><img src="http://archives.otherminds.org/media/collectiveaccess/images/6/1/15004_ca_object_representations_media_6114_large.jpg" width="700" height="461" alt="Pauline Oliveros playing accordion during a rehearsal prior to OM 20, San Francisco CA (2015)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/22708"><img src="http://archives.otherminds.org/media/collectiveaccess/images/5/8/93366_ca_object_representations_media_5861_large.jpg" width="700" height="471" alt="G. S. Sachdev, seated on the ground outdoors playing the bansuri flute, Woodside, CA (2013)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/21282"><img src="http://archives.otherminds.org/media/collectiveaccess/images/6/5295_ca_object_representations_media_648_large.jpg" width="700" height="478" alt="Carol Law (back to camera) and Conlon Nancarrow outside in Nancarrow&#039;s yard, 1969" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/20546"><img src="http://archives.otherminds.org/media/collectiveaccess/images/3/8/50139_ca_object_representations_media_3804_large.jpg" width="700" height="475" alt="Hiroko Sakurazawa, playing piano, and Takashi Harada, playing the Ondes Martenot, half length portrait, San Francisco (cropped image)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/19864"><img src="http://archives.otherminds.org/media/collectiveaccess/images/1/1/25929_ca_object_representations_media_1177_large.jpg" width="700" height="465" alt="Participants, as seen through the recording booth window, at a KPFA Radio Event, Mills College, Oakland CA, 1971" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/21050"><img src="http://archives.otherminds.org/media/collectiveaccess/images/5/34976_ca_object_representations_media_541_large.jpg" width="700" height="521" alt="Brian Eno working on one of his installations at the Exploratorium, 1988" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/22762"><img src="http://archives.otherminds.org/media/collectiveaccess/images/6/0/22828_ca_object_representations_media_6018_large.jpg" width="700" height="465" alt="Lulu Reid (African parrot) and Wendy Reid performing during OM 19, San Francisco CA (2014)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/22442"><img src="http://archives.otherminds.org/media/collectiveaccess/images/4/2/85628_ca_object_representations_media_4212_large.jpg" width="700" height="466" alt="Michael Nyman and Maria de Alvear dancing in one of the studios at the Djerassi Resident Artists Program, Woodside, CA (2005)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/22426"><img src="http://archives.otherminds.org/media/collectiveaccess/images/3/9/41328_ca_object_representations_media_3979_large.jpg" width="700" height="476" alt="Half length portrait of Billy Bang playing the violin onstage with members of his quintet during the 11th Other Minds Festival, San Francisco (2005)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/19981"><img src="http://archives.otherminds.org/media/collectiveaccess/images/8/28546_ca_object_representations_media_846_large.jpg" width="700" height="472" alt="Germaine Tailleferre, three-quarter length portrait, facing forward, Paris, 1973 (cropped image)" /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/23081"><img src="http://archives.otherminds.org/media/collectiveaccess/images/6/3/17319_ca_object_representations_media_6396_large.jpg" width="700" height="456" alt="Bob Cobbing looking at his cat on his shoulder, London (1972) " /></a></div></li><li><div class='frontSlide'><a href="/index.php/Detail/objects/20013"><img src="http://archives.otherminds.org/media/collectiveaccess/images/9/76422_ca_object_representations_media_983_large.jpg" width="700" height="365" alt="Charles Amirkhanian, with Nicolas Slonimsky, Peter Garland, and Conlon Nancarrow, seated, Los Angeles, 1985" /></a></div></li>				</ul>
+			</div><!-- end jcarousel -->
+			<!-- Prev/next controls -->
+			<a href="#" class="jcarousel-control-prev"><i class="fa fa-angle-left" aria-label="Previous"></i></a>
+			<a href="#" class="jcarousel-control-next"><i class="fa fa-angle-right" aria-label="Next"></i></a>
+		
+			<!-- Pagination -->
+			<p class="jcarousel-pagination">
+			<!-- Pagination items will be generated in here -->
+			</p>
+		</div><!-- end jcarousel-wrapper -->
+		<script type='text/javascript'>
+			jQuery(document).ready(function() {
+				/*
+				Carousel initialization
+				*/
+				$('.jcarousel')
+					.jcarousel({
+						// Options go here
+						wrap:'circular'
+					});
+		
+				/*
+				 Prev control initialization
+				 */
+				$('.jcarousel-control-prev')
+					.on('jcarouselcontrol:active', function() {
+						$(this).removeClass('inactive');
+					})
+					.on('jcarouselcontrol:inactive', function() {
+						$(this).addClass('inactive');
+					})
+					.jcarouselControl({
+						// Options go here
+						target: '-=1'
+					});
+		
+				/*
+				 Next control initialization
+				 */
+				$('.jcarousel-control-next')
+					.on('jcarouselcontrol:active', function() {
+						$(this).removeClass('inactive');
+					})
+					.on('jcarouselcontrol:inactive', function() {
+						$(this).addClass('inactive');
+					})
+					.jcarouselControl({
+						// Options go here
+						target: '+=1'
+					});
+		
+				/*
+				 Pagination initialization
+				 */
+				$('.jcarousel-pagination')
+					.on('jcarouselpagination:active', 'a', function() {
+						$(this).addClass('active');
+					})
+					.on('jcarouselpagination:inactive', 'a', function() {
+						$(this).removeClass('active');
+					})
+					.jcarouselPagination({
+						// Options go here
+					});
+			});
+		</script>
+	<form id="front-searchform" class="navbar-form" role="search" action="/index.php/MultiSearch/Index" aria-label="Search">
+		<input id="front-searchform-input" type="text" class="form-control" placeholder="Search" name="search" autocomplete="off" aria-label="Search text" />
+		<!-- <button id="front-searchform-submit" type="submit" class="btn-search"><span class="glyphicon glyphicon-search" aria-label="Submit"></span></button> -->
+	</form>
+	
+	<div class="col-sm-12 text-right"><h6>
+		  <a href='/index.php/Search/advanced/objects'>Advanced Search</a>		 </h6> </div>
+		 
+	<div class="row">
+		<div class="col-sm-12">
+		     
+			<H1>Welcome! Discover <strong>revelationary new music </strong>in the archives of Other Minds.</H1>
+			
+		</div><!--end col-sm-12-->
+		
+		
+
+<!--    			<h2></h2>
+<ul class='nav nav-pills nav-stacked'>
+<li><a href='/index.php/Gallery/112'>American Experimental Tradition</a></li>
+<li><a href='/index.php/Gallery/119'>An OM Archives Sampler</a></li>
+<li><a href='/index.php/Gallery/113'>California Composers</a></li>
+<li><a href='/index.php/Gallery/51'>Explore Other Minds' Beginnings...</a></li>
+<li><a href='/index.php/Gallery/115'>In Favor of Fungi</a></li>
+<li><a href='/index.php/Gallery/124'>John Fago Photos</a></li>
+<li><a href='/index.php/Gallery/171'>Meeting Ivan Wyschnegradsky</a></li>
+<li><a href='/index.php/Gallery/118'>Radio Art</a></li>
+<li><a href='/index.php/Gallery/65'>Recent Additions</a></li>
+<li><a href='/index.php/Gallery/120'>Sound Poetry</a></li>
+</ul>
+ 
+		</div> <!--end col-sm-4-->	
+	</div><!-- end row -->
+		
+		</div>
+			<div style="clear:both; height:1px;"><!-- empty --></div>
+		</div><!-- end pageArea --></div></div><!-- end main --></div><!-- end col --></div><!-- end row --></div><!-- end container -->
+	
+				<div id="caMediaPanel" role="complementary"> 
+			<div id="caMediaPanelContentArea">
+			
+			</div>
+		</div>
+		<script type="text/javascript">
+			/*
+				Set up the "caMediaPanel" panel that will be triggered by links in object detail
+				Note that the actual <div>'s implementing the panel are located here in views/pageFormat/pageFooter.php
+			*/
+			var caMediaPanel;
+			jQuery(document).ready(function() {
+				if (caUI.initPanel) {
+					caMediaPanel = caUI.initPanel({ 
+						panelID: 'caMediaPanel',										/* DOM ID of the <div> enclosing the panel */
+						panelContentID: 'caMediaPanelContentArea',		/* DOM ID of the content area <div> in the panel */
+						exposeBackgroundColor: '#FFFFFF',						/* color (in hex notation) of background masking out page content; include the leading '#' in the color spec */
+						exposeBackgroundOpacity: 0.7,							/* opacity of background color masking out page content; 1.0 is opaque */
+						panelTransitionSpeed: 400, 									/* time it takes the panel to fade in/out in milliseconds */
+						allowMobileSafariZooming: true,
+						mobileSafariViewportTagID: '_msafari_viewport',
+						closeButtonSelector: '.close'					/* anything with the CSS classname "close" will trigger the panel to close */
+					});
+				}
+			});
+			/*(function(e,d,b){var a=0;var f=null;var c={x:0,y:0};e("[data-toggle]").closest("li").on("mouseenter",function(g){if(f){f.removeClass("open")}d.clearTimeout(a);f=e(this);a=d.setTimeout(function(){f.addClass("open")},b)}).on("mousemove",function(g){if(Math.abs(c.x-g.ScreenX)>4||Math.abs(c.y-g.ScreenY)>4){c.x=g.ScreenX;c.y=g.ScreenY;return}if(f.hasClass("open")){return}d.clearTimeout(a);a=d.setTimeout(function(){f.addClass("open")},b)}).on("mouseleave",function(g){d.clearTimeout(a);f=e(this);a=d.setTimeout(function(){f.removeClass("open")},b)})})(jQuery,window,200);*/
+		</script>
+		<footer id="footer2">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+						<section id="contact_info-2" class="widget widget_contact_info mk-in-viewport">
+							<div class="widgettitle">Vital Statistics</div>
+							<ul itemscope="itemscope" itemtype="https://schema.org/Person">
+								<li class="first">
+									<svg class="mk-svg-icon" data-name="mk-moon-office" data-cacheid="icon-65af7292aaf10" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 512h256v-512h-256v512zm160-448h64v64h-64v-64zm0 128h64v64h-64v-64zm0 128h64v64h-64v-64zm-128-256h64v64h-64v-64zm0 128h64v64h-64v-64zm0 128h64v64h-64v-64zm256-160h224v32h-224zm0 352h64v-128h96v128h64v-288h-224z"></path></svg><span itemprop="jobTitle">Other Minds</span></li>			<li><svg class="mk-svg-icon" data-name="mk-icon-home" data-cacheid="icon-65af7292aafe4" style=" height:16px; width: 14.8571428571px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1408 992v480q0 26-19 45t-45 19h-384v-384h-256v384h-384q-26 0-45-19t-19-45v-480q0-1 .5-3t.5-3l575-474 575 474q1 2 1 6zm223-69l-62 74q-8 9-21 11h-3q-13 0-21-7l-692-577-692 577q-12 8-24 7-13-2-21-11l-62-74q-8-10-7-23.5t11-21.5l719-599q32-26 76-26t76 26l244 204v-195q0-14 9-23t23-9h192q14 0 23 9t9 23v408l219 182q10 8 11 21.5t-7 23.5z"></path></svg>
+									<span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">55 Taylor Street <br> San Francisco, CA 94102</span>
+								</li>
+								<li>
+									<svg class="mk-svg-icon" data-name="mk-icon-phone" data-cacheid="icon-65af7292ab072" style=" height:16px; width: 12.5714285714px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1408 1792"><path d="M1408 1240q0 27-10 70.5t-21 68.5q-21 50-122 106-94 51-186 51-27 0-52.5-3.5t-57.5-12.5-47.5-14.5-55.5-20.5-49-18q-98-35-175-83-128-79-264.5-215.5t-215.5-264.5q-48-77-83-175-3-9-18-49t-20.5-55.5-14.5-47.5-12.5-57.5-3.5-52.5q0-92 51-186 56-101 106-122 25-11 68.5-21t70.5-10q14 0 21 3 18 6 53 76 11 19 30 54t35 63.5 31 53.5q3 4 17.5 25t21.5 35.5 7 28.5q0 20-28.5 50t-62 55-62 53-28.5 46q0 9 5 22.5t8.5 20.5 14 24 11.5 19q76 137 174 235t235 174q2 1 19 11.5t24 14 20.5 8.5 22.5 5q18 0 46-28.5t53-62 55-62 50-28.5q14 0 28.5 7t35.5 21.5 25 17.5q25 15 53.5 31t63.5 35 54 30q70 35 76 53 3 7 3 21z"></path></svg>
+									<span><a itemprop="telephone" href="tel:415-934-8134" target="_blank" class="phoneLink no-outline">415-934-8134</a></span>
+								</li>			
+								<li>
+									<svg class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-65af7292ab140" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"></path></svg>
+									<span><a itemprop="email" href="/cdn-cgi/l/email-protection#b8d9cadbd0d1ceddcbf8d7ccd0ddcad5d1d6dccb96d7cadf" target="_blank" class="emailLink no-outline"><span class="__cf_email__" data-cfemail="a7c6d5c4cfced1c2d4e7c8d3cfc2d5cacec9c3d489c8d5c0">[email&#160;protected]</span></a></span>
+								</li>
+								<li class="last">
+									<svg class="mk-svg-icon" data-name="mk-icon-globe" data-cacheid="icon-65af7292ab1e7" style=" height:16px; width: 13.7142857143px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1792"><path d="M768 128q209 0 385.5 103t279.5 279.5 103 385.5-103 385.5-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103zm274 521q-2 1-9.5 9.5t-13.5 9.5q2 0 4.5-5t5-11 3.5-7q6-7 22-15 14-6 52-12 34-8 51 11-2-2 9.5-13t14.5-12q3-2 15-4.5t15-7.5l2-22q-12 1-17.5-7t-6.5-21q0 2-6 8 0-7-4.5-8t-11.5 1-9 1q-10-3-15-7.5t-8-16.5-4-15q-2-5-9.5-10.5t-9.5-10.5q-1-2-2.5-5.5t-3-6.5-4-5.5-5.5-2.5-7 5-7.5 10-4.5 5q-3-2-6-1.5t-4.5 1-4.5 3-5 3.5q-3 2-8.5 3t-8.5 2q15-5-1-11-10-4-16-3 9-4 7.5-12t-8.5-14h5q-1-4-8.5-8.5t-17.5-8.5-13-6q-8-5-34-9.5t-33-.5q-5 6-4.5 10.5t4 14 3.5 12.5q1 6-5.5 13t-6.5 12q0 7 14 15.5t10 21.5q-3 8-16 16t-16 12q-5 8-1.5 18.5t10.5 16.5q2 2 1.5 4t-3.5 4.5-5.5 4-6.5 3.5l-3 2q-11 5-20.5-6t-13.5-26q-7-25-16-30-23-8-29 1-5-13-41-26-25-9-58-4 6-1 0-15-7-15-19-12 3-6 4-17.5t1-13.5q3-13 12-23 1-1 7-8.5t9.5-13.5.5-6q35 4 50-11 5-5 11.5-17t10.5-17q9-6 14-5.5t14.5 5.5 14.5 5q14 1 15.5-11t-7.5-20q12 1 3-17-5-7-8-9-12-4-27 5-8 4 2 8-1-1-9.5 10.5t-16.5 17.5-16-5q-1-1-5.5-13.5t-9.5-13.5q-8 0-16 15 3-8-11-15t-24-8q19-12-8-27-7-4-20.5-5t-19.5 4q-5 7-5.5 11.5t5 8 10.5 5.5 11.5 4 8.5 3q14 10 8 14-2 1-8.5 3.5t-11.5 4.5-6 4q-3 4 0 14t-2 14q-5-5-9-17.5t-7-16.5q7 9-25 6l-10-1q-4 0-16 2t-20.5 1-13.5-8q-4-8 0-20 1-4 4-2-4-3-11-9.5t-10-8.5q-46 15-94 41 6 1 12-1 5-2 13-6.5t10-5.5q34-14 42-7l5-5q14 16 20 25-7-4-30-1-20 6-22 12 7 12 5 18-4-3-11.5-10t-14.5-11-15-5q-16 0-22 1-146 80-235 222 7 7 12 8 4 1 5 9t2.5 11 11.5-3q9 8 3 19 1-1 44 27 19 17 21 21 3 11-10 18-1-2-9-9t-9-4q-3 5 .5 18.5t10.5 12.5q-7 0-9.5 16t-2.5 35.5-1 23.5l2 1q-3 12 5.5 34.5t21.5 19.5q-13 3 20 43 6 8 8 9 3 2 12 7.5t15 10 10 10.5q4 5 10 22.5t14 23.5q-2 6 9.5 20t10.5 23q-1 0-2.5 1t-2.5 1q3 7 15.5 14t15.5 13q1 3 2 10t3 11 8 2q2-20-24-62-15-25-17-29-3-5-5.5-15.5t-4.5-14.5q2 0 6 1.5t8.5 3.5 7.5 4 2 3q-3 7 2 17.5t12 18.5 17 19 12 13q6 6 14 19.5t0 13.5q9 0 20 10t17 20q5 8 8 26t5 24q2 7 8.5 13.5t12.5 9.5l16 8 13 7q5 2 18.5 10.5t21.5 11.5q10 4 16 4t14.5-2.5 13.5-3.5q15-2 29 15t21 21q36 19 55 11-2 1 .5 7.5t8 15.5 9 14.5 5.5 8.5q5 6 18 15t18 15q6-4 7-9-3 8 7 20t18 10q14-3 14-32-31 15-49-18 0-1-2.5-5.5t-4-8.5-2.5-8.5 0-7.5 5-3q9 0 10-3.5t-2-12.5-4-13q-1-8-11-20t-12-15q-5 9-16 8t-16-9q0 1-1.5 5.5t-1.5 6.5q-13 0-15-1 1-3 2.5-17.5t3.5-22.5q1-4 5.5-12t7.5-14.5 4-12.5-4.5-9.5-17.5-2.5q-19 1-26 20-1 3-3 10.5t-5 11.5-9 7q-7 3-24 2t-24-5q-13-8-22.5-29t-9.5-37q0-10 2.5-26.5t3-25-5.5-24.5q3-2 9-9.5t10-10.5q2-1 4.5-1.5t4.5 0 4-1.5 3-6q-1-1-4-3-3-3-4-3 7 3 28.5-1.5t27.5 1.5q15 11 22-2 0-1-2.5-9.5t-.5-13.5q5 27 29 9 3 3 15.5 5t17.5 5q3 2 7 5.5t5.5 4.5 5-.5 8.5-6.5q10 14 12 24 11 40 19 44 7 3 11 2t4.5-9.5 0-14-1.5-12.5l-1-8v-18l-1-8q-15-3-18.5-12t1.5-18.5 15-18.5q1-1 8-3.5t15.5-6.5 12.5-8q21-19 15-35 7 0 11-9-1 0-5-3t-7.5-5-4.5-2q9-5 2-16 5-3 7.5-11t7.5-10q9 12 21 2 7-8 1-16 5-7 20.5-10.5t18.5-9.5q7 2 8-2t1-12 3-12q4-5 15-9t13-5l17-11q3-4 0-4 18 2 31-11 10-11-6-20 3-6-3-9.5t-15-5.5q3-1 11.5-.5t10.5-1.5q15-10-7-16-17-5-43 12zm-163 877q206-36 351-189-3-3-12.5-4.5t-12.5-3.5q-18-7-24-8 1-7-2.5-13t-8-9-12.5-8-11-7q-2-2-7-6t-7-5.5-7.5-4.5-8.5-2-10 1l-3 1q-3 1-5.5 2.5t-5.5 3-4 3 0 2.5q-21-17-36-22-5-1-11-5.5t-10.5-7-10-1.5-11.5 7q-5 5-6 15t-2 13q-7-5 0-17.5t2-18.5q-3-6-10.5-4.5t-12 4.5-11.5 8.5-9 6.5-8.5 5.5-8.5 7.5q-3 4-6 12t-5 11q-2-4-11.5-6.5t-9.5-5.5q2 10 4 35t5 38q7 31-12 48-27 25-29 40-4 22 12 26 0 7-8 20.5t-7 21.5q0 6 2 16z"></path></svg>
+									<span><a href="http://otherminds.org" itemprop="url">otherminds.org</a></span>
+								</li>
+							</ul>
+						</section>
+					</div>
+					<div class="col-sm-3">
+						<section id="simple_social_media_icons_widget-2" class="widget simple-social-media-icons mk-in-viewport">
+							<div class="widgettitle">Connect With OM</div>
+							<div class="simple-social-media-icons ssmi-widget">
+								<div class="ssmi-icon-row icon-style-4">
+									<a href="https://www.facebook.com/Other.Minds/" class="ssmi-icon-link no-outline" target="_blank">
+										<i style=" background: #B8B9BA;  color: #3d4045; " class="fa fa-facebook fa-fw ssmi-icon"></i>
+										<span class="screen-reader-text">Facebook</span>
+									</a>
+								<!--	<a href="https://twitter.com/OtherMindsSF" class="ssmi-icon-link" target="_blank">
+										<i style=" background: #B8B9BA;  color: #3d4045; " class="fa fa-twitter fa-fw ssmi-icon"></i>
+										<span class="screen-reader-text">Twitter</span>
+									</a> -->
+									<a href="https://www.instagram.com/othermindssf/" class="ssmi-icon-link no-outline" target="_blank">
+										<i style=" background: #B8B9BA;  color: #3d4045; " class="fa fa-instagram fa-fw ssmi-icon"></i>
+										<span class="screen-reader-text">Instagram</span>
+									</a>
+									<a href="https://www.youtube.com/user/OtherMindsSF" class="ssmi-icon-link" target="_blank">
+										<i style=" background: #B8B9BA;  color: #3d4045; " class="fa fa-youtube fa-fw ssmi-icon"></i>
+										<span class="screen-reader-text">YouTube</span>
+									</a>
+									<a href="https://vimeo.com/otherminds" class="ssmi-icon-link no-outline" target="_blank">
+										<i style=" background: #B8B9BA;  color: #3d4045; " class="fa fa-vimeo fa-fw ssmi-icon"></i>
+										<span class="screen-reader-text">Vimeo</span>
+									</a>
+									<a href="https://soundcloud.com/other-minds" class="ssmi-icon-link no-outline" target="_blank">
+										<i style=" background: #B8B9BA;  color: #000000; " class="fa fa-soundcloud fa-fw ssmi-icon"></i>
+										<span class="screen-reader-text">SoundCloud</span>
+									</a>
+								</div>
+							</div>
+						</section>
+					</div>
+					<div class="col-sm-3">
+						<section id="nav_menu-3" class="widget widget_nav_menu mk-in-viewport">
+							<div class="widgettitle">OM Hot Links</div>
+							<div class="menu-footer-links-container">
+								<ul id="menu-footer-links" class="menu">
+									<li id="menu-item-936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-936 first"><a href="https://otherminds.org/join-mailing-list/" class="no-outline"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-65af7292ac6a3" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Join Email List</a></li>
+									<li id="menu-item-4903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4903"><a href="https://www.otherminds.org/news/" class="no-outline"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-65af7292ac6a3" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Other Minds News</a></li>
+									<li id="menu-item-4904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4904"><a href="https://webstore.otherminds.org/" target="_blank" class="no-outline"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-65af7292ac6a3" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Other Minds Store</a></li>
+									<li id="menu-item-5738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5738 last"><a href="https://otherminds.org/lou-harrison-centennial/" class="no-outline"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-65af7292ac6a3" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Lou Harrison Centennial</a></li>
+								</ul>
+							</div>
+						</section>
+					</div>
+					<div class="col-sm-3">
+						<section id="instagram-feed-widget-2" class="widget widget_instagram-feed-widget mk-in-viewport">
+							<div class="widgettitle">OM Instagram Feed</div>
+							
+<div id="sb_instagram"  class="sbi sbi_mob_col_1 sbi_tab_col_2 sbi_col_2 sbi_width_resp" style="padding-bottom: 10px;width: 100%;" data-feedid="*1"  data-res="auto" data-cols="2" data-colsmobile="1" data-colstablet="2" data-num="4" data-nummobile="" data-item-padding="5" data-shortcode-atts="{&quot;feed&quot;:&quot;1&quot;}"  data-postid="" data-locatornonce="a20970961e" data-imageaspectratio="1:1" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images"  style="gap: 10px;">
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17855046588370763" data-date="1744996208">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DImIXm4IL91/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-arn2-1.cdninstagram.com/v/t39.30808-6/489279859_1077277424432771_7259456483414323332_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=110&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=-rXDAfkV70wQ7kNvwErOaSX&#038;_nc_oc=AdkGhUtsy6pOaurtpbH7oIU4GwsYFTUbKMgwI91Z1oRWHqRUShnpN1TWcCX74kLHcIE&#038;_nc_zt=23&#038;_nc_ht=scontent-arn2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&#038;oh=00_AfH8Ht4BrPNgCxH_piVDemBbVdbtBW5IYZbNFdM0mlqnwQ&#038;oe=680B272D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489279859_1077277424432771_7259456483414323332_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-rXDAfkV70wQ7kNvwErOaSX&amp;_nc_oc=AdkGhUtsy6pOaurtpbH7oIU4GwsYFTUbKMgwI91Z1oRWHqRUShnpN1TWcCX74kLHcIE&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfH8Ht4BrPNgCxH_piVDemBbVdbtBW5IYZbNFdM0mlqnwQ&amp;oe=680B272D&quot;,&quot;150&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489279859_1077277424432771_7259456483414323332_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-rXDAfkV70wQ7kNvwErOaSX&amp;_nc_oc=AdkGhUtsy6pOaurtpbH7oIU4GwsYFTUbKMgwI91Z1oRWHqRUShnpN1TWcCX74kLHcIE&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfH8Ht4BrPNgCxH_piVDemBbVdbtBW5IYZbNFdM0mlqnwQ&amp;oe=680B272D&quot;,&quot;320&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489279859_1077277424432771_7259456483414323332_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-rXDAfkV70wQ7kNvwErOaSX&amp;_nc_oc=AdkGhUtsy6pOaurtpbH7oIU4GwsYFTUbKMgwI91Z1oRWHqRUShnpN1TWcCX74kLHcIE&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfH8Ht4BrPNgCxH_piVDemBbVdbtBW5IYZbNFdM0mlqnwQ&amp;oe=680B272D&quot;,&quot;640&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489279859_1077277424432771_7259456483414323332_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-rXDAfkV70wQ7kNvwErOaSX&amp;_nc_oc=AdkGhUtsy6pOaurtpbH7oIU4GwsYFTUbKMgwI91Z1oRWHqRUShnpN1TWcCX74kLHcIE&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfH8Ht4BrPNgCxH_piVDemBbVdbtBW5IYZbNFdM0mlqnwQ&amp;oe=680B272D&quot;}">
+            <span class="sbi-screenreader">@johnoschneider playing the Harmonic Canon at OM 1</span>
+            	                    <img src="https://www.otherminds.org/wp-content/plugins/instagram-feed/img/placeholder.png" alt="@johnoschneider playing the Harmonic Canon at OM 14 in 2009. Photo by Ella Lindgren.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18064118057501645" data-date="1744735506">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DIeXHmeIVAt/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-arn2-1.cdninstagram.com/v/t39.30808-6/490296240_1078114161015764_1754358677078831129_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=iMa1Oc3kpeAQ7kNvwHv4Kur&#038;_nc_oc=AdlUkFMcobwFzUsXNrpIvQav6o9AsU3VSkdkNqCH9hRtQxzsB_Us5r5Y_jLlUyctRXU&#038;_nc_zt=23&#038;_nc_ht=scontent-arn2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&#038;oh=00_AfHM4KxKRjb21Qx7mELO_cz0c7gxD2KMC28AcfQtglVteg&#038;oe=680B39AD" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490296240_1078114161015764_1754358677078831129_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=iMa1Oc3kpeAQ7kNvwHv4Kur&amp;_nc_oc=AdlUkFMcobwFzUsXNrpIvQav6o9AsU3VSkdkNqCH9hRtQxzsB_Us5r5Y_jLlUyctRXU&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfHM4KxKRjb21Qx7mELO_cz0c7gxD2KMC28AcfQtglVteg&amp;oe=680B39AD&quot;,&quot;150&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490296240_1078114161015764_1754358677078831129_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=iMa1Oc3kpeAQ7kNvwHv4Kur&amp;_nc_oc=AdlUkFMcobwFzUsXNrpIvQav6o9AsU3VSkdkNqCH9hRtQxzsB_Us5r5Y_jLlUyctRXU&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfHM4KxKRjb21Qx7mELO_cz0c7gxD2KMC28AcfQtglVteg&amp;oe=680B39AD&quot;,&quot;320&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490296240_1078114161015764_1754358677078831129_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=iMa1Oc3kpeAQ7kNvwHv4Kur&amp;_nc_oc=AdlUkFMcobwFzUsXNrpIvQav6o9AsU3VSkdkNqCH9hRtQxzsB_Us5r5Y_jLlUyctRXU&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfHM4KxKRjb21Qx7mELO_cz0c7gxD2KMC28AcfQtglVteg&amp;oe=680B39AD&quot;,&quot;640&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490296240_1078114161015764_1754358677078831129_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=iMa1Oc3kpeAQ7kNvwHv4Kur&amp;_nc_oc=AdlUkFMcobwFzUsXNrpIvQav6o9AsU3VSkdkNqCH9hRtQxzsB_Us5r5Y_jLlUyctRXU&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfHM4KxKRjb21Qx7mELO_cz0c7gxD2KMC28AcfQtglVteg&amp;oe=680B39AD&quot;}">
+            <span class="sbi-screenreader">On July 25, Other Minds presents scenes in worksho</span>
+            	                    <img src="https://www.otherminds.org/wp-content/plugins/instagram-feed/img/placeholder.png" alt="On July 25, Other Minds presents scenes in workshop from I Am He Whose Life and Soul Are Torment by composer Joseph Bohigian, vocalist Khatchadour Khatchadourian @dudukwhisperer, and @ensembledecipher. This evening-length multimedia work illustrates the life of the visionary film director Sergei Parajanov via a multilingual text by the 18th century ashugh Sayat Nova. RSVP now at the link in our bio for this free event at the Dresher Ensemble Studio in Oakland.
+
+Photo: Sergei Parajanov in 1984 by Yuri Mechitov.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17963980223872088" data-date="1744390811">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DIUFqvDAFd7/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-arn2-1.cdninstagram.com/v/t39.30808-6/489443984_1077277067766140_5836214657960488956_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=105&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=WuZ6jDVsr8AQ7kNvwHQ5NIe&#038;_nc_oc=AdlrXaj9GHnTJmmGO9rXBC-1GkL3F9lzP3YPy9VRN3ltppGQ4Yu7A1IHCDVQ1qoAzOA&#038;_nc_zt=23&#038;_nc_ht=scontent-arn2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&#038;oh=00_AfFHSd4Xc3tTNeufuOLAPwcn8ebuq1uaiBH_aKee_1OneQ&#038;oe=680B28A9" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489443984_1077277067766140_5836214657960488956_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WuZ6jDVsr8AQ7kNvwHQ5NIe&amp;_nc_oc=AdlrXaj9GHnTJmmGO9rXBC-1GkL3F9lzP3YPy9VRN3ltppGQ4Yu7A1IHCDVQ1qoAzOA&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfFHSd4Xc3tTNeufuOLAPwcn8ebuq1uaiBH_aKee_1OneQ&amp;oe=680B28A9&quot;,&quot;150&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489443984_1077277067766140_5836214657960488956_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WuZ6jDVsr8AQ7kNvwHQ5NIe&amp;_nc_oc=AdlrXaj9GHnTJmmGO9rXBC-1GkL3F9lzP3YPy9VRN3ltppGQ4Yu7A1IHCDVQ1qoAzOA&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfFHSd4Xc3tTNeufuOLAPwcn8ebuq1uaiBH_aKee_1OneQ&amp;oe=680B28A9&quot;,&quot;320&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489443984_1077277067766140_5836214657960488956_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WuZ6jDVsr8AQ7kNvwHQ5NIe&amp;_nc_oc=AdlrXaj9GHnTJmmGO9rXBC-1GkL3F9lzP3YPy9VRN3ltppGQ4Yu7A1IHCDVQ1qoAzOA&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfFHSd4Xc3tTNeufuOLAPwcn8ebuq1uaiBH_aKee_1OneQ&amp;oe=680B28A9&quot;,&quot;640&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/489443984_1077277067766140_5836214657960488956_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WuZ6jDVsr8AQ7kNvwHQ5NIe&amp;_nc_oc=AdlrXaj9GHnTJmmGO9rXBC-1GkL3F9lzP3YPy9VRN3ltppGQ4Yu7A1IHCDVQ1qoAzOA&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfFHSd4Xc3tTNeufuOLAPwcn8ebuq1uaiBH_aKee_1OneQ&amp;oe=680B28A9&quot;}">
+            <span class="sbi-screenreader">@libbylarsenthecomposer before her appearance at S</span>
+            	                    <img src="https://www.otherminds.org/wp-content/plugins/instagram-feed/img/placeholder.png" alt="@libbylarsenthecomposer before her appearance at Speaking of Music at the Exploratorium in San Francisco, November 1986. Photo by Esther Kutnick from the OM Archives.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18062242052051156" data-date="1744142007">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DIMrHG-Bb-v/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-arn2-1.cdninstagram.com/v/t39.30808-6/490011012_1077251831101997_6849846658364610623_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=101&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=-ZqbItu_k9IQ7kNvwH3Iyc7&#038;_nc_oc=AdmVpboPCYXRWukDpq1eFbxDGfmT0rJePTj1ABB05gEODBRkqa8C6ctOF8H1ucq-UUc&#038;_nc_zt=23&#038;_nc_ht=scontent-arn2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&#038;oh=00_AfGVYCOADlrtzxecdDEeHNRss8kyOkCQazkHO0vXkmQIEQ&#038;oe=680B18E7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490011012_1077251831101997_6849846658364610623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-ZqbItu_k9IQ7kNvwH3Iyc7&amp;_nc_oc=AdmVpboPCYXRWukDpq1eFbxDGfmT0rJePTj1ABB05gEODBRkqa8C6ctOF8H1ucq-UUc&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfGVYCOADlrtzxecdDEeHNRss8kyOkCQazkHO0vXkmQIEQ&amp;oe=680B18E7&quot;,&quot;150&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490011012_1077251831101997_6849846658364610623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-ZqbItu_k9IQ7kNvwH3Iyc7&amp;_nc_oc=AdmVpboPCYXRWukDpq1eFbxDGfmT0rJePTj1ABB05gEODBRkqa8C6ctOF8H1ucq-UUc&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfGVYCOADlrtzxecdDEeHNRss8kyOkCQazkHO0vXkmQIEQ&amp;oe=680B18E7&quot;,&quot;320&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490011012_1077251831101997_6849846658364610623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-ZqbItu_k9IQ7kNvwH3Iyc7&amp;_nc_oc=AdmVpboPCYXRWukDpq1eFbxDGfmT0rJePTj1ABB05gEODBRkqa8C6ctOF8H1ucq-UUc&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfGVYCOADlrtzxecdDEeHNRss8kyOkCQazkHO0vXkmQIEQ&amp;oe=680B18E7&quot;,&quot;640&quot;:&quot;https:\/\/scontent-arn2-1.cdninstagram.com\/v\/t39.30808-6\/490011012_1077251831101997_6849846658364610623_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=-ZqbItu_k9IQ7kNvwH3Iyc7&amp;_nc_oc=AdmVpboPCYXRWukDpq1eFbxDGfmT0rJePTj1ABB05gEODBRkqa8C6ctOF8H1ucq-UUc&amp;_nc_zt=23&amp;_nc_ht=scontent-arn2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=WoIJkDd5TWQyTvNxmOR8BQ&amp;oh=00_AfGVYCOADlrtzxecdDEeHNRss8kyOkCQazkHO0vXkmQIEQ&amp;oe=680B18E7&quot;}">
+            <span class="sbi-screenreader">Thanks to everyone who attended our PastForward co</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://www.otherminds.org/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Thanks to everyone who attended our PastForward concerts with pianists @gloriachengpiano, @ralphvanraat, and @burlesonogram! The next PastForward with @cahill_piano and Joseph Kubera is coming up in September, visit otherminds.org for more information.">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+	
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="*1" data-resized="{&quot;18062242052051156&quot;:{&quot;id&quot;:&quot;490011012_1077251831101997_6849846658364610623_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;17963980223872088&quot;:{&quot;id&quot;:&quot;489443984_1077277067766140_5836214657960488956_n&quot;,&quot;ratio&quot;:&quot;1.48&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18064118057501645&quot;:{&quot;id&quot;:&quot;490296240_1078114161015764_1754358677078831129_n&quot;,&quot;ratio&quot;:&quot;1.49&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;17855046588370763&quot;:{&quot;id&quot;:&quot;489279859_1077277424432771_7259456483414323332_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;}}">
+	</span>
+	</div>
+
+								<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+										( function( $ ) {
+											$( '#sbi_images .sbi_item' ).each( function() {
+												let $item = $( this );
+												let $link = $item.find( 'a' );
+												let $img = $item.find( 'img' );
+												let set = $.parseJSON( $link.attr( 'data-img-src-set' ) );
+												$img.attr( 'src', set[150] );
+											} );
+										} )( jQuery );
+								</script>
+														</section>
+					</div>
+				</div>
+			</div>
+			<div id="footer2-credits">
+				<div class="container">
+					Other Minds® is a 501(c)(3) non-profit organization. Our federal tax ID is 94-2728116. Other Minds is a federally registered trademark, number 3668959. For questions regarding accessibility, please contact Blaine Todd at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7d1f111c1413183d120915180f101413190e53120f1a">[email&#160;protected]</a> or (415) 934-8134 x2. © ℗ 2024 Other Minds. All Rights Reserved. <a href="https://www.otherminds.org/privacy-policy/">Privacy Policy</a>
+				</div>
+			</div>
+		</footer>
+	</div><!-- #site-container -->
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

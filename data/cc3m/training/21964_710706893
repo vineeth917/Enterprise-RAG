@@ -1,0 +1,881 @@
+<!DOCTYPE HTML><html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>Southern Miss Now | The University of Southern Mississippi</title>
+      <link rel="canonical" href="https://www.usm.edu/news/index.php">
+      <meta class="swiftype" name="popularity" data-type="integer" content="15">
+      <meta content="width=device-width,initial-scale=1,minimum-scale=1" name="viewport">
+      
+<!-- favicons-->
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.usm.edu/_resources/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.usm.edu/_resources/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.usm.edu/_resources/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.usm.edu/_resources/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.usm.edu/_resources/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.usm.edu/_resources/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.usm.edu/_resources/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.usm.edu/_resources/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.usm.edu/_resources/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.usm.edu/_resources/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.usm.edu/_resources/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.usm.edu/_resources/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.usm.edu/_resources/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://www.usm.edu/_resources/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- /favicons-->
+
+<link rel="stylesheet" href="https://use.typekit.net/rxq3ycy.css">
+<link rel="preconnect" href="https://kit.fontawesome.com" />
+<link rel="stylesheet" href="https://www.usm.edu/_resources/css/pure-min.css" />
+<link rel="stylesheet" href="https://www.usm.edu/_resources/css/main.css?v=1.1" />
+<link rel="stylesheet" href="https://www.usm.edu/_resources/css/oustyles.css?v=2.1" />
+
+<!--Prod only code -->
+	<!-- OneTrust Cookies Consent Notice start for www.usm.edu -->
+
+	<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="01929c5a-ad46-7d7a-b81f-3d0828f5346d" ></script>
+
+	<script type="text/javascript">
+
+	function OptanonWrapper() { }
+
+	</script>
+
+	<!-- OneTrust Cookies Consent Notice end for www.usm.edu -->
+
+    <script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag("consent", "default", {
+			ad_storage: "denied",
+			analytics_storage: "granted",
+			functionality_storage: "granted",
+			personalization_storage: "granted",
+			security_storage: "granted",
+			wait_for_update: 2000,
+		});
+		gtag("set", "ads_data_redaction", true);
+		gtag("set", "url_passthrough", false);
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M7SQQL');</script>
+    <!-- End Google Tag Manager -->
+<!-- url: https://www.usm.edu/_resources/blog/php/all-posts.php?dirpath=/news/--><!-- pulling data from cache file: /var/www/clients/dev.usm.edu/_resources/php/url_caching/cache/3db4b490c3f310c79d98e03f0104b4e75fc4f37564aebde55aa594adfb409172.cache --><link href="https://www.usm.edu/ou-alerts/alerts-config.alerts.css?v=2.1-20250301080148" rel="stylesheet"><script>
+			var COMMENT_PAGE_URL ="https://www.usm.edu/news/index.php";
+			var COMMENT_PAGE_IDENTIFIER ="d8a145a1-7aab-4ac6-aad8-378e09d36172";
+		</script></head>
+   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7SQQL"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<header class="header">
+	<a href="#maincontent" class="button header__skip">Skip navigation</a>
+	<div class="header__wrap">
+		<div class="header__container">
+			<a href="https://www.usm.edu/" class="header__logo">
+				<span class="header__logo__text">The University of Southern Mississippi</span> 
+			</a>
+			<button class="header__toggle header__toggle--mobile header__toggle--search" aria-expanded="false" data-popup>
+				<span class="header__toggle__text">Search</span>
+			</button>
+			<form class="header__search header__search--mobile" action="https://www.usm.edu/search/index.php" id="capture-search-form-mobile" method="get">
+				<label class="header__search__label"><span class="header__search__text">Search</span> <input class="header__search__input" name="q" id="searchMobile" placeholder="Search" type="search"></label>
+				<button class="button header__search__button">Go</button>
+			</form>
+			<!-- Search form structure for Modern Campus CMS Website Search -->
+<!-- 			<form class="header__search header__search--desktop" action="https://www.usm.edu/search/index.php" id="modern-campus-cms-website-search-mobile" method="get">
+				<label class="header__search__label"><span class="header__search__text">Search</span> 
+					<input class="header__search__input" id="ousearchq" name="ousearchq" placeholder="Search" type="search">
+				</label>
+				<button class="button header__search__button">Go</button>
+			</form> -->
+			<button class="header__toggle header__toggle--menu" aria-expanded="false" data-popup><span class="header__toggle__text">Menu</span></button>
+			<div class="menu">
+				<nav class="menu__nav" aria-label="Site">
+					<ul class="menu__nav__list">
+						<li class="menu__nav__item menu__nav__item--current">
+							<a href="https://www.usm.edu/proud/index.php" class="menu__nav__link">Ready for Life</a>
+							
+							<!-- uncomment and add relevant navigation to southern proud link -->
+<!-- 							<button class="menu__nav__toggle"><span class="menu__nav__toggle__text">Toggle</span></button>
+<ul class="menu__nav__list menu__nav__list--nested">
+                                        <li class="menu__nav__item menu__nav__item--nested"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                        <li class="menu__nav__item menu__nav__item--nested menu__nav__item--current"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                    </ul> -->
+						</li>
+						<li class="menu__nav__item">
+							<a href="#admissions" onclick="event.preventDefault()" class="menu__nav__link">Admissions</a>
+							<button class="menu__nav__toggle">
+								<span class="menu__nav__toggle__text">Toggle</span>
+							</button>
+							<ul class="menu__nav__list menu__nav__list--nested">
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/undergraduate-admissions/freshmen.php" class="menu__nav__link menu__nav__link--nested">Freshman</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/undergraduate-admissions/transfers.php" class="menu__nav__link menu__nav__link--nested">Transfer</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/graduate-admissions/index.php" class="menu__nav__link menu__nav__link--nested">Graduate</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/admissions/international-admissions.php" class="menu__nav__link menu__nav__link--nested">International</a>
+								</li>								
+							</ul>
+						</li>
+						<li class="menu__nav__item">
+							<a href="#academics" onclick="event.preventDefault()" class="menu__nav__link">Academics</a>
+							<button class="menu__nav__toggle">
+								<span class="menu__nav__toggle__text">Toggle</span>
+							</button>
+							<ul class="menu__nav__list menu__nav__list--nested">
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/undergraduate-programs/?type=academics-dropdown" class="menu__nav__link menu__nav__link--nested">Undergraduate Programs</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/graduate-programs/" class="menu__nav__link menu__nav__link--nested">Graduate Programs</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/university/colleges-schools.php" class="menu__nav__link menu__nav__link--nested">Colleges and Schools</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/honors/" class="menu__nav__link menu__nav__link--nested">Honors College</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/graduate-school/" class="menu__nav__link menu__nav__link--nested">Graduate School</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.usm.edu/university/international-education.php" class="menu__nav__link menu__nav__link--nested">International Education</a>
+								</li>
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://online.usm.edu/" target="_blank" class="menu__nav__link menu__nav__link--nested">Online Learning</a>
+								</li>								
+								<li class="menu__nav__item menu__nav__item--nested">
+									<a href="https://www.lib.usm.edu/" target="_blank" class="menu__nav__link menu__nav__link--nested">University Libraries</a>
+								</li>
+							</ul>
+						</li>
+						<li class="menu__nav__item">
+							<a href="https://www.usm.edu/university/research.php" class="menu__nav__link">Research</a>
+							<!-- uncomment and add relevant navigation to southern proud link -->
+<!-- 							<button class="menu__nav__toggle"><span class="menu__nav__toggle__text">Toggle</span></button>
+<ul class="menu__nav__list menu__nav__list--nested">
+                                        <li class="menu__nav__item menu__nav__item--nested"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                        <li class="menu__nav__item menu__nav__item--nested menu__nav__item--current"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                    </ul> -->
+						</li>
+						
+						<li class="menu__nav__item">
+							<a href="https://www.usm.edu/university/student-life.php" class="menu__nav__link">Student Life</a>	
+							<!-- uncomment and add relevant navigation to southern proud link -->
+<!-- 							<button class="menu__nav__toggle"><span class="menu__nav__toggle__text">Toggle</span></button>
+<ul class="menu__nav__list menu__nav__list--nested">
+                                        <li class="menu__nav__item menu__nav__item--nested"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                        <li class="menu__nav__item menu__nav__item--nested menu__nav__item--current"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                    </ul> -->
+						</li>
+						<li class="menu__nav__item">
+							<a href="https://www.usm.edu/arts/" class="menu__nav__link">Arts</a>
+							<!-- uncomment and add relevant navigation to southern proud link -->
+<!-- 							<button class="menu__nav__toggle"><span class="menu__nav__toggle__text">Toggle</span></button>
+<ul class="menu__nav__list menu__nav__list--nested">
+                                        <li class="menu__nav__item menu__nav__item--nested"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                        <li class="menu__nav__item menu__nav__item--nested menu__nav__item--current"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                    </ul> -->
+						</li>
+						<li class="menu__nav__item">
+							<a href="https://southernmiss.com/" target="_blank" class="menu__nav__link">Athletics</a>
+							<!-- uncomment and add relevant navigation to southern proud link -->
+<!-- 							<button class="menu__nav__toggle"><span class="menu__nav__toggle__text">Toggle</span></button>
+<ul class="menu__nav__list menu__nav__list--nested">
+                                        <li class="menu__nav__item menu__nav__item--nested"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                        <li class="menu__nav__item menu__nav__item--nested menu__nav__item--current"><a href="#" class="menu__nav__link menu__nav__link--nested">placeholder text</a></li>
+                                    </ul> -->
+						</li>
+					</ul>
+				</nav>
+				<div class="menu__secondary">
+					<ul class="menu__actions">
+						<li class="menu__actions__item">
+							<a href="https://www.usm.edu/admissions/request-information.php" class="menu__actions__link">Request info</a>
+						</li>
+						<li class="menu__actions__item">
+							<a href="https://www.usm.edu/admissions/visit.php" class="menu__actions__link">Visit</a>
+						</li>
+						<li class="menu__actions__item">
+							<a href="https://www.usm.edu/admissions/apply.php" class="menu__actions__link">Apply</a>
+						</li>
+					</ul>
+					<ul class="menu__extra">
+						<li class="menu__extra__item">
+							<a href="https://www.usm.edu/undergraduate-programs/" class="menu__extra__link">Majors &amp; Degrees</a>
+						</li>
+						<li class="menu__extra__item">
+							<a href="https://www.usm.edu/news/" class="menu__extra__link">News</a>
+						</li>
+						<li class="menu__extra__item">
+							<a href="https://calendar.usm.edu/" target="_blank" class="menu__extra__link">Events</a>
+						</li>
+						<li class="menu__extra__item">
+							<a href="https://www.usmfoundation.com" target="_blank" class="menu__extra__link">Giving</a>
+						</li>
+					</ul>
+					<div class="menu__audience">
+						<button class="menu__audience__toggle" aria-expanded="false" data-popup>Info for</button>
+						<ul class="menu__audience__list">
+							<li class="menu__audience__item">
+								<a href="https://www.usm.edu/admissions/?type=prospective" class="menu__audience__link">Prospective Students</a>
+							</li>
+							<li class="menu__audience__item">
+								<a href="https://www.usm.edu/university/current-undergraduate-students.php" class="menu__audience__link">Current Undergraduate Students</a>
+							</li>
+							<li class="menu__audience__item">
+								<a href="https://www.usm.edu/university/current-graduate-students.php" class="menu__audience__link">Current Graduate Students</a>
+							</li>
+							<li class="menu__audience__item">
+								<a href="https://www.usm.edu/online-learning/index.php" target="_blank" class="menu__audience__link">Online Students</a>
+							</li>
+							<li class="menu__audience__item">
+								<a href="https://www.southernmissalumni.com" target="_blank" class="menu__audience__link">Alumni and Friends</a>
+							</li>
+							<li class="menu__audience__item">
+								<a href="https://www.usm.edu/university/faculty-staff.php" class="menu__audience__link">Faculty and Staff</a>
+							</li>
+						</ul>
+					</div>
+					<button class="menu__search-toggle" aria-expanded="false" data-popup>Search</button>
+					<form class="header__search header__search--desktop" action="https://www.usm.edu/search/index.php" id="capture-search-form" method="get">
+						<label class="header__search__label"><span class="header__search__text">Search</span> <input class="header__search__input" name="q" id="capture-search-form-input" placeholder="Search" type="search"></label>
+						<button class="button header__search__button">Go</button>
+					</form>
+					<!-- Search form structure for Modern Campus CMS Website Search -->
+<!-- 					<form class="header__search header__search--desktop" action="https://www.usm.edu/search/index.php" id="modern-campus-cms-website-search" method="get">
+						<label class="header__search__label"><span class="header__search__text">Search</span> 
+							<input class="header__search__input" id="query" name="query" placeholder="Search" type="search">
+						</label>
+						<button class="button header__search__button">Go</button>
+					</form> -->
+				</div>
+			</div>			
+		</div>
+	</div>
+</header>      <main>
+         <div class="main" id="maincontent">
+            <div class="main__container">
+               <div class="">
+                  <div class="breadcrumbs"><a class="breadcrumbs__link" href="https://www.usm.edu/">USM Home</a><span class="breadcrumbs__separator">/</span>News</div>
+               </div>
+               <div class="main__content main__content--flip">
+                  <h1>Southern Miss Now</h1>
+                  			
+				<div class="list__item">
+										<div class="list__image">
+						<img src="/news/2025/_images/trentlott.jpeg" alt="Trent Lott" />
+					</div>
+										<div class="list__content">
+						<p class="text-small list__meta">
+							4.14.2025 
+														by <a href="?author=Dr.+David+Tisdale">
+									Dr. David Tisdale								</a>
+													</p>
+						<h2 class="list__title h5">
+							<a title="T.W. Bennett Research Symposium Set for April 24 at Southern Miss Hattiesburg Campus" href="https://www.usm.edu/news/2025/release/tw-bennett-research-symposium.php">T.W. Bennett Research Symposium Set for April 24 at Southern Miss Hattiesburg Campus</a>
+						</h2>
+						<p></p>
+					</div>
+				</div>
+		    					
+				<div class="list__item">
+										<div class="list__image">
+						<img src="/news/2025/_images/gateway-three.jpeg" alt="USM Logo" />
+					</div>
+										<div class="list__content">
+						<p class="text-small list__meta">
+							4.11.2025 
+														by <a href="?author=Dr.+David+Tisdale">
+									Dr. David Tisdale								</a>
+													</p>
+						<h2 class="list__title h5">
+							<a title="Southern Miss Biological Sciences Student Earns Esteemed Goldwater Scholarship" href="https://www.usm.edu/news/2025/release/goldwater-scholarship.php">Southern Miss Biological Sciences Student Earns Esteemed Goldwater Scholarship</a>
+						</h2>
+						<p></p>
+					</div>
+				</div>
+		    																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							                  <div id="blog-posts"><div class="list">		<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/gp-gateway.jpeg" alt="Gulf Park" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.17.2025 
+											by <a href="?author=Gabriela+Shinskie">
+					Gabriela Shinskie					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Southern Miss Summer Field Program Returns for its 78th Year Providing Unforgettable Educational Experiences" href="https://www.usm.edu/news/2025/release/summer-field-program.php">Southern Miss Summer Field Program Returns for its 78th Year Providing Unforgettable Educational Experiences</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/scianna-hall.jpeg" alt="Scianna Hall" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.17.2025 
+											by <a href="?author=Bailey+Harris+Shoemake">
+					Bailey Harris Shoemake					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Inspired Leaders Series Welcomes Fred McCallister" href="https://www.usm.edu/news/2025/release/inspired-leaders-series.php">Inspired Leaders Series Welcomes Fred McCallister</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/gateway-seal.jpeg" alt="USM Seal" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.16.2025 
+											by <a href="?author=Dr.+Mike+Lopinto">
+					Dr. Mike Lopinto					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Southern Miss to Host Week of Free Band Concerts for the Whole Family" href="https://www.usm.edu/news/2025/release/band-concerts.php">Southern Miss to Host Week of Free Band Concerts for the Whole Family</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/blue-marker.jpeg" alt="Blue Star" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.16.2025 
+											by <a href="?author=Dr.+David+Tisdale">
+					Dr. David Tisdale					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Hub City Garden Club to Dedicate Blue Star Memorial Marker at Southern Miss Center for Military Veterans, Service Members and Families" href="https://www.usm.edu/news/2025/release/blue-star-memorial-marker.php">Hub City Garden Club to Dedicate Blue Star Memorial Marker at Southern Miss Center for Military Veterans, Service Members and Families</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/gp-seal.jpeg" alt="GP Gateway" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.14.2025 
+											by <a href="?author=Gabriela+Shinskie">
+					Gabriela Shinskie					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="USM School of Leadership Seeks Dynamic Speakers for TEDxSouthern Miss" href="https://www.usm.edu/news/2025/release/tedxsouthernmiss.php">USM School of Leadership Seeks Dynamic Speakers for TEDxSouthern Miss</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/lofty-return.jpeg" alt="Lofty Return" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.11.2025 
+											by <a href="?author=Dr.+Andrew+Haley%2C+Dr.+David+Tisdale">
+					Dr. Andrew Haley, Dr. David Tisdale					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Southern Miss Launches Mississippi Digital Humanities Hub" href="https://www.usm.edu/news/2025/release/mississippi-digital-humanities-hub.php">Southern Miss Launches Mississippi Digital Humanities Hub</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/gp-gateway.jpeg" alt="GP Gateway" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.10.2025 
+											by <a href="?author=Gabriela+Shinskie">
+					Gabriela Shinskie					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Southern Miss Professor Inducted into U.S. Hydrographer Hall of Fame" href="https://www.usm.edu/news/2025/release/hydrographer-hall-of-fame.php">Southern Miss Professor Inducted into U.S. Hydrographer Hall of Fame</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/gateway-usm.jpeg" alt="USM Logo" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.08.2025 
+											by <a href="?author=Stephanie+Patterson">
+					Stephanie Patterson					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Eagle Dining's Cathey Advances to National Aramark Culinary Excellence Competition" href="https://www.usm.edu/news/2025/release/joshua-cathey.php">Eagle Dining's Cathey Advances to National Aramark Culinary Excellence Competition</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/jackson-meeks.jpeg" alt="Jackson Meeks" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.08.2025 
+											by <a href="?author=Ivonne+Kawas">
+					Ivonne Kawas					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Jackson Meeks' Journey to Medical School: Blending Technology, Chemistry and a Golden Legacy" href="https://www.usm.edu/news/2025/release/jackson-meeks.php">Jackson Meeks' Journey to Medical School: Blending Technology, Chemistry and a Golden Legacy</a>
+				</h2>
+			</div>
+		</div>
+				<div class="list__item">
+						<div class="list__image list__image--small">
+									<img src="/news/2025/_images/lucas-administration-building.jpeg" alt="Lucas" />
+							
+			</div>
+						<div class="list__content">
+				<p class="text-small list__meta">
+					4.07.2025 
+											by <a href="?author=Bailey+Harris+Shoemake">
+					Bailey Harris Shoemake					</a>
+									</p>
+				<h2 class="list__title h5">
+					<a title="Southern Miss Graduate Student Clancy Slay Selected for Prestigious Ochsner Fellowship" href="https://www.usm.edu/news/2025/release/clancy-slay.php">Southern Miss Graduate Student Clancy Slay Selected for Prestigious Ochsner Fellowship</a>
+				</h2>
+			</div>
+		</div>
+		<div class="pagination"><a class="pagination__item" href="?page=1" class="active">1</a><a class="pagination__item" href="?page=2"class="pagelink">2</a><a class="pagination__item" href="?page=3"class="pagelink">3</a><a href="?page=194" class="pagination__item">194</a><a href="?page=2" class="pagination__item">»</a></div></div></div>
+               </div>
+               <div class="main__sidebar main__sidebar--flip">
+                  <p style="text-align: center;"><a class="button cta__button" style="width: 100%;margin-left: 0;" href="https://usmforms.formstack.com/forms/contact_news">Contact Us</a></p>
+                  
+                  <h2>Categories</h2>
+                  
+                  <ul>
+                     
+                     <li><a href="/news/?tags=Alumni and Friends">Alumni and Friends</a></li>
+                     
+                     <li><a href="/news/?tags=Arts and Sciences">Arts and Sciences</a></li>
+                     
+                     <li><a href="/news/?tags=Business and Economic Development">Business and Economic Development</a></li>
+                     
+                     <li><a href="/news/?tags=Coastal USM">Coastal USM</a></li>
+                     
+                     <li><a href="/news/?tags=Education and Human Sciences">Education and Human Sciences</a></li>
+                     
+                     <li><a href="/news/?tags=Graduate School">Graduate School</a></li>
+                     
+                     <li><a href="/news/?tags=Honors College">Honors College</a></li>
+                     
+                     <li><a href="/news/?tags=Nursing and Health Professions">Nursing and Health Professions</a></li>
+                     
+                     <li><a href="/news/?tags=Research">Research</a></li>
+                     
+                     <li><a href="/news/?tags=Student Life">Student Life</a></li>
+                     
+                     <li><a href="/news/?tags=University Libraries">University Libraries</a></li>
+                     
+                     <li><a href="/news/?tags=University%20Messages">University Messages</a></li>
+                     </ul>
+               </div>
+            </div>
+         </div>
+      </main>
+      
+<footer class="footer">
+	<div class="footer__top">
+		<div class="footer__container footer__container--top">
+			<div class="footer__left">
+				<div class="footer__location">
+					<h2 class="h5 footer__heading">
+						<a href="https://www.usm.edu/university/hattiesburg-campus.php">Hattiesburg Campus</a>
+					</h2>
+					<p>118 College Drive<br>Hattiesburg, MS 39406-0001</p>
+					<p><a href="tel:6012661000">601.266.1000</a></p>
+					<p><a href="https://www.usm.edu/university/contact-us.php">Contact Us</a></p>
+					<p><a href="https://www.usm.edu/map/#hattiesburg-campus">Hattiesburg Campus Map</a></p>
+				</div>
+				<div class="footer__location">
+					<h2 class="h5 footer__heading">
+						<a href="https://www.usm.edu/university/gulf-park-campus.php">Gulf Park Campus</a>
+					</h2>
+					<p>730 East Beach Boulevard<br>Long Beach, MS 39560</p>
+					<p><a href="tel:2288654500">228.865.4500</a></p>
+					<p><a href="https://www.usm.edu/university/contact-us.php">Contact Us</a></p>
+					<p><a href="https://www.usm.edu/map/#gulf-park-campus">Gulf Park Campus Map</a></p>
+				</div>
+				</div>
+			<div class="footer__right">
+				<div>
+					<a href="https://www.usmfoundation.com" target="_blank" class="button">Give to USM</a>
+				</div>
+				<div class="footer__social">
+					<div class="social">
+						<a href="https://www.facebook.com/usm.edu" target="_blank" class="social__link social__link--facebook">
+							<span class="svg svg--facebook">
+								<svg viewBox="0 0 1664 1664" role="img" aria-labelledby="facebookTitle" xmlns="https://www.w3.org/2000/svg">
+									<path d="M1264 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296H961v759H655V905H400V609h255V391q0-186 104-288.5T1036 0q147 0 228 12z" />
+								</svg> 
+							</span>
+							<span id="facebookTitle" class="social__text">Facebook</span> 
+						</a>
+						<a href="https://twitter.com/SouthernMiss/status/1714036045346414956" target="_blank" class="social__link social__link--twitter">
+							<span class="svg svg--twitter">
+								<svg viewBox="0 0 1200 1227" role="img" aria-labelledby="twitterTitle" xmlns="http://www.w3.org/2000/svg">
+									<path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+								</svg>
+							</span>
+							<span id="twitterTitle" class="social__text">Twitter</span> 
+						</a>
+						<a href="https://www.instagram.com/officialsouthernmiss/" target="_blank" class="social__link social__link--instagram">
+							<span class="svg svg--instagram">
+								<svg viewBox="0 0 1536 1536" role="img" aria-labelledby="instagramTitle" xmlns="https://www.w3.org/2000/svg">
+									<path d="M1024 768q0-106-75-181t-181-75q-106 0-181 75t-75 181q0 106 75 181t181 75q106 0 181-75t75-181zm138 0q0 164-115 279t-279 115q-164 0-279-115T374 768q0-164 115-279t279-115q164 0 279 115t115 279zm108-410q0 38-27 65t-65 27q-38 0-65-27t-27-65q0-38 27-65t65-27q38 0 65 27t27 65zM768 138q-7 0-76.5-.5t-105.5 0q-36 .5-96.5 3t-103 10Q344 158 315 169q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103q-2.5 60.5-3 96.5t0 105.5q.5 69.5.5 76.5t-.5 76.5q-.5 69.5 0 105.5t3 96.5q2.5 60.5 10 103T169 1221q20 50 58 88t88 58q29 11 71.5 18.5t103 10q60.5 2.5 96.5 3t105.5 0q69.5-.5 76.5-.5t76.5.5q69.5.5 105.5 0t96.5-3q60.5-2.5 103-10t71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103q2.5-60.5 3-96.5t0-105.5q-.5-69.5-.5-76.5t.5-76.5q.5-69.5 0-105.5t-3-96.5q-2.5-60.5-10-103T1367 315q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10q-60.5-2.5-96.5-3t-105.5 0q-69.5.5-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124T5 1085q-5-88-5-317t5-317q10-208 124-322T451 5q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z" />
+								</svg> 
+							</span>
+							<span id="instagramTitle" class="social__text">Instagram</span> 
+						</a>
+						<a href="https://www.youtube.com/southernmiss" target="_blank" class="social__link social__link--youtube">
+							<span class="svg svg--youtube">
+								<svg viewBox="0 0 1792 1792" role="img" aria-labelledby="youtubeTitle" xmlns="https://www.w3.org/2000/svg">
+									<path d="M1280 896q0-37-30-54L738 522q-31-20-65-2-33 18-33 56v640q0 38 33 56 16 8 31 8 20 0 34-10l512-320q30-17 30-54zm512 0q0 96-1 150t-8.5 136.5Q1775 1265 1760 1330q-16 73-69 123t-124 58q-222 25-671 25t-671-25q-71-8-124.5-58T31 1330q-14-65-21.5-147.5T1 1046q-1-54-1-150t1-150q1-54 8.5-136.5T32 462q16-73 69-123t124-58q222-25 671-25t671 25q71 8 124.5 58t69.5 123q14 65 21.5 147.5T1791 746q1 54 1 150z" />
+								</svg> 
+							</span>
+							<span id="youtubeTitle" class="social__text">YouTube</span>
+						</a>
+					</div>
+				</div>
+				<div class="footer__mississippi">
+					<a href="http://www.mississippi.edu/transparency/" target="_blank">
+						<img alt="Mississippi Public Universities logo" src="https://www.usm.edu/_resources/img/footer-mississippi.png" />
+					</a>
+				</div>
+			</div>
+			<div class="footer__quote">
+				<img alt="Southern Miss to the top!" src="https://www.usm.edu/_resources/img/footer-mississippi.jpeg" />
+<!-- 				<blockquote class="footer__quote__overlay">
+					<p>Our professors care about their subjects and they know their subjects. They will convince you to change your major, they love it so much.</p>
+					<cite class="footer__quote__cite">Jill Smith, Sophomore</cite>
+				</blockquote> -->
+			</div>
+						
+		</div>
+	</div>
+	<div class="footer__bottom">
+		<div class="footer__container">
+			<nav class="footer__nav" aria-label="Footer">
+				<ul class="footer__nav__list">
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/a-to-z-index.php" class="footer__nav__link">A-Z Index</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/university/accreditation.php" class="footer__nav__link">Accreditation</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/police/" class="footer__nav__link">Campus Safety</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/university/contact-us.php" class="footer__nav__link">Contact Us</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/university/equal-employment-opportunity-statement.php" class="footer__nav__link">EEO Statement</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://usm.csod.com/ats/careersite/search.aspx?site=1&c=usm" target="_blank" class="footer__nav__link">Employment</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://secure.ethicspoint.com/domain/media/en/gui/31502/index.html" target="_blank" class="footer__nav__link">Ethics Line</a>
+					</li>			
+				</ul>
+				<ul class="footer__nav__list">
+					<li class="footer__nav__item">
+						<a href="http://www.mississippi.edu/gov/miss_code_ann_25-61-19.asp" target="_blank" class="footer__nav__link">Legislative Updates</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://usm.policystat.com/policy/7104864/latest/" target="_blank" class="footer__nav__link">Notice of Nondiscrimination</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://apps.usm.edu/itech/onlinedirectory/" target="_blank" class="footer__nav__link">Online Directory</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/university/privacy.php" class="footer__nav__link">Privacy and Legal</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/professional-licensure-certification-disclosures/index.php" class="footer__nav__link">Professional Licensure Disclosures</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/dean-students/cares.php" class="footer__nav__link">Report a Student Concern</a>
+					</li>
+				</ul>
+				<ul class="footer__nav__list">
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/online-learning/sara-1.php" target="_blank" class="footer__nav__link">SARA</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/title-ix/index.php" class="footer__nav__link">Sexual Assault/Title IX</a>
+					</li>
+					<li class="footer__nav__item">
+						<a href="https://www.usm.edu/university/web-accessibility-statement.php" class="footer__nav__link">Web Accessibility Statement</a>
+					</li>
+				</ul>
+			</nav>
+			<p class="footer__copyright">&copy; 2025 The University of Southern Mississippi. All rights reserved. <span id="directedit"></span></p>
+		</div>
+	</div>
+</footer>
+<script src="https://www.usm.edu/_resources/js/main.js?v=1.1"></script>
+
+<!-- <script>
+	document.getElementById("capture-search-form").addEventListener("submit", function(event) {
+		event.preventDefault();
+		window.location.href = this.getAttribute("action") + "#stq=" + document.getElementById("capture-search-form-input").value + "&stp=1";
+	});
+</script> 
+
+<script>
+	document.getElementById("capture-search-form-mobile").addEventListener("submit", function(event) {
+		event.preventDefault();
+		window.location.href = this.getAttribute("action") + "#stq=" + document.getElementById("searchMobile").value + "&stp=1";
+	});
+</script>
+-->
+
+<!-- Analytics is in head code for now -->      <div id="ou-hidden" style="display:none;"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=oucampus&amp;account=usm&amp;site=www&amp;action=de&amp;path=/news/index.pcf" target="_top" rel="nofollow">Last Updated 3/1/25</a></div><script>
+			if(document.getElementById("de") != null && document.getElementById("directedit")) {
+				var link = document.getElementById("de").parentNode.innerHTML;
+				document.getElementById("de").parentNode.innerHTML = "";
+				document.getElementById("directedit").innerHTML = link.replace(/^\s+|\s+$/gm,'');
+			}
+		</script>
+      <script src="https://www.usm.edu/ou-alerts/alerts-config.alerts.js?v=2.1-20250301080145"></script>
+<script>
+	// archive alert processing
+	if (document.getElementById(ouEmergencyAlerts.archivedAlertDivId)) {
+		ouEmergencyAlerts.loadAlertFeed("processAlertFeedForArchivePage", "activeAlertFeed", "archiveActiveAlertHeading");  
+		setTimeout(function() {
+			ouEmergencyAlerts.loadAlertFeed("processAlertFeedForArchivePage", "archiveAlertFeed", "archiveAlertHeading");
+		}, 200);
+	}
+	// active alert processing
+	ouEmergencyAlerts.determineActiveAlertOutput();
+</script><script type="text/template" id="oualerts-active-announcement">
+<div id="oualerts-active-alert-display" class="oualerts-notify oualerts-notify-announcement oualerts-top oualerts-top-fixed ouAlertsFadeInDown oualerts-animated-fast" role="alert">
+	<div class="oualerts-notify-body">
+		{% if (o.showDate) { %}
+		<div class="oualerts-notify-date">{%=ouEmergencyAlerts.alertDateFormat("F d, Y h:i A",o.pubDate)%}</div>
+		{% } %}
+		<h3 class="oualerts-notify-title">
+			
+						<svg class="oualerts-notify-icon" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 271 286"><path fill-rule="evenodd" d="M241.964 157.267v69.997c0 5.11-5.639 8.199-9.934 5.442l-86.454-55.51h-13.388l11.06 28.862c18.297 3.828 32.042 20.078 32.042 39.544 0 22.311-18.056 40.398-40.328 40.398-17.471 0-32.347-11.13-37.949-26.698l-.0122.005-31.4593-82.111h-5.3193C26.9624 177.196 0 150.187 0 116.869c0-33.3175 26.9624-60.3268 60.2222-60.3268h85.3538L232.03 1.0324c4.295-2.7574 9.934.3319 9.934 5.4417v69.9975h18.282c5.939 0 10.754 4.8231 10.754 10.7727v59.2497c0 5.95-4.815 10.773-10.754 10.773h-18.282zm-15.055 54.237l-75.278-48.334V70.5682l75.278-48.3337V211.504zm15.055-69.319h13.98V91.5533h-13.98v50.6317z" clip-rule="evenodd"/></svg>
+					
+			{%=o.title%}
+		</h3>
+		{% if (o.subtitle) { %}
+		<p class="oualerts-notify-subtitle"><strong>{%=o.subtitle %}</strong></p>
+		{% } %}
+		{% if (o.description) { %}
+		<p class="oualerts-notify-msg">{%=o.description %}
+			{% } %}
+			{% if (o.guid) { %}
+			<br>
+			<a href="{%=o.guid %}" class="oualerts-notify-link">Read More...</a>
+			{% } %}
+			{% if (o.description) { %}
+		</p>
+		{% } %}
+		<p class="oualerts-notify-footer">
+			<button class="oualerts-close-button" id="oualerts-close-button">Close</button>
+		</p>
+	</div>
+</div>
+
+</script>
+<script type="text/template" id="oualerts-active-warning">
+<div id="oualerts-active-alert-display" class="oualerts-notify oualerts-notify-warning oualerts-top ouAlertsFadeInDown oualerts-animated-fast" role="alert">
+	<div class="oualerts-notify-body">
+		{% if (o.showDate) { %}
+		<div class="oualerts-notify-date">{%=ouEmergencyAlerts.alertDateFormat("F d, Y h:i A",o.pubDate)%}</div>
+		{% } %}
+		<h3 class="oualerts-notify-title">
+			
+						<svg class="oualerts-notify-icon" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 273 273"><path fill-rule="evenodd" d="M273 136.5c0 75.387-61.113 136.5-136.5 136.5C61.1131 273 0 211.887 0 136.5 0 61.1131 61.1131 0 136.5 0 211.887 0 273 61.1131 273 136.5zM123 58v105h27V58h-27zm0 157v-26.5h27V215h-27z" clip-rule="evenodd"/></svg>
+					
+			{%=o.title%}
+		</h3>
+		{% if (o.subtitle) { %}
+		<p class="oualerts-notify-subtitle"><strong>{%=o.subtitle %}</strong></p>
+		{% } %}
+		{% if (o.description) { %}
+		<p class="oualerts-notify-msg">{%=o.description %}
+			{% } %}
+			{% if (o.guid) { %}
+			<br>
+			<a href="{%=o.guid %}" class="oualerts-notify-link">#000000</a>
+			{% } %}
+			{% if (o.description) { %}
+		</p>
+		{% } %}
+		<p class="oualerts-notify-footer">
+			<button class="oualerts-close-button" id="oualerts-close-button">Close</button>
+		</p>
+	</div>
+</div>
+
+</script>
+<script type="text/template" id="oualerts-active-emergency">
+<div id="oualerts-active-alert-display" class="oualerts-notify oualerts-notify-emergency oualerts-top ouAlertsFadeInDown oualerts-animated-fast" role="alert">
+	<div class="oualerts-notify-body">
+		{% if (o.showDate) { %}
+		<div class="oualerts-notify-date">{%=ouEmergencyAlerts.alertDateFormat("F d, Y h:i A",o.pubDate)%}</div>
+		{% } %}
+		<h3 class="oualerts-notify-title">
+			
+						<svg class="oualerts-notify-icon" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 298 273"><path fill-rule="evenodd" d="M137.626 7.553c4.947-8.9403 17.801-8.9403 22.748 0l135.948 245.652c4.795 8.665-1.471 19.295-11.374 19.295H13.0524c-9.903 0-16.1695-10.63-11.3744-19.295L137.626 7.553zM136.5 85v100h25V85h-25zm0 149.5v-24h25v24h-25z" clip-rule="evenodd"/></svg>
+					
+			{%=o.title%}
+		</h3>
+		{% if (o.subtitle) { %}
+		<p class="oualerts-notify-subtitle"><strong>{%=o.subtitle %}</strong></p>
+		{% } %}
+		{% if (o.description) { %}
+		<p class="oualerts-notify-msg">{%=o.description %}
+			{% } %}
+			{% if (o.guid) { %}
+			<br>
+			<a href="{%=o.guid %}" class="oualerts-notify-link">Read More...</a>
+			{% } %}
+			{% if (o.description) { %}
+		</p>
+		{% } %}
+		<p class="oualerts-notify-footer">
+			<button class="oualerts-close-button" id="oualerts-close-button">Close</button>
+		</p>
+	</div>
+</div>
+
+</script>
+<script type="text/template" id="oualerts-archived-template">
+{% if (o[0].htmlHeading) { %}
+<h2 class="oualerts-archive-main-heading">{%=o[0].htmlHeading %}</h2>
+{% } %}
+<ul class="oualerts-achive-list">
+	{% for (var i=0; o.length > i; i++) { %}
+	<li class="oualerts-achive-list-item oualerts-archive-type-{%=o[i].severity%}">
+		<div class="oualerts-achive-list-item-inner">
+			<h3 class="oualerts-archive-title">{%=o[i].title%}</h3>
+			<div class="oualerts-archive-date">{%=ouEmergencyAlerts.alertDateFormat("F d, Y h:i A",o[i].pubDate)%}</div>
+			{% if (o[i].subtitle) { %}
+			<p class="oualerts-archive-subtitle"><strong>{%=o[i].subtitle %}</strong></p>
+			{% } %}
+			{% if (o[i].description) { %}
+			<p class="oualerts-archive-msg">{%=o[i].description %}
+				{% } %}
+				{% if (o[i].guid) { %}
+				<a href="{%=o[i].guid %}" class="oualerts-archive-link">{%=ouEmergencyAlerts[o[i].severity + "Archive"].readMoreText%}</a>
+				{% } %}
+				{% if (o[i].description) { %}
+			</p>
+			{% } %}
+			{% if (o[i].updates) { %}
+			<h4 class="oualerts-archive-list-update-header">{%=ouEmergencyAlerts[o[i].severity + "Archive"].updateText %}</h4>
+			<ul class="oualerts-achive-list-update">
+				{% for (var k=0; o[i].updates.length > k; k++) { %}
+				<li class="oualerts-achive-list-item-update">
+					<div class="oualerts-achive-list-item-update-inner">
+						<h5 class="oualerts-archive-title-update">{%=o[i].updates[k].title%}</h5>
+						<div class="oualerts-archive-date-update">{%=ouEmergencyAlerts.alertDateFormat("F d, Y h:i A",o[i].updates[k].pubDate)%}</div>
+						{% if (o[i].updates[k].subtitle) { %}
+						<p class="oualerts-archive-subtitle-update"><strong>{%=o[i].updates[k].subtitle %}</strong></p>
+						{% } %}
+						{% if (o[i].updates[k].description) { %}
+						<p class="oualerts-archive-msg-update">{%=o[i].updates[k].description %}
+							{% } %}
+							{% if (o[i].updates[k].guid) { %}
+							<a href="{%=o[i].updates[k].guid %}" class="oualerts-archive-link-update">{%=ouEmergencyAlerts[o[i].severity + "Archive"].readMoreText%}</a>
+							{% } %}
+							{% if (o[i].updates[k].description) { %}
+						</p>
+						{% } %}
+					</div>
+				</li>
+				{% } %}
+			</ul>
+			{% } %}
+		</div>
+	</li>
+	{% } %}
+</ul>
+</script>
+<script>
+            function ouEncodingLinkReady(fn) {
+			  if (document.readyState !== "loading"){
+			    fn();
+			  }
+			  else if (document.addEventListener) {
+			    document.addEventListener("DOMContentLoaded", fn);
+			  }
+			  else {
+			    document.attachEvent("onreadystatechange", function() {
+			      if (document.readyState !== "loading") {
+			        fn();
+			      }
+			    });
+			  }
+			}
+			function ouEncodingLinkFunction() {
+			    var items = document.querySelectorAll("a[data-values-do-something='true']");
+			    var i;
+			    var valueOne;
+			    var valueTwo;
+			    var valueThree;
+			    var valueFour;
+			    var valueFive;
+			    var valueSix;
+			    var final;
+			    var text;
+			    for (i = 0; i < items.length; i += 1) {
+			        valueOne = decodeURIComponent(items[i].getAttribute("data-values-rep-one").split("").reverse().join(""));
+			        valueTwo = decodeURIComponent(items[i].getAttribute("data-values-rep-two").split("").reverse().join(""));
+			        valueThree = decodeURIComponent(items[i].getAttribute("data-values-rep-three").split("").reverse().join(""));
+			        valueFour = decodeURIComponent(items[i].getAttribute("data-values-rep-four").split("").reverse().join(""));
+			        valueFive = items[i].getAttribute("data-values-rep-five");
+			        valueSix = decodeURIComponent(items[i].getAttribute("data-values-rep-six").split("").reverse().join(""));
+
+			        final = items[i].getAttribute("href").replace(valueFour, valueThree).replace(valueTwo, valueFive).replace(valueOne, valueSix);
+			        text = decodeURIComponent(items[i].innerHTML.replace(valueFour, valueThree).replace(valueTwo, valueFive).replace(valueOne, valueSix));
+
+			        items[i].setAttribute("href", final);
+			        items[i].innerHTML = text;
+			    }
+			}
+			ouEncodingLinkReady(ouEncodingLinkFunction());
+        </script><!-- ouc:info uuid="d8a145a1-7aab-4ac6-aad8-378e09d36172"/ --></body>
+</html>

@@ -1,0 +1,451 @@
+<!DOCTYPE html><html lang="en" class="palmharbor"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="shortcut icon" type="image/png" id="favicon" sizes="64x64" href="/site/webfiles/latest/js/react/static/palmharbor-favicon.png"><link defer="defer" rel="style" href="/site/webfiles/latest/js/react/static/brx-theme.css" media="screen"><link rel="stylesheet" href="https://use.typekit.net/esz3dos.css"><link href="/site/webfiles/latest/js/react/static/css/main.59675b52.css" rel="stylesheet"><style data-jss="" data-meta="MuiTouchRipple">
+.MuiTouchRipple-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.MuiTouchRipple-ripple {
+  opacity: 0;
+  position: absolute;
+}
+.MuiTouchRipple-rippleVisible {
+  opacity: 0.3;
+  animation: MuiTouchRipple-keyframes-enter 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform: scale(1);
+}
+.MuiTouchRipple-ripplePulsate {
+  animation-duration: 200ms;
+}
+.MuiTouchRipple-child {
+  width: 100%;
+  height: 100%;
+  display: block;
+  opacity: 1;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.MuiTouchRipple-childLeaving {
+  opacity: 0;
+  animation: MuiTouchRipple-keyframes-exit 550ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.MuiTouchRipple-childPulsate {
+  top: 0;
+  left: 0;
+  position: absolute;
+  animation: MuiTouchRipple-keyframes-pulsate 2500ms cubic-bezier(0.4, 0, 0.2, 1) 200ms infinite;
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-enter {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-exit {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style><style data-jss="" data-meta="MuiButtonBase">
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    -webkit-print-color-adjust: exact;
+  }
+}
+</style><style data-jss="" data-meta="MuiIconButton">
+.MuiIconButton-root {
+  flex: 0 0 auto;
+  color: rgba(0, 0, 0, 0.54);
+  padding: 12px;
+  overflow: visible;
+  font-size: 1.5rem;
+  text-align: center;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 50%;
+}
+.MuiIconButton-root:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+.MuiIconButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+  background-color: transparent;
+}
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-edgeStart {
+  margin-left: -12px;
+}
+.MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+  margin-left: -3px;
+}
+.MuiIconButton-edgeEnd {
+  margin-right: -12px;
+}
+.MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+  margin-right: -3px;
+}
+.MuiIconButton-colorInherit {
+  color: inherit;
+}
+.MuiIconButton-colorPrimary {
+  color: #3f51b5;
+}
+.MuiIconButton-colorPrimary:hover {
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-colorSecondary {
+  color: #f50057;
+}
+.MuiIconButton-colorSecondary:hover {
+  background-color: rgba(245, 0, 87, 0.04);
+}
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-sizeSmall {
+  padding: 3px;
+  font-size: 1.125rem;
+}
+.MuiIconButton-label {
+  width: 100%;
+  display: flex;
+  align-items: inherit;
+  justify-content: inherit;
+}
+</style><style data-jss="" data-meta="MuiDrawer">
+.MuiDrawer-docked {
+  flex: 0 0 auto;
+}
+.MuiDrawer-paper {
+  top: 0;
+  flex: 1 0 auto;
+  height: 100%;
+  display: flex;
+  outline: 0;
+  z-index: 1200;
+  position: fixed;
+  overflow-y: auto;
+  flex-direction: column;
+  -webkit-overflow-scrolling: touch;
+}
+.MuiDrawer-paperAnchorLeft {
+  left: 0;
+  right: auto;
+}
+.MuiDrawer-paperAnchorRight {
+  left: auto;
+  right: 0;
+}
+.MuiDrawer-paperAnchorTop {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: auto;
+  height: auto;
+  max-height: 100%;
+}
+.MuiDrawer-paperAnchorBottom {
+  top: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  max-height: 100%;
+}
+.MuiDrawer-paperAnchorDockedLeft {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiDrawer-paperAnchorDockedTop {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiDrawer-paperAnchorDockedRight {
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiDrawer-paperAnchorDockedBottom {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+</style><style data-jss="" data-meta="PrivateTabIndicator">
+.jss1 {
+  width: 100%;
+  bottom: 0;
+  height: 2px;
+  position: absolute;
+  transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.jss2 {
+  background-color: #3f51b5;
+}
+.jss3 {
+  background-color: #f50057;
+}
+.jss4 {
+  right: 0;
+  width: 2px;
+  height: 100%;
+}
+</style><style data-jss="" data-meta="MuiTabs">
+.MuiTabs-root {
+  display: flex;
+  overflow: hidden;
+  min-height: 48px;
+  -webkit-overflow-scrolling: touch;
+}
+.MuiTabs-vertical {
+  flex-direction: column;
+}
+.MuiTabs-flexContainer {
+  display: flex;
+}
+.MuiTabs-flexContainerVertical {
+  flex-direction: column;
+}
+.MuiTabs-centered {
+  justify-content: center;
+}
+.MuiTabs-scroller {
+  flex: 1 1 auto;
+  display: inline-block;
+  position: relative;
+  white-space: nowrap;
+}
+.MuiTabs-fixed {
+  width: 100%;
+  overflow-x: hidden;
+}
+.MuiTabs-scrollable {
+  overflow-x: scroll;
+  scrollbar-width: none;
+}
+.MuiTabs-scrollable::-webkit-scrollbar {
+  display: none;
+}
+@media (max-width:599.95px) {
+  .MuiTabs-scrollButtonsDesktop {
+    display: none;
+  }
+}
+</style><style data-jss="" data-meta="MuiTab">
+.MuiTab-root {
+  padding: 6px 12px;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.875rem;
+  max-width: 264px;
+  min-width: 72px;
+  box-sizing: border-box;
+  min-height: 48px;
+  text-align: center;
+  flex-shrink: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.75;
+  white-space: normal;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+@media (min-width:600px) {
+  .MuiTab-root {
+    min-width: 160px;
+  }
+}
+.MuiTab-labelIcon {
+  min-height: 72px;
+  padding-top: 9px;
+}
+.MuiTab-labelIcon .MuiTab-wrapper > *:first-child {
+  margin-bottom: 6px;
+}
+.MuiTab-textColorInherit {
+  color: inherit;
+  opacity: 0.7;
+}
+.MuiTab-textColorInherit.Mui-selected {
+  opacity: 1;
+}
+.MuiTab-textColorInherit.Mui-disabled {
+  opacity: 0.5;
+}
+.MuiTab-textColorPrimary {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #3f51b5;
+}
+.MuiTab-textColorPrimary.Mui-disabled {
+  color: rgba(0, 0, 0, 0.38);
+}
+.MuiTab-textColorSecondary {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiTab-textColorSecondary.Mui-selected {
+  color: #f50057;
+}
+.MuiTab-textColorSecondary.Mui-disabled {
+  color: rgba(0, 0, 0, 0.38);
+}
+.MuiTab-fullWidth {
+  flex-grow: 1;
+  max-width: none;
+  flex-basis: 0;
+  flex-shrink: 1;
+}
+.MuiTab-wrapped {
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+.MuiTab-wrapper {
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+</style><title>Palm Harbor Homes | Manufactured Homes, Mobile Homes and Modular Home</title><meta name="description" content="Palm Harbor Homes builds and sells customizable manufactured homes, mobile homes and modular homes." data-rh="true"><meta name="keywords" content="modular homes, manufactured homes, mobile home, palm harbor homes, factory built homes, modular home manufacturer, texas, prefab, San Antonio, Austin, Houston, Oklahoma City" data-rh="true"><meta class="elastic" name="type" content="modular homes" data-rh="true"><meta class="elastic" name="search_image" content="/content/gallery/palmharbor/plants/millersburg/lakeport-palm-harbor.jpg" data-rh="true"><meta property="og:title" content="Palm Harbor Homes | Manufactured Homes, Mobile Homes and Modular Home" data-rh="true"><meta name="twitter:title" content="Palm Harbor Homes | Manufactured Homes, Mobile Homes and Modular Home" data-rh="true"><meta property="og:image" content="/binaries/content/gallery/palmharbor/plants/millersburg/lakeport-palm-harbor.jpg" data-rh="true"><meta name="twitter:image" content="/binaries/content/gallery/palmharbor/plants/millersburg/lakeport-palm-harbor.jpg" data-rh="true"><meta property="og:description" content="Palm Harbor Homes builds and sells customizable manufactured homes, mobile homes and modular homes." data-rh="true"><meta name="twitter:description" content="Palm Harbor Homes builds and sells customizable manufactured homes, mobile homes and modular homes." data-rh="true"><meta name="robots" content="index,follow" data-rh="true"><meta rel="x-prerender-render-id" content="08634fb0-04ab-4ff2-9ef9-0fd2f588f3fa" />
+			<meta rel="x-prerender-render-at" content="2025-04-20T18:51:09.164Z" /><meta rel="x-prerender-request-id" content="9af50500-220d-4fd3-acc2-5632b3f0bb39" />
+      		<meta rel="x-prerender-request-at" content="2025-04-21T05:17:08.573Z" /></head><body><noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56KB5D4&gtm_auth=&gtm_preview=&gtm_cookies_win=x"
+        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe></noscript>
+      
+    <noscript data-elastic-exclude="">You need to enable JavaScript to run this app.</noscript><div id="root"><div class="cvc-app"><a class="skip-to-content" href="#main">Skip to Content</a><div style="display: flex; flex-direction: column; min-height: 100vh;"><div><div></div><div><div data-elastic-exclude="true" class="cvc-header-wrapper is-std"><div class="cvc-header is-std is-fixed"><header class="cvc-header-comp"><div class="cvc-header-comp-container container"><div class="cvc-header-comp-search-favorites-container"><div class="cvc-header-comp-search-icon-container"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="cvc-header-comp-search-icon"><defs><style>
+            .cls-search-bg-color{fill: transparent;}
+        </style></defs><circle class="cls-search-bg-color" cx="15" cy="15" r="15"></circle><path class="cls-search-icon" d="M24.5,22l-4.9-4.9c0.6-1.1,1-2.3,1-3.6c0-3.9-3.2-7.1-7.1-7.1c-3.9,0-7.1,3.2-7.1,7.1c0,3.9,3.2,7.1,7.1,7.1 c1.3,0,2.5-0.3,3.6-1l4.9,4.9L24.5,22z M8.9,13.5c0-2.5,2.1-4.6,4.6-4.6s4.6,2.1,4.6,4.6s-2.1,4.6-4.6,4.6l0,0 C11,18.1,8.9,16.1,8.9,13.5z "></path></svg><div class="cvc-header-tollfree">Call A Model Center: <a href="tel:1-888-466-3719">1-888-466-3719</a></div></div><div class="cvc-header-comp-favorites-container"><button class="cvc-header-comp-favorites" aria-label="display login button" type="button" style="cursor: pointer;"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="cvc-header-comp-favorites-user-icon"><defs><style>
+            .cls-user-icon-stroke{fill: transparent;}
+            .cls-user-icon-bg{fill: transparent;}
+        </style></defs><circle class="cls-user-icon-bg" cx="15" cy="15" r="12.5"></circle><g class="cls-user-icon-color"><circle cx="15" cy="13.5" r="5.5"></circle><path d="M24.7,22.9c-1.2-1.8-3-3-5.1-3.3c-1.3,1-3,1.6-4.6,1.6s-3.3-0.6-4.6-1.6c-2,0.4-3.9,1.6-5.1,3.3c2.3,2.8,5.8,4.6,9.7,4.6 c1.7,0,3.4-0.3,4.9-1c0,0,0,0,0,0c0.4-0.2,0.7-0.3,1.1-0.5c0,0,0,0,0,0c0.7-0.4,1.4-0.9,2.1-1.4c0.5-0.5,1.1-1,1.5-1.5 C24.6,23,24.7,22.9,24.7,22.9z"></path></g><path class="cls-user-icon-stroke" d="M15,0C6.7,0,0,6.7,0,15s6.7,15,15,15s15-6.7,15-15S23.3,0,15,0z M15,27.5C8.1,27.5,2.5,21.9,2.5,15S8.1,2.5,15,2.5 S27.5,8.1,27.5,15S21.9,27.5,15,27.5z"></path></svg><span class="cvc-header-comp-favorites-title">Sign In</span></button></div></div><div class="cvc-header-comp-navbar-container"><nav class="cvc-header-comp-navbar navbar navbar-expand navbar-light"><button type="button" class="cvc-header-comp-navbar-toggler" aria-controls="responsive-navbar-nav" aria-label="navigation menu toggle"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="30" viewBox="0 0 50 30" class="cvc-header-comp-navbar-toggler-icon"><g class="cls-nav-search-icon-fill-color"><path d="M3.7,4h15c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h-15c-1.1,0-2-0.9-2-2l0,0C1.7,4.9,2.6,4,3.7,4z"></path><path d="M3.7,13h12c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h-12c-1.1,0-2-0.9-2-2l0,0C1.7,13.9,2.6,13,3.7,13z"></path><path d="M3.7,22h15c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h-15c-1.1,0-2-0.9-2-2l0,0C1.7,22.9,2.6,22,3.7,22z"></path><g><rect x="42.5" y="20.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.7442 38.8121)" width="4" height="9"></rect><path d="M34.7,26c-2.9,0-5.7-1.2-7.8-3.2c-2.1-2.1-3.2-4.9-3.2-7.8c0-6.1,4.9-11,11-11c2.9,0,5.7,1.2,7.8,3.2 c2.1,2.1,3.2,4.9,3.2,7.8s-1.2,5.7-3.2,7.8C40.4,24.8,37.6,26,34.7,26z M34.7,8c-3.9,0-7,3.1-7,7s3.1,7,7,7s7-3.1,7-7 S38.5,8,34.7,8z"></path></g></g></svg></button><a class="cvc-header-comp-navbar-brand navbar-brand  navbar-brand" href="/"><div class="cvc-header-comp-navbar-brand-image-container  "><img id="logo" class="cvc-header-comp-navbar-brand-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/logos-for-headers/palmharbor-a-cavco-company.svg" alt="Palm Harbor Homes - A Cavco Company"><div class="new-cavco-name"></div></div></a><div id="responsive-navbar-nav" class="cvc-header-comp-navbar-navigation"><div class="cvc-header-comp-navbar-sidebar-header"><button type="button" class="cvc-header-comp-navbar-sidebar-closer" aria-controls="responsive-navbar-nav" aria-label="menu close button"><svg xmlns="http://www.w3.org/2000/svg" width="16.906" height="28.16" viewBox="0 0 16.906 28.16" class="cvc-header-comp-navbar-close-icon"><path d="M-22558.668-24568.664l-12.664,12.664,12.664,12.668" transform="translate(22574.16 24570.078)"></path></svg></button><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="cvc-header-comp-search-icon"><defs><style>
+            .cls-search-bg-color{fill: transparent;}
+        </style></defs><circle class="cls-search-bg-color" cx="15" cy="15" r="15"></circle><path class="cls-search-icon" d="M24.5,22l-4.9-4.9c0.6-1.1,1-2.3,1-3.6c0-3.9-3.2-7.1-7.1-7.1c-3.9,0-7.1,3.2-7.1,7.1c0,3.9,3.2,7.1,7.1,7.1 c1.3,0,2.5-0.3,3.6-1l4.9,4.9L24.5,22z M8.9,13.5c0-2.5,2.1-4.6,4.6-4.6s4.6,2.1,4.6,4.6s-2.1,4.6-4.6,4.6l0,0 C11,18.1,8.9,16.1,8.9,13.5z "></path></svg></div><div class="cvc-header-comp-navbar-sidebar-content"><div role="menu" class="cvc-header-comp-navbar-nav navbar-nav "><div class="cvc-header-comp-navbar-nav-link nav-link"><button type="button" class="cvc-header-comp-navbar-nav-link nav-link">Floor Plans</button></div><div class="cvc-header-comp-navbar-nav-link nav-link"><button type="button" class="cvc-header-comp-navbar-nav-link nav-link">Model Centers</button></div><div class="cvc-header-comp-navbar-nav-link-group" aria-label="About Menu"><div class="cvc-header-comp-navbar-nav-link-group-toggler" role="group"><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/about" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">About</a></div><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="11px" viewBox="0 0 16 11" class="cvc-header-comp-navbar-nav-link-group-toggler-icon " aria-controls="About-2-content" aria-expanded="false" role="button" tabindex="0"><defs><style>
+        .cls-caret-down-stroke{stroke:#00A9CE; stroke-width:3;}
+        </style></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polyline id="Path" class="cls-caret-down-stroke" points="1.414 1.508 7.75799811 7.85199811 14.104 1.508"></polyline></g></svg></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/about" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">About</a></div><div id="About-2-content" class="cvc-header-comp-navbar-nav-link-group-content collapse"><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/about/our-company" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Our Company</a></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/about/our-construction" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Our Construction</a></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/about/our-services" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Our Services</a></div></div></div><div class="cvc-header-comp-navbar-nav-more"><span class="cvc-header-comp-navbar-nav-link nav-link is-show-more" role="button" tabindex="0">More...</span><div class="cvc-header-comp-navbar-nav-more-content"><div class="cvc-header-comp-navbar-nav-link-group" aria-label="Contact Menu"><div class="cvc-header-comp-navbar-nav-link-group-toggler" role="group"><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/contact" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Contact</a></div><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="11px" viewBox="0 0 16 11" class="cvc-header-comp-navbar-nav-link-group-toggler-icon " aria-controls="Contact-0-content" aria-expanded="false" role="button" tabindex="0"><defs><style>
+        .cls-caret-down-stroke{stroke:#00A9CE; stroke-width:3;}
+        </style></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polyline id="Path" class="cls-caret-down-stroke" points="1.414 1.508 7.75799811 7.85199811 14.104 1.508"></polyline></g></svg></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/contact" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Contact</a></div><div id="Contact-0-content" class="cvc-header-comp-navbar-nav-link-group-content collapse"><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/find-a-model-center" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Request Information</a></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/contact/retail-distributor" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Become A Retailer</a></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a href="/contact/homeowner-service" class="cvc-header-comp-navbar-nav-link nav-link 
+      
+      
+       nav-link">Customer Service Inquiry</a></div></div></div><div class="cvc-header-comp-navbar-nav-link nav-link" role="menuitem"><a target="_blank" href="https://careers.cavco.com/" class="cvc-header-comp-navbar-nav-link nav-link 
+        
+        
+         nav-link">Careers</a></div></div></div></div><div class="cvc-header-comp-navbar-mobile-link-retailer-icon-container"><a href="/"></a></div></div></div><div class="justify-content-end navbar-collapse collapse"><span><span role="button" aria-label="display mobile button" tabindex="0"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="cvc-header-comp-navbar-user-icon logged-in" hidden=""><defs><style>
+            .cls-user-icon-stroke{fill: transparent;}
+            .cls-user-icon-bg{fill: transparent;}
+        </style></defs><circle class="cls-user-icon-bg" cx="15" cy="15" r="12.5"></circle><g class="cls-user-icon-color"><circle cx="15" cy="13.5" r="5.5"></circle><path d="M24.7,22.9c-1.2-1.8-3-3-5.1-3.3c-1.3,1-3,1.6-4.6,1.6s-3.3-0.6-4.6-1.6c-2,0.4-3.9,1.6-5.1,3.3c2.3,2.8,5.8,4.6,9.7,4.6 c1.7,0,3.4-0.3,4.9-1c0,0,0,0,0,0c0.4-0.2,0.7-0.3,1.1-0.5c0,0,0,0,0,0c0.7-0.4,1.4-0.9,2.1-1.4c0.5-0.5,1.1-1,1.5-1.5 C24.6,23,24.7,22.9,24.7,22.9z"></path></g><path class="cls-user-icon-stroke" d="M15,0C6.7,0,0,6.7,0,15s6.7,15,15,15s15-6.7,15-15S23.3,0,15,0z M15,27.5C8.1,27.5,2.5,21.9,2.5,15S8.1,2.5,15,2.5 S27.5,8.1,27.5,15S21.9,27.5,15,27.5z"></path></svg></span><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="cvc-header-comp-navbar-user-icon"><defs><style>
+            .cls-user-icon-stroke{fill: transparent;}
+            .cls-user-icon-bg{fill: transparent;}
+        </style></defs><circle class="cls-user-icon-bg" cx="15" cy="15" r="12.5"></circle><g class="cls-user-icon-color"><circle cx="15" cy="13.5" r="5.5"></circle><path d="M24.7,22.9c-1.2-1.8-3-3-5.1-3.3c-1.3,1-3,1.6-4.6,1.6s-3.3-0.6-4.6-1.6c-2,0.4-3.9,1.6-5.1,3.3c2.3,2.8,5.8,4.6,9.7,4.6 c1.7,0,3.4-0.3,4.9-1c0,0,0,0,0,0c0.4-0.2,0.7-0.3,1.1-0.5c0,0,0,0,0,0c0.7-0.4,1.4-0.9,2.1-1.4c0.5-0.5,1.1-1,1.5-1.5 C24.6,23,24.7,22.9,24.7,22.9z"></path></g><path class="cls-user-icon-stroke" d="M15,0C6.7,0,0,6.7,0,15s6.7,15,15,15s15-6.7,15-15S23.3,0,15,0z M15,27.5C8.1,27.5,2.5,21.9,2.5,15S8.1,2.5,15,2.5 S27.5,8.1,27.5,15S21.9,27.5,15,27.5z"></path></svg></span></div><div class=""></div></nav></div></div></header></div></div></div><div></div></div><main class="cvc-main homepage" style="width: 100%; flex: 1 1 auto;"><section class="cvc-main__section cvc-main__section-main" id="main"><div class="hero-drop-zone"><div></div></div><div class="main-drop-zone"><div><div><div class="cvc-search-tab-hero"><div class="container-fluid"><div class="row"><div class="cvc-search-tab-hero-tab-section col-md-6 col-12"><div class="cvc-search-tab-hero-tabs-section-wrapper"><div class="cvc-search-tab-hero-header"><h1 class="cvc-search-tab-hero-headline">Your Dream Home Is Waiting</h1><p class="cvc-search-tab-hero-subheadline">Visit a Palm Harbor retailer near you to find the home you've been searching for.</p></div><div class="cvc-search-tab-hero-tabs-wrapper"><div class="MuiTabs-root cvc-search-tab-hero-tabs cvc-search-tab-hero-tabs__shrink"><div class="MuiTabs-scroller MuiTabs-fixed" style="overflow: hidden;"><div aria-label="search tab hero dropdown" class="MuiTabs-flexContainer" role="tablist"><button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected" tabindex="0" type="button" role="tab" aria-selected="true" id="tab-hero-0" aria-controls="tabhero-0"><span class="MuiTab-wrapper">Model Centers</span><span class="MuiTouchRipple-root"></span></button><button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit" tabindex="-1" type="button" role="tab" aria-selected="false" id="tab-hero-1" aria-controls="tabhero-1"><span class="MuiTab-wrapper">Homes</span><span class="MuiTouchRipple-root"></span></button></div><span class="jss1 jss3 MuiTabs-indicator" style="left: 0px; width: 149.047px;"></span></div></div><div class="cvc-search-tab-hero-input-wrapper"><button class="MuiButtonBase-root MuiIconButton-root cvc-search-tab-hero-input-icon-button" tabindex="0" type="button"><span class="MuiIconButton-label"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" class="cvc-search-tab-hero-input-icon"><path class="search-icon" d="M32 32L22 22M25.3333 13.6667C25.3333 20.11 20.11 25.3333 13.6667 25.3333C7.22334 25.3333 2 20.11 2 13.6667C2 7.22334 7.22334 2 13.6667 2C20.11 2 25.3333 7.22334 25.3333 13.6667Z" stroke="#33687E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="MuiTouchRipple-root"></span></button><div class="cvc-autocomplete-container"><div class="google-places-autocomplete"><div class="cvc-autocomplete-input-and-close-container"><form class="cvc-autocomplete-form" autocomplete="off"><input aria-label="Enter City, State or Zip Code" autocomplete="off" id="react-google-places-autocomplete-input" type="text" placeholder="Enter City, State or Zip Code" class="cvc-search-tab-hero-input" value=""></form></div><div class="ac-container"></div></div></div></div></div></div></div><div class="cvc-search-tab-hero-carousel-section col-md-6 col-12"><div class="carousel"><ol class="carousel-indicators"><li class="active"></li><li></li><li></li><li></li><li></li></ol><div class="carousel-inner"><div class="active carousel-item"><a class="cvc-search-tab-hero-carousel-image-wrapper" id="tab-hero-0" href="/our-homes/us/35-the-la-belle-41764d"><img class="cvc-search-tab-hero-carousel-image" src="https://www.palmharbor.com/binaries/content/gallery/x-expired-delete/la-belle-palm-harbor" alt="The La Belle | 4 bed | 3 bath | 2,897 sqft"></a><div class="carousel-caption"><p class="cvc-search-tab-hero-carousel-img-superheader">A Home Above the Rest</p><h4 class="cvc-search-tab-hero-carousel-img-title">The La Belle | 4 bed | 3 bath | 2,897 sqft</h4></div></div><div class="carousel-item"><a class="cvc-search-tab-hero-carousel-image-wrapper" id="tab-hero-1" href="/our-homes/us/37-horizon-28764z"><img class="cvc-search-tab-hero-carousel-image" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/ftworth/cd5621e8ba2c3ff50ef364a78f6788ce.jpg" alt="The Horizon | 4 bds | 3 ba | 2,076 sqft"></a><div class="carousel-caption"><p class="cvc-search-tab-hero-carousel-img-superheader">Available in Arizona, New Mexico, Oklahoma and Texas</p><h4 class="cvc-search-tab-hero-carousel-img-title">The Horizon | 4 bds | 3 ba | 2,076 sqft</h4></div></div><div class="carousel-item"><a class="cvc-search-tab-hero-carousel-image-wrapper" id="tab-hero-2" href="/our-homes/us/34-creekside-30603a"><img class="cvc-search-tab-hero-carousel-image" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/the_creekside_in_plant_city_masterbath_tub_best_1614128628768.jpg" alt="The Creekside | 3 bds | 2 ba | 1,800 sqft"></a><div class="carousel-caption"><p class="cvc-search-tab-hero-carousel-img-superheader">Available in Florida</p><h4 class="cvc-search-tab-hero-carousel-img-title">The Creekside | 3 bds | 2 ba | 1,800 sqft</h4></div></div><div class="carousel-item"><a class="cvc-search-tab-hero-carousel-image-wrapper" id="tab-hero-3" href="/our-homes/us/35-the-vintage-farmhouse-32643c"><img class="cvc-search-tab-hero-carousel-image" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/austin/w_vintage_farmhouse_kitchen_island_full_1280_8.jpg" alt="The Vintage Farmhouse | 3 bds | 2 ba | 1,984 sqft"></a><div class="carousel-caption"><p class="cvc-search-tab-hero-carousel-img-superheader">Available in New Mexico, Oklahoma and Texas</p><h4 class="cvc-search-tab-hero-carousel-img-title">The Vintage Farmhouse | 3 bds | 2 ba | 1,984 sqft</h4></div></div><div class="carousel-item"><a class="cvc-search-tab-hero-carousel-image-wrapper" id="tab-hero-4" href="/our-homes/us/28-lakeport-28523l"><img class="cvc-search-tab-hero-carousel-image" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/millersburg/a3a48d74fb8116b8447a1d5592df86c6.jpg" alt="The Lakeport | 3 bds | 2 ba | 1,404 sqft"></a><div class="carousel-caption"><p class="cvc-search-tab-hero-carousel-img-superheader">Available in California, Nevada, Oregon and Washington</p><h4 class="cvc-search-tab-hero-carousel-img-title">The Lakeport | 3 bds | 2 ba | 1,404 sqft</h4></div></div></div><a class="carousel-control-next" role="button" href="#"><svg width="16" height="28" viewBox="0 0 16 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path class="chevron-right-icon-stroke" d="M2 2.33341L13.6667 14.0001L2 25.6667" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="sr-only">Next</span></a></div></div></div></div></div></div><div><div class="cvh-rich-content bg-light-cvc padding-default"><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-top"><div><h2>Discover The Anthem by Cavco</h2>
+
+<h6>We are proud to be builders of the Anthem, the First Nationally Available HUD-Approved Manufactured Duplex</h6>
+
+<p>The Anthem product is the most practical solution for the fast expansion of affordable housing options, and the first nationally available manufactured duplex housing solution to meet HUD’s specific safety, construction and design standards. Designed to provide additional housing quickly for communities, developers, investors, municipalities and individual families, this attractively appointed, Energy Star rated duplex product is available from Cavco Homes in 2 bedroom and 3 bedroom versions with other options.</p>
+
+<p><a rel="noopener noreferrer" href="/plantcity/spotlight-anthem" class="btn btn-primary" target="_blank">More about The Anthem</a></p></div></div></div><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-top"><div><p><a rel="noopener noreferrer" href="https://cavcohomes.com/cavco-anthem-duplex"><img alt="The Anthem by Cavco | More Homes for More People | The First Nationally Available, HUD-approved Duplex" src="https://www.palmharbor.com/binaries/content/gallery/cavcohomes/editorial/anthem/anthem_launch_updated_may_2024-1920x1280.png/anthem_launch_updated_may_2024-1920x1280.png/cavco%3Asmall"></a></p></div></div></div></div></div><div><div class="cvh-rich-content bg-dark-cvc padding-default"><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-middle"><div><h3><a href="/our-homes/us/35-the-la-belle-41764d"><img alt="4 bed, 3 bath, 2,897 sqft manufactured home | The La Belle | Palm Harbor Homes, a Cavco Company" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/austin/la_belle_dr3_1668620192597.jpg"></a></h3></div></div></div><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-middle"><div><h2>A Home Above the Rest</h2>
+
+<p>If you are looking for a custom home with custom features without the custom price tag, then you are looking for the <a href="/our-homes/us/35-the-la-belle-41764d">La Belle</a>. One of Cavco's customer favorites, the La Belle features 2,897 square feet of beautiful living space. <a href="/our-homes/us/35-the-la-belle-41764d">Learn more about this home</a> and other high-quality manufactured homes available to build on your lot in Texas, Oklahoma or New Mexico!</p>
+
+<p><a href="/our-homes/us/35-the-la-belle-41764d" class="btn btn-primary">Explore the La Belle</a></p></div></div></div></div></div><div><div class="cvc-panel-ad cvc-panel-ad--square-text-button"><header class="cvc-panel-ad--group-title">Palm Harbor Homes Featured Models</header><div class="container"><div class="row"><div class="col-lg-4 col-md-4 col-12"><a class="cvc-panel-ad__panel" title="Learn More" href="/building-center/plantcity/floorplans/34-jenkins-28522a"><div class="cvc-panel-ad__panel-image-wrapper"><div class="cvc-panel-ad__panel-image"><picture><source media="(min-width: 768px)" srcset="https://www.palmharbor.com/binaries/content/gallery/featured-floor-plan-1.jpg/featured-floor-plan-1.jpg/cavco%3Amedium"><source media="(min-width: 1920px)" srcset="https://www.palmharbor.com/binaries/content/gallery/featured-floor-plan-1.jpg/featured-floor-plan-1.jpg/cavco%3Alarge"><img src="https://www.palmharbor.com/binaries/content/gallery/featured-floor-plan-1.jpg/featured-floor-plan-1.jpg/cavco%3Amedium" alt="Featured Floor plan 1.jpg"></picture></div></div><div class="cvc-panel-ad__panel-content"><h2 class="cvc-panel-ad__panel-title">The Jenkins</h2><div class="cvc-panel-ad__panel-description"><p>At <strong>1,393-square-feet</strong>, the <strong>Jenkins 28522A</strong> is a stylish and comfortable&nbsp;<strong>2 bedrooms</strong>, <strong>2 bathrooms</strong> home with ample living space plus a roomy home office. [Available in Florida]</p></div><a href="https://www.palmharbor.com/building-center/plantcity/floorplans/34-jenkins-28522a" title="Learn More button" class="cvc-panel-ad__panel-link btn btn-primary">Learn More ►</a></div></a></div><div class="col-lg-4 col-md-4 col-12"><a class="cvc-panel-ad__panel" title="Learn More" href="/building-center/millersburg/floorplans/28-the-sunset-bay-28563b"><div class="cvc-panel-ad__panel-image-wrapper"><div class="cvc-panel-ad__panel-image"><picture><source media="(min-width: 768px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/pr5a4603_1671469932443_1280_12.jpg/pr5a4603_1671469932443_1280_12.jpg/cavco%3Amedium"><source media="(min-width: 1920px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/pr5a4603_1671469932443_1280_12.jpg/pr5a4603_1671469932443_1280_12.jpg/cavco%3Alarge"><img src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/pr5a4603_1671469932443_1280_12.jpg/pr5a4603_1671469932443_1280_12.jpg/cavco%3Amedium" alt="pr5a4603_1671469932443_1280_12.jpg"></picture></div></div><div class="cvc-panel-ad__panel-content"><h2 class="cvc-panel-ad__panel-title">The Sunset Bay</h2><div class="cvc-panel-ad__panel-description"><p>The <strong>Sunset Bay 28563B</strong> offers modern comfort with&nbsp;<strong>3 bedrooms</strong>, <strong>2 bathrooms</strong>, and&nbsp;<strong>1,512-square-foot</strong> of sunlit space. [Available in California, Nevada, Oregon and Washington]</p></div><a href="https://www.palmharbor.com/building-center/millersburg/floorplans/28-the-sunset-bay-28563b" title="Learn More button" class="cvc-panel-ad__panel-link btn btn-primary">Learn More ►</a></div></a></div><div class="col-lg-4 col-md-4 col-12"><a class="cvc-panel-ad__panel" title="Learn More" href="/building-center/austin/floorplans/35-the-lago-mira-18763j"><div class="cvc-panel-ad__panel-image-wrapper"><div class="cvc-panel-ad__panel-image"><picture><source media="(min-width: 768px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/model_ff_16763_48908091946_o_1667497456841_1279_12.jpg/model_ff_16763_48908091946_o_1667497456841_1279_12.jpg/cavco%3Amedium"><source media="(min-width: 1920px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/model_ff_16763_48908091946_o_1667497456841_1279_12.jpg/model_ff_16763_48908091946_o_1667497456841_1279_12.jpg/cavco%3Alarge"><img src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/plantcity/model_ff_16763_48908091946_o_1667497456841_1279_12.jpg/model_ff_16763_48908091946_o_1667497456841_1279_12.jpg/cavco%3Amedium" alt="If you haven't seen a Palm Harbor home, you are in for a treat."></picture></div></div><div class="cvc-panel-ad__panel-content"><h2 class="cvc-panel-ad__panel-title">The Lago Mira</h2><div class="cvc-panel-ad__panel-description"><p>The <strong>Lago Mira 18763J</strong>&nbsp;is the perfect combination of luxury and practicality with <strong>1,282-square-feet,&nbsp;3&nbsp;bedrooms</strong>&nbsp;and&nbsp;<strong>2 bathrooms. </strong>[Available in New Mexico, Oklahoma and Texas]</p></div><a href="https://www.palmharbor.com/building-center/austin/floorplans/35-the-lago-mira-18763j" title="Learn More button" class="cvc-panel-ad__panel-link btn btn-primary">Learn More ►</a></div></a></div></div></div></div></div><div><div class="cvc-banner"><div class="cvc-banner-full cvc-banner-txt-right cvc-banner-bg-dark cvc-fit-cover cvc-banner-default"><div class="cvc-banner-image"><a href="/about/our-construction" target="" rel=""><img src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/austin/0e27d4840b25f29e8a9f488ba7ca786f.jpg" alt="Double-wide Palm Harbor model that can be built as a manufactured or modular home" class=""></a></div><div class="cvc-banner-content"><div class="cvc-banner-content__inner"><h2><a href="/about/our-construction">More Home For Your Money!®</a></h2><h3><a href="/about/our-construction"><span>Palm Harbor's factory built homes feature the highest quality construction materials and craftsmanship available today. </span><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" class="cvc-banner-content-arrow"><defs><style type="text/css">
+            .cls-circle-fill-color{fill:transparent;}
+            .cls-icon-stroke-color{stroke:#fff;stroke-width:5px;fill:none;}
+        </style></defs><g transform="translate(56 56) rotate(180)"><circle class="cls-circle-fill-color" cx="28" cy="28" r="28"></circle><path class="cls-icon-stroke-color" d="M0,0,13.909,13.909,0,27.818" transform="translate(35.52 42.214) rotate(180)"></path></g></svg></a></h3><div class="cvc-banner-content-desc"><p>Strong, durable and energy efficient, here you get More For Your Money.</p></div><a class="cvc-banner-link" href="/about/our-construction" title="" target="" rel="">Why Palm Harbor?</a></div></div></div></div></div><div><div class="cvc-banner"><div class="cvc-banner-full cvc-banner-txt-left cvc-banner-bg-light cvc-fit-cover cvc-banner-default"><div class="cvc-banner-image"><a href="/about/our-construction/energy-efficiency" target="" rel=""><img src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/d73a4a38eb5b51e8f48f13806a005963.jpg" alt="Save 30% on your utilities with our exclusive EnerGmiser system that's available on Palm Harbor built home." class=""></a></div><div class="cvc-banner-content"><div class="cvc-banner-content__inner"><h2><a href="/about/our-construction/energy-efficiency">EnerGmiser® Energy Management</a></h2><h3><a href="/about/our-construction/energy-efficiency"><span>Palm Harbor’s exclusive EnerGmiser® package can lower your utility costs by approximately 30%* with a advanced construction processes and additional thermal sealing. </span><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" class="cvc-banner-content-arrow"><defs><style type="text/css">
+            .cls-circle-fill-color{fill:transparent;}
+            .cls-icon-stroke-color{stroke:#fff;stroke-width:5px;fill:none;}
+        </style></defs><g transform="translate(56 56) rotate(180)"><circle class="cls-circle-fill-color" cx="28" cy="28" r="28"></circle><path class="cls-icon-stroke-color" d="M0,0,13.909,13.909,0,27.818" transform="translate(35.52 42.214) rotate(180)"></path></g></svg></a></h3><div class="cvc-banner-content-desc"><p>Palm Harbor’s exclusive EnerGmiser® system is available on every home built by Palm Harbor. We build our homes with improved construction and additional thermal sealing, reducing your&nbsp;utility costs&nbsp;even after your new home is paid for.&nbsp;This energy savings substantially reduces the cost of owning a Palm Harbor manufactured home. It puts&nbsp;green back&nbsp;in your pocket.</p>
+
+<p>Find out how to save 30% on your utilities with our exclusive EnerGmiser system that's available on every Palm Harbor built home!</p></div><a class="cvc-banner-link" href="/about/our-construction/energy-efficiency" title="EnerGmiser info" target="" rel="">Explore Energy Savings</a></div></div></div></div></div><div><div class="cvh-rich-content bg-none padding-default"><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-middle"><div><p><img src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/12df7dea673197c41a2760371f593d85b8.jpg"></p></div></div></div><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-middle"><div><h2>About Cavco's ESG Commitment</h2>
+
+<p>Cavco Industries Inc (Nasdaq CVCO) is committed to building Environmental, Social and Governance (ESG) issues into our policies and practices for the long-term success of the company and the communities it serves.</p>
+
+<p><a href="https://www.cavcohomes.com/esg">Learn more by visiting Cavco's ESG site.</a></p></div></div></div></div></div><div><div id="r149_r2_r8" class="cvc-carousel-banner"><div class="carousel carousel-fade"><div class="carousel-inner"><div id="bdf9be28-75d3-46b0-ab96-4b0179b04cd2" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageRight  active carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-0 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>As hurricane Milton approached my family and I made the decision to ride the storm out in one of the homes within our community along with the other residents. The home as well as the park itself was more than tested with mother nature's fury, and with the entire state receiving unprecedented amounts of rainfall and wind, we had our home's structure, roofing as well as the anchorings and blocking tested. I am very pleased to say that in spite of the horrific wind, water and debris, all of our homes stood firm and kept everyone safe in the largest hurricane event the region has seen in over 200 years.</p>
+
+<p>— Homeowner in Lakeland, Florida</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/"></a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-1"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/milton-2024/visca-and-swiss-valley-community.jpg/visca-and-swiss-valley-community.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/milton-2024/visca-and-swiss-valley-community.jpg/visca-and-swiss-valley-community.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/milton-2024/visca-and-swiss-valley-community.jpg/visca-and-swiss-valley-community.jpg/cavco%3Amedium"><img alt="Swiss Valley Estates Manufactured Housing Community in Lakeland, Florida weathering Hurricane Milton in 2024" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/milton-2024/visca-and-swiss-valley-community.jpg/visca-and-swiss-valley-community.jpg/cavco%3Asmall"></picture></div></div><div id="a8a1ab0d-e0f8-46b8-b8ea-854882c151ec" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageLeft  carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-1 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>When we returned to our home in Sabine Pass, Texas, after Hurricane Ike, we were happy to see that it has survived the worst that storm had to deliver and lost just 6 shingles. Since we are less than a mile from the Gulf, that was amazing. Unfortunately, my father’s site built home next door was totally gone and most of the other homes in our area, site built or manufactured, were gone or destroyed, also.</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/about/our-construction/weathering-the-storm/storm-relief-ike">Texas 2008: How we weathered Hurricane Ike</a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-0"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/ike-2008/eeea74719be21e26601a8e1a3d2641ce.jpg/eeea74719be21e26601a8e1a3d2641ce.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/ike-2008/eeea74719be21e26601a8e1a3d2641ce.jpg/eeea74719be21e26601a8e1a3d2641ce.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/ike-2008/eeea74719be21e26601a8e1a3d2641ce.jpg/eeea74719be21e26601a8e1a3d2641ce.jpg/cavco%3Amedium"><img alt="Take a look at what our homeowners called to tell us after they  survived Hurricane Ike along the Texas and Louisiana Gulf Coast." src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/ike-2008/eeea74719be21e26601a8e1a3d2641ce.jpg/eeea74719be21e26601a8e1a3d2641ce.jpg/cavco%3Asmall"></picture></div></div><div id="9e28fc45-ec83-4ac3-a762-aa9a4920c32b" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageRight  carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-0 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>When we came back to Mexico Beach after Hurricane Michael, we truly did not know what to expect on the inside of our home because our neighbor had called and told us that the water line had gotten up to her roof. So when we opened the door, I don’t want to get emotional again, but there was no damage at all. At all. The carpet wasn’t even wet.</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/about/our-construction/weathering-the-storm/weathering-hurricane-michael">Florida 2018: How we weathered Hurricane Michael</a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-1"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/michael-2018/44937944545_86fb13463f_web.jpg/44937944545_86fb13463f_web.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/michael-2018/44937944545_86fb13463f_web.jpg/44937944545_86fb13463f_web.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/michael-2018/44937944545_86fb13463f_web.jpg/44937944545_86fb13463f_web.jpg/cavco%3Amedium"><img alt="Ron and Karen Nichols, Palm Harbor homeowners in Mexico Beach, FL" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/michael-2018/44937944545_86fb13463f_web.jpg/44937944545_86fb13463f_web.jpg/cavco%3Asmall"></picture></div></div><div id="9a821a32-d5d1-470d-801e-b79f8a09b7ac" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageRight  carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-0 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>I would not own any other brand home than Palm Harbor. Our neighbors who owned other brands had their homes destroyed, and they will be switching to Palm Harbors because of the way the Palm Harbors held up.</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/about/our-construction/weathering-the-storm/weathering-hurricane-andrew">Florida 1992: How we weathered Hurricane Andrew</a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-1"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/andrew-1992/after-andrew1920x1280.jpg/after-andrew1920x1280.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/andrew-1992/after-andrew1920x1280.jpg/after-andrew1920x1280.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/andrew-1992/after-andrew1920x1280.jpg/after-andrew1920x1280.jpg/cavco%3Amedium"><img alt="Art and Donna Fowler's Palm Harbor Home in Florida City, Florida survived incredibly well after 1992's Hurricane Andrew." src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/andrew-1992/after-andrew1920x1280.jpg/after-andrew1920x1280.jpg/cavco%3Asmall"></picture></div></div><div id="5e9f8f89-d20b-426d-a217-f5c12d86eef2" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageLeft  carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-1 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>We live in Cudjoe Key, Florida. Our Palm Harbor home survived Hurricane Wilma, and now most recently, Hurricane Irma. Cudjoe Key, as you may know, was devastated by Hurricane Irma. However, our home received minimal damage. Just loss of roof shingles on one side, almost all skirting, and our duct work underneath the home. That’s pretty amazing strength and durability, being that Irma’s winds were 173 mph when she tore through our area.</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/about/our-construction/weathering-the-storm/built-irma-strong">Florida 2017: How we weathered Hurricane Irma</a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-0"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/fred-betty-stafford_irma_2017-web.jpg/fred-betty-stafford_irma_2017-web.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/fred-betty-stafford_irma_2017-web.jpg/fred-betty-stafford_irma_2017-web.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/fred-betty-stafford_irma_2017-web.jpg/fred-betty-stafford_irma_2017-web.jpg/cavco%3Amedium"><img alt="Kurt and Betty Stafford's home survived Hurricane Irma just like the other 14 Palm Harbor homes in Venture Out Resort" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/fred-betty-stafford_irma_2017-web.jpg/fred-betty-stafford_irma_2017-web.jpg/cavco%3Asmall"></picture></div></div><div id="c2ea8bda-5786-433e-ba7b-5bd52ebd0e89" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageRight  carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-0 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>Someone sent us a photo of the front of our house and that looked to be intact. Then our neighbor called and told me that everything looked to be intact outside, so I asked him to check inside to check things out. After he went inside, he called us and was just incredulous. He said that we had nothing. No damage whatsoever. Even the pictures were still on the walls!</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/about/our-construction/weathering-the-storm/built-irma-strong">Florida 2017: How we weathered Hurricane Irma</a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-1"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/jim-jones_palm-harbor-owner_irma_2017-web.jpg/jim-jones_palm-harbor-owner_irma_2017-web.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/jim-jones_palm-harbor-owner_irma_2017-web.jpg/jim-jones_palm-harbor-owner_irma_2017-web.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/jim-jones_palm-harbor-owner_irma_2017-web.jpg/jim-jones_palm-harbor-owner_irma_2017-web.jpg/cavco%3Amedium"><img alt="Photos: Jim Jones of Cudjoe Key, Florida and his Palm Harbor home that miraculously survived Hurricane Irma" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/irma-2017/jim-jones_palm-harbor-owner_irma_2017-web.jpg/jim-jones_palm-harbor-owner_irma_2017-web.jpg/cavco%3Asmall"></picture></div></div><div id="83a7d1a4-985c-45db-9ce6-276cc7620626" class="cvc-carousel-banner__item d-flex flex-column flex-lg-row imageLeft  carousel-item"><div class="cvc-carousel-banner__item-content order-1 order-md-1 text-left col-md-7"><div class="cvc-carousel-banner__item-content-wrapper container"><div class="cvc-carousel-banner__item-quotes-content1-wrapper d-flex flex-row flex-lg-column"><div class="cvc-carousel-banner__item-quotes"><svg xmlns="http://www.w3.org/2000/svg" width="59.409" height="42" viewBox="0 0 59.409 42"><g transform="translate(-1316.449 -558.737)"><path d="M1344.36,588.164a12.459,12.459,0,0,1-3.458,8.982,11.9,11.9,0,0,1-8.976,3.591A14.044,14.044,0,0,1,1320.8,595.7a17.9,17.9,0,0,1-4.35-12.094,23.525,23.525,0,0,1,7.6-17.545,25.524,25.524,0,0,1,18.376-7.32l.276,2.072a18.451,18.451,0,0,0-12.158,4.655q-5.531,4.659-5.527,10.679a4.828,4.828,0,0,0,.346,2.075,1.1,1.1,0,0,0,1.034.689,8.319,8.319,0,0,0,2.973-.895,8.616,8.616,0,0,1,3.385-.9,11.865,11.865,0,0,1,8.08,3.109A10.112,10.112,0,0,1,1344.36,588.164Zm31.5,0a12.458,12.458,0,0,1-3.455,8.982,11.9,11.9,0,0,1-8.981,3.591A14.033,14.033,0,0,1,1352.3,595.7a17.9,17.9,0,0,1-4.353-12.094,23.523,23.523,0,0,1,7.6-17.545,25.535,25.535,0,0,1,18.379-7.32l.273,2.072a18.436,18.436,0,0,0-12.155,4.655q-5.531,4.659-5.529,10.679a4.774,4.774,0,0,0,.349,2.075,1.1,1.1,0,0,0,1.034.689,8.317,8.317,0,0,0,2.972-.895,8.62,8.62,0,0,1,3.385-.9,11.872,11.872,0,0,1,8.081,3.109A10.129,10.129,0,0,1,1375.859,588.164Z" transform="translate(-0.001 0)"></path></g></svg></div><div class="cvc-carousel-banner__item-content__container"><div class="cvc-carousel-banner__item-content1"><p>When we returned to our community after Hurricane Charley, we were pleasantly surprised. Even though our community was devastated, our Palm Harbor home withstood the hurricane and is in perfect shape. It was just a delight. The neighbors came by and said, 'What did you do right?' We told them, 'I think we chose the right home...a Palm Harbor home.</p></div><a class="cvc-carousel-banner__item-link text-left" title="" href="/about/our-construction/weathering-the-storm/weathering-hurricane-charley">Florida 2004: How we weathered Hurricane Charley</a></div></div></div></div><div class="cvc-carousel-banner__item-image order-0 order-md-0"><picture><source media="(min-width:1366px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/charley-2004/bunn-home-after-w-labels.jpg/bunn-home-after-w-labels.jpg/cavco%3AextraLarge"><source media="(min-width:1024px) and (max-width:1365px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/charley-2004/bunn-home-after-w-labels.jpg/bunn-home-after-w-labels.jpg/cavco%3Alarge"><source media="(min-width:768px) and (max-width:1023px)" srcset="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/charley-2004/bunn-home-after-w-labels.jpg/bunn-home-after-w-labels.jpg/cavco%3Amedium"><img alt="Even though our community was devastated, our Palm Harbor home withstood the hurricane and is in perfect shape." src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/editorial/weathering-the-storm/charley-2004/bunn-home-after-w-labels.jpg/bunn-home-after-w-labels.jpg/cavco%3Asmall"></picture></div></div></div><a class="carousel-control-prev" role="button" href="#"><div class="cvc-carousel-banner__prev"><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" class="cvc-carousel-banner__prev-icon"><g transform="translate(56 56) rotate"><circle cx="28" cy="28" r="28" style="fill: transparent;"></circle><path d="M0,0,13.909,13.909,0,27.818" transform="translate(35.52 42.214) rotate(180)" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 5;"></path></g></svg></div><span class="sr-only">Previous</span></a><a class="carousel-control-next" role="button" href="#"><div class="cvc-carousel-banner__next"><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" class="cvc-carousel-banner__next-icon"><g transform="translate(56 56) rotate(180)"><circle cx="28" cy="28" r="28" style="fill: transparent;"></circle><path d="M0,0,13.909,13.909,0,27.818" transform="translate(35.52 42.214) rotate(180)" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 5;"></path></g></svg></div><span class="sr-only">Next</span></a></div></div></div><div><div class="cvc-bc-tile-grid"><h2 class="cvc-heading-featured"><span class="cvc-heading-featured-inner">Our Manufacturing Locations</span></h2><p></p><div class="cvc-bc-tile-grid-cards"><div class="cvc-bc-tile-grid-card card"><div class="cvc-bc-tile-grid-card-img-container"><img class="card-img-top cvc-bc-tile-grid-card-img" src="https://www.palmharbor.com/binaries/content/gallery/52457858209_7251208d21_k_new.png/52457858209_7251208d21_k_new.png/cavco%3AextraLarge" alt="Plant City Building Center" style="cursor: pointer;"></div><div class="cvc-bc-tile-grid-card-body card-body"><a class="cvc-bc-tile-grid-card-title-link" href="/plantcity"><h3 class="cvc-bc-tile-grid-card-title">Plant City, FL</h3></a><div class="cvc-bc-tile-grid-card-text card-body"><div class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M19.8,3C15.7-1.1,9.2-1,5.1,3.1c-4,4.1-4,10.5,0,14.6l7.3,7.3l7.3-7.3C23.9,13.6,23.9,7.1,19.8,3L19.8,3z  M15,12.9c-1.4,1.4-3.7,1.4-5.1,0s-1.4-3.7,0-5.1s3.7-1.4,5.1,0l0,0C16.5,9.2,16.5,11.5,15,12.9L15,12.9z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">605 S. Frontage Road, Plant City, FL 33563</div></div><a href="tel:800-729-4363" class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M23.6,17.2c-1.7,0-3.3-0.3-4.9-0.8c-0.5-0.2-1,0-1.4,0.3l-2.2,2.7c-4.1-2-7.5-5.4-9.6-9.5l2.7-2.3 c0.4-0.4,0.5-0.9,0.3-1.4C8.1,4.7,7.8,3,7.8,1.4C7.8,0.6,7.2,0,6.5,0H1.7C0.9,0,0,0.3,0,1.4c0.1,13,10.6,23.5,23.6,23.6 c0.8,0,1.4-0.7,1.4-1.5c0,0,0-0.1,0-0.1v-4.8C25,17.8,24.4,17.2,23.6,17.2z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">800-729-4363</div></a></div><div class="cvc-bc-tile-grid-card-cta"><a href="/plantcity"><button type="button" class="btn btn-primary">Visit Website</button></a></div></div><div class="cvc-bc-tile-grid-card-footer card-footer"><div><span class="cvc-bc-tile-grid-card-footer-building-method">Manufactured Homes</span></div><div><span class="cvc-bc-tile-grid-card-footer-separator"> • </span><span class="cvc-bc-tile-grid-card-footer-building-method">Modular Homes</span></div></div></div><div class="cvc-bc-tile-grid-card card"><div class="cvc-bc-tile-grid-card-img-container"><img class="card-img-top cvc-bc-tile-grid-card-img" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/millersburg/lakeport-palm-harbor.jpg/lakeport-palm-harbor.jpg/cavco%3AextraLarge" alt="Millersburg Building Center" style="cursor: pointer;"></div><div class="cvc-bc-tile-grid-card-body card-body"><a class="cvc-bc-tile-grid-card-title-link" href="/millersburg"><h3 class="cvc-bc-tile-grid-card-title">Millersburg, OR</h3></a><div class="cvc-bc-tile-grid-card-text card-body"><div class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M19.8,3C15.7-1.1,9.2-1,5.1,3.1c-4,4.1-4,10.5,0,14.6l7.3,7.3l7.3-7.3C23.9,13.6,23.9,7.1,19.8,3L19.8,3z  M15,12.9c-1.4,1.4-3.7,1.4-5.1,0s-1.4-3.7,0-5.1s3.7-1.4,5.1,0l0,0C16.5,9.2,16.5,11.5,15,12.9L15,12.9z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">3737 Palm Harbor Drive, Millersburg, OR 97321</div></div><a href="tel:800-928-2083" class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M23.6,17.2c-1.7,0-3.3-0.3-4.9-0.8c-0.5-0.2-1,0-1.4,0.3l-2.2,2.7c-4.1-2-7.5-5.4-9.6-9.5l2.7-2.3 c0.4-0.4,0.5-0.9,0.3-1.4C8.1,4.7,7.8,3,7.8,1.4C7.8,0.6,7.2,0,6.5,0H1.7C0.9,0,0,0.3,0,1.4c0.1,13,10.6,23.5,23.6,23.6 c0.8,0,1.4-0.7,1.4-1.5c0,0,0-0.1,0-0.1v-4.8C25,17.8,24.4,17.2,23.6,17.2z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">800-928-2083</div></a></div><div class="cvc-bc-tile-grid-card-cta"><a href="/millersburg"><button type="button" class="btn btn-primary">Visit Website</button></a></div></div><div class="cvc-bc-tile-grid-card-footer card-footer"><div><span class="cvc-bc-tile-grid-card-footer-building-method">Manufactured Homes</span></div><div><span class="cvc-bc-tile-grid-card-footer-separator"> • </span><span class="cvc-bc-tile-grid-card-footer-building-method">Modular Homes</span></div></div></div><div class="cvc-bc-tile-grid-card card"><div class="cvc-bc-tile-grid-card-img-container"><img class="card-img-top cvc-bc-tile-grid-card-img" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/austin/w_vintage_farmhouse_pantry_to_sink_stove_1280_8.jpg/w_vintage_farmhouse_pantry_to_sink_stove_1280_8.jpg/cavco%3AextraLarge" alt="Austin Building Center" style="cursor: pointer;"></div><div class="cvc-bc-tile-grid-card-body card-body"><a class="cvc-bc-tile-grid-card-title-link" href="/austin"><h3 class="cvc-bc-tile-grid-card-title">Austin, TX</h3></a><div class="cvc-bc-tile-grid-card-text card-body"><div class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M19.8,3C15.7-1.1,9.2-1,5.1,3.1c-4,4.1-4,10.5,0,14.6l7.3,7.3l7.3-7.3C23.9,13.6,23.9,7.1,19.8,3L19.8,3z  M15,12.9c-1.4,1.4-3.7,1.4-5.1,0s-1.4-3.7,0-5.1s3.7-1.4,5.1,0l0,0C16.5,9.2,16.5,11.5,15,12.9L15,12.9z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">830 Bastrop Hwy., Austin, TX 78741</div></div><a href="tel:800-880-7923" class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M23.6,17.2c-1.7,0-3.3-0.3-4.9-0.8c-0.5-0.2-1,0-1.4,0.3l-2.2,2.7c-4.1-2-7.5-5.4-9.6-9.5l2.7-2.3 c0.4-0.4,0.5-0.9,0.3-1.4C8.1,4.7,7.8,3,7.8,1.4C7.8,0.6,7.2,0,6.5,0H1.7C0.9,0,0,0.3,0,1.4c0.1,13,10.6,23.5,23.6,23.6 c0.8,0,1.4-0.7,1.4-1.5c0,0,0-0.1,0-0.1v-4.8C25,17.8,24.4,17.2,23.6,17.2z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">800-880-7923</div></a></div><div class="cvc-bc-tile-grid-card-cta"><a href="/austin"><button type="button" class="btn btn-primary">Visit Website</button></a></div></div><div class="cvc-bc-tile-grid-card-footer card-footer"><div><span class="cvc-bc-tile-grid-card-footer-building-method">Manufactured Homes</span></div><div><span class="cvc-bc-tile-grid-card-footer-separator"> • </span><span class="cvc-bc-tile-grid-card-footer-building-method">Modular Homes</span></div></div></div><div class="cvc-bc-tile-grid-card card"><div class="cvc-bc-tile-grid-card-img-container"><img class="card-img-top cvc-bc-tile-grid-card-img" src="https://www.palmharbor.com/binaries/content/gallery/palmharbor/plants/ftworth/keystone-the-magnum-76-kh34764m-ftworth-kit-1.jpg/keystone-the-magnum-76-kh34764m-ftworth-kit-1.jpg/cavco%3AextraLarge" alt="Fort Worth Building Center" style="cursor: pointer;"></div><div class="cvc-bc-tile-grid-card-body card-body"><a class="cvc-bc-tile-grid-card-title-link" href="/fortworth"><h3 class="cvc-bc-tile-grid-card-title">Fort Worth, TX</h3></a><div class="cvc-bc-tile-grid-card-text card-body"><div class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M19.8,3C15.7-1.1,9.2-1,5.1,3.1c-4,4.1-4,10.5,0,14.6l7.3,7.3l7.3-7.3C23.9,13.6,23.9,7.1,19.8,3L19.8,3z  M15,12.9c-1.4,1.4-3.7,1.4-5.1,0s-1.4-3.7,0-5.1s3.7-1.4,5.1,0l0,0C16.5,9.2,16.5,11.5,15,12.9L15,12.9z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">6902 Bowman Roberts Road, Fort Worth, TX 76179</div></div><a href="tel:888-424-6636" class="cvc-bc-tile-grid-card-info"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" class="cvc-bc-tile-grid-card-info-icon"><path d="M23.6,17.2c-1.7,0-3.3-0.3-4.9-0.8c-0.5-0.2-1,0-1.4,0.3l-2.2,2.7c-4.1-2-7.5-5.4-9.6-9.5l2.7-2.3 c0.4-0.4,0.5-0.9,0.3-1.4C8.1,4.7,7.8,3,7.8,1.4C7.8,0.6,7.2,0,6.5,0H1.7C0.9,0,0,0.3,0,1.4c0.1,13,10.6,23.5,23.6,23.6 c0.8,0,1.4-0.7,1.4-1.5c0,0,0-0.1,0-0.1v-4.8C25,17.8,24.4,17.2,23.6,17.2z"></path></svg><div class="cvc-bc-tile-grid-card-info-details">888-424-6636</div></a></div><div class="cvc-bc-tile-grid-card-cta"><a href="/fortworth"><button type="button" class="btn btn-primary">Visit Website</button></a></div></div><div class="cvc-bc-tile-grid-card-footer card-footer"><div><span class="cvc-bc-tile-grid-card-footer-building-method">Manufactured Homes</span></div><div><span class="cvc-bc-tile-grid-card-footer-separator"> • </span><span class="cvc-bc-tile-grid-card-footer-building-method">Modular Homes</span></div></div></div></div></div></div><div><div class="cvh-rich-content bg-none padding-default"><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-top"><div><h2>Palm Harbor Home Builders</h2>
+
+<p>Palm Harbor Homes is the nation's leading builder in modular and manufactured home construction housing. We are also proud to sell and <a href="/about/our-services/manufactured-home-insurance" target="_self">insure</a> the finest <a href="/about/our-construction/mfg-or-mod-construction/manufactured-home-construction" target="_self">manufactured homes</a> and <a href="/about/our-construction/mfg-or-mod-construction/modular-home-construction" target="_self">modular homes</a> available in America today. Palm Harbor's commitment to customer satisfaction and our unmatched construction process guarantee more home for your money. Additionally, your new home can be <a href="https://morehome.palmharbor.com/what-to-expect-when-you-build-on-your-land">built on your land</a> or built within one of our beautiful communities. We also have information on sources for manufactured <a href="/about/our-services/finance-lending-resources" target="_self">home financing</a> and <a href="/about/our-services/finance-lending-resources" target="_self">modular home loans</a>.<br>
+<br>
+You can easily find a <a href="/find-a-model-center" target="_self">Model Center</a> near you today. Palm Harbor modular homes and manufactured homes are available through company-owned model centers or independent manufactured or modular home dealers in <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/az?name=Arizona%2C+USA" title="https://www.palmharbor.com/our-retailers/us/az?name=Arizona%2C+USA" target="_blank">Arizona</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/ca?name=California%2C+USA" title="https://www.palmharbor.com/our-retailers/us/ca?name=California%2C+USA" target="_blank">California</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/fl?name=Florida%2C+USA" title="https://www.palmharbor.com/our-retailers/us/fl?name=Florida%2C+USA" target="_blank">Florida</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/nm?name=New%20Mexico%2C+USA" title="https://www.palmharbor.com/our-retailers/us/nm?name=New%20Mexico%2C+USA" target="_blank">New Mexico</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/nv?name=Nevada%2C+USA" title="https://www.palmharbor.com/our-retailers/us/nv?name=Nevada%2C+USA" target="_blank">Nevada</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/ok?name=Oklahoma%2C+USA" title="https://www.palmharbor.com/our-retailers/us/ok?name=Oklahoma%2C+USA" target="_blank">Oklahoma</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/or?name=Oregon%2C+USA" title="https://www.palmharbor.com/our-retailers/us/or?name=Oregon%2C+USA" target="_blank">Oregon</a>, <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/tx?name=Texas%2C+USA" title="https://www.palmharbor.com/our-retailers/us/tx?name=Texas%2C+USA" target="_blank">Texas</a> and <a tabindex="-1" rel="noopener noreferrer" href="https://www.palmharbor.com/our-retailers/us/wa?name=Washington%2C+USA" title="https://www.palmharbor.com/our-retailers/us/wa?name=Washington%2C+USA" target="_blank">Washington</a>.</p></div></div></div><div class="cvh-rich-content-item rich-col-2 block-bg-none"><div class="cvh-rich-content__richText align-top"><div><h2>Manufactured &amp; Modular Homes On Your Lot</h2>
+
+<p>Palm Harbor has specialized in building manufactured homes, modular homes and mobile homes "<a rel="noopener noreferrer" href="https://morehome.palmharbor.com/what-to-expect-when-you-build-on-your-land" target="_blank">on your lot</a>" for almost 50 years. Unlike site builders, who specialize in building many homes in a small area using the same construction crews, we work with many customers who already own their own land or we help them find the perfect site, and then we build and set their new home. Turn key custom built home solutions are routine for us.<br>
+<br>
+Because our manufactured and modular homes are built in <a href="/about/our-construction/videos/factory-tour" target="_self">environmentally protected building centers</a> by skilled and experienced craftsmen who are dedicated to satisfying customers with a strong, well-built home, we don't experience the same weather delays and material theft and waste that traditional home construction faces. Our homes are delivered to your site 80-90% complete.  Then our trained crews will set up and finish out your home and secure it to the foundation. This saves you time and money!</p></div></div></div></div></div><div><div class=""></div></div></div></div></section></main><div><div></div><div><footer data-elastic-exclude="true" class="cvc-footer is-std"><div class="container"><div class="cvc-footer-row cvc-footer-logos-nav-container"><div class="cvc-footer-col cvc-footer-images-social-logos-container"><div class="cvc-footer-logo-images-container null"><a href="/"><img class="cvc-footer-logo-image svg" src="https://www.palmharbor.com/binaries/content/gallery/cavco/logos-for-footers/palmharbor-1c-a-cavco-company-reversed.svg" alt="Palm Harbor Homes Logo"></a></div><div class="cvc-footer-social-media-logos-container"><a href="http://www.facebook.com/PalmHarbor" target="_blank" rel="noreferrer"><img class="cvc-footer-social-media-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/neutral-social-icons/facebook-lt.svg" alt="Facebook"></a><a href="http://www.youtube.com/user/palmharborhomescorp" target="_blank" rel="noreferrer"><img class="cvc-footer-social-media-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/neutral-social-icons/youtube-lt.svg" alt="YouTube"></a><a href="https://www.flickr.com/photos/palm_harbor_homes/albums" target="_blank" rel="noreferrer"><img class="cvc-footer-social-media-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/neutral-social-icons/flickr-lt.svg" alt="Flickr"></a><a href="https://www.pinterest.com/Cavco_Homes/" target="_blank" rel="noreferrer"><img class="cvc-footer-social-media-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/neutral-social-icons/pinterest-lt.svg" alt="Pinterest"></a><a href="http://twitter.com/palm_harbor" target="_blank" rel="noreferrer"><img class="cvc-footer-social-media-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/neutral-social-icons/x-lt.svg" alt="X"></a><a href="http://instagram.com/palmharborhomes" target="_blank" rel="noreferrer"><img class="cvc-footer-social-media-image" src="https://www.palmharbor.com/binaries/content/gallery/cavco/neutral-social-icons/instagram-lt.svg" alt="Instagram"></a></div></div><div class="cvc-footer-col cvc-footer-nav-container"><div role="menu" class="cvc-footer-navbar-nav navbar-nav"><a role="menuitem" href="/find-a-floor-plan" class="cvc-footer-navbar-nav-link nav-link  nav-link">Find a Floor Plan</a><a role="menuitem" href="/find-a-model-center" class="cvc-footer-navbar-nav-link nav-link  nav-link">Find a Model Center</a><div class="cvc-footer-navbar-nav-link-group nav-link" aria-label="About Us Menu"><a role="menuitem" href="/about" class="cvc-footer-navbar-nav-link nav-link  nav-link">About Us</a><div id="About Us-2-content" class="cvc-footer-navbar-nav-link-group-content" role="group"><a role="menuitem" href="/about/our-company" class="cvc-footer-navbar-nav-link nav-link  nav-link">Our Company</a><a role="menuitem" href="/about/our-construction" class="cvc-footer-navbar-nav-link nav-link  nav-link">Our Construction</a><a role="menuitem" href="/about/our-services" class="cvc-footer-navbar-nav-link nav-link  nav-link">Our Services</a></div></div><div class="cvc-footer-navbar-nav-link-group nav-link" aria-label="Contact Us Menu"><a role="menuitem" href="/contact" class="cvc-footer-navbar-nav-link nav-link  nav-link">Contact Us</a><div id="Contact Us-3-content" class="cvc-footer-navbar-nav-link-group-content" role="group"><a role="menuitem" href="tel:1-888-466-3719" class="cvc-footer-navbar-nav-link nav-link  nav-link">Call a Model Center: 1-888-466-3719</a><a role="menuitem" href="/contact/retail-distributor" class="cvc-footer-navbar-nav-link nav-link  nav-link">Become a Retailer</a><a role="menuitem" href="/contact/homeowner-service" class="cvc-footer-navbar-nav-link nav-link  nav-link">Customer Service Inquiry</a></div></div><a role="menuitem" target="_blank" href="https://careers.cavco.com/" class="cvc-footer-navbar-nav-link nav-link  nav-link">Careers</a><div class="cvc-footer-navbar-nav-link-group nav-link" aria-label="Manufacturing Locations Menu"><a role="menuitem" href="/building-centers" class="cvc-footer-navbar-nav-link nav-link  nav-link">Manufacturing Locations</a><div id="Manufacturing Locations-5-content" class="cvc-footer-navbar-nav-link-group-content" role="group"><a role="menuitem" href="/plantcity" class="cvc-footer-navbar-nav-link nav-link  nav-link">Plant City, Florida</a><a role="menuitem" href="/millersburg" class="cvc-footer-navbar-nav-link nav-link  nav-link">Millersburg, Oregon</a><a role="menuitem" href="/austin" class="cvc-footer-navbar-nav-link nav-link  nav-link">Austin, Texas</a><a role="menuitem" href="/fortworth" class="cvc-footer-navbar-nav-link nav-link  nav-link">Ft Worth, Texas</a></div></div></div></div></div><div class="cvc-footer-bottom"><hr class="cvc-footer-horizontal-line"><div class="cvc-footer-admin-and-terms-container"><div class="cvc-footer-terms-and-conditions"><div class="cvc-footer-terms-and-conditions-link"><p>Copyright © <a rel="noopener noreferrer" href="https://www.cavcohomes.com" target="_blank">Cavco Industries, Inc.</a> All rights reserved. | <a rel="noopener noreferrer" href="https://www.cavcohomes.com/privacy-policy" target="_blank">Privacy Policy</a> | <a rel="noopener noreferrer" href="https://www.cavcohomes.com/do-not-sell-my-personal-information" target="_blank">Do Not Sell My Personal Information</a></p></div><div class="cvc-footer-terms-and-conditions-link"></div><div class="cvc-footer-terms-and-conditions-link"></div></div></div></div></div></footer></div></div></div><svg xmlns="http://www.w3.org/2000/svg" width="87" height="60" viewBox="0 0 87 60" class="cvc-scroll-to-top"><defs><style>.back-to-top--background{fill:rgba(255,255,255,0.5);}.back-to-top--arrow{fill:none;stroke:#2b3b3b;stroke-width:3px;}</style></defs><path class="back-to-top--background" d="M30,0H87a0,0,0,0,1,0,0V60a0,0,0,0,1,0,0H30A30,30,0,0,1,0,30v0A30,30,0,0,1,30,0Z"></path><g transform="translate(18.214 13.501)"><line class="back-to-top--arrow" y2="31.861" transform="translate(12.643)"></line><path class="back-to-top--arrow" d="M1432.26,223.481l12.643-12.643,12.643,12.643" transform="translate(-1432.26 -210.838)"></path></g></svg></div></div></body></html>

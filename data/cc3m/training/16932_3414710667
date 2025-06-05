@@ -1,0 +1,628 @@
+    <!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Imgion - Fotografías</title>
+	<meta name="description" content="Fotografías" />
+	<link rel="canonical" href="https://imgion.com/" />
+	<link rel="next" href="https://imgion.com/page/2/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Imgion" />
+	<meta property="og:description" content="Fotografías" />
+	<meta property="og:url" content="https://imgion.com/" />
+	<meta property="og:site_name" content="Imgion" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://imgion.com/","url":"https://imgion.com/","name":"Imgion - Fotografías","isPartOf":{"@id":"https://imgion.com/#website"},"description":"Fotografías","breadcrumb":{"@id":"https://imgion.com/#breadcrumb"},"inLanguage":"es"},{"@type":"BreadcrumbList","@id":"https://imgion.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https://imgion.com/#website","url":"https://imgion.com/","name":"Imgion","description":"Fotografías","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://imgion.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Imgion &raquo; Feed" href="https://imgion.com/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/imgion.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://imgion.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 740px;--wp--style--global--wide-size: 1170px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='daily-magazine-google-fonts-css' href='https://fonts.googleapis.com/css?family=Andada' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://imgion.com/wp-content/themes/elegant-magazine/assets/bootstrap/css/bootstrap.min.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='daily-magazine-style-css' href='https://imgion.com/wp-content/themes/elegant-magazine/style.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='daily-news-css' href='https://imgion.com/wp-content/themes/daily-magazine/style.css?ver=1.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='aft-icons-css' href='https://imgion.com/wp-content/themes/elegant-magazine/assets/icons/style.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://imgion.com/wp-content/themes/elegant-magazine/assets/slick/css/slick.min.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sidr-css' href='https://imgion.com/wp-content/themes/elegant-magazine/assets/sidr/css/jquery.sidr.dark.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elegant-magazine-google-fonts-css' href='https://fonts.googleapis.com/css?family=Oswald:300,400,700|Source%20Sans%20Pro:400,400i,700,700i&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='elegant-magazine-style-css' href='https://imgion.com/wp-content/themes/daily-magazine/style.css?ver=6.8' type='text/css' media='all' />
+<style id='elegant-magazine-style-inline-css' type='text/css'>
+
+
+                .top-masthead {
+        background: #353535;
+        }
+        .top-masthead-overlay{
+        background: rgba(53,53,53,0.75);
+        }
+        
+                .top-masthead, .top-masthead a {
+        color: #ffffff;
+
+        }
+
+    
+        .elementor-template-full-width .elementor-section.elementor-section-full_width > .elementor-container,
+        .elementor-template-full-width .elementor-section.elementor-section-boxed > .elementor-container{
+            max-width: 1570px;
+        }
+        
+</style>
+<script type="text/javascript" src="https://imgion.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://imgion.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://imgion.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8" />
+        <style type="text/css">
+                        .site-title a,
+            .site-description {
+                color: #000000;
+            }
+
+                    </style>
+            </head>
+
+<body class="home blog wp-embed-responsive wp-theme-elegant-magazine wp-child-theme-daily-magazine hfeed align-content-left disable-default-home-content">
+
+    
+
+<div id="page" class="site">
+
+        <a class="skip-link screen-reader-text"
+           href="#content">Saltar al contenido</a>
+    <div class="header-layout-2">
+                <header id="masthead" class="site-header">
+                        <div class="masthead-banner data-bg"
+                 data-background="https://imgion.com/wp-content/uploads/2018/07/cropped-cámara.jpeg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="site-branding col-md-5 col-sm-5">
+                                                                    <h1 class="site-title font-family-1">
+                                        <a href="https://imgion.com/"
+                                           rel="home">Imgion</a>
+                                    </h1>
+                                
+                                                                    <p class="site-description">Fotografías</p>
+                                                            </div>
+                            <div class="site-advertisement col-md-7 col-sm-7">
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav id="site-navigation" class="main-navigation">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="navigation-container">
+                                                                <span class="af-search-click icon-search">
+                                <a href="#"><i class="fa fa-search"></i></a>
+                            </span>
+                                <button class="toggle-menu" aria-controls="primary-menu">
+                                <span class="screen-reader-text">Menú principal</span>
+                                 <i class="ham"></i>
+                            </button>
+                                <div class="menu main-menu"><ul id="primary-menu" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-8"><a href="https://imgion.com" aria-current="page">Inicio</a></li>
+</ul></div>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <div id="af-search-wrap">
+            <div class="af-search-box table-block">
+                <div class="table-block-child v-center text-center">
+                    <form role="search" method="get" class="search-form" action="https://imgion.com/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form>                </div>
+            </div>
+            <div class="af-search-close af-search-click">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+
+        <article id="post-333" class="post-333 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/es-posible-hackear-una-cerradura-inteligente-riesgos-y-soluciones/" aria-hidden="true" aria-label="¿Es posible hackear una cerradura inteligente? Riesgos y soluciones">
+                    <img width="640" height="421" src="https://imgion.com/wp-content/uploads/2025/04/hacking-locks-featured-1024x673-1.jpg" class="attachment-large size-large wp-post-image" alt="¿Es posible hackear una cerradura inteligente? Riesgos y soluciones" decoding="async" fetchpriority="high" srcset="https://imgion.com/wp-content/uploads/2025/04/hacking-locks-featured-1024x673-1.jpg 1024w, https://imgion.com/wp-content/uploads/2025/04/hacking-locks-featured-1024x673-1-300x197.jpg 300w, https://imgion.com/wp-content/uploads/2025/04/hacking-locks-featured-1024x673-1-768x505.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/es-posible-hackear-una-cerradura-inteligente-riesgos-y-soluciones/" rel="bookmark">¿Es posible hackear una cerradura inteligente? Riesgos y soluciones</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>La seguridad digital frente a nuevas amenazas Las cerraduras inteligentes representan una de las innovaciones</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            abril 7, 2025        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-329" class="post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-fotografias">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/fotografia-computacional-como-la-tecnologia-esta-revolucionando-las-imagenes/" aria-hidden="true" aria-label="Fotografía computacional: cómo la tecnología está revolucionando las imágenes">
+                    <img width="640" height="425" src="https://imgion.com/wp-content/uploads/2025/03/Abre_Computacional.jpg" class="attachment-large size-large wp-post-image" alt="Fotografía computacional: cómo la tecnología está revolucionando las imágenes" decoding="async" srcset="https://imgion.com/wp-content/uploads/2025/03/Abre_Computacional.jpg 725w, https://imgion.com/wp-content/uploads/2025/03/Abre_Computacional-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/fotografias/" rel="category tag">fotografías</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/fotografia-computacional-como-la-tecnologia-esta-revolucionando-las-imagenes/" rel="bookmark">Fotografía computacional: cómo la tecnología está revolucionando las imágenes</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>¿Qué es la fotografía computacional? La fotografía computacional es el uso de software avanzado y</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            marzo 18, 2025        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-324" class="post-324 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/la-importancia-de-una-buena-definicion-en-camaras-de-videovigilancia/" aria-hidden="true" aria-label="La Importancia de una Buena Definición en Cámaras de Videovigilancia">
+                    <img width="640" height="405" src="https://imgion.com/wp-content/uploads/2025/02/201_HD_Cam.webp" class="attachment-large size-large wp-post-image" alt="La Importancia de una Buena Definición en Cámaras de Videovigilancia" decoding="async" srcset="https://imgion.com/wp-content/uploads/2025/02/201_HD_Cam.webp 830w, https://imgion.com/wp-content/uploads/2025/02/201_HD_Cam-300x190.webp 300w, https://imgion.com/wp-content/uploads/2025/02/201_HD_Cam-768x486.webp 768w" sizes="(max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/la-importancia-de-una-buena-definicion-en-camaras-de-videovigilancia/" rel="bookmark">La Importancia de una Buena Definición en Cámaras de Videovigilancia</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>En la actualidad, la videovigilancia es una herramienta clave para la seguridad de hogares, empresas</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            febrero 26, 2025        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-320" class="post-320 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/camaras-de-seguridad-de-alta-definicion-vigilancia-precisa-para-mayor-proteccion/" aria-hidden="true" aria-label="Cámaras de Seguridad de Alta Definición: Vigilancia Precisa para Mayor Protección">
+                    <img width="640" height="360" src="https://imgion.com/wp-content/uploads/2025/02/banner-camaras-de-videovigilancia-altaico-1024x576.webp" class="attachment-large size-large wp-post-image" alt="Cámaras de Seguridad de Alta Definición: Vigilancia Precisa para Mayor Protección" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2025/02/banner-camaras-de-videovigilancia-altaico-1024x576.webp 1024w, https://imgion.com/wp-content/uploads/2025/02/banner-camaras-de-videovigilancia-altaico-300x169.webp 300w, https://imgion.com/wp-content/uploads/2025/02/banner-camaras-de-videovigilancia-altaico-768x432.webp 768w, https://imgion.com/wp-content/uploads/2025/02/banner-camaras-de-videovigilancia-altaico-1536x864.webp 1536w, https://imgion.com/wp-content/uploads/2025/02/banner-camaras-de-videovigilancia-altaico.webp 1920w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/camaras-de-seguridad-de-alta-definicion-vigilancia-precisa-para-mayor-proteccion/" rel="bookmark">Cámaras de Seguridad de Alta Definición: Vigilancia Precisa para Mayor Protección</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>La seguridad en el hogar y los negocios ha evolucionado significativamente gracias a la tecnología</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            febrero 12, 2025        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-316" class="post-316 post type-post status-publish format-standard has-post-thumbnail hentry category-fotografias">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/lograr-mejores-fotografias-consejos-para-capturar-imagenes-impactantes/" aria-hidden="true" aria-label="Lograr mejores fotografías: Consejos para capturar imágenes impactantes">
+                    <img width="640" height="360" src="https://imgion.com/wp-content/uploads/2025/02/Copia-de-Sin-titulo-63-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="Lograr mejores fotografías: Consejos para capturar imágenes impactantes" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2025/02/Copia-de-Sin-titulo-63-1024x576.jpg 1024w, https://imgion.com/wp-content/uploads/2025/02/Copia-de-Sin-titulo-63-300x169.jpg 300w, https://imgion.com/wp-content/uploads/2025/02/Copia-de-Sin-titulo-63-768x432.jpg 768w, https://imgion.com/wp-content/uploads/2025/02/Copia-de-Sin-titulo-63-1536x864.jpg 1536w, https://imgion.com/wp-content/uploads/2025/02/Copia-de-Sin-titulo-63.jpg 2048w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/fotografias/" rel="category tag">fotografías</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/lograr-mejores-fotografias-consejos-para-capturar-imagenes-impactantes/" rel="bookmark">Lograr mejores fotografías: Consejos para capturar imágenes impactantes</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>La fotografía es una forma de arte que permite capturar momentos, emociones y escenas en</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            febrero 6, 2025        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-308" class="post-308 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/spam-peligroso-una-amenaza-oculta-en-tu-bandeja-de-entrada/" aria-hidden="true" aria-label="Spam Peligroso: Una Amenaza Oculta en tu Bandeja de Entrada">
+                    <img width="640" height="363" src="https://imgion.com/wp-content/uploads/2025/01/steptodown.com109030-1024x581.jpg" class="attachment-large size-large wp-post-image" alt="Spam Peligroso: Una Amenaza Oculta en tu Bandeja de Entrada" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2025/01/steptodown.com109030-1024x581.jpg 1024w, https://imgion.com/wp-content/uploads/2025/01/steptodown.com109030-300x170.jpg 300w, https://imgion.com/wp-content/uploads/2025/01/steptodown.com109030-768x435.jpg 768w, https://imgion.com/wp-content/uploads/2025/01/steptodown.com109030.jpg 1224w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/spam-peligroso-una-amenaza-oculta-en-tu-bandeja-de-entrada/" rel="bookmark">Spam Peligroso: Una Amenaza Oculta en tu Bandeja de Entrada</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>El spam peligroso no es solo un mensaje molesto; puede ser una puerta de entrada</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            enero 14, 2025        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-260" class="post-260 post type-post status-publish format-standard has-post-thumbnail hentry category-tecnologia">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/adquiera-alguno-de-los-mejores-routers-del-mercado/" aria-hidden="true" aria-label="Adquiera alguno de los mejores routers del mercado">
+                    <img width="640" height="427" src="https://imgion.com/wp-content/uploads/2024/03/steptodown.com169078-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Adquiera alguno de los mejores routers del mercado" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2024/03/steptodown.com169078-1024x683.jpg 1024w, https://imgion.com/wp-content/uploads/2024/03/steptodown.com169078-300x200.jpg 300w, https://imgion.com/wp-content/uploads/2024/03/steptodown.com169078-768x512.jpg 768w, https://imgion.com/wp-content/uploads/2024/03/steptodown.com169078.jpg 1224w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/tecnologia/" rel="category tag">Tecnología</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/adquiera-alguno-de-los-mejores-routers-del-mercado/" rel="bookmark">Adquiera alguno de los mejores routers del mercado</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>Si está en la búsqueda de un nuevo router, para optimizar la conexión del WiFi</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            marzo 29, 2024        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-256" class="post-256 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/codigo-familiar-para-evitar-estafas-por-whatsapp/" aria-hidden="true" aria-label="Código familiar para evitar estafas por WhatsApp">
+                    <img width="640" height="427" src="https://imgion.com/wp-content/uploads/2024/02/steptodown.com581362-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Código familiar para evitar estafas por WhatsApp" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2024/02/steptodown.com581362-1024x683.jpg 1024w, https://imgion.com/wp-content/uploads/2024/02/steptodown.com581362-300x200.jpg 300w, https://imgion.com/wp-content/uploads/2024/02/steptodown.com581362-768x512.jpg 768w, https://imgion.com/wp-content/uploads/2024/02/steptodown.com581362.jpg 1224w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/codigo-familiar-para-evitar-estafas-por-whatsapp/" rel="bookmark">Código familiar para evitar estafas por WhatsApp</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>Establecer un código familiar es un método efectivo para no caer en estafas telefónicas y</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            febrero 27, 2024        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-252" class="post-252 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/puntos-vulnerables-de-las-segundas-residencias-en-espana/" aria-hidden="true" aria-label="Puntos vulnerables de las segundas residencias en España">
+                    <img width="640" height="333" src="https://imgion.com/wp-content/uploads/2024/01/segunda-residencia-000.jpg" class="attachment-large size-large wp-post-image" alt="Puntos vulnerables de las segundas residencias en España" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2024/01/segunda-residencia-000.jpg 768w, https://imgion.com/wp-content/uploads/2024/01/segunda-residencia-000-300x156.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/puntos-vulnerables-de-las-segundas-residencias-en-espana/" rel="bookmark">Puntos vulnerables de las segundas residencias en España</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>Es esencial conocer los puntos vulnerables de las segundas residencias, para poder equipar de una</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            enero 22, 2024        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+    
+
+        <article id="post-246" class="post-246 post type-post status-publish format-standard has-post-thumbnail hentry category-seguridad">
+            
+<div class="entry-header-image-wrap full-post-block">
+    <header class="entry-header">
+                    <div class="post-thumbnail ">
+                <a href="https://imgion.com/estrategias-efectivas-para-disuadir-un-ladron/" aria-hidden="true" aria-label="Estrategias efectivas para disuadir un ladrón">
+                    <img width="640" height="427" src="https://imgion.com/wp-content/uploads/2023/11/steptodown.com320984-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Estrategias efectivas para disuadir un ladrón" decoding="async" loading="lazy" srcset="https://imgion.com/wp-content/uploads/2023/11/steptodown.com320984-1024x683.jpg 1024w, https://imgion.com/wp-content/uploads/2023/11/steptodown.com320984-300x200.jpg 300w, https://imgion.com/wp-content/uploads/2023/11/steptodown.com320984-768x512.jpg 768w, https://imgion.com/wp-content/uploads/2023/11/steptodown.com320984.jpg 1224w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </a>
+            </div>
+
+                <div class="header-details-wrapper">
+            <div class="entry-header-details">
+                                    <div class="figure-categories figure-categories-bg">
+                                                <span class="cat-links"> <a href="https://imgion.com/category/seguridad/" rel="category tag">Seguridad</a></span>                    </div>
+                
+                <h2 class="entry-title"><a href="https://imgion.com/estrategias-efectivas-para-disuadir-un-ladron/" rel="bookmark">Estrategias efectivas para disuadir un ladrón</a>
+                    </h2>                                    <div class="post-excerpt">
+                        <p>Las estrategias efectivas para disuadir un ladrón no son por elección, es una necesidad, en</p>
+                    </div>
+
+
+                                    <div class="post-item-metadata entry-meta">
+                                <span class="item-metadata posts-author">
+            <span class="">Por</span>
+                           <a href="https://imgion.com/author/admin/">
+                    admin                </a>
+               </span>
+        <span class="">/</span>
+        <span class="item-metadata posts-date">
+            noviembre 13, 2023        </span>
+                            </div>
+                            </div>
+        </div>
+    </header>
+</div>        </article>
+                <div class="col col-ten">
+                
+	<nav class="navigation posts-navigation" aria-label="Entradas">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://imgion.com/page/2/" >Entradas anteriores</a></div></div>
+	</nav>            </div>
+        
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+
+
+<aside id="secondary" class="widget-area">
+    <div class="theiaStickySidebar">
+	    <div id="search-2" class="widget elegant-widget widget_search"><form role="search" method="get" class="search-form" action="https://imgion.com/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form></div>
+		<div id="recent-posts-2" class="widget elegant-widget widget_recent_entries">
+		<h2 class="widget-title widget-title-1"><span>Entradas recientes</span></h2>
+		<ul>
+											<li>
+					<a href="https://imgion.com/es-posible-hackear-una-cerradura-inteligente-riesgos-y-soluciones/">¿Es posible hackear una cerradura inteligente? Riesgos y soluciones</a>
+									</li>
+											<li>
+					<a href="https://imgion.com/fotografia-computacional-como-la-tecnologia-esta-revolucionando-las-imagenes/">Fotografía computacional: cómo la tecnología está revolucionando las imágenes</a>
+									</li>
+											<li>
+					<a href="https://imgion.com/la-importancia-de-una-buena-definicion-en-camaras-de-videovigilancia/">La Importancia de una Buena Definición en Cámaras de Videovigilancia</a>
+									</li>
+											<li>
+					<a href="https://imgion.com/camaras-de-seguridad-de-alta-definicion-vigilancia-precisa-para-mayor-proteccion/">Cámaras de Seguridad de Alta Definición: Vigilancia Precisa para Mayor Protección</a>
+									</li>
+											<li>
+					<a href="https://imgion.com/lograr-mejores-fotografias-consejos-para-capturar-imagenes-impactantes/">Lograr mejores fotografías: Consejos para capturar imágenes impactantes</a>
+									</li>
+					</ul>
+
+		</div><div id="categories-2" class="widget elegant-widget widget_categories"><h2 class="widget-title widget-title-1"><span>Categorías</span></h2>
+			<ul>
+					<li class="cat-item cat-item-3"><a href="https://imgion.com/category/fotografias/">fotografías</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://imgion.com/category/seguridad/">Seguridad</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://imgion.com/category/tecnologia/">Tecnología</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://imgion.com/category/uncategorized/">Uncategorized</a>
+</li>
+			</ul>
+
+			</div>    </div>
+</aside><!-- #secondary -->
+
+
+</div>
+
+
+
+<footer class="site-footer">
+            <div class="site-info">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                                                                Copyright &copy; Todos los derechos reservados.                                        <span class="sep"> | </span>
+                    Tema: <a href="https://afthemes.com/products/daily-magazine">Daily Magazine</a> por <a href="https://afthemes.com/">AF themes</a>.                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+<a id="scroll-up" class="secondary-color">
+    <i class="fa fa-angle-up"></i>
+</a>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/daily-magazine\/*","\/wp-content\/themes\/elegant-magazine\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/js/navigation.js?ver=20151215" id="elegant-magazine-navigation-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/js/skip-link-focus-fix.js?ver=20151215" id="elegant-magazine-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/assets/slick/js/slick.min.js?ver=6.8" id="slick-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/assets/bootstrap/js/bootstrap.min.js?ver=6.8" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/assets/sidr/js/jquery.sidr.min.js?ver=6.8" id="sidr-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/assets/jquery-match-height/jquery.matchHeight.min.js?ver=6.8" id="matchheight-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/lib/marquee/jquery.marquee.js?ver=6.8" id="marquee-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/lib/theiaStickySidebar/theia-sticky-sidebar.min.js?ver=6.8" id="sticky-sidebar-js"></script>
+<script type="text/javascript" src="https://imgion.com/wp-content/themes/elegant-magazine/admin-dashboard/dist/elegant_magazine_scripts.build.js?ver=6.8" id="elegant-magazine-script-js"></script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.0.1 on 2025-04-16 01:04:12 -->

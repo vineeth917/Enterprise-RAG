@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+		<link rel="alternate" type="application/rss+xml" title="Fia Uimp : le carrefour du divertissement RSS Feed" href="https://www.fia-uimp.com/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="Fia Uimp : le carrefour du divertissement Atom Feed" href="https://www.fia-uimp.com/feed/atom/" />
+	<link rel="pingback" href="https://www.fia-uimp.com/xmlrpc.php" />
+	<!--[if lt IE 9]>
+	<script src="https://www.fia-uimp.com/wp-content/themes/soledad/js/html5.js"></script>
+	<![endif]-->
+	<link rel='preconnect' href='https://fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<meta http-equiv='x-dns-prefetch-control' content='on'>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel='preload' as='image' href='https://www.fia-uimp.com/wp-content/uploads/2021/03/fia-uimp.png' type='image/png'>
+<link rel='preload' as='font' href='https://www.fia-uimp.com/wp-content/themes/soledad/fonts/fontawesome-webfont.woff2?v=4.7.0' type='font/woff2' crossorigin='anonymous' />
+<link rel='preload' as='font' href='https://www.fia-uimp.com/wp-content/themes/soledad/fonts/weathericons.woff2' type='font/woff2' crossorigin='anonymous' />
+<link rel='preload' as='font' href='https://www.fia-uimp.com/wp-content/plugins/penci-recipe/fonts/ficon.woff2' type='font/woff2' crossorigin='anonymous' />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Fia Uimp : le carrefour du divertissement</title>
+	<meta name="description" content="Retrouvez sur Fia Uimp une sélection des films et séries TV les plus plébiscités du moment.   " />
+	<link rel="canonical" href="https://www.fia-uimp.com/" />
+	<link rel="next" href="https://www.fia-uimp.com/page/2/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Fia Uimp : le carrefour du divertissement" />
+	<meta property="og:description" content="Retrouvez sur Fia Uimp une sélection des films et séries TV les plus plébiscités du moment.   " />
+	<meta property="og:url" content="https://www.fia-uimp.com/" />
+	<meta property="og:site_name" content="Fia Uimp : le carrefour du divertissement" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.fia-uimp.com/","url":"https://www.fia-uimp.com/","name":"Fia Uimp : le carrefour du divertissement","isPartOf":{"@id":"https://www.fia-uimp.com/#website"},"description":"Retrouvez sur Fia Uimp une sélection des films et séries TV les plus plébiscités du moment.   ","breadcrumb":{"@id":"https://www.fia-uimp.com/#breadcrumb"},"inLanguage":"fr-FR"},{"@type":"BreadcrumbList","@id":"https://www.fia-uimp.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.fia-uimp.com/#website","url":"https://www.fia-uimp.com/","name":"Fia Uimp : le carrefour du divertissement","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.fia-uimp.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Fia Uimp : le carrefour du divertissement &raquo; Flux" href="https://www.fia-uimp.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fia Uimp : le carrefour du divertissement &raquo; Flux des commentaires" href="https://www.fia-uimp.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.fia-uimp.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.fia-uimp.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 14px;--wp--preset--font-size--huge: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.fia-uimp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-oswald-css' href='//fonts.googleapis.com/css?family=Oswald%3A400&#038;display=swap&#038;ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='toolinks-posts-css' href='https://www.fia-uimp.com/wp-content/plugins/toolinks-posts/public/css/toolinks-posts-public.css?ver=1.4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-frontend-css' href='https://www.fia-uimp.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-flatpickr-css' href='https://www.fia-uimp.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-select2-css' href='https://www.fia-uimp.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.8' type='text/css' media='all' />
+<link rel="preload" as="style" onload="this.rel='stylesheet'" id="penci-fonts-css" href="//fonts.googleapis.com/css?family=Raleway%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CPT+Serif%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CPlayfair+Display+SC%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CMontserrat%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7COxygen%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CSource+Sans+Pro%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%26subset%3Dlatin%2Ccyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext&#038;display=swap&#038;ver=1.0" type="text/css" media="all">
+<noscript><link id="penci-fonts-css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CPT+Serif%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CPlayfair+Display+SC%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CMontserrat%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7COxygen%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CSource+Sans+Pro%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%26subset%3Dlatin%2Ccyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext&#038;display=swap&#038;ver=1.0"></noscript>
+<link rel='stylesheet' id='penci-main-style-css' href='https://www.fia-uimp.com/wp-content/themes/soledad/main.css?ver=7.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-font-awesomeold-css' href='https://www.fia-uimp.com/wp-content/themes/soledad/css/font-awesome.4.7.0.swap.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-font-iweather-css' href='https://www.fia-uimp.com/wp-content/themes/soledad/css/weather-icon.swap.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='penci_style-css' href='https://www.fia-uimp.com/wp-content/themes/soledad-child/style.css?ver=7.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-recipe-css-css' href='https://www.fia-uimp.com/wp-content/plugins/penci-recipe/css/recipe.css?ver=2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-soledad-parent-style-css' href='https://www.fia-uimp.com/wp-content/themes/soledad/style.css?ver=6.8' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/toolinks-posts/public/js/toolinks-posts-public.js?ver=1.4.0.2" id="toolinks-posts-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.13.0" id="ppress-flatpickr-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.13.0" id="ppress-select2-js"></script>
+<link rel="https://api.w.org/" href="https://www.fia-uimp.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fia-uimp.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8" />
+	<style type="text/css">
+				.penci-recipe-tagged .prt-icon span, .penci-recipe-action-buttons .penci-recipe-button:hover{ background-color:#ff5722; }																																																																																															</style>
+	<style type="text/css">
+																											</style>
+<script>var portfolioDataJs = portfolioDataJs || [];</script>		<script>
+			( function() {
+				window.onpageshow = function( event ) {
+					// Defined window.wpforms means that a form exists on a page.
+					// If so and back/forward button has been clicked,
+					// force reload a page to prevent the submit button state stuck.
+					if ( typeof window.wpforms !== 'undefined' && event.persisted ) {
+						window.location.reload();
+					}
+				};
+			}() );
+		</script>
+		<style id="penci-custom-style" type="text/css">h1, h2, h3, h4, h5, h6, .penci-lgpop-title, .penci-login-register input[type="submit"], h2.penci-heading-video, #navigation .menu li a, .penci-photo-2-effect figcaption h2, .headline-title, a.penci-topbar-post-title, #sidebar-nav .menu li a, .penci-slider .pencislider-container .pencislider-content .pencislider-title, .penci-slider .pencislider-container .pencislider-content .pencislider-button, #main .bbp-login-form .bbp-submit-wrapper button[type="submit"], .author-quote span, .penci-more-link a.more-link, .penci-post-share-box .dt-share, .post-share a .dt-share, .author-content h5, .post-pagination h5, .post-box-title, .penci-countdown .countdown-amount, .penci-countdown .countdown-period, .penci-pagination a, .penci-pagination .disable-url, ul.footer-socials li a span, .penci-button,.widget input[type="submit"],.penci-user-logged-in .penci-user-action-links a, .widget button[type="submit"], .penci-sidebar-content .widget-title, #respond h3.comment-reply-title span, .widget-social.show-text a span, .footer-widget-wrapper .widget .widget-title,.penci-user-logged-in .penci-user-action-links a, .container.penci-breadcrumb span, .container.penci-breadcrumb span a, .penci-container-inside.penci-breadcrumb span, .penci-container-inside.penci-breadcrumb span a, .container.penci-breadcrumb span, .container.penci-breadcrumb span a, .error-404 .go-back-home a, .post-entry .penci-portfolio-filter ul li a, .penci-portfolio-filter ul li a, .portfolio-overlay-content .portfolio-short .portfolio-title a, .home-featured-cat-content .magcat-detail h3 a, .post-entry blockquote cite, .post-entry blockquote .author, .tags-share-box.hide-tags.page-share .share-title, .widget ul.side-newsfeed li .side-item .side-item-text h4 a, .thecomment .comment-text span.author, .thecomment .comment-text span.author a, .post-comments span.reply a, #respond h3, #respond label, .wpcf7 label, #respond #submit, div.wpforms-container .wpforms-form.wpforms-form .wpforms-field-label,div.wpforms-container .wpforms-form.wpforms-form input[type=submit], div.wpforms-container .wpforms-form.wpforms-form button[type=submit], div.wpforms-container .wpforms-form.wpforms-form .wpforms-page-button, .wpcf7 input[type="submit"], .widget_wysija input[type="submit"], .archive-box span, .archive-box h1, .gallery .gallery-caption, .contact-form input[type=submit], ul.penci-topbar-menu > li a, div.penci-topbar-menu > ul > li a, .featured-style-29 .penci-featured-slider-button a, .pencislider-container .pencislider-content .pencislider-title, .pencislider-container .pencislider-content .pencislider-button, ul.homepage-featured-boxes .penci-fea-in.boxes-style-3 h4 span span, .pencislider-container .pencislider-content .pencislider-button, .woocommerce div.product .woocommerce-tabs .panel #respond .comment-reply-title, .penci-recipe-index-wrap .penci-index-more-link a, .penci-menu-hbg .menu li a, #sidebar-nav .menu li a, .penci-readmore-btn.penci-btn-make-button a, .bos_searchbox_widget_class #flexi_searchbox h1, .bos_searchbox_widget_class #flexi_searchbox h2, .bos_searchbox_widget_class #flexi_searchbox h3, .bos_searchbox_widget_class #flexi_searchbox h4, .bos_searchbox_widget_class #flexi_searchbox #b_searchboxInc .b_submitButton_wrapper .b_submitButton:hover, .bos_searchbox_widget_class #flexi_searchbox #b_searchboxInc .b_submitButton_wrapper .b_submitButton, .penci-featured-cat-seemore.penci-btn-make-button a, .penci-menu-hbg-inner .penci-hbg_sitetitle { font-family: 'Oxygen', sans-serif; } .featured-style-29 .penci-featured-slider-button a, #bbpress-forums #bbp-search-form .button{ font-weight: bold; } #main #bbpress-forums .bbp-login-form fieldset.bbp-form select, #main #bbpress-forums .bbp-login-form .bbp-form input[type="password"], #main #bbpress-forums .bbp-login-form .bbp-form input[type="text"], .penci-login-register input[type="email"], .penci-login-register input[type="text"], .penci-login-register input[type="password"], .penci-login-register input[type="number"], body, textarea, #respond textarea, .widget input[type="text"], .widget input[type="email"], .widget input[type="date"], .widget input[type="number"], .wpcf7 textarea, .mc4wp-form input, #respond input, div.wpforms-container .wpforms-form.wpforms-form input[type=date], div.wpforms-container .wpforms-form.wpforms-form input[type=datetime], div.wpforms-container .wpforms-form.wpforms-form input[type=datetime-local], div.wpforms-container .wpforms-form.wpforms-form input[type=email], div.wpforms-container .wpforms-form.wpforms-form input[type=month], div.wpforms-container .wpforms-form.wpforms-form input[type=number], div.wpforms-container .wpforms-form.wpforms-form input[type=password], div.wpforms-container .wpforms-form.wpforms-form input[type=range], div.wpforms-container .wpforms-form.wpforms-form input[type=search], div.wpforms-container .wpforms-form.wpforms-form input[type=tel], div.wpforms-container .wpforms-form.wpforms-form input[type=text], div.wpforms-container .wpforms-form.wpforms-form input[type=time], div.wpforms-container .wpforms-form.wpforms-form input[type=url], div.wpforms-container .wpforms-form.wpforms-form input[type=week], div.wpforms-container .wpforms-form.wpforms-form select, div.wpforms-container .wpforms-form.wpforms-form textarea, .wpcf7 input, form.pc-searchform input.search-input, ul.homepage-featured-boxes .penci-fea-in h4, .widget.widget_categories ul li span.category-item-count, .about-widget .about-me-heading, .widget ul.side-newsfeed li .side-item .side-item-text .side-item-meta { font-family: 'Source Sans Pro', sans-serif; } p { line-height: 1.8; } .penci-hide-tagupdated{ display: none !important; } h1, h2, h3, h4, h5, h6, .penci-lgpop-title, #sidebar-nav .menu li a, #navigation .menu li a, a.penci-topbar-post-title, .penci-slider .pencislider-container .pencislider-content .pencislider-title, .penci-slider .pencislider-container .pencislider-content .pencislider-button, .headline-title, .author-quote span, .penci-more-link a.more-link, .author-content h5, .post-pagination h5, .post-box-title, .penci-countdown .countdown-amount, .penci-countdown .countdown-period, .penci-pagination a, .penci-pagination .disable-url, ul.footer-socials li a span, .penci-sidebar-content .widget-title, #respond h3.comment-reply-title span, .widget-social.show-text a span, .footer-widget-wrapper .widget .widget-title, .error-404 .go-back-home a, .home-featured-cat-content .magcat-detail h3 a, .post-entry blockquote cite, .pencislider-container .pencislider-content .pencislider-title, .pencislider-container .pencislider-content .pencislider-button, .post-entry blockquote .author, .tags-share-box.hide-tags.page-share .share-title, .widget ul.side-newsfeed li .side-item .side-item-text h4 a, .thecomment .comment-text span.author, .thecomment .comment-text span.author a, #respond h3, #respond label, .wpcf7 label, div.wpforms-container .wpforms-form.wpforms-form .wpforms-field-label,div.wpforms-container .wpforms-form.wpforms-form input[type=submit], div.wpforms-container .wpforms-form.wpforms-form button[type=submit], div.wpforms-container .wpforms-form.wpforms-form .wpforms-page-button, #respond #submit, .wpcf7 input[type="submit"], .widget_wysija input[type="submit"], .archive-box span, .penci-login-register input[type="submit"], .archive-box h1, .gallery .gallery-caption, .widget input[type="submit"],.penci-button, #main .bbp-login-form .bbp-submit-wrapper button[type="submit"], .widget button[type="submit"], .contact-form input[type=submit], ul.penci-topbar-menu > li a, div.penci-topbar-menu > ul > li a, .penci-recipe-index-wrap .penci-index-more-link a, #bbpress-forums #bbp-search-form .button, .penci-menu-hbg .menu li a, #sidebar-nav .menu li a, .penci-readmore-btn.penci-btn-make-button a, .penci-featured-cat-seemore.penci-btn-make-button a, .penci-menu-hbg-inner .penci-hbg_sitetitle { font-weight: 700; } .featured-area .penci-image-holder, .featured-area .penci-slider4-overlay, .featured-area .penci-slide-overlay .overlay-link, .featured-style-29 .featured-slider-overlay, .penci-slider38-overlay{ border-radius: ; -webkit-border-radius: ; } .penci-featured-content-right:before{ border-top-right-radius: ; border-bottom-right-radius: ; } .penci-flat-overlay .penci-slide-overlay .penci-mag-featured-content:before{ border-bottom-left-radius: ; border-bottom-right-radius: ; } .container-single .post-image{ border-radius: ; -webkit-border-radius: ; } .penci-mega-thumbnail .penci-image-holder{ border-radius: ; -webkit-border-radius: ; } body.penci-body-boxed { background-image: url(https://www.fia-uimp.com/wp-content/uploads/2021/03/pineapplecut.png); } body.penci-body-boxed { background-repeat:repeat; } body.penci-body-boxed { background-size:auto; } .penci-menuhbg-toggle:hover .lines-button:after, .penci-menuhbg-toggle:hover .penci-lines:before, .penci-menuhbg-toggle:hover .penci-lines:after,.tags-share-box.tags-share-box-s2 .post-share-plike,.penci-video_playlist .penci-playlist-title,.pencisc-column-2.penci-video_playlist .penci-video-nav .playlist-panel-item, .pencisc-column-1.penci-video_playlist .penci-video-nav .playlist-panel-item,.penci-video_playlist .penci-custom-scroll::-webkit-scrollbar-thumb, .pencisc-button, .post-entry .pencisc-button, .penci-dropcap-box, .penci-dropcap-circle, .penci-login-register input[type="submit"]:hover, .penci-ld .penci-ldin:before{ background: #ff5722; } a, .post-entry .penci-portfolio-filter ul li a:hover, .penci-portfolio-filter ul li a:hover, .penci-portfolio-filter ul li.active a, .post-entry .penci-portfolio-filter ul li.active a, .penci-countdown .countdown-amount, .archive-box h1, .post-entry a, .container.penci-breadcrumb span a:hover, .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .wpb_text_column blockquote:before, .wpb_text_column blockquote cite, .wpb_text_column blockquote .author, .penci-pagination a:hover, ul.penci-topbar-menu > li a:hover, div.penci-topbar-menu > ul > li a:hover, .penci-recipe-heading a.penci-recipe-print,.penci-review-metas .penci-review-btnbuy, .main-nav-social a:hover, .widget-social .remove-circle a:hover i, .penci-recipe-index .cat > a.penci-cat-name, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info a:hover, #bbpress-forums li.bbp-body ul.topic li.bbp-topic-title a:hover, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info .bbp-forum-content a, #bbpress-forums li.bbp-body ul.topic p.bbp-topic-meta a, #bbpress-forums .bbp-breadcrumb a:hover, #bbpress-forums .bbp-forum-freshness a:hover, #bbpress-forums .bbp-topic-freshness a:hover, #buddypress ul.item-list li div.item-title a, #buddypress ul.item-list li h4 a, #buddypress .activity-header a:first-child, #buddypress .comment-meta a:first-child, #buddypress .acomment-meta a:first-child, div.bbp-template-notice a:hover, .penci-menu-hbg .menu li a .indicator:hover, .penci-menu-hbg .menu li a:hover, #sidebar-nav .menu li a:hover, .penci-rlt-popup .rltpopup-meta .rltpopup-title:hover, .penci-video_playlist .penci-video-playlist-item .penci-video-title:hover, .penci_list_shortcode li:before, .penci-dropcap-box-outline, .penci-dropcap-circle-outline, .penci-dropcap-regular, .penci-dropcap-bold{ color: #ff5722; } .penci-home-popular-post ul.slick-dots li button:hover, .penci-home-popular-post ul.slick-dots li.slick-active button, .post-entry blockquote .author span:after, .error-image:after, .error-404 .go-back-home a:after, .penci-header-signup-form, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce div.product .entry-summary div[itemprop="description"]:before, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote .author span:after, .woocommerce div.product .woocommerce-tabs #tab-description blockquote .author span:after, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, #top-search.shoping-cart-icon > a > span, #penci-demobar .buy-button, #penci-demobar .buy-button:hover, .penci-recipe-heading a.penci-recipe-print:hover,.penci-review-metas .penci-review-btnbuy:hover, .penci-review-process span, .penci-review-score-total, #navigation.menu-style-2 ul.menu ul:before, #navigation.menu-style-2 .menu ul ul:before, .penci-go-to-top-floating, .post-entry.blockquote-style-2 blockquote:before, #bbpress-forums #bbp-search-form .button, #bbpress-forums #bbp-search-form .button:hover, .wrapper-boxed .bbp-pagination-links span.current, #bbpress-forums #bbp_reply_submit:hover, #bbpress-forums #bbp_topic_submit:hover,#main .bbp-login-form .bbp-submit-wrapper button[type="submit"]:hover, #buddypress .dir-search input[type=submit], #buddypress .groups-members-search input[type=submit], #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress input[type=submit]:hover, #buddypress div.pagination .pagination-links .current, #buddypress div.item-list-tabs ul li.selected a, #buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li a:hover, #buddypress table.notifications thead tr, #buddypress table.notifications-settings thead tr, #buddypress table.profile-settings thead tr, #buddypress table.profile-fields thead tr, #buddypress table.wp-profile-fields thead tr, #buddypress table.messages-notices thead tr, #buddypress table.forum thead tr, #buddypress input[type=submit] { background-color: #ff5722; } .penci-pagination ul.page-numbers li span.current, #comments_pagination span { color: #fff; background: #ff5722; border-color: #ff5722; } .footer-instagram h4.footer-instagram-title > span:before, .woocommerce nav.woocommerce-pagination ul li span.current, .penci-pagination.penci-ajax-more a.penci-ajax-more-button:hover, .penci-recipe-heading a.penci-recipe-print:hover,.penci-review-metas .penci-review-btnbuy:hover, .home-featured-cat-content.style-14 .magcat-padding:before, .wrapper-boxed .bbp-pagination-links span.current, #buddypress .dir-search input[type=submit], #buddypress .groups-members-search input[type=submit], #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress input[type=submit]:hover, #buddypress div.pagination .pagination-links .current, #buddypress input[type=submit], form.pc-searchform.penci-hbg-search-form input.search-input:hover, form.pc-searchform.penci-hbg-search-form input.search-input:focus, .penci-dropcap-box-outline, .penci-dropcap-circle-outline { border-color: #ff5722; } .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message { border-top-color: #ff5722; } .penci-slider ol.penci-control-nav li a.penci-active, .penci-slider ol.penci-control-nav li a:hover, .penci-related-carousel .owl-dot.active span, .penci-owl-carousel-slider .owl-dot.active span{ border-color: #ff5722; background-color: #ff5722; } .woocommerce .woocommerce-message:before, .woocommerce form.checkout table.shop_table .order-total .amount, .woocommerce ul.products li.product .price ins, .woocommerce ul.products li.product .price, .woocommerce div.product p.price ins, .woocommerce div.product span.price ins, .woocommerce div.product p.price, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote:before, .woocommerce div.product .woocommerce-tabs #tab-description blockquote:before, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote cite, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote .author, .woocommerce div.product .woocommerce-tabs #tab-description blockquote cite, .woocommerce div.product .woocommerce-tabs #tab-description blockquote .author, .woocommerce div.product .product_meta > span a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce ul.cart_list li .amount, .woocommerce ul.product_list_widget li .amount, .woocommerce table.shop_table td.product-name a:hover, .woocommerce table.shop_table td.product-price span, .woocommerce table.shop_table td.product-subtotal span, .woocommerce-cart .cart-collaterals .cart_totals table td .amount, .woocommerce .woocommerce-info:before, .woocommerce div.product span.price, .penci-container-inside.penci-breadcrumb span a:hover { color: #ff5722; } .standard-content .penci-more-link.penci-more-link-button a.more-link, .penci-readmore-btn.penci-btn-make-button a, .penci-featured-cat-seemore.penci-btn-make-button a{ background-color: #ff5722; color: #fff; } .penci-vernav-toggle:before{ border-top-color: #ff5722; color: #fff; } .penci-top-bar, ul.penci-topbar-menu ul.sub-menu, div.penci-topbar-menu > ul ul.sub-menu, .pctopbar-login-btn .pclogin-sub{ background-color: #161616; } .headline-title { background-color: #ff5722; } a.penci-topbar-post-title:hover { color: #ff5722; } a.penci-topbar-post-title { text-transform: none; letter-spacing: 0; } ul.penci-topbar-menu > li a:hover, div.penci-topbar-menu > ul > li a:hover { color: #ff5722; } .penci-topbar-social a:hover { color: #ff5722; } #header .inner-header { background-color: #111111; background-image: none; } #navigation, .show-search { background: #111111; } @media only screen and (min-width: 960px){ #navigation.header-11 .container { background: #111111; }} #navigation, #navigation.header-layout-bottom { border-color: #212121; } #navigation .menu li a { color: #ffffff; } #navigation .menu li a:hover, #navigation .menu li.current-menu-item > a, #navigation .menu > li.current_page_item > a, #navigation .menu li:hover > a, #navigation .menu > li.current-menu-ancestor > a, #navigation .menu > li.current-menu-item > a { color: #ffffff; } #navigation ul.menu > li > a:before, #navigation .menu > ul > li > a:before { background: #ffffff; } #navigation.menu-item-padding .menu > li > a:hover, #navigation.menu-item-padding .menu > li:hover > a, #navigation.menu-item-padding .menu > li.current-menu-item > a, #navigation.menu-item-padding .menu > li.current_page_item > a, #navigation.menu-item-padding .menu > li.current-menu-ancestor > a, #navigation.menu-item-padding .menu > li.current-menu-item > a { background-color: #ff5722; } #navigation .penci-megamenu .penci-mega-child-categories a.cat-active, #navigation .menu .penci-megamenu .penci-mega-child-categories a:hover, #navigation .menu .penci-megamenu .penci-mega-latest-posts .penci-mega-post a:hover { color: #ff5722; } #navigation .penci-megamenu .penci-mega-thumbnail .mega-cat-name { background: #ff5722; } #navigation .penci-megamenu .post-mega-title a { text-transform: none; letter-spacing: 0; } .header-slogan .header-slogan-text { color: #ffffff; } .header-slogan .header-slogan-text:before, .header-slogan .header-slogan-text:after { background: #e0e0e0; } #navigation .menu .sub-menu li a { color: #313131; } #navigation .menu .sub-menu li a:hover, #navigation .menu .sub-menu li.current-menu-item > a, #navigation .sub-menu li:hover > a { color: #ff5722; } #navigation.menu-style-2 ul.menu ul:before, #navigation.menu-style-2 .menu ul ul:before { background-color: #ff5722; } #top-search > a, #navigation .button-menu-mobile { color: #ffffff; } .show-search form.pc-searchform input.search-input::-webkit-input-placeholder{ color: #ffffff; } .show-search form.pc-searchform input.search-input:-moz-placeholder { color: #ffffff; opacity: 1;} .show-search form.pc-searchform input.search-input::-moz-placeholder {color: #ffffff; opacity: 1; } .show-search form.pc-searchform input.search-input:-ms-input-placeholder { color: #ffffff; } .show-search form.pc-searchform input.search-input{ color: #ffffff; } .show-search a.close-search { color: #ffffff; } .penci-featured-content .feat-text h3 a, .featured-style-35 .feat-text-right h3 a, .featured-style-4 .penci-featured-content .feat-text h3 a, .penci-mag-featured-content h3 a, .pencislider-container .pencislider-content .pencislider-title { text-transform: none; letter-spacing: 0; } .home-featured-cat-content, .penci-featured-cat-seemore, .penci-featured-cat-custom-ads, .home-featured-cat-content.style-8 { margin-bottom: 40px; } .home-featured-cat-content.style-8 .penci-grid li.list-post:last-child{ margin-bottom: 0; } .home-featured-cat-content.style-3, .home-featured-cat-content.style-11{ margin-bottom: 30px; } .home-featured-cat-content.style-7{ margin-bottom: 14px; } .home-featured-cat-content.style-13{ margin-bottom: 20px; } .penci-featured-cat-seemore, .penci-featured-cat-custom-ads{ margin-top: -20px; } .penci-featured-cat-seemore.penci-seemore-style-7, .mag-cat-style-7 .penci-featured-cat-custom-ads{ margin-top: -18px; } .penci-featured-cat-seemore.penci-seemore-style-8, .mag-cat-style-8 .penci-featured-cat-custom-ads{ margin-top: 0px; } .penci-featured-cat-seemore.penci-seemore-style-13, .mag-cat-style-13 .penci-featured-cat-custom-ads{ margin-top: -20px; } .penci-header-signup-form { padding-top: px; padding-bottom: px; } .penci-header-signup-form { background-color: #ff5722; } .header-social a i, .main-nav-social a { color: #ffffff; } .header-social a:hover i, .main-nav-social a:hover, .penci-menuhbg-toggle:hover .lines-button:after, .penci-menuhbg-toggle:hover .penci-lines:before, .penci-menuhbg-toggle:hover .penci-lines:after { color: #ff5722; } #sidebar-nav .menu li a:hover, .header-social.sidebar-nav-social a:hover i, #sidebar-nav .menu li a .indicator:hover, #sidebar-nav .menu .sub-menu li a .indicator:hover{ color: #ff5722; } #sidebar-nav-logo:before{ background-color: #ff5722; } .penci-slide-overlay .overlay-link, .penci-slider38-overlay, .penci-flat-overlay .penci-slide-overlay .penci-mag-featured-content:before { opacity: 0.8; } .penci-item-mag:hover .penci-slide-overlay .overlay-link, .featured-style-38 .item:hover .penci-slider38-overlay, .penci-flat-overlay .penci-item-mag:hover .penci-slide-overlay .penci-mag-featured-content:before { opacity: ; } .penci-featured-content .featured-slider-overlay { opacity: ; } .penci-featured-content .feat-text .featured-cat a, .penci-mag-featured-content .cat > a.penci-cat-name, .featured-style-35 .cat > a.penci-cat-name { color: #ff5722; } .penci-mag-featured-content .cat > a.penci-cat-name:after, .penci-featured-content .cat > a.penci-cat-name:after, .featured-style-35 .cat > a.penci-cat-name:after{ border-color: #ff5722; } .penci-featured-content .feat-text .featured-cat a:hover, .penci-mag-featured-content .cat > a.penci-cat-name:hover, .featured-style-35 .cat > a.penci-cat-name:hover { color: #ff5722; } .featured-style-29 .featured-slider-overlay { opacity: ; } .penci-standard-cat .cat > a.penci-cat-name { color: #ff5722; } .penci-standard-cat .cat:before, .penci-standard-cat .cat:after { background-color: #ff5722; } .standard-content .penci-post-box-meta .penci-post-share-box a:hover, .standard-content .penci-post-box-meta .penci-post-share-box a.liked { color: #ff5722; } .header-standard .post-entry a:hover, .header-standard .author-post span a:hover, .standard-content a, .standard-content .post-entry a, .standard-post-entry a.more-link:hover, .penci-post-box-meta .penci-box-meta a:hover, .standard-content .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .standard-content-special .author-quote span, .standard-content-special .format-post-box .post-format-icon i, .standard-content-special .format-post-box .dt-special a:hover, .standard-content .penci-more-link a.more-link, .standard-content .penci-post-box-meta .penci-box-meta a:hover { color: #ff5722; } .standard-content .penci-more-link.penci-more-link-button a.more-link{ background-color: #ff5722; color: #fff; } .standard-content-special .author-quote span:before, .standard-content-special .author-quote span:after, .standard-content .post-entry ul li:before, .post-entry blockquote .author span:after, .header-standard:after { background-color: #ff5722; } .penci-more-link a.more-link:before, .penci-more-link a.more-link:after { border-color: #ff5722; } .penci-grid .cat a.penci-cat-name, .penci-masonry .cat a.penci-cat-name, .grid-mixed .cat a.penci-cat-name, .overlay-header-box .cat a.penci-cat-name { text-transform: uppercase; } .penci-grid .cat a.penci-cat-name, .penci-masonry .cat a.penci-cat-name { color: #ff5722; } .penci-grid .cat a.penci-cat-name:after, .penci-masonry .cat a.penci-cat-name:after { border-color: #ff5722; } .penci-post-share-box a.liked, .penci-post-share-box a:hover { color: #ff5722; } .overlay-post-box-meta .overlay-share a:hover, .overlay-author a:hover, .penci-grid .standard-content-special .format-post-box .dt-special a:hover, .grid-post-box-meta span a:hover, .grid-post-box-meta span a.comment-link:hover, .penci-grid .standard-content-special .author-quote span, .penci-grid .standard-content-special .format-post-box .post-format-icon i, .grid-mixed .penci-post-box-meta .penci-box-meta a:hover { color: #ff5722; } .penci-grid .standard-content-special .author-quote span:before, .penci-grid .standard-content-special .author-quote span:after, .grid-header-box:after, .list-post .header-list-style:after { background-color: #ff5722; } .penci-grid .post-box-meta span:after, .penci-masonry .post-box-meta span:after { border-color: #ff5722; } .penci-readmore-btn.penci-btn-make-button a{ background-color: #ff5722; color: #fff; } .penci-grid li.typography-style .overlay-typography { opacity: ; } .penci-grid li.typography-style:hover .overlay-typography { opacity: ; } .penci-grid li.typography-style .item .main-typography h2 a:hover { color: #ff5722; } .penci-grid li.typography-style .grid-post-box-meta span a:hover { color: #ff5722; } .overlay-header-box .cat > a.penci-cat-name:hover { color: #ff5722; } .penci-sidebar-content .widget { margin-bottom: 40px; } .penci-sidebar-content.style-11 .penci-border-arrow .inner-arrow, .penci-sidebar-content.style-12 .penci-border-arrow .inner-arrow, .penci-sidebar-content.style-14 .penci-border-arrow .inner-arrow:before, .penci-sidebar-content.style-13 .penci-border-arrow .inner-arrow, .penci-sidebar-content .penci-border-arrow .inner-arrow { background-color: #111111; } .penci-sidebar-content.style-2 .penci-border-arrow:after{ border-top-color: #111111; } .penci-sidebar-content .penci-border-arrow .inner-arrow, .penci-sidebar-content.style-4 .penci-border-arrow .inner-arrow:before, .penci-sidebar-content.style-4 .penci-border-arrow .inner-arrow:after, .penci-sidebar-content.style-5 .penci-border-arrow, .penci-sidebar-content.style-7 .penci-border-arrow, .penci-sidebar-content.style-9 .penci-border-arrow { border-color: #111111; } .penci-sidebar-content .penci-border-arrow:before { border-top-color: #111111; } .penci-sidebar-content.style-7 .penci-border-arrow .inner-arrow:before, .penci-sidebar-content.style-9 .penci-border-arrow .inner-arrow:before { background-color: #ff5722; } .penci-sidebar-content .penci-border-arrow .inner-arrow { color: #ff5722; } .penci-sidebar-content .penci-border-arrow:after { content: none; display: none; } .penci-sidebar-content .widget-title{ margin-left: 0; margin-right: 0; margin-top: 0; } .penci-sidebar-content .penci-border-arrow:before{ bottom: -6px; border-width: 6px; margin-left: -6px; } .penci-sidebar-content .penci-border-arrow:before, .penci-sidebar-content.style-2 .penci-border-arrow:after { content: none; display: none; } .penci-video_playlist .penci-video-playlist-item .penci-video-title:hover,.widget ul.side-newsfeed li .side-item .side-item-text h4 a:hover, .widget a:hover, .penci-sidebar-content .widget-social a:hover span, .widget-social a:hover span, .penci-tweets-widget-content .icon-tweets, .penci-tweets-widget-content .tweet-intents a, .penci-tweets-widget-content .tweet-intents span:after, .widget-social.remove-circle a:hover i , #wp-calendar tbody td a:hover, .penci-video_playlist .penci-video-playlist-item .penci-video-title:hover{ color: #ff5722; } .widget .tagcloud a:hover, .widget-social a:hover i, .widget input[type="submit"]:hover,.penci-user-logged-in .penci-user-action-links a:hover,.penci-button:hover, .widget button[type="submit"]:hover { color: #fff; background-color: #ff5722; border-color: #ff5722; } .about-widget .about-me-heading:before { border-color: #ff5722; } .penci-tweets-widget-content .tweet-intents-inner:before, .penci-tweets-widget-content .tweet-intents-inner:after, .pencisc-column-1.penci-video_playlist .penci-video-nav .playlist-panel-item, .penci-video_playlist .penci-custom-scroll::-webkit-scrollbar-thumb, .penci-video_playlist .penci-playlist-title { background-color: #ff5722; } .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot.active span, .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot:hover span { border-color: #ff5722; background-color: #ff5722; } #widget-area { background-color: #111111; } .footer-widget-wrapper, .footer-widget-wrapper .widget.widget_categories ul li, .footer-widget-wrapper .widget.widget_archive ul li, .footer-widget-wrapper .widget input[type="text"], .footer-widget-wrapper .widget input[type="email"], .footer-widget-wrapper .widget input[type="date"], .footer-widget-wrapper .widget input[type="number"], .footer-widget-wrapper .widget input[type="search"] { color: #ffffff; } .footer-widget-wrapper .widget ul li, .footer-widget-wrapper .widget ul ul, .footer-widget-wrapper .widget input[type="text"], .footer-widget-wrapper .widget input[type="email"], .footer-widget-wrapper .widget input[type="date"], .footer-widget-wrapper .widget input[type="number"], .footer-widget-wrapper .widget input[type="search"] { border-color: #212121; } .footer-widget-wrapper .widget .widget-title { color: #ff5722; } .footer-widget-wrapper .widget .widget-title .inner-arrow { border-color: #212121; } .footer-widget-wrapper a, .footer-widget-wrapper .widget ul.side-newsfeed li .side-item .side-item-text h4 a, .footer-widget-wrapper .widget a, .footer-widget-wrapper .widget-social a i, .footer-widget-wrapper .widget-social a span { color: #ffffff; } .footer-widget-wrapper .widget-social a:hover i{ color: #fff; } .footer-widget-wrapper .penci-tweets-widget-content .icon-tweets, .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents a, .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents span:after, .footer-widget-wrapper .widget ul.side-newsfeed li .side-item .side-item-text h4 a:hover, .footer-widget-wrapper .widget a:hover, .footer-widget-wrapper .widget-social a:hover span, .footer-widget-wrapper a:hover, .footer-widget-wrapper .widget-social.remove-circle a:hover i { color: #ff5722; } .footer-widget-wrapper .widget .tagcloud a:hover, .footer-widget-wrapper .widget-social a:hover i, .footer-widget-wrapper .mc4wp-form input[type="submit"]:hover, .footer-widget-wrapper .widget input[type="submit"]:hover,.footer-widget-wrapper .penci-user-logged-in .penci-user-action-links a:hover, .footer-widget-wrapper .widget button[type="submit"]:hover { color: #fff; background-color: #ff5722; border-color: #ff5722; } .footer-widget-wrapper .about-widget .about-me-heading:before { border-color: #ff5722; } .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents-inner:before, .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents-inner:after { background-color: #ff5722; } .footer-widget-wrapper .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot.active span, .footer-widget-wrapper .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot:hover span { border-color: #ff5722; background: #ff5722; } ul.footer-socials li a i { color: #666666; border-color: #666666; } ul.footer-socials li a:hover i { background-color: #ff5722; border-color: #ff5722; } ul.footer-socials li a:hover i { color: #ff5722; } ul.footer-socials li a span { color: #666666; } ul.footer-socials li a:hover span { color: #ff5722; } .footer-socials-section { border-color: #111111; } #footer-section { background-color: #010101; } #footer-section .footer-menu li a:hover { color: #ff5722; } #footer-section, #footer-copyright * { color: #666666; } #footer-section .go-to-top i, #footer-section .go-to-top-parent span { color: #666666; } #footer-section a { color: #ff5722; } .container-single .penci-standard-cat .cat > a.penci-cat-name { color: #ff5722; } .container-single .penci-standard-cat .cat:before, .container-single .penci-standard-cat .cat:after { background-color: #ff5722; } .container-single .single-post-title { text-transform: none; letter-spacing: 1px; } .container-single .cat a.penci-cat-name { text-transform: uppercase; } .list-post .header-list-style:after, .grid-header-box:after, .penci-overlay-over .overlay-header-box:after, .home-featured-cat-content .first-post .magcat-detail .mag-header:after { content: none; } .list-post .header-list-style, .grid-header-box, .penci-overlay-over .overlay-header-box, .home-featured-cat-content .first-post .magcat-detail .mag-header{ padding-bottom: 0; } .penci-single-style-6 .single-breadcrumb, .penci-single-style-5 .single-breadcrumb, .penci-single-style-4 .single-breadcrumb, .penci-single-style-3 .single-breadcrumb, .penci-single-style-9 .single-breadcrumb, .penci-single-style-7 .single-breadcrumb{ text-align: left; } .container-single .header-standard, .container-single .post-box-meta-single { text-align: left; } .rtl .container-single .header-standard,.rtl .container-single .post-box-meta-single { text-align: right; } .container-single .post-pagination h5 { text-transform: none; letter-spacing: 0; } #respond h3.comment-reply-title span:before, #respond h3.comment-reply-title span:after, .post-box-title:before, .post-box-title:after { content: none; display: none; } .container-single .item-related h3 a { text-transform: none; letter-spacing: 0; } .container-single .post-share a:hover, .container-single .post-share a.liked, .page-share .post-share a:hover { color: #ff5722; } .tags-share-box.tags-share-box-2_3 .post-share .count-number-like, .post-share .count-number-like { color: #ff5722; } .comment-content a, .container-single .post-entry a, .container-single .format-post-box .dt-special a:hover, .container-single .author-quote span, .container-single .author-post span a:hover, .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .wpb_text_column blockquote:before, .wpb_text_column blockquote cite, .wpb_text_column blockquote .author, .post-pagination a:hover, .author-content h5 a:hover, .author-content .author-social:hover, .item-related h3 a:hover, .container-single .format-post-box .post-format-icon i, .container.penci-breadcrumb.single-breadcrumb span a:hover, .penci_list_shortcode li:before, .penci-dropcap-box-outline, .penci-dropcap-circle-outline, .penci-dropcap-regular, .penci-dropcap-bold, .header-standard .post-box-meta-single .author-post span a:hover{ color: #ff5722; } .container-single .standard-content-special .format-post-box, ul.slick-dots li button:hover, ul.slick-dots li.slick-active button, .penci-dropcap-box-outline, .penci-dropcap-circle-outline { border-color: #ff5722; } ul.slick-dots li button:hover, ul.slick-dots li.slick-active button, #respond h3.comment-reply-title span:before, #respond h3.comment-reply-title span:after, .post-box-title:before, .post-box-title:after, .container-single .author-quote span:before, .container-single .author-quote span:after, .post-entry blockquote .author span:after, .post-entry blockquote .author span:before, .post-entry ul li:before, #respond #submit:hover, div.wpforms-container .wpforms-form.wpforms-form input[type=submit]:hover, div.wpforms-container .wpforms-form.wpforms-form button[type=submit]:hover, div.wpforms-container .wpforms-form.wpforms-form .wpforms-page-button:hover, .wpcf7 input[type="submit"]:hover, .widget_wysija input[type="submit"]:hover, .post-entry.blockquote-style-2 blockquote:before,.tags-share-box.tags-share-box-s2 .post-share-plike, .penci-dropcap-box, .penci-dropcap-circle { background-color: #ff5722; } .container-single .post-entry .post-tags a:hover { color: #fff; border-color: #ff5722; background-color: #ff5722; } ul.homepage-featured-boxes .penci-fea-in:hover h4 span { color: #ff5722; } .penci-home-popular-post .item-related h3 a:hover { color: #ff5722; } .penci-homepage-title.style-14 .inner-arrow:before, .penci-homepage-title.style-11 .inner-arrow, .penci-homepage-title.style-12 .inner-arrow, .penci-homepage-title.style-13 .inner-arrow, .penci-homepage-title .inner-arrow{ background-color: #111111; } .penci-border-arrow.penci-homepage-title.style-2:after{ border-top-color: #111111; } .penci-border-arrow.penci-homepage-title .inner-arrow, .penci-homepage-title.style-4 .inner-arrow:before, .penci-homepage-title.style-4 .inner-arrow:after, .penci-homepage-title.style-7, .penci-homepage-title.style-9 { border-color: #111111; } .penci-border-arrow.penci-homepage-title:before { border-top-color: #111111; } .penci-homepage-title.style-5, .penci-homepage-title.style-7{ border-color: #111111; } .penci-homepage-title.style-7 .inner-arrow:before, .penci-homepage-title.style-9 .inner-arrow:before{ background-color: #ff5722; } .penci-homepage-title .inner-arrow, .penci-homepage-title.penci-magazine-title .inner-arrow a { color: #ff5722; } .penci-homepage-title:after { content: none; display: none; } .penci-homepage-title { margin-left: 0; margin-right: 0; margin-top: 0; } .penci-homepage-title:before { bottom: -6px; border-width: 6px; margin-left: -6px; } .rtl .penci-homepage-title:before { bottom: -6px; border-width: 6px; margin-right: -6px; margin-left: 0; } .penci-homepage-title.penci-magazine-title:before{ left: 25px; } .rtl .penci-homepage-title.penci-magazine-title:before{ right: 25px; left:auto; } .home-featured-cat-content .magcat-detail h3 a:hover { color: #ff5722; } .home-featured-cat-content .grid-post-box-meta span a:hover { color: #ff5722; } .home-featured-cat-content .first-post .magcat-detail .mag-header:after { background: #ff5722; } .penci-slider ol.penci-control-nav li a.penci-active, .penci-slider ol.penci-control-nav li a:hover { border-color: #ff5722; background: #ff5722; } .home-featured-cat-content .mag-photo .mag-overlay-photo { opacity: ; } .home-featured-cat-content .mag-photo:hover .mag-overlay-photo { opacity: ; } .inner-item-portfolio:hover .penci-portfolio-thumbnail a:after { opacity: ; } .container-single .single-post-title {letter-spacing: 0px} .widget ul.side-newsfeed li .side-item .side-item-text h4 a {font-size: 14px} .penci-block-vc .penci-border-arrow .inner-arrow { background-color: #111111; } .penci-block-vc .style-2.penci-border-arrow:after{ border-top-color: #111111; } .penci-block-vc .penci-border-arrow .inner-arrow, .penci-block-vc.style-4 .penci-border-arrow .inner-arrow:before, .penci-block-vc.style-4 .penci-border-arrow .inner-arrow:after, .penci-block-vc.style-5 .penci-border-arrow, .penci-block-vc.style-7 .penci-border-arrow, .penci-block-vc.style-9 .penci-border-arrow { border-color: #111111; } .penci-block-vc .penci-border-arrow:before { border-top-color: #111111; } .penci-block-vc .style-7.penci-border-arrow .inner-arrow:before, .penci-block-vc.style-9 .penci-border-arrow .inner-arrow:before { background-color: #ff5722; } .penci-block-vc .penci-border-arrow .inner-arrow { color: #ff5722; } .penci-block-vc .penci-border-arrow:after { content: none; display: none; } .penci-block-vc .widget-title{ margin-left: 0; margin-right: 0; margin-top: 0; } .penci-block-vc .penci-border-arrow:before{ bottom: -6px; border-width: 6px; margin-left: -6px; } .penci-block-vc .penci-border-arrow:before, .penci-block-vc .style-2.penci-border-arrow:after { content: none; display: none; }</style><script>
+var penciBlocksArray=[];
+var portfolioDataJs = portfolioDataJs || [];var PENCILOCALCACHE = {};
+		(function () {
+				"use strict";
+		
+				PENCILOCALCACHE = {
+					data: {},
+					remove: function ( ajaxFilterItem ) {
+						delete PENCILOCALCACHE.data[ajaxFilterItem];
+					},
+					exist: function ( ajaxFilterItem ) {
+						return PENCILOCALCACHE.data.hasOwnProperty( ajaxFilterItem ) && PENCILOCALCACHE.data[ajaxFilterItem] !== null;
+					},
+					get: function ( ajaxFilterItem ) {
+						return PENCILOCALCACHE.data[ajaxFilterItem];
+					},
+					set: function ( ajaxFilterItem, cachedData ) {
+						PENCILOCALCACHE.remove( ajaxFilterItem );
+						PENCILOCALCACHE.data[ajaxFilterItem] = cachedData;
+					}
+				};
+			}
+		)();function penciBlock() {
+		    this.atts_json = '';
+		    this.content = '';
+		}</script>
+<script type="application/ld+json">{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.fia-uimp.com\/wp-content\/uploads\/2021\/03\/fia-uimp.png"
+    },
+    "url": "https:\/\/www.fia-uimp.com\/",
+    "name": "Fia Uimp\u00a0: le carrefour du divertissement",
+    "description": ""
+}</script><script type="application/ld+json">{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "Fia Uimp\u00a0: le carrefour du divertissement",
+    "alternateName": "",
+    "url": "https:\/\/www.fia-uimp.com\/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/www.fia-uimp.com\/search\/{search_term}",
+        "query-input": "required name=search_term"
+    }
+}</script><meta name="generator" content="Elementor 3.18.2; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="amphtml" href="https://www.fia-uimp.com/amp/" /><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-border-style: solid;
+--wpforms-field-border-size: 1px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-field-menu-color: #ffffff;
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-border-style: none;
+--wpforms-button-border-size: 1px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-border-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-background-image: none;
+--wpforms-background-position: center center;
+--wpforms-background-repeat: no-repeat;
+--wpforms-background-size: cover;
+--wpforms-background-width: 100px;
+--wpforms-background-height: 100px;
+--wpforms-background-color: rgba( 0, 0, 0, 0 );
+--wpforms-background-url: none;
+--wpforms-container-padding: 0px;
+--wpforms-container-border-style: none;
+--wpforms-container-border-width: 1px;
+--wpforms-container-border-color: #000000;
+--wpforms-container-border-radius: 3px;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+--wpforms-container-shadow-size-box-shadow: none;
+
+				}
+			</style></head>
+
+<body data-rsssl=1 class="home blog wp-theme-soledad wp-child-theme-soledad-child wpb-js-composer js-comp-ver-6.5.0 vc_responsive elementor-default elementor-kit-5">
+	<a id="close-sidebar-nav" class="header-6"><i class="penci-faicon fa fa-close" ></i></a>
+	<nav id="sidebar-nav" class="header-6" role="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+
+					<div id="sidebar-nav-logo">
+															<a href="https://www.fia-uimp.com/"><img class="penci-lazy" src="https://www.fia-uimp.com/wp-content/themes/soledad/images/penci-holder.png" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/03/logomobile.png" alt="Fia Uimp : le carrefour du divertissement" /></a>
+												</div>
+		
+					<div class="header-social sidebar-nav-social">
+				<div class="inner-header-social">
+			<a href="#"  rel="nofollow" target="_blank"><i class="penci-faicon fa fa-facebook" ></i></a>
+				<a href="#"  rel="nofollow" target="_blank"><i class="penci-faicon fa fa-twitter" ></i></a>
+				<a href="#"  rel="nofollow" target="_blank"><i class="penci-faicon fa fa-instagram" ></i></a>
+				<a href="#"  rel="nofollow" target="_blank"><i class="penci-faicon fa fa-pinterest" ></i></a>
+							<a href="#"  rel="nofollow" target="_blank"><i class="penci-faicon fa fa-tumblr" ></i></a>
+				<a href="#"  rel="nofollow" target="_blank"><i class="penci-faicon fa fa-youtube-play" ></i></a>
+				<a href="#"><i class="penci-faicon fa fa-envelope" ></i></a>
+																														</div>			</div>
+				
+		
+		<ul id="menu-main-menu" class="menu"><li id="menu-item-1365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1365"><a href="https://www.fia-uimp.com/category/cinema/">Cinéma</a></li>
+<li id="menu-item-1366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1366"><a href="https://www.fia-uimp.com/category/films/">Films</a></li>
+<li id="menu-item-1367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1367"><a href="https://www.fia-uimp.com/category/series-tv/">Séries TV</a></li>
+</ul>	</nav>
+<div class="wrapper-boxed header-style-header-6">
+<div class="penci-header-wrap"><header id="header" class="header-header-6" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+							<nav id="navigation" class="header-layout-bottom header-6 menu-style-1 menu-item-padding" role="navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<div class="container">
+				<div class="button-menu-mobile header-6"><i class="penci-faicon fa fa-bars" ></i></div>
+				<div id="logo">
+		<a href="https://www.fia-uimp.com/">
+		<img class="penci-logo" src="https://www.fia-uimp.com/wp-content/uploads/2021/03/fia-uimp.png" alt="Fia Uimp : le carrefour du divertissement"/>
+			</a>
+	</div><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1365"><a href="https://www.fia-uimp.com/category/cinema/">Cinéma</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1366"><a href="https://www.fia-uimp.com/category/films/">Films</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1367"><a href="https://www.fia-uimp.com/category/series-tv/">Séries TV</a></li>
+</ul><div id="top-search" class="penci-top-search">
+	<a class="search-click"><i class="penci-faicon fa fa-search" ></i></a>
+	<div class="show-search">
+		<form role="search" method="get" class="pc-searchform" action="https://www.fia-uimp.com/">
+    <div>
+		<input type="text" class="search-input" placeholder="Tapez et appuyez sur Entrée ..." name="s" />
+	 </div>
+</form>		<a class="search-click close-search"><i class="penci-faicon fa fa-close" ></i></a>
+	</div>
+</div>
+				
+			</div>
+		</nav><!-- End Navigation -->
+			</header>
+<!-- end #header -->
+
+</div><div class="featured-area featured-style-22"><div class="container"><div class="penci-owl-carousel penci-owl-featured-area"data-style="style-22" data-auto="true" data-autotime="4000" data-speed="600" data-loop="true">	<div class="item">
+		<div class="wrapper-item wrapper-item-classess">
+						<div class="penci-item-mag penci-item-1">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/04/bbe319feaa471afd0fc75e0c28ebbe79.jpg" href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/" title="Comment éviter l’eau dans la ratatouille décongelée ?"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Comment éviter l’eau dans la ratatouille décongelée ?" href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/">Comment éviter l’eau dans la ratatouille décongelée ?</a></h3>
+																								<div class="feat-meta">
+																															<span class="feat-time"><time class="entry-date published" datetime="2025-04-12T13:02:54+00:00">avril 12, 2025</time></span>
+																															<span class="feat-comments"><a href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/#respond ">0 commenter</a></span>
+																			</div>
+																					</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-2">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/03/c1c0344fe12c3b23ca308ca68db0dc10.jpg" href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/" title="Le lait est-il bon ou mauvais pour la santé ?"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Le lait est-il bon ou mauvais pour la santé ?" href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/">Le lait est-il bon ou mauvais pour la santé ?</a></h3>
+																								<div class="feat-meta">
+																															<span class="feat-time"><time class="entry-date published" datetime="2025-03-16T06:30:05+00:00">mars 16, 2025</time></span>
+																															<span class="feat-comments"><a href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/#respond ">0 commenter</a></span>
+																			</div>
+																					</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-3">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/02/f92a8e1feac9c5de69a32c452070cd66.jpg" href="https://www.fia-uimp.com/clafoutis-aux-cerises-traditionnel/" title="Clafoutis aux cerises traditionnel"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/clafoutis-aux-cerises-traditionnel/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Clafoutis aux cerises traditionnel" href="https://www.fia-uimp.com/clafoutis-aux-cerises-traditionnel/">Clafoutis aux cerises traditionnel</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-4">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/02/abdfdb9bec279d29f0d60c9ad95c7144.jpg" href="https://www.fia-uimp.com/formation-pompier-etapes-et-diplomes-necessaires/" title="Formation pompier : étapes et diplômes nécessaires"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/formation-pompier-etapes-et-diplomes-necessaires/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Formation pompier : étapes et diplômes nécessaires" href="https://www.fia-uimp.com/formation-pompier-etapes-et-diplomes-necessaires/">Formation pompier : étapes et diplômes nécessaires</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-5">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2024/01/21e104ba6c2b6b84c9fc52bfce258547-585x390.png" href="https://www.fia-uimp.com/vivez-le-cinema-autrement-limmersivite-de-la-vr/" title="Vivez le Cinéma Autrement : L&rsquo;Immersivité de la VR"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/vivez-le-cinema-autrement-limmersivite-de-la-vr/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Vivez le Cinéma Autrement : L&rsquo;Immersivité de la VR" href="https://www.fia-uimp.com/vivez-le-cinema-autrement-limmersivite-de-la-vr/">Vivez le Cinéma Autrement : L&rsquo;Immersivité de la VR</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-6">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/themes/soledad/images/no-image.jpg" href="https://www.fia-uimp.com/comment-regarder-la-television-sur-son-telephone/" title="Comment regarder la télévision sur son téléphone ?"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/comment-regarder-la-television-sur-son-telephone/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Comment regarder la télévision sur son téléphone ?" href="https://www.fia-uimp.com/comment-regarder-la-television-sur-son-telephone/">Comment regarder la télévision sur son téléphone ?</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-0">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/tv-5837826_640-585x390.jpg" href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/" title="Top 5 des films français produits en 2019"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Top 5 des films français produits en 2019" href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/">Top 5 des films français produits en 2019</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			</div></div><div class="item"><div class="wrapper-item wrapper-item-classess">
+						<div class="penci-item-mag penci-item-1">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/people-3281583_640.jpg" href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/" title="Top 10 des comédies françaises pour bien rire"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Top 10 des comédies françaises pour bien rire" href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/">Top 10 des comédies françaises pour bien rire</a></h3>
+																								<div class="feat-meta">
+																															<span class="feat-time"><time class="entry-date published" datetime="2021-07-01T14:29:00+00:00">juillet 1, 2021</time></span>
+																															<span class="feat-comments"><a href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/#respond ">0 commenter</a></span>
+																			</div>
+																					</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-2">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/popcorn-1085072_640.jpg" href="https://www.fia-uimp.com/les-12-meilleurs-films-francais-pour-les-cinephiles/" title="Les 12 meilleurs films français pour les cinéphiles"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/les-12-meilleurs-films-francais-pour-les-cinephiles/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Les 12 meilleurs films français pour les cinéphiles" href="https://www.fia-uimp.com/les-12-meilleurs-films-francais-pour-les-cinephiles/">Les 12 meilleurs films français pour les cinéphiles</a></h3>
+																								<div class="feat-meta">
+																															<span class="feat-time"><time class="entry-date published" datetime="2021-07-01T14:22:55+00:00">juillet 1, 2021</time></span>
+																															<span class="feat-comments"><a href="https://www.fia-uimp.com/les-12-meilleurs-films-francais-pour-les-cinephiles/#respond ">0 commenter</a></span>
+																			</div>
+																					</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-3">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/mobile-phone-5431597_640-585x390.jpg" href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/" title="Top 5 des séries télévisées françaises"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Top 5 des séries télévisées françaises" href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/">Top 5 des séries télévisées françaises</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			
+						<div class="penci-item-mag penci-item-4">
+									<a class="penci-image-holder owl-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/tv-3774381_640-585x371.jpg" href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/" title="Les 8 meilleures façons de diffuser la télévision et des films gratuitement"></a>
+								<div class="penci-slide-overlay penci-slider6-overlay">
+					<a class="overlay-link" href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/"></a>
+										<div class="penci-mag-featured-content">
+						<div class="feat-text">
+														<h3><a title="Les 8 meilleures façons de diffuser la télévision et des films gratuitement" href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/">Les 8 meilleures façons de diffuser la télévision et des films gratuitement</a></h3>
+													</div>
+					</div>
+				</div>
+			</div>
+
+			
+					</div>
+	</div>
+</div></div></div>
+
+
+	<div class="container penci_sidebar right-sidebar">
+		<div id="main" class="penci-layout-magazine-1 penci-main-sticky-sidebar">
+			<div class="theiaStickySidebar">
+
+				
+				
+					
+											<div class="penci-border-arrow penci-homepage-title penci-home-latest-posts style-5 pcalign-left">
+							<h3 class="inner-arrow">Dernières nouvelles</h3>
+						</div>
+					
+					<div class="penci-wrapper-posts-content">
+
+																				<ul class="penci-wrapper-data penci-grid">							
+							<li class="list-post magazine-layout magazine-1">
+	<article id="post-1551" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/04/bbe319feaa471afd0fc75e0c28ebbe79.jpg" href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/" title="Comment éviter l’eau dans la ratatouille décongelée ?">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-1" href="https://www.fia-uimp.com/category/cinema/"  rel="category tag">Cinéma</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/">Comment éviter l’eau dans la ratatouille décongelée ?</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+			<time class="entry-date published" datetime="2025-04-12T13:02:54+00:00">avril 12, 2025</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2025-04-12T13:02:54+00:00">avril 12, 2025</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>La ratatouille maison est un plat convivial et sain, appr&eacute;ci&eacute; pour sa richesse en l&eacute;gumes&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1548" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/03/c1c0344fe12c3b23ca308ca68db0dc10.jpg" href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/" title="Le lait est-il bon ou mauvais pour la santé ?">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-1" href="https://www.fia-uimp.com/category/cinema/"  rel="category tag">Cinéma</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/">Le lait est-il bon ou mauvais pour la santé ?</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+			<time class="entry-date published" datetime="2025-03-16T06:30:05+00:00">mars 16, 2025</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2025-03-16T06:30:05+00:00">mars 16, 2025</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>Le lait est un aliment central dans de nombreuses cultures et fait partie de l&rsquo;alimentation&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1545" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/02/f92a8e1feac9c5de69a32c452070cd66.jpg" href="https://www.fia-uimp.com/clafoutis-aux-cerises-traditionnel/" title="Clafoutis aux cerises traditionnel">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-1" href="https://www.fia-uimp.com/category/cinema/"  rel="category tag">Cinéma</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/clafoutis-aux-cerises-traditionnel/">Clafoutis aux cerises traditionnel</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+			<time class="entry-date published" datetime="2025-02-25T12:30:04+00:00">février 25, 2025</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2025-02-25T12:30:04+00:00">février 25, 2025</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>Le clafoutis aux cerises est bien plus qu&rsquo;un simple g&acirc;teau : c&rsquo;est un v&eacute;ritable symbole&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1542" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/02/abdfdb9bec279d29f0d60c9ad95c7144.jpg" href="https://www.fia-uimp.com/formation-pompier-etapes-et-diplomes-necessaires/" title="Formation pompier : étapes et diplômes nécessaires">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-1" href="https://www.fia-uimp.com/category/cinema/"  rel="category tag">Cinéma</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/formation-pompier-etapes-et-diplomes-necessaires/">Formation pompier : étapes et diplômes nécessaires</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+			<time class="entry-date published" datetime="2025-02-09T19:00:19+00:00">février 9, 2025</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2025-02-09T19:00:19+00:00">février 9, 2025</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>Formation pompier : &eacute;tapes et dipl&ocirc;mes n&eacute;cessaires Devenir sapeur-pompier est un engagement fort qui n&eacute;cessite&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1537" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2024/01/21e104ba6c2b6b84c9fc52bfce258547-585x390.png" href="https://www.fia-uimp.com/vivez-le-cinema-autrement-limmersivite-de-la-vr/" title="Vivez le Cinéma Autrement : L&rsquo;Immersivité de la VR">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-1" href="https://www.fia-uimp.com/category/cinema/"  rel="category tag">Cinéma</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/vivez-le-cinema-autrement-limmersivite-de-la-vr/">Vivez le Cinéma Autrement : L&rsquo;Immersivité de la VR</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+			<time class="entry-date published" datetime="2024-01-02T09:45:26+00:00">janvier 2, 2024</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/"></a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2024-01-02T09:45:26+00:00">janvier 2, 2024</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>Le cin&eacute;ma, en tant qu&rsquo;art de l&rsquo;illusion et de l&rsquo;immersion, s&rsquo;est constamment r&eacute;invent&eacute; pour offrir&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1410" class="item hentry">
+
+		
+		<div class="content-list-right fullwidth">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-1" href="https://www.fia-uimp.com/category/cinema/"  rel="category tag">Cinéma</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/comment-regarder-la-television-sur-son-telephone/">Comment regarder la télévision sur son téléphone ?</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/fiauimp/">Juliette</a></span>
+			<time class="entry-date published" datetime="2022-06-09T19:49:24+00:00">juin 9, 2022</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/fiauimp/">Juliette</a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2022-06-09T19:49:24+00:00">juin 9, 2022</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>Vous aimez regarder la t&eacute;l&eacute;vision mais n&rsquo;avez pas le temps de vous asseoir devant un&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1398" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/tv-5837826_640-585x390.jpg" href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/" title="Top 5 des films français produits en 2019">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-36" href="https://www.fia-uimp.com/category/films/"  rel="category tag">Films</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/">Top 5 des films français produits en 2019</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/fiauimp/">Juliette</a></span>
+			<time class="entry-date published" datetime="2021-07-01T14:35:34+00:00">juillet 1, 2021</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/fiauimp/">Juliette</a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2021-07-01T14:35:34+00:00">juillet 1, 2021</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>Voici la liste de mes meilleurs films français produits en 2019. J&rsquo;ai sélectionné différentes histoires,&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li><li class="list-post magazine-layout magazine-1">
+	<article id="post-1393" class="item hentry">
+
+					<div class="thumbnail">
+				
+									<a class="penci-image-holder penci-lazy" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/people-3281583_640-585x390.jpg" href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/" title="Top 10 des comédies françaises pour bien rire">
+					</a>
+				
+																															</div>
+		
+		<div class="content-list-right">
+			<div class="header-list-style">
+									<span class="cat"><a class="penci-cat-name penci-cat-36" href="https://www.fia-uimp.com/category/films/"  rel="category tag">Films</a></span>
+				
+				<h2 class="penci-entry-title entry-title grid-title"><a href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/">Top 10 des comédies françaises pour bien rire</a></h2>
+						<div class="penci-hide-tagupdated">
+			<span class="author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/fiauimp/">Juliette</a></span>
+			<time class="entry-date published" datetime="2021-07-01T14:29:00+00:00">juillet 1, 2021</time>		</div>
+											<div class="grid-post-box-meta">
+													<span class="otherl-date-author author-italic author vcard">par <a class="url fn n" href="https://www.fia-uimp.com/author/fiauimp/">Juliette</a></span>
+																			<span class="otherl-date"><time class="entry-date published" datetime="2021-07-01T14:29:00+00:00">juillet 1, 2021</time></span>
+																							</div>
+							</div>
+
+							<div class="item-content entry-content">
+					<p>J&rsquo;ai fait une liste de plusieurs films français dans la catégorie comédie. Ces films sont plutôt&hellip;</p>
+				</div>
+						
+					</div>
+
+	</article>
+</li>
+														</ul>							
+																							<div class="penci-pagination penci-ajax-more penci-ajax-home penci-ajax-more-click">
+									<a class="penci-ajax-more-button" data-mes="Désolé, plus de messages" data-layout="magazine-1" data-number="6" data-offset="8"
+									   data-from="customize" data-template="sidebar">
+										<span class="ajax-more-text">Charger plus de messages</span><span class="ajaxdot"></span><i class="penci-faicon fa fa-refresh" ></i>									</a>
+								</div>
+																		</div>
+				
+				
+			</div>
+		</div>
+
+					
+<div id="sidebar" class="penci-sidebar-right penci-sidebar-content style-3 pcalign-left penci-sticky-sidebar">
+	<div class="theiaStickySidebar">
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="pc-searchform" action="https://www.fia-uimp.com/">
+    <div>
+		<input type="text" class="search-input" placeholder="Tapez et appuyez sur Entrée ..." name="s" />
+	 </div>
+</form></aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Articles récents</span></h4>
+		<ul>
+											<li>
+					<a href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/">Comment éviter l’eau dans la ratatouille décongelée ?</a>
+									</li>
+											<li>
+					<a href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/">Le lait est-il bon ou mauvais pour la santé ?</a>
+									</li>
+											<li>
+					<a href="https://www.fia-uimp.com/clafoutis-aux-cerises-traditionnel/">Clafoutis aux cerises traditionnel</a>
+									</li>
+											<li>
+					<a href="https://www.fia-uimp.com/formation-pompier-etapes-et-diplomes-necessaires/">Formation pompier : étapes et diplômes nécessaires</a>
+									</li>
+											<li>
+					<a href="https://www.fia-uimp.com/vivez-le-cinema-autrement-limmersivite-de-la-vr/">Vivez le Cinéma Autrement : L&rsquo;Immersivité de la VR</a>
+									</li>
+					</ul>
+
+		</aside><aside id="penci_popular_news_widget-1" class="widget penci_popular_news_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Articles populaires</span></h4>				<ul id="penci-popularwg-4822" class="side-newsfeed display-order-numbers">
+
+					
+						<li class="penci-feed">
+															<span class="order-border-number">
+									<span class="number-post">1</span>
+								</span>
+														<div class="side-item">
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/tv-3774381_640-263x175.jpg" href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/" title="Les 8 meilleures façons de diffuser la télévision et des films gratuitement"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/" rel="bookmark" title="Les 8 meilleures façons de diffuser la télévision et des films gratuitement">
+											Les 8 meilleures façons de diffuser la télévision et des films gratuitement										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2021-07-01T13:59:27+00:00">juillet 1, 2021</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+						<li class="penci-feed">
+															<span class="order-border-number">
+									<span class="number-post">2</span>
+								</span>
+														<div class="side-item">
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/mobile-phone-5431597_640-263x175.jpg" href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/" title="Top 5 des séries télévisées françaises"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/" rel="bookmark" title="Top 5 des séries télévisées françaises">
+											Top 5 des séries télévisées françaises										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2021-07-01T14:13:45+00:00">juillet 1, 2021</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+						<li class="penci-feed">
+															<span class="order-border-number">
+									<span class="number-post">3</span>
+								</span>
+														<div class="side-item">
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/tv-5837826_640-263x175.jpg" href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/" title="Top 5 des films français produits en 2019"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/top-5-des-films-francais-produits-en-2019/" rel="bookmark" title="Top 5 des films français produits en 2019">
+											Top 5 des films français produits en 2019										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2021-07-01T14:35:34+00:00">juillet 1, 2021</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+						<li class="penci-feed">
+														<div class="side-item">
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/comment-regarder-la-television-sur-son-telephone/" rel="bookmark" title="Comment regarder la télévision sur son téléphone ?">
+											Comment regarder la télévision sur son téléphone ?										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2022-06-09T19:49:24+00:00">juin 9, 2022</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+						<li class="penci-feed">
+															<span class="order-border-number">
+									<span class="number-post">5</span>
+								</span>
+														<div class="side-item">
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/people-3281583_640-263x175.jpg" href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/" title="Top 10 des comédies françaises pour bien rire"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/top-10-des-comedies-francaises-pour-bien-rire/" rel="bookmark" title="Top 10 des comédies françaises pour bien rire">
+											Top 10 des comédies françaises pour bien rire										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2021-07-01T14:29:00+00:00">juillet 1, 2021</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+				</ul>
+
+			</aside><aside id="categories-3" class="widget widget_categories"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">CATÉGORIES</span></h4>
+			<ul>
+					<li class="cat-item cat-item-1"><a href="https://www.fia-uimp.com/category/cinema/">Cinéma <span class="category-item-count">(6)</span></a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://www.fia-uimp.com/category/films/">Films <span class="category-item-count">(5)</span></a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://www.fia-uimp.com/category/series-tv/">Séries TV <span class="category-item-count">(1)</span></a>
+</li>
+			</ul>
+
+			</aside>	</div>
+</div>					
+<!-- END CONTAINER -->
+</div>
+
+<div class="clear-footer"></div>
+
+
+		<div id="widget-area">
+			<div class="container">
+									<div class="footer-widget-wrapper footer-widget-style-1">
+						<aside id="media_image-2" class="widget widget_media_image"><img width="300" height="62" src="https://www.fia-uimp.com/wp-content/uploads/2021/03/fia-uimp-300x62.png" class="image wp-image-1374  attachment-medium size-medium toolinks-featured-image" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://www.fia-uimp.com/wp-content/uploads/2021/03/fia-uimp-300x62.png 300w, https://www.fia-uimp.com/wp-content/uploads/2021/03/fia-uimp.png 584w" sizes="(max-width: 300px) 100vw, 300px" /></aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><p>Retrouvez sur Fia Uimp une sélection des films et séries TV les plus plébiscités du moment.</p>
+</div>
+		</aside>					</div>
+					<div class="footer-widget-wrapper footer-widget-style-1">
+						<aside id="penci_popular_news_widget-2" class="widget penci_popular_news_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Articles populaires</span></h4>				<ul id="penci-popularwg-9486" class="side-newsfeed display-order-numbers">
+
+					
+						<li class="penci-feed">
+															<span class="order-border-number">
+									<span class="number-post">1</span>
+								</span>
+														<div class="side-item">
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/tv-3774381_640-263x175.jpg" href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/" title="Les 8 meilleures façons de diffuser la télévision et des films gratuitement"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/les-8-meilleures-facons-de-diffuser-la-television-et-des-films-gratuitement/" rel="bookmark" title="Les 8 meilleures façons de diffuser la télévision et des films gratuitement">
+											Les 8 meilleures façons de diffuser la télévision et des films gratuitement										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2021-07-01T13:59:27+00:00">juillet 1, 2021</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+						<li class="penci-feed">
+															<span class="order-border-number">
+									<span class="number-post">2</span>
+								</span>
+														<div class="side-item">
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2021/07/mobile-phone-5431597_640-263x175.jpg" href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/" title="Top 5 des séries télévisées françaises"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/top-5-des-series-televisees-francaises/" rel="bookmark" title="Top 5 des séries télévisées françaises">
+											Top 5 des séries télévisées françaises										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2021-07-01T14:13:45+00:00">juillet 1, 2021</time></span>
+																	</div>
+							</div>
+						</li>
+
+						
+				</ul>
+
+			</aside>					</div>
+					<div class="footer-widget-wrapper footer-widget-style-1 last">
+						<aside id="penci_latest_news_widget-1" class="widget penci_latest_news_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Messages récents</span></h4>				<ul id="penci-latestwg-6554" class="side-newsfeed">
+											<li class="penci-feed">
+							<div class="side-item">
+
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/04/bbe319feaa471afd0fc75e0c28ebbe79-263x175.jpg" href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/" title="Comment éviter l’eau dans la ratatouille décongelée ?"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/comment-eviter-leau-dans-la-ratatouille-decongelee/" rel="bookmark" title="Comment éviter l’eau dans la ratatouille décongelée ?">
+											Comment éviter l’eau dans la ratatouille décongelée ?										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2025-04-12T13:02:54+00:00">avril 12, 2025</time></span>
+																	</div>
+							</div>
+						</li>
+												<li class="penci-feed">
+							<div class="side-item">
+
+																	<div class="side-image">
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://www.fia-uimp.com/wp-content/uploads/2025/03/c1c0344fe12c3b23ca308ca68db0dc10-263x175.jpg" href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/" title="Le lait est-il bon ou mauvais pour la santé ?"></a>
+										
+																			</div>
+																<div class="side-item-text">
+									<h4 class="side-title-post">
+										<a href="https://www.fia-uimp.com/le-lait-est-il-bon-ou-mauvais-pour-la-sante/" rel="bookmark" title="Le lait est-il bon ou mauvais pour la santé ?">
+											Le lait est-il bon ou mauvais pour la santé ?										</a>
+									</h4>
+																			<span class="side-item-meta"><time class="entry-date published" datetime="2025-03-16T06:30:05+00:00">mars 16, 2025</time></span>
+																	</div>
+							</div>
+						</li>
+										</ul>
+			</aside>					</div>
+							</div>
+		</div>
+
+
+
+<footer id="footer-section" class="penci-footer-social-media penci-lazy footer-social-remove-circle" itemscope itemtype="https://schema.org/WPFooter">
+	<div class="container">
+									<div class="footer-logo-copyright footer-not-logo footer-not-gotop">
+				
+				
+									<div id="footer-copyright">
+						<p>@2021 - All Right Reserved. Fia-uimp</p>
+					</div>
+											</div>
+							<div class="penci-go-to-top-floating"><i class="penci-faicon fa fa-angle-up" ></i></div>
+			</div>
+</footer>
+
+</div><!-- End .wrapper-boxed -->
+
+<div id="fb-root"></div>
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/soledad-child\/*","\/wp-content\/themes\/soledad\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.fia-uimp.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/penci-review/js/jquery.easypiechart.min.js?ver=1.0" id="jquery-penci-piechart-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/penci-review/js/review.js?ver=1.0" id="jquery-penci-review-js"></script>
+<script type="text/javascript" id="ppress-frontend-script-js-extra">
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.fia-uimp.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"f898c6334c","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.13.0" id="ppress-frontend-script-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/themes/soledad/js/libs-script.min.js?ver=7.7.0" id="penci-libs-js-js"></script>
+<script type="text/javascript" id="main-scripts-js-extra">
+/* <![CDATA[ */
+var ajax_var_more = {"url":"https:\/\/www.fia-uimp.com\/wp-admin\/admin-ajax.php","nonce":"42ff5c6b31","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","login":"Email Address","password":"Password"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/themes/soledad/js/main.js?ver=7.7.0" id="main-scripts-js"></script>
+<script type="text/javascript" id="penci_ajax_like_post-js-extra">
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/www.fia-uimp.com\/wp-admin\/admin-ajax.php","nonce":"42ff5c6b31","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","login":"Email Address","password":"Password"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/themes/soledad/js/post-like.js?ver=7.7.0" id="penci_ajax_like_post-js"></script>
+<script type="text/javascript" id="penci_ajax_more_posts-js-extra">
+/* <![CDATA[ */
+var ajax_var_more = {"url":"https:\/\/www.fia-uimp.com\/wp-admin\/admin-ajax.php","nonce":"42ff5c6b31","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","login":"Email Address","password":"Password"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/themes/soledad/js/more-post.js?ver=1.0" id="penci_ajax_more_posts-js"></script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/penci-recipe/js/jquery.rateyo.min.js?ver=2.9" id="jquery-recipe-rateyo-js"></script>
+<script type="text/javascript" id="penci_rateyo-js-extra">
+/* <![CDATA[ */
+var PENCI = {"ajaxUrl":"https:\/\/www.fia-uimp.com\/wp-admin\/admin-ajax.php","nonce":"42ff5c6b31"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fia-uimp.com/wp-content/plugins/penci-recipe/js/rating_recipe.js?ver=2.9" id="penci_rateyo-js"></script>
+<script type="text/javascript">!function(a){"use strict";var b=function(b,c,d){function j(a){if(e.body)return a();setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this); !function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(a){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);</script>
+	
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.805 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-04-21 05:06:00 -->
+
+<!-- super cache -->

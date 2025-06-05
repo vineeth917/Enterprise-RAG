@@ -1,0 +1,2925 @@
+
+
+<!DOCTYPE html>
+<html id="ctl00_ctl00_mainhtml" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head id="ctl00_ctl00_Head1">
+
+   <script type="text/javascript">
+      if (window.name == "refresh")
+      {
+         window.stop();
+         window.location.replace(window.location.pathname + window.location.search + window.location.hash);
+         window.name = "";
+      }
+   </script>
+   
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/smartBanner.css?v=1.14.5.31977" media="screen" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/common.css?v=1.14.5.31977" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/fontawesome/fontawesome.min.css?v=1.14.5.31977" />
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/fontawesome/brands.min.css?v=1.14.5.31977" />
+
+   
+   
+      <meta name="apple-itunes-app" content="app-id=523219414,app-argument=https://goldcountrymedia.com/live-content/the-folsom-telegraph/" />
+      
+      <meta name="google-play-app" content="app-id=com.presteligence.goldcountry" />
+      
+
+   <script type="text/javascript" src="https://media.myteamscoop.com/js/jquery.js?v=1.14.5.31977"></script>
+
+   <script type="text/javascript">
+      var _fbClientId = "309214499646406",
+         _fbTarget = window.location.pathname,
+         _baseUri = "https://myteamscoop.com/",
+         _webUri = "https://goldcountrymedia.com",
+         _mediaUrl = "https://media.myteamscoop.com/",
+         _logoTemplate = "https://media.myteamscoop.com/logo/%%TEAM_ID%%/97",
+         _schoolTemplate = "https://media.myteamscoop.com/logo/%%SCHOOL_ID%%/school/%%SPORT_ID%%/97",
+         _MTS_PHOTO_TEMPLATE = "https://media.myteamscoop.com/image/%%IMG_ID%%/%%SIZE%%/%%TEAM_ID%%/%%USER_ID%%/%%TYPE%%/97",
+         _portalId = 97,
+         _portalName = "Gold Country Media",
+         _portalUrl = "https://goldcountrymedia.com/",
+         _twitterName = "",
+         _facebookName = "",
+         _region = "Gold Country",
+         _MTS_widgetsReady = false,
+         _MTS_userId = -1,
+         _MTS_urlRegex = new RegExp("[|+<>\\*%&:\\?\\/\\\\\'.\"\\r\\n#]", "g"),
+         _isAdmin = false,
+         _warnAboutRejected = false,
+         _MTS_cssList = [],
+         _MTS_jsList = [],
+         _MTS_pageVP = "~/CustomPage.aspx",
+         _MTS_pageId = 0,
+         _MTS_histCount = 0,
+         _MTS_sportsEnabled = false,
+         _MTS_uploadLimit = 41943040,
+         
+         _hasAlerts = false,
+         _registrationPop = false,
+         _targetList = "team,".split(',');
+   </script>
+
+   
+   <!--[if lt IE 9]>
+      <link rel="stylesheet" type="text/css" href="../../%3C%25=SportsApp.Core.MediaUrl%20%25%3Ecss/?pid=&lt;%=_portal.Id %>&amp;ie=1&amp;v=&lt;%=SportsApp.Core.Version %>" />
+   <![endif]-->
+   
+
+<script type="text/javascript">
+   
+      var _gaq = _gaq || [];
+      
+         _gaq.push(['_setAccount', 'UA-32025052-1']);
+         _gaq.push(['_setCustomVar', 1, 'Portal', '97', 2]);
+         _gaq.push(['_trackPageview', 'The Folsom Telegraph?[pageTitle, the-folsom-telegraph]']);
+      
+
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = 'https://ssl.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+   
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-309298-41', 'auto');
+       
+         ga('send', 'pageview',
+         {
+            
+               'dimension1': "The Folsom Telegraph",
+               'dimension2': "[pageTitle, the-folsom-telegraph]"
+         });
+      
+
+   var _pageName = "The Folsom Telegraph";
+   var _ga_sport = "";
+   var _ga_school = "";
+   var _ga_guid = "";
+   var _ga_author = "";
+   var _ga_pagetype = "custompage";
+   var _ga_tags = "";
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJ4C47N33G"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag() { dataLayer.push(arguments); }
+   gtag('js', new Date());
+
+   gtag('config', 'G-ZJ4C47N33G');
+</script>
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	googletag.defineSlot('/1006431/CR_staff_main_Footer_728x90', [728, 90], 'main_footer').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_staff_main_impact_300x250', [[300, 250], [300, 600]], 'main_impact').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_legacy_300x250', [300, 250], 'legacy_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/cr_staff_in_article_300x250', [300, 250], 'article_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/cr_lower_impact_300x250', [300, 250], 'lower_impact_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/gcm_apex', [300, 250], 'apex_300x250').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Homepage_Promo_1', [180, 150], 'home_promo').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/GCM_Publication_Navigation', [300, 100], 'dfp_pub_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Living_Navigation', [300, 100], 'dfp_living_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Sports_Navigation', [300, 100], 'dfp_sports_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Obituary_Navigation', [300, 100], 'dfp_obit_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_News_Navigation', [300, 100], 'dfp_news_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Multimedia_Navigation', [300, 100], 'dfp_multi_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/CR_Opinion_Navigation', [300, 100], 'dfp_opinion_nav').addService(googletag.pubads());
+	googletag.defineSlot('/1006431/GCM_classifieds_navigation', [300, 100], 'dfp_class_nav').addService(googletag.pubads());
+
+
+
+	var urlPath = window.location.pathname.toLowerCase().split('/').filter(function (ret) { return ret.length > 0 ? ret : ""; });
+
+	var site = "";
+	var section = "";
+	var subscriber = _MTS_userId > 0 ? "yes" : "no";
+
+	if (urlPath.length >= 1)
+	{
+		if (urlPath[0] === "news-category")
+		{
+			section = urlPath[1];
+		}
+		else if (urlPath[0] === "portal.aspx")
+		{
+			section = "homepage";
+		}
+		else if (urlPath[0] === "live-content")
+		{
+			switch (urlPath[1])
+			{
+				case "auburn-journal":
+				case "lincoln-news-messenger":
+				case "the-folsom-telegraph":
+				case "the-press-tribune":
+				case "placer-herald":
+				case "the-loomis-news": 
+					site = urlPath[1].replace(/-/g, ' ');
+					break;
+				default:
+					break;
+			}
+		}
+	}
+	else
+	{
+		section = "homepage";
+	}
+
+	googletag.pubads().setTargeting("site", site);
+	googletag.pubads().setTargeting("section", section);
+	googletag.pubads().setTargeting("subscriber", subscriber);
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<style>
+body, .masterMcWrap {background: #ffffff !important;}
+.masterMcWrap {min-height: 768px} /*PREVENT FOOTER FROM SNAPPING TO TOP OF PAGE ON PAGE LOAD*/
+.rounded, .mRounded, .fRounded {
+border-radius: 0px 0px 0px 0px !important;
+-webkit-border-radius: 0px 0px 0px 0px !important;
+-moz-border-radius: 0px 0px 0px 0px !important;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/309dfe/000000000000000000010091/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/309dfe/000000000000000000010091/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/309dfe/000000000000000000010091/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/eb729a/000000000000000000010092/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/eb729a/000000000000000000010092/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/eb729a/000000000000000000010092/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9b05f3/000000000000000000013365/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/6f8764/000000000000000000012039/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/6f8764/000000000000000000012039/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/6f8764/000000000000000000012039/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/082b7c/00000000000000000001203a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/082b7c/00000000000000000001203a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/082b7c/00000000000000000001203a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/64e0cf/00000000000000000001203d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/64e0cf/00000000000000000001203d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/64e0cf/00000000000000000001203d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt-condensed";
+src:url("https://use.typekit.net/af/e6a9c1/00000000000000000001203e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/e6a9c1/00000000000000000001203e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/e6a9c1/00000000000000000001203e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt-bold";
+src:url("https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/053fc9/00000000000000003b9af1e4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"futura-pt-bold";
+src:url("https://use.typekit.net/af/72575c/00000000000000003b9af1e5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/72575c/00000000000000003b9af1e5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/72575c/00000000000000003b9af1e5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+body {font-family: 'futura-pt', helvetica, arial, sans-serif;}
+</style>
+
+<script>
+$(document).one("widgetsloaded", function() {
+$(".fa-newspaper").attr("href", "https://www.mynewsonthego.com/GoldCountry/SignIn.aspx");
+$(".fa-newspaper").attr("target", "_blank");
+
+var hi = $(".headerItem:contains('subscribe')");
+hi.attr("href", "https://cloud2.brehm.pub/scripts/WebObjects.exe/MVDNGoldCountrySelfServ.woa/");   
+hi.attr("target", "_blank");
+
+$(".navTools .headerItem").first().attr("href", "/live-content/subscribe");
+
+if(window.location.href.indexOf("/user/login/") > -1) {
+   $("a[title='Not a Subscriber']").attr("href", "https://goldcountrymedia.com/live-content/subscribe/");
+}
+});
+</script>
+
+<script>
+$(document).one("widgetsloaded", function() {
+  var eeb = $(".eeditionBigdrop");
+  eeb.detach();
+  eeb.insertAfter(".sportsList");
+
+  var eec = $(".eEditionCtr");
+  eec.addClass("eeditionHide");
+
+  $("#list_35").on("mouseenter", function() {
+    $(".eeditionBigdrop").addClass("ebdShow");
+    alert("hello");
+    $("#ee36.eEditionCtr").removeClass("eeditionHide");
+  });
+
+  var idn = ["36", "37", "38", "39", "40", "41"];
+
+  for (i = 0; i < idn.length; i++) {
+    $("#pmi_custompage_" + idn[i]).on("mouseenter", function() {
+      $(".eeditionBigdrop").addClass("ebdShow");
+      var id = $(this).attr("id").split("pmi_custompage_").join("");
+      $(".eEditionCtr").addClass("eeditionHide");
+      $("#ee" + id).removeClass("eeditionHide");
+    });
+  }
+
+  $(".menuDropBg").on("mouseleave", function() {
+    $(".eeditionBigdrop").removeClass("ebdShow");
+  });
+
+// info links gcm request 5-16-24
+window.top.infolinks_pid = 3419754;
+var _icesc = top.document.createElement('script');
+_icesc.type = 'text/javascript';
+_icesc.src = '//resources.infolinks.com/js/infolinks_main.js';
+window.top.document.body.appendChild(_icesc);
+});
+</script>
+
+<style type="text/css">
+.eeditionBigdrop {
+  float: left;
+  position: relative;
+  width: 130px;
+  height: 260px;
+  margin: 20px 0px;
+  display: none;
+}
+
+.ebdShow {
+  display: block;
+}
+
+#ee36, #ee37, #ee38,
+#ee39, #ee40, #ee41 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 130px;
+  height: 260px;
+}
+
+.eEditionCtr {
+  float: left;
+  clear: both;
+  position: relative;
+  width: 130px;
+  height: 260px;
+  overflow: hidden;
+  color: unset;
+  text-align: center;
+  margin-bottom: 20px;
+  z-index: 1;
+  opacity: 1;
+  transition: opacity 500ms, z-index 250ms, border 250ms;
+  -webkit-transition: opacity 500ms, z-index 250ms, border 250ms;
+  -moz-transition: opacity 500ms, z-index 250ms, border 250ms;  
+  border: solid 5px transparent;
+}
+
+.eEditionCtr:hover {
+  border: solid 5px #ffcc04;
+}
+
+.eeditionHide {
+  opacity: 0;
+  z-index: 0;
+}
+
+.eEditionImg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 120px !important;
+  height: 250px !important;
+}
+
+.eEditionDate {
+  line-height: 30px;
+  font-size: .8em;
+  width: 100%;
+  padding: 0px 10px;
+  font-weight: unset;
+  text-align: left;
+}
+
+.eEditionDate span {
+  float: right;
+}
+</style>
+
+<script>
+
+!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 'JGgBslmnqU5o-vh158IbZA');
+
+</script>
+
+   
+
+
+
+   
+   <link rel="shortcut icon" href="https://media.myteamscoop.com/images/custom/97/favicon.ico" />
+   
+      <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/?custom=true&pid=97" />
+   
+   <link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/oneColumn.css?v=1.14.5.31977" />
+   <link rel="Stylesheet" type="text/css" href="https://media.myteamscoop.com/css/?v=1.14.5.31977&pid=97" />
+
+   <script type="text/javascript">
+      _MTS_cssList.push("css/jQueryExtensions/jquery-ui.css", "css/popUpDialog.css");
+      _MTS_jsList.push("js/signin.js", "js/popUpDialog.js", "js/oneCol.js");
+      var _timeout = 1140000;
+      var _sessionTimeout = 1200000;
+      var __redirectTo = "/live-content/the-folsom-telegraph/";
+      var _COMMON_isTablet = false;
+      var _encodedPathAndQuery = "%2flive-content%2fthe-folsom-telegraph%2f",
+         _MTS_SEOALT = "The Folsom Telegraph",
+      _homePageUrl = "/";
+   </script>
+   
+
+<link rel="stylesheet" type="text/css" href="https://media.myteamscoop.com/css/plugins/mediaElement/mediaelementplayer.css?v=1.14.5.31977" />
+
+<style type="text/css">
+#user_container {
+   background: var(--pres-main-bg-light);
+   padding-bottom: 20px;
+   padding: 0 1%;
+}
+
+.customPageLink {
+   margin: 2% 0 0;
+}
+
+#user_container img,
+#user_container audio {
+   max-width: 100% !important;   
+   height: auto;
+}
+
+#user_container {
+   background-color: inherit;
+}
+
+.custom_page_content_widget {
+   background: var(--pres-main-bg-light);
+}
+
+.custom_page_content_widget:before,
+.custom_page_content_widget:after {
+   content:"";
+   display: table;
+}
+
+.custom_page_content_widget:after {
+   clear: both;
+}
+
+.customContent {
+   float: left;
+   width: 70%;
+   margin: 0px 1% 0px 1%;
+   background: var(--pres-main-bg-light);
+}
+
+.extraContent {
+   float: left;
+   width: 26%;
+   margin: 0px 1% 0px 1%;
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+   .customContent {
+      width: 100%;
+   }
+   
+   .extraContent {
+      width: 100%;
+      text-align: center;
+   }
+}
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+   .customContent {
+      width: 100%;
+   }
+   
+   .extraContent {
+      width: 100%;
+      text-align: center;
+   }
+
+   .customContent * {
+      max-width: 100%;
+   }
+
+   .customContent img {
+      max-width: unset !important;
+   }
+}
+</style>
+
+<script type="text/javascript" src="https://media.myteamscoop.com/js/plugins/mediaElement/mediaelement-and-player.min.js?v=1.14.5.31977"></script>
+
+<script type="text/javascript">
+   $(document).one("widgetsloaded", function ()
+   {
+      $("audio").mediaelementplayer();
+   });
+</script>
+
+
+   
+
+<title>
+	The Folsom Telegraph
+</title><meta name="description" content="The Folsom Telegraph" /></head>
+
+   
+<body >
+
+   <div class="sitewideUserAlert">
+      <p id="userAlertMessage"></p>
+      <div class="sitewideUserAlertButtons">
+         <button id="hideSiteWide">Okay</button>
+         <button id="closeSiteWide">Close and Never Show Again</button>
+      </div>
+   </div>
+   
+   
+   
+
+   <div class="plBackground"></div>
+   <div id="fb-root"></div>
+
+
+
+   <noscript>You must have javascript enabled to view this site.</noscript>
+
+   <div class="alwaysMobileBg"></div>
+   
+   <div class="busySpinnerBg">
+      <div class="closeSpinner"><i class="fas fa-times"></i></div>
+      <img class="busySpinner" src="https://media.myteamscoop.com/images/busySpinner.gif" alt="" />
+   </div>
+
+   
+	<div class="navigation_admin_menu_widget">
+		<input type="hidden" name="id" value="" />
+		<input type="hidden" name="abovethefold" value="true" />
+	</div>
+   
+      <div class="custom_header_widget">
+		   <input type="hidden" name="abovethefold" value="true" />
+      </div>
+      
+
+<script type="text/javascript">
+   _MTS_jsList.push("js/content/mobileSelectors.js");
+</script>
+   <div class="emailRejected" style="display: none;">
+      <div class="rejectTop">
+         <div class="rejectedTitle">Email Rejected!</div>
+         <div class="rejectHide">x</div>
+      </div>
+      <div class="rejectedInfo">
+         We attempted to send a notification to your email address but we were unable to verify that you provided a valid email address.
+         Please click <a class="emailLink" href="/user/edit/">here</a> to update your email address if you wish to receive notifications.
+         Otherwise, you may click <a class="emailLink" href="javascript:fireEmailRejected()">here</a> to disable notifications and hide this message.
+      </div>
+   </div>
+
+   
+
+   <div class="masterMcWrap">
+      <div id="logged_nav">
+	      
+
+
+      </div>
+      <div id="timeout">
+         <div class="tText n">
+            Your session was unable to be renewed and will be expiring in <span id="tTimer">0</span> seconds. 
+            Click <span id="tRenew">here</span> to attempt to renew your session.
+
+            <div id="tStatus"></div>
+         </div>
+      </div>
+
+      
+
+<div class='innerSec group'><div id='mts_r_0' class='widget_region' style='text-align:center'><input type='hidden' name='reg_width' value='100.00' /><input type='hidden' name='reg_margin_left' value='0.00' /><input type='hidden' name='reg_margin_right' value='0.00' /><input type='hidden' name='reg_width_med' value='100.00' /><input type='hidden' name='reg_margin_left_med' value='0.00' /><input type='hidden' name='reg_margin_right_med' value='0.00' /><input type='hidden' name='reg_width_tablet' value='100.00' /><input type='hidden' name='reg_margin_left_tablet' value='0.00' /><input type='hidden' name='reg_margin_right_tablet' value='0.00' /><input type='hidden' name='reg_pixel' value='False' /><input type='hidden' name='reg_innerSec' value='True' /><div id='mts_c_0' class='widget_column' style='display:inline-block;vertical-align:top;text-align:initial;'><input type='hidden' name='col_width' value='850.00' /><input type='hidden' name='col_margin_left' value='0.00' /><input type='hidden' name='col_margin_right' value='20.00' /><input type='hidden' name='col_width_med' value='640.00' /><input type='hidden' name='col_margin_left_med' value='0.00' /><input type='hidden' name='col_margin_right_med' value='20.00' /><input type='hidden' name='col_width_tablet' value='408.00' /><input type='hidden' name='col_margin_left_tablet' value='0.00' /><input type='hidden' name='col_margin_right_tablet' value='20.00' /><input type='hidden' name='col_pixel' value='True' /><div class='custom_break_widget'><style>
+/* MOBILE */
+*[data-holder] {
+	display: none;
+}
+
+.mainContent {
+	width: 100%;
+	position: relative;
+	clear: both;
+}
+
+.logo {
+	display: none !important;
+}
+
+.altLogo {
+	display: inline-block;
+	max-height: 24px;
+}
+
+.gcmLeft,
+.gcmRight {
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.gcmLeft {
+	clear: left;
+}
+
+.gcmRight {
+	clear: right;
+}
+
+.adCtr {
+	float: left;
+	clear: both;
+	width: 100%;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.halfGridMain .storyImage[data-holder],
+.featuredCtr .storyImage[data-holder],
+.nineGridThird .storyImage[data-holder],
+.catStoryMain .storyImage[data-holder],
+.gcmPlaceholderImg {
+	display: none;
+}
+
+.halfGridMain img[data-holder].storyImage + .gcmPlaceholderImg,
+.featuredCtr img[data-holder].storyImage + .gcmPlaceholderImg,
+.nineGridThird img[data-holder].storyImage + .gcmPlaceholderImg,
+.catStoryMain img[data-holder].storyImage + .gcmPlaceholderImg {
+	display: block;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    z-index: 1;
+    padding: 0px;
+    width: 75%;
+    height: 100%;
+    background-image: url(https://42428ff44a0f17038fd4-6c98f771acd871eb8c8fdc2f5fa1b652.ssl.cf1.rackcdn.com/0/0/0/0/0/25/25_original);
+    background-position: center center;
+	background-size: 100%;    
+	background-repeat: no-repeat;
+}
+
+.bottomGradient {
+	background: rgba(255,255,255,0);
+	background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, rgba(0,0,0,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000', GradientType=0 );
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 50%;
+	z-index: 1;
+}
+
+.featuredCtr, .nineGridCtr {
+	position: relative;
+	clear: both;
+	width: 100%;
+	float: left;
+}
+
+.nineGrid {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+
+.featuredStoryMain,
+.featuredStoryRight,
+.featuredStoryThird,
+.nineGridThird,
+.videoThird,
+.halfGrid, 
+.halfGridItem,
+.textLinkItem,
+.halfGridMain,
+.mostPopularMain {
+	position: relative;
+	clear: both;
+	width: 100%;
+	float: left;	
+}
+
+.mostPopularMain,
+.halfGridItem,
+.textLinkItem {
+	margin-bottom: 20px;
+}
+
+.halfGridMain,
+.featuredStoryMain,
+.featuredStoryThird,
+.nineGridThird,
+.videoThird {
+	max-height: 250px;
+	min-height: 250px;
+	overflow: hidden;
+	background: #333333;
+	margin-bottom: 20px;
+}
+
+.storyImage, .videoImg, .tlImg {
+	float: left;
+	position: relative;
+	width: 100%;	
+}
+
+.title, .featuredTitle,
+.videoTitleCtr {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	color: #ffffff;
+	z-index: 2;
+	font-weight: 800;
+	font-size: 1em;
+	line-height: 20px;
+	width: 100%;
+	padding: 20px;
+}
+
+.fa-play-circle {
+	font-size: 1.5em;
+	float: left;
+}
+
+.videoTitleCtr .videoTitle {
+	float: left;
+	padding-left: 10px;
+	color: #ffffff;
+	background: unset;
+}
+
+.gcmHeader {
+	padding: 10px;
+	width: 100%;
+	position: relative;
+	clear: both;
+	color: #ffffff;
+	background: #ffcc04;
+	float: left;
+	text-transform: uppercase;
+	font-size: 1.25em;
+	font-weight: 800;
+	line-height: 40px;
+}
+
+.category {
+	line-height: 30px;
+	padding: 0px 10px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	color: #ffffff;
+	background: #ffcc04;	
+	text-align: center;
+	text-transform: uppercase;
+	font-size: .8em;
+	font-weight: 800;
+}
+
+.mobileLbl {
+	padding: 10px;
+	width: 100%;
+	position: relative;
+	clear: both;
+	color: #ffffff;
+	background: #ffcc04;
+	float: left;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+.videosCtr, .videosCtrSide {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+}
+
+.videosCtr {
+	text-align: center;
+}
+
+.videosCtr .vjs-dock-text {
+	text-align: left;
+}
+
+.videoMain, .videoSide,
+.quickCategoryNews, 
+.playerMain {
+	float: left;
+	clear: both;
+	position: relative;
+	width: 100%;
+}
+
+.quickCategoryNews,
+.videosCtrSide {
+	margin-bottom: 20px;
+}
+
+.catNewsItem {
+	float: left;
+	clear: both;
+	position: relative;
+	width: 100%;	
+	padding: 20px;
+	border-bottom: solid 1px #bbbbbb;
+}
+
+.squareImgCtr {
+	float: left;
+	width: 72px;
+	height: 72px;
+	position: relative;
+	overflow: hidden;
+}
+
+.squareImg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	max-height: 100%;
+	max-width: unset;
+}
+
+.catNewsText {
+	float: left;
+	width: 100%;
+	line-height: 20px;
+	font-size: 1em;
+	font-weight: 800;
+}
+
+.squareImgCtr + .catNewsText {
+	width: 208px;
+	padding-left: 20px;
+}
+
+.catSquareCategory,
+.catSquareTitle {
+	float: left;
+	clear: both;
+	width: 100%;
+	background: unset;
+	text-align: left;
+	position: relative;
+}
+
+.catSquareCategory {
+	color: #888888;
+}
+
+.catNewsText .videoTitle {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+
+.mostRecentCtr, .mostPopularCtr {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+	background: #ffffff;
+	margin-bottom: 0px;
+}
+
+a.textTitle {
+	float: left;
+	clear: both;
+	width: 100%;
+	color: #000000;
+	padding: 10px;
+	border-bottom: solid 1px #bbbbbb;
+	font-size: .9em;
+	font-weight: 800;
+}
+
+a.halfGridLink {
+	float: left;
+	clear: both;
+	width: 100%;
+	color: #000000;
+	padding: 0px;
+	border-bottom: solid 1px #bbbbbb;
+	font-size: .9em;
+	font-weight: 800;
+}
+
+.halfGridLink .title,
+.mpTitle {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+	color: #000000;
+	padding: 0px;
+}
+
+.mpInfo {
+	padding: 20px;
+	float: left;
+	clear: both;
+	width: 100%;
+	background: #efefef;
+	font-size: .9em;
+}
+
+.mpTitle {
+	line-height: 20px;
+	font-weight: 800;
+}
+
+.mpCategory {
+	color: #666666;
+	line-height: 20px;
+}
+
+.ads {
+	background: #eeeeee;
+	padding: 20px 0px;
+	text-align: center;
+	float: left;
+	clear: both;
+	width: 100%;
+	font-size: 0px;
+	margin-bottom: 20px;
+}
+
+.ads img {
+	display: inline-block;
+	margin: 20px 10px;
+}
+
+.videoPlayer {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+	display: none;
+}
+
+.moreVideosBtn {
+	text-transform: uppercase;
+	font-weight: 800;
+	margin-top: 20px;
+	clear: both;
+	width: auto;
+	display: inline-block;
+	padding: 0px 10px;
+	line-height: 40px;
+}
+
+.hiddenSrc {
+	display: none;
+}
+
+.viewMoreLink {
+	color: #ffffff;
+	text-decoration: underline;
+	float: right;
+	font-size: .7em;
+	transition: color 250ms;
+	-webkit-transition: color 250ms;
+	-moz-transition: color 250ms;
+}
+
+.viewMoreLink:hover {
+	background: #000000;
+}
+
+.videoSide {
+	margin-bottom: 20px;
+}
+
+.textLinkItem {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.textLinkItem .halfGridLink {
+	background: #eeeeee;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-bottom: none;
+}
+
+.textLinkItem .halfGridLink .category {
+	position: relative;
+	background: unset !important;
+	color: #333333;
+	float: left;
+	font-weight: normal;	
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	text-align: left;
+	text-transform: none;
+	font-size: initial;
+	float: right;
+	line-height: unset;
+	padding: 0px 0px 0px 10px;
+}
+
+.textLinkItem .halfGridLink .title {
+	padding: 0px 0px 0px 10px;
+	clear: right;
+	float: right;
+	font-size: initial;
+	overflow: visible;
+	white-space: initial;
+	text-overflow: initial
+}
+
+.textLinkItem .tlImg {
+	width: 96px;
+}
+
+.textLinkItem img[data-holder].tlImg + .category,
+.textLinkItem img[data-holder].tlImg + .category + .title {
+	width: 100% !important;
+}
+
+/* TABLET */
+@media all and (min-width: 768px) {
+	.altLogo, .logoCtr {
+		max-height: 42px;
+		width: unset;
+		max-width: unset;
+	}
+
+	.gcmLeft, .gcmRight {
+		width: 726px;
+		float:none;
+		display: block;
+		margin: auto;
+	}
+
+	.mobileLbl {
+		display: none;
+	}
+
+	.featuredCtr, .videosCtr {
+		margin-bottom: 20px;
+	}
+
+	.featuredStoryMain {
+		margin-bottom: 20px;
+	}
+
+	.mostPopularCtr .featuredStoryMain {
+		margin-bottom: 0px;
+	}
+
+	.featuredStoryMain,
+	.featuredStoryThird,
+	.nineGridThird {
+		max-height: unset;
+		min-height: unset;
+	}
+
+	.featuredTitle,
+	.videoMain .videoTitleCtr {
+		font-size: 2em;
+		line-height: 35px;
+	}
+
+	.featuredStoryThird,
+	.nineGridThird {
+		width: 228px;
+		clear: none;
+		height: 228px;
+		margin-right: 20px;
+	}
+
+	.videoThird {
+		width: 242px;
+		height: 160px;
+		clear: none;
+	}
+
+	.featuredStoryThird:last-of-type,
+	.nineGridThird:last-of-type {
+		float:right;
+		margin-right: 0px;
+	}
+
+	.featuredStoryThird .storyImage {
+		position: absolute;
+		float: none;
+		width: 100%;
+		left: 0px;
+		top: 0px;
+	}
+
+	.nineGridThird .storyImage,
+	.videoThird .videoImg {
+		position: absolute;
+		float: none;
+		max-height: 100%;
+		width: unset;
+		max-width: unset;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+	}
+
+	.nineGrid {
+		margin-bottom: 20px;
+	}
+
+	.halfGridMain {
+		height: 353px;
+		overflow: hidden;
+	}
+
+	.halfGridItem {
+		width: 353px;
+		clear: none;
+		margin-bottom: 20px;
+	}
+
+	.halfGridMain .storyImage {
+		position: absolute;
+		width: unset;
+		max-height: 100%;
+		top: 0px;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		float: none;		
+	}	
+
+	.halfGridItem:last-of-type {
+		float:right;
+	}
+
+	.squareImgCtr {
+		width: 128px;
+		height: 128px;
+	}
+
+	.catNewsText {
+		font-size: 1.25em;
+	}
+
+	.squareImgCtr + .catNewsText {
+		width: 598px;
+	}	
+
+	.catNewsItem {
+		padding: 20px 0px;
+	}
+
+	a.halfGridLink, a.textTitle {
+		padding: 10px 0px;
+	}
+
+	a.halfGridLink .title {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+
+	.halfGridMain .title {
+		font-size: 1.5em;
+		line-height: 30px;
+	}
+	
+	.tlImg {
+		width: 96px;
+	}
+
+	.textLinkItem {
+		width: 353px;
+		padding: 0px;
+		margin-bottom: 20px;
+	}
+
+	.textLinkItem:nth-child(2n) {
+		float: right;
+		clear: none;
+	}	
+}
+
+/* MEDIUM SCREEN */
+@media all and (min-width: 1024px) {
+	.gcmLeft {
+		width: 640px;
+		float: left;
+	}
+
+	.gcmRight {
+		width: 300px;
+		float:right;
+		clear: none;
+	}	
+
+	.featuredStoryMain {
+		width: 440px;
+		height: 330px;
+		margin-bottom: 0px;
+	}
+
+	.featuredStoryThird .storyImage {
+		position: absolute;
+		float: none;
+		width: 100%;
+		left: 0px;
+		top: 0px;
+	}
+
+	.nineGridThird .storyImage,
+	.videoThird .videoImg {
+		position: absolute;
+		float: none;
+		max-height: 100%;
+		width: unset;
+		max-width: unset;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+	}
+
+	.featuredStoryRight {
+		width: 200px;
+		clear: none;
+	}
+
+	.featuredStoryThird {
+		width: 200px;
+		height: 110px;
+		clear: both;
+		margin: 0px;
+	}
+
+	.featuredStoryThird:last-of-type,
+	.nineGridThird:last-of-type {
+		float:left;
+	}
+
+	.nineGridThird {
+		width: 200px;
+		height: 200px;
+	}
+
+	.videoThird {
+		width: 213.333px;
+		height: 120px;
+		clear: none;
+	}
+
+	.halfGridItem {
+		width: 310px;
+	}
+
+	.halfGridMain {
+		height: 310px;
+		overflow: hidden;
+	}
+
+	.halfGridMain .storyImage {
+		position: absolute;
+		width: unset;
+		max-height: 100%;
+		top: 0px;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		float: none;		
+	}
+
+	.squareImgCtr {
+		width: 72px;
+		height: 72px;
+	}	
+
+	.catNewsText {
+		font-size: .9em;
+	}
+
+	.squareImgCtr + .catNewsText {
+		width: 228px;
+	}	
+
+	a.textTitle {
+		background: #efefef;
+		padding: 10px;
+	}
+
+	a.textTitle:last-of-type {
+		border-bottom: none;
+	}
+
+	.bottomGradient {
+		height: 60%;
+	}
+
+	.halfGridMain .title {
+		font-size: 1.5em;
+		line-height: 30px;
+	}
+
+	.textLinkItem {
+		width: 310px;
+		padding: 0px;
+		margin-bottom: 20px;
+	}
+
+	.textLinkItem:nth-child(2n) {
+		float: right;
+		clear: none;
+	}	
+}
+
+/* LARGE SCREEN */
+@media all and (min-width: 1367px) {
+	.gcmLeft {
+		width: 850px;
+		float: left;
+	}
+
+	.featuredStoryMain {
+		width: 580px;
+		height: 456px;
+		margin-bottom: 0px;
+	}
+
+	.featuredStoryMain .storyImage {
+		position: absolute;
+		width: unset;
+		max-height: 100%;
+		top: 0px;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		float: none;
+	}
+
+	.featuredStoryRight {
+		width: 200px;
+		clear: none;
+	}
+
+	.featuredStoryThird {
+		width: 270px;
+		height: 152px;
+		clear: both;
+		margin: 0px;
+	}
+
+	.featuredStoryThird:last-of-type,
+	.nineGridThird:last-of-type {
+		float:left;
+	}
+
+	.nineGridThird {
+		width: 270px;
+		height: 270px;
+	}	
+
+	.videoThird {
+		width: 283.333px;
+		height: 160px;
+		clear: none;
+	}
+
+	.halfGridItem {
+		width: 415px;
+	}
+
+	.halfGridMain {
+		height: 415px;
+		overflow: hidden;
+	}	
+
+	.halfGridMain .storyImage {
+		position: absolute;
+		width: unset;
+		max-height: 100%;
+		top: 0px;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		float: none;		
+		top: 0px;
+	}
+
+	.bottomGradient {
+		height: 60%;
+	}	
+
+	.squareImgCtr {
+		width: 72px;
+		height: 72px;
+	}
+
+	.catNewsText {
+		font-size: .9em;
+	}
+
+	.halfGridMain .title {
+		font-size: 1.5em;
+		line-height: 30px;
+	}
+
+
+	.halfGridItem, .textLinkItem {
+		width: 415px;
+	}
+}
+
+</style>
+
+<div class="mainContent">
+
+	<!--LEFT SIDE-->
+	<div class="gcmLeft" data-mtsRest="/api/v2/portal/news/featured/?portal_id=97&from=1&to=10&filter_id=7&filter_type=tag&tag_type=Publication" data-mtsCallback="storyCallback">
+
+		<!--FEATURED STORIES-->
+		<div class="mobileLbl">featured news</div>
+		<div class="featuredCtr">
+			<a class="featuredStoryMain" data-holder="0_Link">
+				<img class="storyImage" data-holder="0_MediaList_0_ImgLink" />
+				<div class='gcmPlaceholderImg'></div>
+				<div class="featuredTitle" data-holder="0_Title"></div>
+				<div class="bottomGradient"></div>
+			</a>
+			<div class="featuredStoryRight">
+				<a class="featuredStoryThird" data-holder="1_Link">
+					<img class="storyImage" data-holder="1_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="1_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>				
+				<a class="featuredStoryThird" data-holder="2_Link">
+					<img class="storyImage" data-holder="2_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="2_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+				<a class="featuredStoryThird" data-holder="3_Link">
+					<img class="storyImage" data-holder="3_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="3_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+			</div>
+		</div>
+
+		<!--NINE GRID-->
+		<div class="mobileLbl">categories</div>
+		<div class="nineGridCtr">
+			<div class="nineGrid">
+				<a class="nineGridThird" data-holder="4_Link">
+					<img class="storyImage" data-holder="4_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="4_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+				<a class="nineGridThird" data-holder="5_Link">
+					<img class="storyImage" data-holder="5_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="5_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+				<a class="nineGridThird" data-holder="6_Link">
+					<img class="storyImage" data-holder="6_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="6_Title"></div>
+					<div class="bottomGradient"></div>	
+				</a>	
+			</div>
+			<div class="nineGrid">
+				<a class="nineGridThird" data-holder="7_Link">
+					<img class="storyImage" data-holder="7_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="7_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+				<a class="nineGridThird" data-holder="8_Link">
+					<img class="storyImage" data-holder="8_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="8_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+				<a class="nineGridThird" data-holder="9_Link">
+					<img class="storyImage" data-holder="9_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="9_Title"></div>
+					<div class="bottomGradient"></div>	
+				</a>	
+			</div>
+		</div>
+	</div>
+
+	<div class="gcmLeft" data-mtsRest="/api/v3/portal/news/all/?portal_id=97&from=11&to=26&filter_id=7&filter_type=tag&tag_type=Publication&includeFeatured=false" data-mtsCallback="storyCallback">
+		<!--HALF GRID STORIES-->
+		<div class="halfGrid">
+			<div class="halfGridItem"> 
+				<a class="halfGridMain" data-holder="0_Link">
+					<img class="storyImage" data-holder="0_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="0_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+			</div>	
+			<div class="halfGridItem"> 
+				<a class="halfGridMain" data-holder="1_Link">
+					<img class="storyImage" data-holder="1_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="1_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>
+			</div>	
+		</div>		
+
+		<!--HALF GRID STORIES-->
+		<div class="halfGrid">
+			<div class="halfGridItem"> 
+				<a class="halfGridMain" data-holder="2_Link">
+					<img class="storyImage" data-holder="2_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="2_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+			</div>	
+			<div class="halfGridItem"> 
+				<a class="halfGridMain" data-holder="3_Link">
+					<img class="storyImage" data-holder="3_MediaList_0_ImgLink" />
+					<div class='gcmPlaceholderImg'></div>
+					<div class="title" data-holder="3_Title"></div>
+					<div class="bottomGradient"></div>
+				</a>	
+			</div>	
+		</div>	
+
+		<div class="textLinkItem">
+			<a class="halfGridLink" data-holder="4_Link">
+				<img class="tlImg" data-holder="4_MediaList_0_ImgLink" />
+				<div class="title" data-holder="4_Title"></div>
+			</a>
+			<a class="halfGridLink" data-holder="5_Link">
+				<img class="tlImg" data-holder="5_MediaList_0_ImgLink" />
+				<div class="title" data-holder="5_Title"></div>
+			</a>	
+			<a class="halfGridLink" data-holder="6_Link">
+				<img class="tlImg" data-holder="6_MediaList_0_ImgLink" />
+				<div class="title" data-holder="6_Title"></div>
+			</a>
+			<a class="halfGridLink" data-holder="7_Link">
+				<img class="tlImg" data-holder="7_MediaList_0_ImgLink" />
+				<div class="title" data-holder="7_Title"></div>
+			</a>
+		</div>
+
+		<div class="textLinkItem">
+			<a class="halfGridLink" data-holder="8_Link">
+				<img class="tlImg" data-holder="8_MediaList_0_ImgLink" />
+				<div class="title" data-holder="8_Title"></div>
+			</a>
+			<a class="halfGridLink" data-holder="9_Link">
+				<img class="tlImg" data-holder="9_MediaList_0_ImgLink" />
+				<div class="title" data-holder="9_Title"></div>
+			</a>
+			<a class="halfGridLink" data-holder="10_Link">
+				<img class="tlImg" data-holder="10_MediaList_0_ImgLink" />
+				<div class="title" data-holder="10_Title"></div>
+			</a>
+			<a class="halfGridLink" data-holder="11_Link">
+				<img class="tlImg" data-holder="11_MediaList_0_ImgLink" />
+				<div class="title" data-holder="11_Title"></div>
+			</a>
+		</div>
+
+		<!--RECENT VIDEOS-
+		<div class="videosCtr">
+			<div class="video_panel_widget">
+				<input type="hidden" name="videoId" value="">
+				<input type="hidden" name="videoWrapper" value="">
+				<input type="hidden" name="hideHeader" value="true">
+				<input type="hidden" name="renameHeader" value="">
+				<input type="hidden" name="type" value="Recent">
+				<input type="hidden" name="moreVideos" value="true">
+			</div>
+		</div>
+		-->
+	</div>
+</div>
+
+<script type="text/javascript">
+$(document).one("widgetsloaded", function() {
+	setVideoTitle();
+	videoControl();
+	setTextLinkItem();
+
+	$(window).resize(function() {
+		setVideoTitle();
+		setTextLinkItem();
+	});
+
+	loadAltLogo();
+
+});
+
+function loadAltLogo() {
+	var altLogo = "<img class='altLogo' src='https://d7fboktxwazqa.cloudfront.net/MTS_Beta_GoldCountry/0/0/0/0/0/35/35_original'>";
+	$(altLogo).prependTo(".logoCtr");
+}
+
+function setVideoTitle() {
+	var video = $(".videoMain, .videoThird, .videoSide");	
+	video.each(function() {
+		var videoIcon = $(this).find(".fa-play-circle").width();
+		var videoTitleCtr = $(this).find(".videoTitleCtr").width();
+		var titleWidth = videoTitleCtr - (videoIcon + 20);
+
+		$(this).find(".videoTitle").outerWidth(titleWidth);
+	});	
+}
+
+function videoControl() {
+	var video = $("video");
+	var vt = $(".videoMain, .videoThird");
+	vt.on("click", function() {
+		var source = $(this).find(".hiddenSrc").html();
+		video.find("source").attr("src", source);
+		$("video")[0].load();
+		video.show();
+	});
+}
+
+function setCatColor() {
+	var category = $(".nineGridThird .category, .gcmHeader");
+	category.each(function() {
+		var text = $(this).html();
+		if(text == "News") {
+			$(this).css({"background": "#97361c" });
+		} else if (text == "Sports") {
+			$(this).css({"background": "#1c973c" });			
+		} else if (text == "Opinion") {
+			$(this).css({"background": "#3c1c97" });			
+		} else if (text == "Lifestyle") {
+			$(this).css({"background": "#1c4797" });			
+		} else if (text == "Local News") {
+			$(this).css({"background": "#971c1c" });		
+		} else if (text == "Obituaries") {
+			$(this).css({"background": "#B47B4A" });			
+		} else if (text == "Classifieds") {
+			$(this).css({"background": "#4AB45E" });	
+		} else {
+			$(this).removeAttr("style");			
+		}
+	});
+}
+
+function setTextLinkItem() {
+	var tli = $(".textLinkItem").width();
+	var tliWidth = 126;
+	var category = $(".textLinkItem .halfGridLink .category");
+	var title = $(".textLinkItem .halfGridLink .title");
+	var width = tli - tliWidth;
+
+	category.width(width);
+	title.width(width);
+}
+
+function storyCallback() {
+	setTextLinkItem();
+	setCatColor();
+}
+</script>
+
+
+
+
+</div><div class='custom_break_widget'><style>
+.item_list_vertical_widget, .adContent {clear:both;}
+</style>
+
+<!--FLYERBOARD AD CONTENT-->
+		<div class="adContent">
+			<div class="gcmHeader">
+				Todays Featured Merchants
+			</div>
+			<div class="item_list_vertical_widget">
+				<input type="hidden" name="id" value="2">
+				<input type="hidden" name="category" value="">
+				<input type="hidden" name="subcategory" value="">
+				<input type="hidden" name="itemCount" value="5">
+				<input type="hidden" name="hideHeader" value="true">
+				<input type="hidden" name="renameHeader" value="">
+				<input type="hidden" name="page" value="">
+				<input type="hidden" name="paging" value="true">
+				<input type="hidden" name="itemListGrouping" value="Double">
+			</div>
+		</div></div></div><div id='mts_c_1' class='widget_column' style='display:inline-block;vertical-align:top;text-align:initial;'><input type='hidden' name='col_width' value='300.00' /><input type='hidden' name='col_margin_left' value='0.00' /><input type='hidden' name='col_margin_right' value='0.00' /><input type='hidden' name='col_width_med' value='300.00' /><input type='hidden' name='col_margin_left_med' value='0.00' /><input type='hidden' name='col_margin_right_med' value='0.00' /><input type='hidden' name='col_width_tablet' value='300.00' /><input type='hidden' name='col_margin_left_tablet' value='0.00' /><input type='hidden' name='col_margin_right_tablet' value='0.00' /><input type='hidden' name='col_pixel' value='True' /><div class='custom_break_widget'><div class="localAd">
+    <a class="centerCustomImage" href="https://heritage.secondstreetapp.com/Folsom-2024/" target="_blank">
+        <img src="https://d7fboktxwazqa.cloudfront.net/MTS_Beta_GoldCountry/0/0/0/0/274/331/274331_original" width=300>
+    </a>
+</div></div><div class='custom_break_widget'><div class="localAd">
+    <a class="centerCustomImage" href="https://heritage.secondstreetapp.com/El-Dorado-Hills-2024/" target="_blank">
+        <img src="https://d7fboktxwazqa.cloudfront.net/MTS_Beta_GoldCountry/0/0/0/0/274/332/274332_original" width=300>
+    </a>
+</div></div><div class='custom_break_widget'><div id='apex_300x250' class='dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[300,250]' data-slot='' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('apex_300x250');
+                        
+                });
+});
+            </script>
+</div>
+
+<style>
+.dfpAd {margin-bottom: 20px;}
+</style></div><div class='custom_break_widget'><style type="text/css">
+
+.nlSignup {
+    padding: 20px;
+    width: 100%;
+    float: left;
+    clear: both;
+    background: #efefef;
+    margin-bottom: 20px;
+    }
+
+.bigType {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 20px;
+    float: left;
+    }
+
+.smallType {
+    float: left;
+    clear: both;
+    width: 100%;
+    line-height: 20px;
+    }
+
+.smallTypeBtn {
+    float: left;
+    clear: both;
+    width: 100%;
+    line-height: 30px;
+    font-size: .9em;
+    color: #ffffff;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    background-color: #000 !important;
+    }
+</style>
+
+<div class="nlSignup rounded">
+<span class="bigType">Sign up for our Newsletters!</span> 
+<span class="smallType">Today's news in your inbox</span>
+<a href="/live-content/newsletter-sign-up" class="smallTypeBtn mts_cc_button">Sign up Now!</a>
+</div></div><div class='custom_break_widget'><style type="text/css">
+
+a.catHead {
+   clear: both;
+   padding: 10px;
+   width: 100%;
+   font-weight: 800;
+   display: inline-block;
+   font-size: 1.25em !important;
+   float: left;
+   background: #ffcc04;
+   color: #ffffff !important;;
+} 
+
+.trending_media_widget .trendingListCont {
+   padding: 10px;
+}
+
+a.mts_cc_text.trendingLink {
+   color: #000000 !important;
+}
+
+.trending_media_widget .trendingRow {
+   font-size: .9em;
+   background: #efefef;
+   padding: 10px;
+   line-height: unset;
+   border-bottom: solid 1px #bbbbbb;
+   font-weight: 800;
+}
+
+.trending_media_widget .trendingRow:last-of-type {
+   border-bottom: none;
+}
+
+@media all and (min-width: 768px) {
+   .catHead {
+      padding: 0px;
+   }
+
+   .trending_media_widget .trendingListCont {
+      padding: 0px;
+   }
+}
+</style>
+
+<a class="catHead mts_cc_text group" href="/news-category/news/1/">TOP STORIES</a></div><div class='custom_break_widget'><div class="trending_media_widget">
+	<input type="hidden" name="types" value="NewsItem">
+	<input type="hidden" name="phrase" value="">
+	<input type="hidden" name="searchType" value="Trending">
+	<input type="hidden" name="itemStart" value="">
+	<input type="hidden" name="itemCount" value="8">
+	<input type="hidden" name="excludeTypes" value="">
+	<input type="hidden" name="excludeId" value="">
+	<input type="hidden" name="excludeType" value="">
+	<input type="hidden" name="displayType" value="">
+	<input type="hidden" name="hideHeader" value="true">
+	<input type="hidden" name="renameHeader" value="TOP STORIES">
+	<input type="hidden" name="searchStatus" value="">
+	<input type="hidden" name="taggedTypes" value="">
+	<input type="hidden" name="varyByColor" value="">
+	<input type="hidden" name="secondaryData" value="">
+	<input type="hidden" name="secondaryDataColor" value="">
+</div></div><div class='custom_break_widget'><!-- E-Edition Widget Code -->
+<a id="ee3" class="eEditionCtrStandalone group" href="" target="_blank">
+      <div class="eEditionDateStandalone mts_cc_heading"></div>
+      <img class="eEditionImgStandalone" src="" />
+</a>
+
+<script type="text/javascript">
+
+var params = [];
+
+params.push({ name: "freeid", value: "da4440b0-aa84-4d04-9ac9-9d40077bba70"});
+params.push({ name: "fmt", value: "json" });
+
+$.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+        $("#ee3").attr("href", json.mynews_url);
+        $("#ee3 .eEditionDateStandalone").html("The Folsom Telegraph <span>" + json.latest_rundate + "</span>");
+        $("#ee3 .eEditionImgStandalone").attr("src", json.img_url);
+});
+</script>
+
+<style type="text/css">
+.eEditionCtrStandalone {
+float: left;
+clear: both;
+width: 100%;
+position: relative;
+overflow: hidden;
+border-top: solid 1px #bbbbbb;
+height: 210px;
+color: unset;
+background: #dddddd;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.eEditionImgStandalone {
+   width: 200px !important;
+   height: auto !important;
+   margin-top: 20px;
+}
+
+.eEditionDateStandalone {
+   line-height: 30px;
+   font-size: .8em;
+   width: 100%;
+   padding: 0px 10px;
+   font-weight: unset;
+   text-align: left;
+}
+
+.eEditionDateStandalone span {
+   float: right;
+}
+</style></div><div class='custom_break_widget'><!-- E-Edition Widget Code -->
+<a id="ee17" class="eEditionCtrStandalone group" href="" target="_blank">
+      <div class="eEditionDateStandalone mts_cc_heading"></div>
+      <img class="eEditionImgStandalone" src="" />
+</a>
+
+<script type="text/javascript">
+
+var params = [];
+
+params.push({ name: "freeid", value: "bc5c6c14-c8c8-4236-97f3-b1cc42a354ab"});
+params.push({ name: "fmt", value: "json" });
+
+$.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+        $("#ee17").attr("href", json.mynews_url);
+        $("#ee17 .eEditionDateStandalone").html("Best of the Best - Folsom<span>" + json.latest_rundate + "</span>");
+        $("#ee17 .eEditionImgStandalone").attr("src", json.img_url);
+});
+</script>
+
+<style type="text/css">
+.eEditionCtrStandalone {
+float: left;
+clear: both;
+width: 100%;
+position: relative;
+overflow: hidden;
+height: 210px;
+color: unset;
+background: #dddddd;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.eEditionImgStandalone {
+   width: 200px !important;
+   height: auto !important;
+   margin-top: 20px;
+}
+
+.eEditionDateStandalone {
+   line-height: 30px;
+   font-size: .8em;
+   width: 100%;
+   padding: 0px 10px;
+   font-weight: unset;
+   text-align: left;
+}
+
+.eEditionDateStandalone span {
+   float: right;
+}
+</style></div><div class='custom_break_widget'><!-- E-Edition Widget Code -->
+<a id="ee26" class="eEditionCtrStandalone group" href="" target="_blank">
+      <div class="eEditionDateStandalone mts_cc_heading"></div>
+      <img class="eEditionImgStandalone" src="" />
+</a>
+
+<script type="text/javascript">
+
+var params = [];
+
+params.push({ name: "freeid", value: "0ab4bd26-c2d4-4453-af05-8e686451b04d"});
+params.push({ name: "fmt", value: "json" });
+
+$.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+        $("#ee26").attr("href", json.mynews_url);
+        $("#ee26 .eEditionDateStandalone").html("Best of the Best - El Dorado<span>" + json.latest_rundate + "</span>");
+        $("#ee26 .eEditionImgStandalone").attr("src", json.img_url);
+});
+</script>
+
+<style type="text/css">
+.eEditionCtrStandalone {
+float: left;
+clear: both;
+width: 100%;
+position: relative;
+overflow: hidden;
+height: 210px;
+color: unset;
+background: #dddddd;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.eEditionImgStandalone {
+   width: 200px !important;
+   height: auto !important;
+   margin-top: 20px;
+}
+
+.eEditionDateStandalone {
+   line-height: 30px;
+   font-size: .8em;
+   width: 100%;
+   padding: 0px 10px;
+   font-weight: unset;
+   text-align: left;
+}
+
+.eEditionDateStandalone span {
+   float: right;
+}
+</style></div><div class='custom_break_widget'><div id='main_impact' class='dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[300,250]' data-slot='' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('main_impact');
+                        
+                });
+});
+            </script>
+</div>
+</div><div class='custom_break_widget'><style>
+/* MOBILE */
+.bottomGradient {
+	background: rgba(255,255,255,0);
+	background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, rgba(0,0,0,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000', GradientType=0 );
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 50%;
+	z-index: 1;
+}
+
+.mostPopularMain {
+	position: relative;
+	clear: both;
+	width: 100%;
+	float: left;	
+}
+
+.mostPopularMain {
+	margin-bottom: 20px;
+}
+
+.mostPopularMain .storyImage, 
+.videosCtrSide .videoImg {
+	float: left;
+	position: relative;
+	width: 100%;	
+}
+
+.videoTitleCtr {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	color: #ffffff;
+	z-index: 2;
+	font-weight: 800;
+	font-size: 1em;
+	line-height: 20px;
+	width: 100%;
+	padding: 20px;
+}
+
+.fa-play-circle {
+	font-size: 24px;
+	float: left;
+}
+
+.videoTitleCtr .videoTitle {
+	float: left;
+	padding-left: 10px;
+	color: #ffffff;
+	background: unset;
+}
+
+.videosCtrSide {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+}
+
+.videoSide {
+	float: left;
+	clear: both;
+	position: relative;
+	width: 100%;
+}
+
+.videosCtrSide {
+	margin-bottom: 20px;
+}
+
+.mostRecentCtr, .mostPopularCtr {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+	background: #ffffff;
+	margin-bottom: 0px;
+}
+
+.mpTitle {
+	float: left;
+	clear: both;
+	width: 100%;
+	position: relative;
+	color: #000000;
+	padding: 0px;
+}
+
+.mpInfo {
+	padding: 20px;
+	float: left;
+	clear: both;
+	width: 100%;
+	background: #efefef;
+	font-size: .9em;
+}
+
+.mpTitle {
+	line-height: 20px;
+	font-weight: 800;
+}
+
+.mpCategory {
+	color: #666666;
+	line-height: 20px;
+}
+
+.videoSide {
+	margin-bottom: 20px;
+}
+</style>
+
+<!--RECENT STORIES-->
+<div class="mostPopularCtr" data-mtsRest="/api/v1/publisher/stories/top/?portal_id=97&top=5">
+	<a class="mostPopularMain" data-holder="0_Link">
+		<img class="storyImage" data-holder="0_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="0_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="0_Title"></div>
+		</div>
+	</a>
+
+	<a class="mostPopularMain" data-holder="1_Link">
+		<img class="storyImage" data-holder="1_MediaList_0_ImgLink" />	
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="1_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="1_Title"></div>
+		</div>
+	</a>
+
+	<a class="mostPopularMain" data-holder="2_Link">
+		<img class="storyImage" data-holder="2_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="2_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="2_Title"></div>
+		</div>
+	</a>	
+	
+	<a class="mostPopularMain" data-holder="3_Link">
+		<img class="storyImage" data-holder="3_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="3_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="3_Title"></div>
+		</div>
+	</a>	
+	
+	<a class="mostPopularMain" data-holder="4_Link">
+		<img class="storyImage" data-holder="4_MediaList_0_ImgLink" />				
+		<div class="mpInfo">			
+			<div class="mpCategory" data-holder="4_TagList_0_getTitle"></div>
+			<div class="mpTitle" data-holder="4_Title"></div>
+		</div>
+	</a>
+</div>
+<div id='lower_impact_300x250' class='dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[300,250]' data-slot='' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('lower_impact_300x250');
+                        
+                });
+});
+            </script>
+</div>
+
+
+<!--RECENT VIDEOS-->
+<div class="videosCtrSide" data-mtsRest="/api/v1/portal/videos/recent/?portal_id=97" data-mtsCallback="setVideoTitle">
+	<a class="videoSide" data-holder="0_Link" target="_blank">
+		<img class="videoImg" data-holder="0_Thumbnail" />
+		<div class="videoTitleCtr">
+			<div class="far fa-play-circle"></div>
+			<div class="videoTitle" data-holder="0_Name"></div>					
+		</div>
+		<div class="bottomGradient"></div>							
+	</a>
+	<a class="videoSide" data-holder="1_Link" target="_blank">
+		<img class="videoImg" data-holder="1_Thumbnail" />
+		<div class="videoTitleCtr">
+			<div class="far fa-play-circle"></div>
+			<div class="videoTitle" data-holder="1_Name"></div>					
+		</div>
+		<div class="bottomGradient"></div>							
+	</a>
+	<a class="videoSide" data-holder="2_Link" target="_blank">
+		<img class="videoImg" data-holder="2_Thumbnail" />
+		<div class="videoTitleCtr">
+			<div class="far fa-play-circle"></div>
+			<div class="videoTitle" data-holder="2_Name"></div>					
+		</div>
+		<div class="bottomGradient"></div>							
+	</a>
+</div>
+
+<script>
+function setVideoTitle(ret) {
+	var video = $(".videoSide").width();	
+	var videoIcon = $(".fa-play-circle").width();
+	var title = $(".videoTitle");
+	var product = video - (videoIcon + 40);
+
+	title.css({"width": product + "px" });
+
+if (ret != null)
+{
+var videos = $(".videoSide");
+for (var i = videos .length -1; i >= 0; i--)
+{
+if (videos.length > i)
+videos[i].href = "/" + ret[i].Link;
+}
+}
+}
+</script></div><div class='custom_break_widget'><style type="text/css">
+
+* {
+  box-sizing: border-box;
+}
+
+.twWrap {
+  padding: 0px;
+  float: left;
+  clear: both;
+  width: 100%;
+  position: relative;
+  background: #ffffff;
+}
+
+.dropTab {
+  float: left;
+  clear: both;
+  width: 100%;
+  position: relative;
+}
+
+.twMenuDrop {
+   padding: 0px;
+   float: left;
+   clear: both;
+   width: 100%;
+   line-height: 30px;
+   position: relative;
+   margin-bottom: 10px;
+   border-bottom: solid 1px #333333;
+}
+
+.tabDropArrow {
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  width: 14px;
+}
+
+.tabs {
+  width: 100%;
+  position: absolute;
+  top: 100%;
+  left: 0px;
+  height: 0px;
+  transition: height 250ms;
+  -webkit-transition: height 250ms;
+  -moz-transition: height 250ms;
+  z-index: 1;
+  overflow: hidden;
+  background: #eeeeee;
+  border-radius: 5px;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tabLink {
+  float: left;
+  clear: both;
+  width: 100%;
+  padding: 0px 10px;
+  line-height: 30px;
+  border-bottom: solid 1px #bbbbbb;
+  font-size: .9em;
+  color: #000000;
+}
+
+.tabLink:last-of-type {
+  border-bottom: none;
+}
+
+/* Change background color of buttons on hover */
+.tabLink:hover {
+  cursor: pointer;
+}
+
+
+/* Style the tab content */
+.tabContent {
+  display: none;
+  border-top: none;
+  clear: both;
+  width: 100%;
+  height: 530px;
+  overflow-y: auto;
+  margin-bottom: 20px;
+}
+</style>
+
+<div class="twWrap">
+  <div class="dropTab">
+     <div class="twMenuDrop">
+        <div class="dropTabLabel">Select A Twitter Feed</div>
+        <img class="tabDropArrow" src="https://media.myteamscoop.com/images/olArrow.png" />
+     </div>
+
+     <div class="tabs">
+        <div id="tabLink_0" class="tabLink">@AuburnJournal</div>
+        <div id="tabLink_1" class="tabLink">@RosevillePT</div>
+        <div id="tabLink_2" class="tabLink">@LincolnNM</div>
+        <!--<div id="tabLink_3" class="tabLink">@ColfaxRecord</div>-->
+        <div id="tabLink_4" class="tabLink">@LoomisNews</div>
+        <div id="tabLink_5" class="tabLink">@ThePlacerHerald</div>
+        <div id="tabLink_6" class="tabLink">@FolsomTelegraph</div>
+     </div>
+  </div>
+
+  <div id="tabLink_0_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/auburnjournal"></a></div>
+  <div id="tabLink_1_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/RosevillePT"></a></div>
+  <div id="tabLink_2_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/lincolnnm"></a></div>
+  <!--<div id="tabLink_3_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/colfaxrecord"></a></div>-->
+  <div id="tabLink_4_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/TheLoomisNews"></a></div>
+  <div id="tabLink_5_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/theplacerherald"></a></div>
+  <div id="tabLink_6_Content" class="tabContent"><a class="twitter-timeline" href="https://twitter.com/FolsomTelegraph"></a></div>
+</div>
+
+<script type="text/javascript">// <![CDATA[
+$(document).one("widgetsloaded", function() {
+  var tab = $(".tabLink");
+  var con = $(".tabContent");
+
+  if(window.location.href.indexOf("auburn-journal") > 0) {
+    $(".twitterHeader").attr("href", "https://twitter.com/auburnjournal");
+    $(".tabContent").hide();
+    $("#tabLink_0_Content").show();
+  } else if (window.location.href.indexOf("the-press-tribune") > 0) {
+    $(".twitterHeader").attr("href", "https://twitter.com/RosevillePT");
+    $(".tabContent").hide();
+    $("#tabLink_1_Content").show();
+  } else if (window.location.href.indexOf("lincoln-news-messenger") > 0) {
+    $(".twitterHeader").attr("href", "https://twitter.com/lincolnnm");
+    $(".tabContent").hide();
+    $("#tabLink_2_Content").show();
+  } else if (window.location.href.indexOf("the-loomis-news") > 0) {
+    $(".twitterHeader").attr("href", "https://twitter.com/TheLoomisNews");
+    $(".tabContent").hide();
+    $("#tabLink_4_Content").show();
+  } else if (window.location.href.indexOf("placer-herald") > 0) {
+    $(".twitterHeader").attr("href", "https://twitter.com/theplacerherald");
+    $(".tabContent").hide();
+    $("#tabLink_5_Content").show();
+  } else if (window.location.href.indexOf("the-folsom-telegraph") > 0) {
+    $(".twitterHeader").attr("href", "https://twitter.com/FolsomTelegraph");
+    $(".tabContent").hide();
+    $("#tabLink_6_Content").show();
+  } else {
+    $(".twitterHeader").attr("href", "https://twitter.com/auburnjournal");
+    $(".tabContent").hide();
+    $("#tabLink_0_Content").show();  
+  }
+
+  var maxHeight = -1;
+
+  tab.each(function() {
+    maxHeight = maxHeight > $(this).outerHeight() ? maxHeight : $(this).outerHeight();
+  });
+
+  var dropHeight = maxHeight * tab.length;
+
+  $(".dropTab").on("click", function() {
+    var tabs = $(".tabs");
+    tabs.toggleClass("showTabs");
+    tabs.hasClass("showTabs") ? tabs.height(dropHeight) : tabs.removeAttr("style");
+  });
+
+  tab.on("click", function() {
+    var id = $(this).attr("id");
+    con.hide();
+    $("#" + id + "_Content").show();
+    var anchor = $(this).html().split("@")[1];
+    $(".twitterHeader").attr("href", "https://twitter.com/" + anchor);
+  });
+
+  var color = $(".mts_cc_button").css("color");
+  var background = $(".mts_cc_button").css("background-color");
+
+  tab.hover(function() {
+     $(this).css({"background": background });
+     $(this).css({"color": color });
+  },
+  function() {
+     $(this).removeAttr("style");
+  });
+});
+// ]]></script>
+
+
+
+
+
+
+
+</div></div></div></div>
+
+   </div>
+
+
+   
+      <div class="fullAdView">
+      </div>
+      <div class="fullPageAd">
+         
+   
+         <div class="adOptions">
+            <div class="adCounter">
+               <div class="loadingAd">Loading...</div> <img class="mts_lazy" width="324" height="20" data-original="https://media.myteamscoop.com/images/ajax-loader.gif" alt="" />
+            </div>
+            <div id="skipAd" class="adBtn">
+               View Page in Progress
+            </div>
+         </div>
+      </div>
+   <div id='main_footer' class='centeredAd dfpAd' data-fronttarget='pos' data-backtarget='atf' data-sizes='[[728,90]]' >
+        <script type='text/javascript'>
+$(document).one("widgetsloaded", function()
+	{
+                googletag.cmd.push(function() {
+                        googletag.display('main_footer');
+                        
+                });
+});
+            </script>
+</div>
+
+<div class="eeditionBigdrop">
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee36" class="eEditionCtr group eeditionHide" href="" target="_blank">
+      <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "c30f0828-a1a6-4367-bc3b-a2085d93c362"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee36").attr("href", json.mynews_url);
+    //$("#ee36 .eEditionDate").html("Auburn Journal<span>" + json.latest_rundate + "</span>");
+    $("#ee36 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee38" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "da4440b0-aa84-4d04-9ac9-9d40077bba70"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee38").attr("href", json.mynews_url);
+    //$("#ee38 .eEditionDate").html("The Folsom Telegraph <span>" + json.latest_rundate + "</span>");
+    $("#ee38 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee37" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "f5650243-b412-4c7e-a68f-8edcab7f7e4b"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee37").attr("href", json.mynews_url);
+    //$("#ee37 .eEditionDate").html("Lincoln News Messenger <span>" + json.latest_rundate + "</span>");
+    $("#ee37 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee39" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "31436f06-eefe-4489-8a1c-7dc1689d0fa5"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee39").attr("href", json.mynews_url);
+    //$("#ee39 .eEditionDate").html("The LPress-Tribune<span>" + json.latest_rundate + "</span>");
+    $("#ee39 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee40" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "fc833217-d9a7-4734-a093-49444417675f"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee40").attr("href", json.mynews_url);
+    //$("#ee40 .eEditionDate").html("The Placer-Herald<span>" + json.latest_rundate + "</span>");
+    $("#ee40 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+
+  <!-- E-Edition Widget Code --------------------------------------------------------------------------------------------->
+  <a id="ee41" class="eEditionCtr group eeditionHide" href="" target="_blank">
+    <!--<div class="eEditionDate mts_cc_heading"></div>-->
+    <img class="eEditionImg" src="" />
+  </a>
+
+  <script type="text/javascript">
+
+  var params = [];
+
+  params.push({ name: "freeid", value: "7bcf2e13-c0a9-41eb-a1ad-d00496698c56"});
+  params.push({ name: "fmt", value: "json" });
+
+  $.getJSON("https://mynewsonthego.com/GoldCountry/free/getpubfront.aspx", params, function(json) {
+    $("#ee41").attr("href", json.mynews_url);
+    //$("#ee41 .eEditionDate").html("The Loomis News<span>" + json.latest_rundate + "</span>");
+    $("#ee41 .eEditionImg").attr("src", json.img_url);
+  });
+  </script>
+  <!---------------------------------------------------------------------------------------------------------------------->
+</div>
+   
+   
+   
+   <h1 class="heading">
+   The Folsom Telegraph
+</h1>
+
+
+
+   <div id='mts_r_0' class='widget_region' style='text-align:center'><input type='hidden' name='reg_width' value='100.00' /><input type='hidden' name='reg_margin_left' value='0.00' /><input type='hidden' name='reg_margin_right' value='0.00' /><input type='hidden' name='reg_width_med' value='100.00' /><input type='hidden' name='reg_margin_left_med' value='0.00' /><input type='hidden' name='reg_margin_right_med' value='0.00' /><input type='hidden' name='reg_width_tablet' value='100.00' /><input type='hidden' name='reg_margin_left_tablet' value='0.00' /><input type='hidden' name='reg_margin_right_tablet' value='0.00' /><input type='hidden' name='reg_pixel' value='False' /><input type='hidden' name='reg_innerSec' value='False' /><div id='mts_c_0_3' class='widget_column' style='text-align: initial;'><input type='hidden' name='col_width' value='100.00' /><input type='hidden' name='col_margin_left' value='0.00' /><input type='hidden' name='col_margin_right' value='0.00' /><input type='hidden' name='col_width_med' value='100.00' /><input type='hidden' name='col_margin_left_med' value='0.00' /><input type='hidden' name='col_margin_right_med' value='0.00' /><input type='hidden' name='col_width_tablet' value='100.00' /><input type='hidden' name='col_margin_left_tablet' value='0.00' /><input type='hidden' name='col_margin_right_tablet' value='0.00' /><input type='hidden' name='col_pixel' value='False' /><div class='custom_break_widget'><style>
+/*FOOTER*/
+.custom_footer_widget {
+   display: block;
+}
+
+.footer {
+   position: relative;
+   clear: both;
+   width: 100%;
+   padding: 20px;
+   background: #333333;
+}
+
+.footerInner {
+   position: relative;
+   clear: both;
+   width: 100%;
+}
+
+.fLogoCtr {
+   width: 100%;
+   position: relative;
+   float: left;
+   border-bottom: solid 1px #ffffff;
+   padding-bottom: 20px;
+}
+
+.fLogo {
+   float: left;
+   width: 100%;
+   max-width: 400px;
+}
+
+.footerBlock {
+   float: left;
+   clear: both;
+   width: 100%;
+   text-transform: uppercase;
+   font-size: .8em;
+   padding-top: 20px;
+}
+
+.footerLbl {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 800;
+   color: #ffcc04;
+}
+
+.footerLink {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 400;
+   color: #ffffff;
+   margin-top: 10px;
+   font-size: .9em;
+}
+
+.copyright {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 400;
+   color: #ffffff;
+   margin-top: 20px;
+   font-size: .9em;
+   padding: 20px 0px 0px 0px;
+   border-top: solid 1px #ffffff;
+   text-transform: uppercase;
+   line-height: unset;
+}
+
+.copyright a {
+   float: left;
+   clear: both;
+   width: 100%;
+   font-weight: 400;
+   color: #ffffff;
+   font-size: .9em;   
+}
+
+.fa-copyright {
+   color: #ffffff;
+   padding: 0px;
+   line-height: unset;
+   display: inline-block;
+   vertical-align: baseline;
+   float: none;
+}
+
+.nlBlock {
+   width: 100%;
+   float: left;
+   clear: both;
+   position: relative;
+   padding: 0px;
+   text-align: center;
+}
+
+.nlText {
+   font-weight: 800;
+   width: 100%;
+   text-transform: uppercase;
+   font-size: 2em;
+   color: #ffffff;
+   line-height: 25px;
+   margin-bottom: 20px;
+   text-align: center;
+}
+
+.nlImg {
+   max-width: 100%;
+   margin: auto;
+   display: block;
+}
+
+.nlBtnCtr {
+   clear: both;
+   position: relative;
+   width: 100%;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   display: inline-block;
+}
+
+.nlBtn {
+   border-radius: 5px;
+   padding: 0px 20px;
+   line-height: 40px;
+   display: inline-block;
+   cursor: pointer;
+   background: #222222;
+   color: #ffcc04;
+   transition: opacity 250ms;
+   -webkit-transition: opacity 250ms;
+   -moz-transition: opacity 250ms;
+   text-align: center;
+   font-size: 1.25em;
+   width: 70%;
+   margin: auto;
+}
+
+.nlBtn:hover {
+   opacity: .8;
+}
+
+@media all and (min-width: 768px) {
+   .search_widget .searchResults {min-height: 500px;}
+
+   .footer {
+      padding: 20px 20px 0px 20px;
+   }
+
+   .footerBlock {
+      clear: none;
+      width: 33.333%;
+      padding: 20px 0px;
+   }
+
+   .nlBlock {
+      padding: 0px;
+   }
+
+   .fas.fa-copyright {
+      padding: 0px;
+   }
+}
+
+@media all and (min-width: 1024px) {
+   .footer {
+      padding: 20px 0px;
+   }
+
+   .footerInner {
+      width: 960px;
+      margin: auto;
+      float: none;
+      display: block;
+   }
+
+   .footerBlock {
+      font-size: .9em;      
+   }
+
+   .nlBlock {
+      padding: 0px;
+   }
+
+   .nlBtn {
+      max-width: 300px;
+   }
+
+   .nlFooterItem {
+      width: 250px;
+      float: right;
+   }
+}
+
+@media all and (min-width: 1366px) {
+   .footer {
+      padding: 20px 0px;
+   }
+
+   .footerInner {
+      width: 1170px;
+      margin: auto;
+      float: none;
+      display: block;
+   }
+
+   .nlBlock {
+      padding: 0px;
+   }
+
+   .nlBtn {
+      max-width: 300px;
+   }
+}
+</style>
+
+<div class="footer group">
+   <div class="footerInner">
+      <a href="/" class="fLogoCtr">
+         <img class="fLogo" src="https://d7fboktxwazqa.cloudfront.net/MTS_Beta_GoldCountry/0/0/0/0/0/25/25_original" />
+      </a>
+      <div class="footerBlock">
+         <div class="footerLbl">
+            quick links
+         </div>
+         <a class="footerLink" href="/live-content/form-letter-to-the-editor">submit letter to the editor</a>
+         <a class="footerLink" href="/live-content/form-submit-story-idea">submit story idea</a>
+         <a class="footerLink" href="/live-content/form-birth-announcement">submit birth announcement</a>
+         <a class="footerLink" href="/live-content/form-wedding-announcement">submit wedding announcement</a>
+         <a class="footerLink" href="/live-content/form-anniversary-announcement">submit anniversary announcement</a>
+         <a class="footerLink" href="/live-content/form-submit-an-obituary">submit obituary</a>
+         <a class="footerLink" href="/live-content/form-subscriber-or-delivery-issues">subscriber and delivery issues</a>
+         <a class="footerLink" href="/live-content/contact">contact us</a>
+         <a class="footerLink" href="/live-content/privacy policy">privacy policy</a>
+      </div>
+      <div class="footerBlock">
+         <div class="footerLbl">
+            our publications
+         </div>
+         <a class="footerLink" href="/live-content/auburn journal">auburn journal</a>
+         <a class="footerLink" href="/live-content/the loomis news">the loomis news</a>
+         <a class="footerLink" href="/live-content/placer herald">placer herald - rocklin</a>
+         <a class="footerLink" href="/live-content/lincoln news messenger">lincoln news messenger</a>
+         <a class="footerLink" href="/live-content/the press tribune">press tribune - roseville &amp; granite bay</a>
+         <a class="footerLink" href="/live-content/the folsom telegraph">folsom telegraph</a>
+         <a class="footerLink" href="http://www.winecountrythisweek.com">wine country this week</a>
+         <a class="footerLink" href="/live-content/special sections">special sections</a>
+         <!--<a class="footerLink" href="live-content/real estate">real estate</a>-->
+      </div>
+      <div class="footerBlock nlFooterItem">
+         <div class="nlBlock">
+            <div class="nlText">Sign up for our newsletters!</div>
+            <img class="nlImg" src="https://media.myteamscoop.com/image/91609/2/0/2/0/97?cacheBuster=0.2190488538728157" />
+            <div class="nlBtnCtr">
+               <a class="nlBtn" href="/live-content/newsletter-sign-up" >Sign Up</a>
+            </div>
+         </div>
+      </div>
+      <div class="copyright">
+         <a href="https://goldcountrymedia.com"><div class="fas fa-copyright"></div> <span class="year"></span> copyright gold country media</a>
+      </div>
+   </div>   
+</div>
+
+<script>
+$(document).one("widgetsloaded", function() {
+   var footer = $(".footer");    
+   footer.parents(".widget_region").css({"clear": "both" });   
+   if(window.location.href.indexOf("/admin") > -1 || window.location.href.indexOf("/layout-admin") > -1) {
+      footer.parents(".widget_region").css({"display": "none" });
+   }
+
+   $(".footer").parents(".widget_region").siblings(".masterMcWrap").css({"min-height": "unset" });
+
+   var date = new Date().getFullYear();
+   $(".year").html(date);
+
+});
+</script></div></div></div>
+
+   <script type="text/javascript">
+      _MTS_cssList.push("css/plugins/chosen/chosen.min.css");
+      _MTS_jsList.push("js/ajax.js", "js/jQueryExtensions/jquery-ui.js", "js/jQueryExtensions/touch-punch.js", "js/jQueryExtensions/jquery.lazyload.js", "js/plugins/chosen/chosen.jquery.min.js", "js/common.js");
+      
+      _MTS_jsList.push("js/smartBanner.js");
+      
+         _MTS_cssList.push("css/portrait.css");
+      
+      _imageSizes = {"SiteWideMxW":1280,"SiteWideMxH":720,"SlideShowMxW":864,"SlideShowMxH":486,"ThumbnailMxW":600,"ThumbnailMxH":337,"TeamLogoMxW":250,"TeamLogoMxH":250};
+      var _MTS_adSlot = "";
+      _MTS_VERSION = "1.14.5.31977";
+
+      
+      
+	</script>
+
+
+   <script type="text/javascript" src="https://media.myteamscoop.com/js/widgets/main.js?v=1.14.5.31977&weburi=https://goldcountrymedia.com/&portalid=97&mediauri=https://media.myteamscoop.com/"></script>
+   
+</body>
+</html>
+

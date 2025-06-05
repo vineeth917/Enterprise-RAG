@@ -1,0 +1,807 @@
+<!doctype html>
+<html class="no-js" lang="it-IT" prefix="og: https://ogp.me/ns#" >
+	<head>
+		<meta name=“google-site-verification” content=“yV4qbIckLlopj9fgmNbkIYzGy0qxf_HBQb2M34bRCZY” />
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="https://fonts.googleapis.com/css2?family=Saira:wght@400;500;700&display=swap" rel="stylesheet">
+		<link rel="apple-touch-icon" sizes="57x57" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="https://garnet.it/wp-content/themes/garnet/dist/assets/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49236559-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-49236559-1');
+		  gtag('config', 'AW-962496347');
+		</script>
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-KLQRPX4');</script>
+		<!-- End Google Tag Manager -->
+		
+			<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" hreflang="it" href="https://garnet.it/" />
+<link rel="alternate" hreflang="en" href="https://garnet.it/en/" />
+<link rel="alternate" hreflang="x-default" href="https://garnet.it/" />
+
+<!-- Ottimizzazione per i motori di ricerca di Rank Math - https://rankmath.com/ -->
+<title>Garnet Automazione &amp; Robotica</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://garnet.it/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Garnet Automazione &amp; Robotica" />
+<meta property="og:url" content="https://garnet.it/" />
+<meta property="og:site_name" content="Garnet Automazione &amp; Robotica" />
+<meta property="og:updated_time" content="2024-01-15T22:39:50+01:00" />
+<meta property="og:image" content="https://garnet.it/wp-content/uploads/2020/09/logo-garnet-1.jpg" />
+<meta property="og:image:secure_url" content="https://garnet.it/wp-content/uploads/2020/09/logo-garnet-1.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="garnet" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Garnet Automazione &amp; Robotica" />
+<meta name="twitter:image" content="https://garnet.it/wp-content/uploads/2020/09/logo-garnet-1.jpg" />
+<meta name="twitter:label1" content="Scritto da" />
+<meta name="twitter:data1" content="bigfive" />
+<meta name="twitter:label2" content="Tempo di lettura" />
+<meta name="twitter:data2" content="Meno di un minuto" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://garnet.it/#place","geo":{"@type":"GeoCoordinates","latitude":"45.589464","longitude":"9.346629"},"hasMap":"https://www.google.com/maps/search/?api=1&amp;query=45.589464,9.346629","address":{"@type":"PostalAddress","streetAddress":"Via Alcide de Gasperi, 31","addressLocality":"Concorezzo","addressRegion":"MB","postalCode":"20863","addressCountry":"Italy"}},{"@type":"Organization","@id":"https://garnet.it/#organization","name":"Garnet","url":"https://garnet.it","address":{"@type":"PostalAddress","streetAddress":"Via Alcide de Gasperi, 31","addressLocality":"Concorezzo","addressRegion":"MB","postalCode":"20863","addressCountry":"Italy"},"logo":{"@type":"ImageObject","@id":"https://garnet.it/#logo","url":"https://garnet.it/wp-content/uploads/2020/09/logo-garnet.jpg","contentUrl":"https://garnet.it/wp-content/uploads/2020/09/logo-garnet.jpg","caption":"Garnet","inLanguage":"it-IT","width":"1920","height":"1080"},"contactPoint":[{"@type":"ContactPoint","telephone":"+39-0396886158","contactType":"customer support"}],"location":{"@id":"https://garnet.it/#place"}},{"@type":"WebSite","@id":"https://garnet.it/#website","url":"https://garnet.it","name":"Garnet","publisher":{"@id":"https://garnet.it/#organization"},"inLanguage":"it-IT","potentialAction":{"@type":"SearchAction","target":"https://garnet.it/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://garnet.it/wp-content/uploads/2020/09/logo-garnet-1.jpg","url":"https://garnet.it/wp-content/uploads/2020/09/logo-garnet-1.jpg","width":"1200","height":"630","inLanguage":"it-IT"},{"@type":"WebPage","@id":"https://garnet.it/#webpage","url":"https://garnet.it/","name":"Garnet Automazione &amp; Robotica","datePublished":"2020-06-24T20:08:11+02:00","dateModified":"2024-01-15T22:39:50+01:00","about":{"@id":"https://garnet.it/#organization"},"isPartOf":{"@id":"https://garnet.it/#website"},"primaryImageOfPage":{"@id":"https://garnet.it/wp-content/uploads/2020/09/logo-garnet-1.jpg"},"inLanguage":"it-IT"}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//cdn.iubenda.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://garnet.it/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #1779ba;--wp--preset--color--secondary: #767676;--wp--preset--color--success: #3adb76;--wp--preset--color--warning: #ffae00;--wp--preset--color--alert: #cc4b37;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpml-blocks-css' href='https://garnet.it/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://garnet.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css' href='https://garnet.it/wp-content/themes/garnet/dist/assets/css/app.css?ver=1.3.7' type='text/css' media='all' />
+
+<script  type="text/javascript" class=" _iub_cs_skip" type="text/javascript" id="iubenda-head-inline-scripts-0">
+/* <![CDATA[ */
+
+var _iub = _iub || [];
+_iub.csConfiguration = {"ccpaAcknowledgeOnDisplay":true,"ccpaApplies":true,"consentOnContinuedBrowsing":false,"enableCcpa":true,"floatingPreferencesButtonDisplay":"bottom-right","invalidateConsentWithoutLog":true,"perPurposeConsent":true,"siteId":2603634,"whitelabel":false,"cookiePolicyId":57481682,"lang":"it", "banner":{ "acceptButtonDisplay":true,"closeButtonRejects":true,"customizeButtonDisplay":true,"explicitWithdrawal":true,"fontSize":"12px","listPurposes":true,"position":"float-bottom-center","rejectButtonDisplay":true }};
+/* ]]> */
+</script>
+<script  type="text/javascript" class=" _iub_cs_skip" type="text/javascript" src="//cdn.iubenda.com/cs/ccpa/stub.js?ver=3.12.1" id="iubenda-head-scripts-0-js"></script>
+<script  type="text/javascript" charset="UTF-8" async="" class=" _iub_cs_skip" type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js?ver=3.12.1" id="iubenda-head-scripts-1-js"></script>
+<script type="text/javascript" src="https://garnet.it/wp-content/themes/garnet/dist/assets/js/jquery.min.js?ver=6.7.2" id="jquery-js"></script>
+<link rel="https://api.w.org/" href="https://garnet.it/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://garnet.it/wp-json/wp/v2/pages/12" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://garnet.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgarnet.it%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://garnet.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgarnet.it%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.6.15 stt:1,27;" />
+	</head>
+	<body class="home page-template page-template-page-templates page-template-front page-template-page-templatesfront-php page page-id-12 topbar">
+	
+		<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLQRPX4"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+	<header>
+		<div data-sticky-container>
+			<div class="sticky" data-sticky data-options="marginTop:0;" data-sticky-on="small">	
+				<div id="main-header">
+					<div class="row align-middle">
+						<div class="columns small-3 xlarge-2">
+							<a href="https://garnet.it/">
+								<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105.96 35.536">
+								  <g id="Raggruppa_1894" data-name="Raggruppa 1894" transform="translate(1286 12673.369)">
+								    <path id="Tracciato_2553" data-name="Tracciato 2553" d="M73.25,42.614a4.878,4.878,0,0,1-1.355.043c-.917-.065-.831-1.062-.831-1.062s.021-3.919-.015-8.448-3.425-6.054-6.105-6.054a24.333,24.333,0,0,0-6,.974c-1.512.315-1.705,2.014-1.992,2.845a1,1,0,0,0,.452,1.225s.415.209,1.354.58,1.369-.708,1.369-.708,1.225-3.2,3.34-3.175c2.988,0,2.558,4.314,2.558,4.314s-4.32,1.5-7.209,2.615a4.545,4.545,0,0,0-3.175,4.78c0,1.577,1.269,5.045,4.465,5.045s6-3.053,6-3.053.086,1,.229,2.093a.894.894,0,0,0,1.2.773l5.733-1.2-.021-1.584Zm-10.505-.165s-2.057.086-2.1-2.987,5.4-4.443,5.4-4.443.021.744.021,4.155A3.126,3.126,0,0,1,62.744,42.449Z" transform="translate(-1322.072 -12691.598)" fill="#910b26"/>
+								    <path id="Tracciato_2554" data-name="Tracciato 2554" d="M83.357,28.089s5.757.209,7.129-1.243c0,0,.432-.228.453.35s0,2.545,0,2.545l2.44-2.666a1.446,1.446,0,0,1,2.271.065,23.656,23.656,0,0,1,1.846,2.81s.353.457-.347,1.287a9.389,9.389,0,0,1-1.231,1.243.85.85,0,0,1-1.089-.107c-.63-.493-1.542-1.43-2.4-1.2A1.586,1.586,0,0,0,91.1,32.95v9.235c0,.479.368.686.8.686s1.557.02,1.557.02a.542.542,0,0,1,.389.58v1.18s-.014.478-.673.478h-9.1a.589.589,0,0,1-.636-.579v-.957a.563.563,0,0,1,.466-.536c.128,0,1.238.043,1.542.043s.615-.209.615-.83v-11.1a1.352,1.352,0,0,0-1.393-1.236c-1.295,0-1.111-.022-1.111-.022a.33.33,0,0,1-.368-.371V28.3S83.172,28.089,83.357,28.089Z" transform="translate(-1330.898 -12691.415)" fill="#910b26"/>
+								    <path id="Tracciato_2555" data-name="Tracciato 2555" d="M104.625,29.041s-.056-.636.7-.636,4.055.211,5.233-.771,1.708-.283,1.708.071v1.967a11.29,11.29,0,0,1,6.651-2.335c4.785,0,4.543,5.44,4.543,7.18v7.434a1.212,1.212,0,0,0,1.127,1.2h.985s.512.085.512.51v1.068s.033.5-.406.5H116.7a.559.559,0,0,1-.547-.631V43.5s.035-.474.474-.474h1.106a1.086,1.086,0,0,0,.866-.884c.02-.439,0-9.02,0-9.848a2.906,2.906,0,0,0-2.616-2.6,4.046,4.046,0,0,0-3.758,3.622V42.2c0,.729.411.907.886.907h1.069c.319,0,.582.105.555.444s0,.778,0,1.147a.5.5,0,0,1-.555.544h-9.264c-.334,0-.468-.383-.468-.75v-.862s.163-.523.63-.523H106.2a.77.77,0,0,0,.935-.807V31.256c0-.573-.786-.884-1.382-.884h-.837a.625.625,0,0,1-.362-.523A6.3,6.3,0,0,1,104.625,29.041Z" transform="translate(-1337.708 -12691.609)" fill="#910b26"/>
+								    <path id="Tracciato_2556" data-name="Tracciato 2556" d="M155.038,33.991c0-.9-.443-7.066-6.779-7.066s-9,4.435-9,8.864,2.271,9.71,8.658,9.71A10.49,10.49,0,0,0,151,45.018c.767-.423,3.849-2.322,3.849-2.322a1.008,1.008,0,0,0-.129-.76c-.237-.294-.529-.688-.529-.688a1.071,1.071,0,0,0-.79.13,6.236,6.236,0,0,1-3.639,1.319c-1.849,0-5.568-1.21-5.49-7.152h10.764V33.991Zm-5.693-.05-5.2-.029c0-4.4,2.135-5.117,3.455-5.117a3.107,3.107,0,0,1,2.773,3.217C150.377,33.883,149.345,33.94,149.345,33.94Z" transform="translate(-1348.859 -12691.544)" fill="#910b26"/>
+								    <path id="Tracciato_2557" data-name="Tracciato 2557" d="M166.532,26.18v-3a1.071,1.071,0,0,1,.611-1c.681-.372,2.816-1.612,2.816-1.612s1.433-.552,1.484.5,0,4.722,0,4.722-.1.451.659.451h4.034s.451-.1.451.451a2.156,2.156,0,0,1-2.27,1.684h-2.824V38.505a1.948,1.948,0,0,0,2.084,1.949c2.029-.107,2.4-.472,2.4-.472s.315-.158.5.394a6,6,0,0,1,.237.874s.078.243-.315.423-4.378,1.419-4.378,1.419a3.242,3.242,0,0,1-1.081.215c-.56,0-4.5-.236-4.5-4.034V28.265h-1.962a.54.54,0,0,1-.551-.552V26.6a.454.454,0,0,1,.445-.444C164.792,26.158,166.532,26.18,166.532,26.18Z" transform="translate(-1356.761 -12689.458)" fill="#910b26"/>
+								    <path id="Tracciato_2558" data-name="Tracciato 2558" d="M45.007,27.311a39.322,39.322,0,0,1-4.708.623c-1.391,0-2.7-.81-4.278-.81s-7.968.6-7.968,5.769a5.4,5.4,0,0,0,4.586,5.7s-3.777,2.243-3.777,3.469,1.949,2.178,1.949,2.178-3.963.918-3.963,2.558.832,6.972,8.843,6.972,9.272-5.309,9.272-6.828-1.383-5.188-7.323-5.834S34.315,39.2,34.315,39.2h1.662c1.269,0,7.388-.453,7.388-5.89,0,0-.229-2.466-1.225-3.4,0,0-.186-.187.229-.208s2.823.458,3.282-.373,1-2.322-.644-2.013ZM36.833,45.975c3.233.6,3.765,1.174,3.765,2.4,0,2.027-2.188,3.423-4.811,3.423-2.714,0-4.1-1.287-4.1-3.026a5.2,5.2,0,0,1,1.337-3.5l3.809.7Zm-1.042-8.123c-1.62,0-2.781-2-2.781-4.658.043-3.612,1.534-4.557,2.717-4.557,1.906-.08,2.865,1.862,2.865,4.521C38.514,37.106,37.41,37.852,35.791,37.852Z" transform="translate(-1312.848 -12691.607)" fill="#910b26"/>
+								    <path id="Tracciato_2559" data-name="Tracciato 2559" d="M115.643,28.863c4.724,6.155,6.246,12.7,3.264,16.817-3.743,5.162-13.33,4.782-22.922-.6a39.629,39.629,0,0,1-3.732-2.412c-.562-.407-1.1-.826-1.634-1.251h1.3c.666,0,.68-.48.68-.48V39.754a.544.544,0,0,0-.394-.58s-1.14-.021-1.577-.021-.809-.207-.809-.688V29.207a1.594,1.594,0,0,1,1.348-1.785c.867-.229,1.792.71,2.43,1.2a.868.868,0,0,0,1.1.107,9.494,9.494,0,0,0,1.246-1.246c.71-.831.351-1.29.351-1.29a23.719,23.719,0,0,0-1.87-2.817,1.475,1.475,0,0,0-2.3-.064l-2.472,2.673s.021-1.971,0-2.551-.459-.351-.459-.351c-1.39,1.454-7.223,1.246-7.223,1.246-.188,0-.165.208-.165.208v1.247c0,.415.187.394,1.5.394a1.362,1.362,0,0,1,1.411,1.24v8.119c-5-6.283-6.672-13.054-3.616-17.27,4.282-5.905,16.216-4.556,26.654,3.012.85.616,1.66,1.256,2.434,1.913a11.539,11.539,0,0,0-5.845,2.32V23.524c0-.358-.537-1.068-1.726-.071s-4.522.781-5.29.781-.71.645-.71.645a6.328,6.328,0,0,0-.071.817.633.633,0,0,0,.366.53h.845c.6,0,1.4.315,1.4.9V38.307a.78.78,0,0,1-.946.818H97.08c-.472,0-.637.529-.637.529v.873c0,.372.137.761.474.761h9.365a.5.5,0,0,0,.56-.552c0-.373-.029-.818,0-1.162s-.238-.45-.56-.45H105.2c-.48,0-.9-.179-.9-.918v-9a4.094,4.094,0,0,1,3.8-3.669,2.941,2.941,0,0,1,2.644,2.637c0,.838.019,9.531,0,9.975a1.1,1.1,0,0,1-.876.894h-1.119c-.443,0-.478.481-.478.481v1.1a.565.565,0,0,0,.553.638H117.9c.444,0,.41-.5.41-.5V39.683c0-.43-.519-.516-.519-.516H116.8a1.227,1.227,0,0,1-1.14-1.212V30.425c0-.378-.018-1.561-.018-1.561Z" transform="translate(-1329.737 -12687.593)" fill="none" stroke="#464749" stroke-width="0.709"/>
+								  </g>
+								</svg>
+							</a>
+						</div>
+						<div class="columns small-9 hide-for-xlarge text-right">
+							<a class="search-bar-toggle" href="#"><i class="grnt-search"></i></a>
+							<div class="language-selector">
+								<div class="language-dropdown">	
+                        <a  href="https://garnet.it/en/">en</a><span class="active">it</span>								</div>
+                     </div>
+							<div class="hamburger-icon">
+								<span></span>
+							</div>
+						</div>
+						<div class="columns small-12 xlarge-10 xlarge-text-right align-self-stretch">
+							<nav>
+								<ul id="menu-menu" class="header-menu"><li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-210"><a href="https://garnet.it/azienda/">AZIENDA</a><span class="sub-menu-toggle"><i></i></span>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://garnet.it/azienda/company-profile/">Company Profile</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://garnet.it/azienda/partners/">Partner</a></li>
+	<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="https://garnet.it/azienda/certificazione-iso/">Certificazione ISO</a></li>
+	<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="https://garnet.it/azienda/quality-policy/">Quality Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-60"><a href="https://garnet.it/prodotti/">PRODOTTI</a><span class="sub-menu-toggle"><i></i></span>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-9661" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-9661"><a href="https://garnet.it/cat/aerospaziale/">Aerospaziale</a></li>
+	<li id="menu-item-9878" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-9878"><a href="https://garnet.it/cat/encoder/">Encoder</a></li>
+	<li id="menu-item-9885" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-9885"><a href="https://garnet.it/cat/resolver-aerospaziale/">Resolver</a></li>
+	<li id="menu-item-597" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-597"><a href="https://garnet.it/cat/cablaggi/">Cablaggi</a></li>
+	<li id="menu-item-598" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-598"><a href="https://garnet.it/cat/magneti/">Magneti</a></li>
+	<li id="menu-item-9872" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-9872"><a href="https://garnet.it/cat/mems-2/">Mems Gyro</a></li>
+	<li id="menu-item-9979" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-9979"><a href="https://garnet.it/cat/igbt/">IGBT</a></li>
+	<li id="menu-item-596" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-596"><a href="https://garnet.it/cat/motion-control/">Motion Control</a></li>
+</ul>
+</li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84"><a href="https://garnet.it/campi-di-applicazione/">APPLICAZIONI</a><span class="sub-menu-toggle"><i></i></span>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-558" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-558"><a href="https://garnet.it/apps/automazione-industriale/">Automazione industriale</a></li>
+	<li id="menu-item-566" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-566"><a href="https://garnet.it/apps/robotica/">Robotica</a></li>
+	<li id="menu-item-559" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-559"><a href="https://garnet.it/apps/automotive/">Automotive</a></li>
+	<li id="menu-item-563" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-563"><a href="https://garnet.it/apps/elettronica/">Elettronica</a></li>
+	<li id="menu-item-561" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-561"><a href="https://garnet.it/apps/biomedicale/">Biomedicale</a></li>
+	<li id="menu-item-3613" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3613"><a href="https://garnet.it/apps/avionica/">Avionica</a></li>
+	<li id="menu-item-3614" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3614"><a href="https://garnet.it/apps/aerospaziale/">Aerospaziale</a></li>
+	<li id="menu-item-3615" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3615"><a href="https://garnet.it/apps/fotovoltaico/">Fotovoltaico</a></li>
+	<li id="menu-item-3616" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3616"><a href="https://garnet.it/apps/eolico/">Eolico</a></li>
+	<li id="menu-item-6413" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-6413"><a href="https://garnet.it/apps/hvac/">HVAC</a></li>
+	<li id="menu-item-3617" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3617"><a href="https://garnet.it/apps/edilizia/">Edilizia</a></li>
+	<li id="menu-item-3618" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3618"><a href="https://garnet.it/apps/packaging/">Packaging</a></li>
+	<li id="menu-item-3619" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3619"><a href="https://garnet.it/apps/trasporti-elettrici/">Trasporti elettrici</a></li>
+	<li id="menu-item-3620" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3620"><a href="https://garnet.it/apps/nautica/">Nautica</a></li>
+	<li id="menu-item-3621" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3621"><a href="https://garnet.it/apps/fluidodinamica/">Fluidodinamica</a></li>
+</ul>
+</li>
+<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://garnet.it/news/">NEWS</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https://garnet.it/contatti/">CONTATTI</a></li>
+</ul>								<a class="search-bar-toggle show-for-xlarge" href="#"><i class="grnt-search"></i></a>
+								<div class="language-selector show-for-xlarge">
+									<div class="language-dropdown">	
+	                        <a  href="https://garnet.it/en/">en</a><span class="active">it</span>									</div>
+	                     </div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	<div id="search-form-wrap">
+		<div class="search-overlay"></div>
+		<div class="main-container">
+			<div class="row">
+				<div class="small-12 columns">
+					<div class="search-form">
+						<h4>Cerca nel sito</h4>
+						
+<form role="search" method="get" id="searchform" action="https://garnet.it/">
+	<div class="input-group">
+		<input type="text" class="input-group-field" value="" name="s" id="s" aria-label="Search" placeholder="Cerca">
+		<div class="input-group-button">
+			<input type="submit" id="searchsubmit" value="Cerca" class="button">
+		</div>
+	</div>
+</form>
+				
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+
+
+<div class="page-wrapper">
+
+	
+
+<div class="hp-head with-layer">
+	<div class="gradient-layer"></div>
+		<div class="hp-slider">
+					<div class="slide-zoom-wrap">
+				<div class="slide active" style="background-image: url(https://garnet.it/wp-content/uploads/2020/09/garnet-automazione-1.jpg);"></div>
+			</div>
+					<div class="slide-zoom-wrap">
+				<div class="slide " style="background-image: url(https://garnet.it/wp-content/uploads/2020/09/garnet-automazione-2-e1600875337763.jpg);"></div>
+			</div>
+					<div class="slide-zoom-wrap">
+				<div class="slide " style="background-image: url(https://garnet.it/wp-content/uploads/2020/09/garnet-automazione-4-e1600875415310.jpg);"></div>
+			</div>
+					<div class="slide-zoom-wrap">
+				<div class="slide " style="background-image: url(https://garnet.it/wp-content/uploads/2020/09/garnet-automazione-5.jpg);"></div>
+			</div>
+					<div class="slide-zoom-wrap">
+				<div class="slide " style="background-image: url(https://garnet.it/wp-content/uploads/2020/09/garnet-automazione-3.jpg);"></div>
+			</div>
+			
+	</div>
+		<div class="intro-box">
+		<div class="intro-box-content">
+			<div class="main-container">
+				<div class="row">
+					<div class="columns small-12 medium-8 xlarge-7" data-aos="fade-zoom-in" data-aos-duration="600">
+													<h1 class="section-title">Soluzioni tecnologiche per l'automazione e la robotica.</h1>
+																			<h2>Muoviamo il mondo con innovazione e componenti all'avanguardia.</h2>
+											</div>
+				</div>
+			</div>
+		</div>
+		<div class="scroll-down-wrap">
+			<div class="main-container">
+				<div class="row">
+					<div class="columns small-12  medium-4 xlarge-3">
+						<a class="scroll-down" href="#products"><i class="grnt-arrow-down"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="product-box-head" id="products" data-aos="product-box-head-reveal" data-aos-duration="500" data-aos-offset="0">
+		<div class="main-container">
+			<div class="row">
+				<div class="columns small-12 xlarge-7 xxlarge-6">
+					<div class="row product-box-head-content">
+						<div class="columns small-12 medium-6 xlarge-12">
+							<div class="row">
+								<div class="columns small-12 xlarge-9 xxxlarge-8">
+									<h3>PRODOTTI</h3>
+																		<h2>Garnet. Adding value to your ideas.</h2>
+																	</div>
+							</div>
+						</div>
+						<div class="columns small-12 medium-6 xlarge-12">
+							<div class="row">
+								<div class="columns small-12 xlarge-9 xxlarge-8">
+																		<p>Ci piace andare oltre le tue aspettative. </br>
+Studiamo soluzioni innovative per sviluppare il potenziale dei tuoi progetti. </br>
+Offriamo i migliori componenti per l'automazione e la robotica.</p>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+<div class="products-box-wrapper">
+	<div class="main-container">
+		<div class="vertical-spacer">
+			<div class="row">
+								<div class="columns small-6 medium-3 text-center align-self-stretch" data-aos="fade-up" data-aos-delay="4n-medium-2n-small">
+					<a href="https://garnet.it/cat/igbt/">
+						<div class="product-box">
+							<h4>IGBT</h4>
+							<img src="https://garnet.it/wp-content/uploads/2024/04/IGBT.png" alt="IGBT">
+						</div>
+					</a>
+				</div>
+								<div class="columns small-6 medium-3 text-center align-self-stretch" data-aos="fade-up" data-aos-delay="4n-medium-2n-small">
+					<a href="https://garnet.it/cat/motion-control/">
+						<div class="product-box">
+							<h4>Motion Control</h4>
+							<img src="https://garnet.it/wp-content/uploads/2020/06/motion-control.png" alt="Motion Control">
+						</div>
+					</a>
+				</div>
+								<div class="columns small-6 medium-3 text-center align-self-stretch" data-aos="fade-up" data-aos-delay="4n-medium-2n-small">
+					<a href="https://garnet.it/cat/magneti/">
+						<div class="product-box">
+							<h4>Magneti</h4>
+							<img src="https://garnet.it/wp-content/uploads/2020/06/magneti.png" alt="Magneti">
+						</div>
+					</a>
+				</div>
+								<div class="columns small-6 medium-3 text-center align-self-stretch" data-aos="fade-up" data-aos-delay="4n-medium-2n-small">
+					<a href="https://garnet.it/prodotti/" class="all-items primary-button flip" title="TUTTI I PRODOTTI">	
+						<span>
+							TUTTI I PRODOTTI						</span>			
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+<div class="applications-intro">
+	<div class="main-container">
+		<div class="row" data-aos="fade-up">
+			<div class="columns small-12">
+				<h3>APPLICAZIONI</h3>
+			</div>
+			<div class="columns small-12 medium-6 xlarge-4">
+				<h2>Dall'automazione industriale allo spazio.</h2>
+			</div>
+			<div class="columns small-12 medium-6 xlarge-offset-2">
+				<p>Garnet offre consulenza tecnica avanzata per soddisfare le più svariate esigenze applicative, migliorare la produttività di macchine e impianti ed  ottimizzare l'efficienza energetica.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="applications-slider-wrapper" data-aos="bottom-mask-reveal">
+	<div class="applications-slider">
+			<a class="application-slide with-layer" href="https://garnet.it/apps/automazione-industriale/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/automazione_industriale-1.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>01</span>
+						<h2>
+							Automazione industriale						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/robotica/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/robotica_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>02</span>
+						<h2>
+							Robotica						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/automotive/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/09/automotive_applicazioni-1.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>03</span>
+						<h2>
+							Automotive						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/elettronica/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/elettronica_applicazioni-1.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>04</span>
+						<h2>
+							Elettronica						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/biomedicale/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/biomedicale_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>05</span>
+						<h2>
+							Biomedicale						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/avionica/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/avionica_applicazioni-1.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>06</span>
+						<h2>
+							Avionica						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/aerospaziale/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/aerospaziale_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>07</span>
+						<h2>
+							Aerospaziale						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/fotovoltaico/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/fotovoltaico_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>08</span>
+						<h2>
+							Fotovoltaico						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/eolico/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/eolico_applicazioni-3.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>09</span>
+						<h2>
+							Eolico						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/hvac/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2021/05/hvac.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>10</span>
+						<h2>
+							HVAC						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/edilizia/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/edilizia_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>11</span>
+						<h2>
+							Edilizia						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/packaging/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/packaging_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>12</span>
+						<h2>
+							Packaging						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/trasporti-elettrici/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/trasporti_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>13</span>
+						<h2>
+							Trasporti elettrici						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/nautica/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/08/nautica_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>14</span>
+						<h2>
+							Nautica						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a class="application-slide with-layer" href="https://garnet.it/apps/fluidodinamica/">
+			<div class="gradient-layer"></div>
+			<div class="application-box-bg" style="background-image: url(https://garnet.it/wp-content/uploads/2020/07/fluidodinamica_applicazioni.jpg);"></div>
+			<div class="main-container slide-content">
+				<div class="row">
+					<div class="columns small-12">
+						<span>15</span>
+						<h2>
+							Fluidodinamica						</h2>
+					</div>
+				</div>
+			</div>
+		</a>
+		</div>
+	<div class="carousel-controls">
+		<div class="main-container ">
+			<div class="row">
+				<div class="columns small-12">
+					<div class="controls-wrap">
+						<a class="primary-button flip" title="TUTTE LE APPLICAZIONI" href="https://garnet.it/campi-di-applicazione/">
+							<span>
+								TUTTE LE APPLICAZIONI							</span>
+						</a>
+						<div class="carousel-arrows">
+							<a id="app-prev-arrow" href="#"><i class="grnt-arrow-left"></i></a><a id="app-next-arrow" href="#"><i class="grnt-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+<div class="partners-wrapper">
+	<div class="main-container">
+		<div class="row" data-aos="fade-up">
+			<div class="columns small-12 xlarge-7 xxlarge-6">
+				<h3>PARTNER</h3>
+								<h2>I migliori produttori per fare la differenza.</h2>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="partners-slider-wrapper" data-aos="fade-up">
+	<div class="main-container">
+		<div class="row">
+			<div class="columns small-12 show-for-medium text-right">
+				<div class="carousel-arrows">
+					<a id="partners-prev-arrow" href="#"><i class="grnt-arrow-left"></i></a><a id="partners-next-arrow" href="#"><i class="grnt-arrow-right"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="columns small-12">
+				<div class="partners-slider">
+									<a class="partner-slide" href="https://garnet.it/partner/tamagawa/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/07/tamagawa-3.jpg" alt="Tamagawa">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/fuji-electric/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/07/Fuji-Electric.jpg" alt="Fuji Electric">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/fastech/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/07/Fastech-1.jpg" alt="Fastech">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/npm/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/08/NPM_Nippon_Pulse_Motor.jpg" alt="NPM">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/spg/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/08/SPG_motor-3.jpg" alt="SPG">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/arcus/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/09/Arcus_Technology_.jpg" alt="Arcus">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/kyowa-seiko/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/10/kyowa_logo.jpg" alt="Kyowa Seiko">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/stogra/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/07/Stogra-1.jpg" alt="Stögra">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/smart-motor-devices/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/07/Smart_Motor_Devices.jpg" alt="Smart Motor Devices">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/kss/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2021/09/KSS-3.jpg" alt="Kss">
+						</div>
+					</a>
+									<a class="partner-slide" href="https://garnet.it/partner/canon/">
+						<div class="partner-slide-content">
+							<img src="https://garnet.it/wp-content/uploads/2020/08/Canon.jpg" alt="Canon">
+						</div>
+					</a>
+								</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+<div class="last-news-wrapper">
+	<div class="vertical-spacer">
+		<div class="main-container">
+			<div class="row">
+								<div class="small-12 medium-5 columns" data-aos="fade-up">
+					<h3>News</h3>
+					<h2>Le ultime novità dal mondo Garnet</h2>
+					<a href="https://garnet.it/news/" class="primary-button">Tutte le news<i class="grnt-arrow-right"></i></a>
+				</div>
+												<div class="small-12 columns medium-6 medium-offset-1 columns card-row" data-aos="fade-up"> 
+					<a href="https://garnet.it/inside-garnet-customer-care-il-cuore-pulsante-dellefficienza/">
+						<div class="card-box">
+							<div class="card-image" style="background-image: url(https://garnet.it/wp-content/uploads/2025/04/Copertina_Cavalleri_Motta_Mulazzani_Panzeri_Passoni_WEB-1024x576.jpg);"></div>
+							<div class="card-content">
+																<h4>Comunicazioni</h4>
+																<h3>Inside Garnet – Customer Care: il cuore pulsante dell’efficienza</h3>
+							</div>
+						</div>
+					</a>
+				</div>
+							</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<footer>
+	<div class="row">
+		<div class="columns small-12 medium-6 large-3">
+			<div class="column-inner-content-wrap">
+				<div>
+					<img class="logo" src="https://garnet.it/wp-content/themes/garnet/dist/assets/images/logo.svg" alt="Garnet"> 
+					<ul class="info">
+						<li><a href="tel:+390396886158">+39 039 688 6158</a></li>
+						<li>Via De Gasperi, 31</li>
+						<li>20863 Concorezzo (MB) - Italia</li>
+						<li>P.Iva: 13275630153</li>
+					</ul>
+					<a class="social" target="_blank" href="https://it.linkedin.com/company/garnet-srl"><i class="grnt-linkedin"></i></a>
+					<ul class="policy">
+						<li><a href="https://garnet.it/condizioni-generali-di-vendita/">Condizioni generali di vendita</a></li>
+						<li><a href="https://garnet.it/cookie-policy/">Cookie Policy</a></li>
+						<li><a href="https://garnet.it/privacy-policy/">Privacy Policy</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="columns show-for-large large-3">
+			<div class="column-inner-content-wrap">
+				<div>
+					<ul id="menu-footer-menu-first-column" class="footer-menu footer-column-1"><li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-240"><a href="https://garnet.it/prodotti/">PRODOTTI</a>
+<ul class="sub-menu">
+	<li id="menu-item-241" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-241"><a href="https://garnet.it/cat/motion-control/">Motion Control</a></li>
+	<li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-243"><a href="https://garnet.it/cat/magneti/">Magneti</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-242"><a href="https://garnet.it/cat/cablaggi/">Cablaggi</a></li>
+	<li id="menu-item-9490" class="menu-item menu-item-type-taxonomy menu-item-object-categoria_prodotto menu-item-9490"><a href="https://garnet.it/cat/aerospaziale/">Aerospaziale</a></li>
+</ul>
+</li>
+</ul>				</div>
+			</div>
+		</div>
+		<div class="columns show-for-large large-3">
+			<div class="column-inner-content-wrap">
+				<div>
+					<ul id="menu-footer-menu-second-column" class="footer-menu footer-column-2"><li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-244"><a href="https://garnet.it/campi-di-applicazione/">APPLICAZIONI</a>
+<ul class="sub-menu">
+	<li id="menu-item-3664" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3664"><a href="https://garnet.it/apps/automazione-industriale/">Automazione industriale</a></li>
+	<li id="menu-item-3665" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3665"><a href="https://garnet.it/apps/robotica/">Robotica</a></li>
+	<li id="menu-item-3666" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3666"><a href="https://garnet.it/apps/automotive/">Automotive</a></li>
+	<li id="menu-item-3667" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3667"><a href="https://garnet.it/apps/elettronica/">Elettronica</a></li>
+	<li id="menu-item-3668" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3668"><a href="https://garnet.it/apps/biomedicale/">Biomedicale</a></li>
+	<li id="menu-item-3669" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3669"><a href="https://garnet.it/apps/avionica/">Avionica</a></li>
+	<li id="menu-item-3670" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3670"><a href="https://garnet.it/apps/aerospaziale/">Aerospaziale</a></li>
+	<li id="menu-item-3671" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3671"><a href="https://garnet.it/apps/fotovoltaico/">Fotovoltaico</a></li>
+	<li id="menu-item-3672" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3672"><a href="https://garnet.it/apps/eolico/">Eolico</a></li>
+	<li id="menu-item-6414" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-6414"><a href="https://garnet.it/apps/hvac/">HVAC</a></li>
+	<li id="menu-item-3673" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3673"><a href="https://garnet.it/apps/edilizia/">Edilizia</a></li>
+	<li id="menu-item-3674" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3674"><a href="https://garnet.it/apps/packaging/">Packaging</a></li>
+	<li id="menu-item-3675" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3675"><a href="https://garnet.it/apps/trasporti-elettrici/">Trasporti elettrici</a></li>
+	<li id="menu-item-3676" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3676"><a href="https://garnet.it/apps/nautica/">Nautica</a></li>
+	<li id="menu-item-3677" class="menu-item menu-item-type-taxonomy menu-item-object-campi_di_applicazione menu-item-3677"><a href="https://garnet.it/apps/fluidodinamica/">Fluidodinamica</a></li>
+</ul>
+</li>
+</ul>				</div>
+			</div>
+		</div>
+		<div class="columns small-12 medium-6 large-3">
+			<div class="column-inner-content-wrap">
+				<div>
+					<ul id="menu-footer-menu-third-column" class="footer-menu footer-column-3"><li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-257"><a href="https://garnet.it/azienda/">AZIENDA</a>
+<ul class="sub-menu">
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="https://garnet.it/azienda/company-profile/">Company Profile</a></li>
+	<li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="https://garnet.it/azienda/partners/">Partner</a></li>
+	<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://garnet.it/azienda/certificazione-iso/">Certificazione ISO</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://garnet.it/azienda/quality-policy/">Quality Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="https://garnet.it/news/">NEWS</a></li>
+<li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="https://garnet.it/contatti/">CONTATTI</a></li>
+</ul>				</div>
+				<a href="https://garnet.it/newsletter/" class="primary-button fill">
+					<span>NEWSLETTER</span>
+				</a>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<script type="text/javascript" src="https://garnet.it/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://garnet.it/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://garnet.it/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-03-02 21:28:53+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"it"},"This contact form is placed in the wrong place.":["Questo modulo di contatto \u00e8 posizionato nel posto sbagliato."],"Error:":["Errore:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/garnet.it\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://garnet.it/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.5" id="contact-form-7-js"></script>
+<script type="text/javascript" id="iubenda-forms-js-extra">
+/* <![CDATA[ */
+var iubFormParams = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://garnet.it/wp-content/plugins/iubenda-cookie-law-solution/assets/js/frontend.js?ver=3.12.1" id="iubenda-forms-js"></script>
+<script type="text/javascript" src="https://garnet.it/wp-content/themes/garnet/dist/assets/js/app.js?ver=2.10.9" id="foundation-js"></script>
+<script type="text/javascript" src="//cdn.iubenda.com/cons/iubenda_cons.js?ver=3.12.1" id="iubenda-cons-cdn-js"></script>
+<script type="text/javascript" id="iubenda-cons-js-extra">
+/* <![CDATA[ */
+var iubConsParams = {"api_key":"7U3y0mXS0Qff0J2VX5VNy1ylhJSHDsYe","log_level":"error","logger":"console","send_from_local_storage_at_load":"true"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://garnet.it/wp-content/plugins/iubenda-cookie-law-solution/assets/js/cons.js?ver=3.12.1" id="iubenda-cons-js"></script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html><html lang="en-US">    <head>
+        <meta charset="utf-8">
+<meta property="og&#x3A;type" content="website">
+<meta property="og&#x3A;site_name" content="AIDS&#x20;Education&#x20;Posters">
+<meta property="og&#x3A;title" content="Welcome">
+<meta property="og&#x3A;url" content="https&#x3A;&#x2F;&#x2F;urexhibits.lib.rochester.edu&#x2F;s&#x2F;aids-education-posters&#x2F;page&#x2F;welcome">
+<meta name="viewport" content="width&#x3D;device-width,&#x20;initial-scale&#x3D;1">        <title>AIDS Education Posters · Welcome · UR Digital Exhibits</title>        <link href="&#x2F;application&#x2F;asset&#x2F;vendor&#x2F;chosen-js&#x2F;chosen.css&#x3F;v&#x3D;4.1.1" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link rel="icon">
+<link href="&#x2F;themes&#x2F;papers&#x2F;asset&#x2F;css&#x2F;uofr-header.css&#x3F;v&#x3D;1.4.5" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;application&#x2F;asset&#x2F;vendor&#x2F;tablesaw&#x2F;tablesaw.stackonly.css&#x3F;v&#x3D;4.1.1" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;application&#x2F;asset&#x2F;css&#x2F;iconfonts.css&#x3F;v&#x3D;4.1.1" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;themes&#x2F;papers&#x2F;asset&#x2F;css&#x2F;style.css&#x3F;v&#x3D;1.4.5" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;application&#x2F;asset&#x2F;css&#x2F;page-blocks.css&#x3F;v&#x3D;4.1.1" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="https&#x3A;&#x2F;&#x2F;urexhibits.lib.rochester.edu&#x2F;oembed&#x3F;url&#x3D;https&#x3A;&#x2F;&#x2F;urexhibits.lib.rochester.edu&#x2F;s&#x2F;aids-education-posters&#x2F;page&#x2F;welcome" rel="alternate" type="application&#x2F;json&#x2B;oembed" title="Welcome">
+<link href="&#x2F;modules&#x2F;AdvancedSearch&#x2F;asset&#x2F;css&#x2F;search.css&#x3F;v&#x3D;3.4.23" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;s&#x2F;aids-education-posters&#x2F;css-editor" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;modules&#x2F;DataTypeRdf&#x2F;asset&#x2F;css&#x2F;data-type-rdf-fix.css&#x3F;v&#x3D;3.4.14" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;modules&#x2F;Internationalisation&#x2F;asset&#x2F;css&#x2F;language-switcher.css&#x3F;v&#x3D;3.4.14" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;modules&#x2F;Internationalisation&#x2F;asset&#x2F;vendor&#x2F;flag-icon-css&#x2F;css&#x2F;flag-icon.min.css&#x3F;v&#x3D;3.4.14" media="screen" rel="stylesheet" type="text&#x2F;css">                <style>
+            .header-top .university-logo a img {
+                width: 300px;
+            }
+          :root {
+                        --header-color: #fc0;
+            
+                        --button-color: #fc0;
+            
+                        --link-color: #006ba3;
+                      }
+
+          body {
+                                                            background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+                                      }
+        </style>
+        <script  src="https&#x3A;&#x2F;&#x2F;code.jquery.com&#x2F;jquery-3.6.2.min.js"></script>
+<script  src="&#x2F;application&#x2F;asset&#x2F;vendor&#x2F;tablesaw&#x2F;tablesaw.stackonly.jquery.js&#x3F;v&#x3D;4.1.1"></script>
+<script  src="&#x2F;modules&#x2F;AdvancedSearch&#x2F;asset&#x2F;js&#x2F;global.js&#x3F;v&#x3D;3.4.23"></script>
+<script  defer="defer" src="&#x2F;modules&#x2F;AdvancedSearch&#x2F;asset&#x2F;vendor&#x2F;jquery-autocomplete&#x2F;jquery.autocomplete.min.js&#x3F;v&#x3D;3.4.23"></script>
+<script  defer="defer" src="&#x2F;application&#x2F;asset&#x2F;vendor&#x2F;chosen-js&#x2F;chosen.jquery.min.js&#x3F;v&#x3D;4.1.1"></script>
+<script  defer="defer" src="&#x2F;modules&#x2F;AdvancedSearch&#x2F;asset&#x2F;js&#x2F;search.js&#x3F;v&#x3D;3.4.23"></script>
+<script >
+    //<!--
+    
+Omeka.jsTranslate = function(str) {
+    var jsTranslations = {"Something went wrong":"Something went wrong","Make private":"Make private","Make public":"Make public","Expand":"Expand","Collapse":"Collapse","You have unsaved changes.":"You have unsaved changes.","Restore item set":"Restore item set","Close icon set":"Close icon set","Open icon set":"Open icon set","[Untitled]":"[Untitled]","Failed loading resource template from API":"Failed loading resource template from API","Restore property":"Restore property","There are no available pages.":"There are no available pages.","Please enter a valid language tag":"Please enter a valid language tag","Title":"Title","Description":"Description","Unknown block layout":"Unknown block layout","Required field must be completed":"Required field must be completed","Automatic mapping of empty values":"Automatic mapping of empty values","Available":"Available","Enabled":"Enabled","Find":"Find","Find resources\u2026":"Find resources\u2026","Processing\u2026":"Processing\u2026","Try to map automatically the metadata and the properties that are not mapped yet with the fields of the index":"Try to map automatically the metadata and the properties that are not mapped yet with the fields of the index","[Edit below]":"[Edit below]","Batch edit":"Batch edit","Advanced":"Advanced","The actions are processed in the order of the form. Be careful when mixing them.":"The actions are processed in the order of the form. Be careful when mixing them.","To convert values to\/from mapping markers, use module DataTypeGeometry.":"To convert values to\/from mapping markers, use module DataTypeGeometry.","Processes that manage files and remote data can be slow, so it is recommended to process it in background with \"batch edit all\", not \"batch edit selected\".":"Processes that manage files and remote data can be slow, so it is recommended to process it in background with \"batch edit all\", not \"batch edit selected\".","Remove mapping":"Remove mapping","A facet must have a name.":"A facet must have a name.","A column must have a name.":"A column must have a name.","A column must have a property.":"A column must have a property.","Error fetching browse markup.":"Error fetching browse markup.","Error fetching facet markup.":"Error fetching facet markup.","Error fetching category markup.":"Error fetching category markup.","Cannot show all. The result set is likely too large.":"Cannot show all. The result set is likely too large.","Loading results\u2026":"Loading results\u2026","Video player":"Video player","Play":"Play","Pause":"Pause","Timecode":"Timecode","Duration":"Duration","Mute":"Mute","Unmute":"Unmute","Volume":"Volume","Picture in picture":"Picture in picture","Fullscreen":"Fullscreen","Exit fullscreen":"Exit fullscreen","Audio player":"Audio player","Skip forwards 15 seconds":"Skip forwards 15 seconds","Skip backwards 15 seconds":"Skip backwards 15 seconds","Transcript language":"Transcript language","Close transcript":"Close transcript"};
+    return (str in jsTranslations) ? jsTranslations[str] : str;
+};
+    //-->
+</script>    </head>
+
+    <body class="page&#x20;page-welcome">        <a id="skipnav" href="#content">Skip to main content</a>
+                <header class="site-header" role="banner">
+        <div class="header-top">
+                <div class="university-logo">
+                    <a href="https://rochester.edu/"><img alt="University of Rochester logo" src="https://www.rochester.edu/ohsp/wp-content/themes/ur-core/img/theme/branding-assets/ur-logo.svg"/></a>
+                </div>    
+                <div class="blue-navbar">
+                    <a href="https://rochester.edu/libraries/" class="site-heading">University of Rochester Libraries</a>
+                    <div class="exhibit-home">
+                        <a href="https://urexhibits.lib.rochester.edu/s/Search/page/home">Digital Exhibits</a>
+                    </div>
+               </div>
+    </div>
+
+            <div class="wrapper">
+                <h1>
+                                <a href="/s/aids-education-posters" class="site-title logo" title="Home"><img src="https://urexhibits.lib.rochester.edu/files/asset/7b457549e3413063712b46947332011f8947f076.png" title="Logo"></a>
+                                </h1>
+    
+                <nav class="site-nav">
+                    <div class="trigger">
+                        <ul class="navigation">
+    <li>
+        <a href="&#x2F;s&#x2F;aids-education-posters&#x2F;page&#x2F;search">Search</a>
+    </li>
+    <li>
+        <a href="&#x2F;s&#x2F;aids-education-posters&#x2F;page&#x2F;other-resources">Other Resources</a>
+    </li>
+    <li>
+        <a href="&#x2F;s&#x2F;aids-education-posters&#x2F;page&#x2F;projects">Projects</a>
+    </li>
+    <li>
+        <a href="https&#x3A;&#x2F;&#x2F;www.library.rochester.edu&#x2F;services&#x2F;forms&#x2F;contact-rbscp">Contact Us</a>
+    </li>
+</ul>                                            </div>
+                </nav>
+            </div>
+        </header>
+        <main id="content" class="page-content" aria-label="Content">
+            <div class="wrapper">
+            
+
+<div class="blocks">
+        
+    <div class="blocks-inner page-layout-normal" style=""><div class="block block-html" style=""><h2><strong>Welcome to the AIDS Education Posters Collection</strong></h2>
+
+<h3><strong>More About the Collection:</strong></h3>
+
+<p>The images and associated metadata represented on this site are digital reproductions of the physical collection of HIV/AIDS Education Posters, donated beginning in 2007 to the University of Rochester’s River Campus Libraries Department of Rare Books, Special Collections, and Preservation by Dr. Edward C. Atwater (1926-2019). A visionary collector, physician, and medical historian, Dr. Atwater recognized at the beginning of the AIDS crisis that these posters were representative of social history and they needed to preserved and made accessible for scholarship and study in order to better understand the enormous cultural and social shifts that HIV/AIDS brought to the forefront across the world. The result of his efforts is this rich collection, the largest of its kind in the world, including over 8000 posters, as well as significant related ephemera and other material that puts the AIDS Crisis in a global context. With Dr. Atwater’s passing in 2019, we continue to build and document the HIV/AIDS pandemic in his stead, seeking out posters and related material to continue to strengthen this important collection.</p>
+
+<p>The collection documents efforts to educate and inform groups and individuals about HIV/AIDS in over 130 countries and in over 75 languages and dialects, dating from the very dawn of the global AIDS pandemic in 1982 to the present.</p>
+
+<p>Additionally, this website serves to document student projects using the posters, as well as <a href="https://aep.lib.rochester.edu/other-resources">resources</a> page, and contact information for users to suggest translations, metadata, image tags and more.</p>
+
+<p>HIV/AIDS, an ongoing global pandemic, touches individuals of all ages. On this website you will find posters which are aimed towards educating young children, the elderly, and everyone in between, about HIV/AIDS prevention, risks, social advocacy, and compassion for those affected. Posters, as an art form and as a medium of communication are graphic. As long as HIV/AIDS continues to affect people of all ages around the world, the purposes for which these posters were originally created will continue to be relevant.</p>
+
+<p>The collection is the basis for the major exhibition, <a href="https://mag.rochester.edu/exhibitions/up-against-the-wall/">Up Against the Wall: Art, Activism, and the AIDS Poster</a> which was exhibited from March 6–June 19, 2022 at the Memorial Art Gallery, University of Rochester.</p>
+</div></div></div>
+            </div>
+        </main>
+        <footer class="site-footer h-card">
+            <div class="wrapper">	
+                                Powered by Omeka S                            </div>
+        </footer>
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-961TR6ZSQ9'); 
+let advancedSearch = document.querySelector(".jumbotron-search .advanced-search");
+advancedSearch.innerHTML = "Advanced search";
+</script></body>
+</html>

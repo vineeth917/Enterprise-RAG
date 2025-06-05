@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js ie lt-ie10 lt-ie9 oldie lt-ie8 lt-ie7" lang="en-US" prefix="og: https://ogp.me/ns#"><![endif]-->
+<!--[if IE 7]><html class="no-js ie lt-ie10 lt-ie9 ie7 oldie lt-ie8" lang="en-US" prefix="og: https://ogp.me/ns#"><![endif]-->
+<!--[if IE 8]><html class="no-js ie lt-ie10 lt-ie9 ie8 oldie" lang="en-US" prefix="og: https://ogp.me/ns#"><![endif]-->
+<!--[if IE 9]><html class="no-js ie lt-ie10 ie9" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js loading" lang="en-US" >
+
+<!--<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="robots" content="All" >
+<meta name="revisit-after" content="7 days" >
+<meta name="distributor" content="Global" >
+<meta itemprop="name" content="LARONTE" >
+<meta itemprop="author" content="LARONTE" >
+<meta itemprop="creator" content="LARONTE" >
+<meta itemprop="provider" content="LARONTE" >
+<meta itemprop="copyright" content="2018 LARONTE STORE" >
+<meta itemprop="contentRating" content="General" >
+
+<title>Laronte WebSite - Home</title>
+<meta property='og:site_name' content='Laronte.net'>
+<meta property='og:title' content='Featuring news Laronte.net'>
+<meta property='og:type' content='article'/>
+<meta property='og:url' content='https://www.laronte.net'>
+<meta property='og:description' content='Laronte fans We are happy to announce the new LARONTE WEBSITE, new-look site optimised for smartphones and tablet...' >
+<meta property="og:image" content='https://www.laronte.net/wp-content/uploads/2017/newwesite-laronte2017.jpg' >
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="fb:app_id" content="121883635039113" />
+
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate, s-maxage=0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
+<link rel="stylesheet" href='https://www.laronte.net/wp-content/themes/lrnt/assets/stylesheets/screen-newhome.css?v=11009 ' media="all">
+<link rel="stylesheet" type="text/css" href="https://www.laronte.net/wp-content/themes/lrnt/assets/stylesheets/templates/template-partners-newhome.css?v=11009 " media="all">
+<link rel="stylesheet" type="text/css" href="https://www.laronte.net/wp-content/themes/lrnt/assets/stylesheets/templates/template-faqs-newhome.css?v=11009 " media="all">
+<link rel="stylesheet" type="text/css" href="https://www.laronte.net/wp-content/themes/lrnt/assets/stylesheets/templates/category-newhome.css?v=11009 " media="all">
+<link rel="stylesheet" type="text/css" href="https://www.laronte.net/wp-content/themes/lrnt/assets/stylesheets/custom-newhome.css?v=11009 " media="all">
+<!--<link href="https://vjs.zencdn.net/5.8.8/video-js.css" rel="stylesheet"> -->
+
+<script type="text/javascript">
+//window.onerror = function (errorMsg, url, lineNumber, column, errorObj) {
+    //alert('Error: ' + errorMsg + ' Script: ' + url + ' Line: ' + lineNumber
+    //+ ' Column: ' + column + ' StackTrace: ' +  errorObj);
+//}
+</script>
+
+<script type="text/javascript">$.ajaxSetup({cache: false});</script>
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script type="text/javascript" src="https://www.laronte.net/cookies.js?v=2001"></script>
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/vendor/modernizr/modernizr.js"></script>
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/vendor/respond/respond.src.js"></script>
+
+<!--[if lt IE 9]>
+        <script src="/wp-content/themes/lrnt/assets/scripts/vendor/html5shiv/html5shiv.js"></script>
+        <![endif]-->
+
+  <script src="https://www.laronte.net/account/video-control.js"></script>
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/vendor/jquery/jquery.js"></script>
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/vendor/bassistance/jquery.validate.min.js"></script>
+
+<style>
+
+html { 
+    -webkit-transition: background-color 1s; 
+    transition: background-color 1s;
+	} 
+	
+	html, body { 
+	min-height: 100%; 
+	} 
+	
+	html.loading::before {
+    /*content: "Loading...";*/ 
+    color: #cccccc;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+	top: 40px;
+}
+	html.loading { 
+		background: #FFF url('https://www.laronte.net/account/images/lineiconletter013.png') 
+		center center no-repeat; 
+		-webkit-transition: background-color 0; 
+		transition: background-color 0; 
+		background-size: 170px 35px;  
+		} 
+		
+		body { 
+		-webkit-transition: opacity 1s ease-in; 
+		transition: opacity 1s ease-in; 
+		} 
+		
+		html.loading body { 
+		opacity: 0; 
+		-webkit-transition: opacity 0; 
+		transition: opacity 0; 
+		}
+
+
+</style>
+		<script>
+		
+		$(document).ready(function(){
+    $('body').fadeOut();
+  });
+
+			var html = document.getElementsByTagName('html')[0];
+			var removeLoading = function() {
+				setTimeout(function() {
+					html.className = html.className.replace(/loading/, '');
+					$('body').fadeIn();
+				}, 9000);
+			};
+			removeLoading();
+		</script>
+        
+
+</head>
+
+
+<body onunload="" class="page page-id-134 page-template page-template-page_templatestemplate-partners-php">
+<style>.nexcolor{background-color: #1a323e; color: #FFFFFF; border-top: 1px #1a323e;}</style>
+<!--<script type="text/javascript">var WRInitTime=(new Date()).getTime();</script>-->
+<div id="fb-root"></div>
+<div id="fbconnect"></div>
+<script>
+  
+  window.fbAsyncInit = function() {
+  FB.init({ 
+    appId : "121883635039113",
+    cookie : true,  // enable cookies to allow the server to access 
+    status : true,      // the session
+    xfbml : true,  // parse social plugins on this page
+	oauth : true,
+    version : 'v2.11' // use graph api version 2.9
+  });
+
+  
+FB.Event.subscribe('auth.authResponseChange', function(response) { 
+    // Here we specify what we do with the response anytime this event occurs. 
+    if (response.status === 'connected') { 
+      // have logged in to the app. 
+      var uid = response.authResponse.userID;
+      var accessToken = response.authResponse.accessToken;
+	  //document.getElementById('status_email').innerHTML = accessToken;
+       activeUSER();
+    } else if (response.status === 'not_authorized') { 
+      //FB.login(); 
+    } else { 
+      // The same caveats as above apply to the FB.login() call here. 
+    } 
+  }); 
+  };
+
+
+  // Load the SDK asynchronously
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+function fbLogoutUser(redirectUrl) {
+        FB.getLoginStatus(function (response) {
+            if (response.status == 'connected')
+                FB.logout(function (response) {
+                    //window.location.href = redirectUrl;
+					window.location.href = '/account/logout.asp';
+                });
+            else
+                //window.location.href = redirectUrl;
+				window.location.href = '/account/logout.asp';
+        });
+    }
+
+</script>
+
+<script type="text/javascript">
+function isInView(el) {
+  var rect = el.getBoundingClientRect(); // absolute position of video element
+  return !(rect.top > $(window).height() || rect.bottom < 0);   // visible?
+}
+
+$(document).on("scroll", function() {
+  $("video").each(function() {
+    if (isInView($(this)[0])) {   // visible?
+	  if ($(this)[0].paused) $(this)[0].pause();   // play if not playing
+    }
+    else {
+      if (!$(this)[0].paused) $(this)[0].pause();  // pause if not paused
+    }
+  });  
+});
+
+</script>
+
+<header id="site-header">
+  <nav id="main-navigation">
+    <div class="header-desktop-nav">
+      <div class="menu-main-header-store-navigation-container">
+        <ul id="menu-main-header-store-navigation" class="menu">
+          <li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="https://www.laronte.net/store/">Store</a></li>
+        </ul>
+      </div>
+      <div class="guide-navigation-container">
+        <ul class="menu">
+          <li> <a href="https://www.youtube.com/subscription_center?add_user=Larontevideo" target="_blank">Youtube</a> </li>
+        </ul>
+      </div>
+      <div class="menu-main-header-water-navigation-container">
+        <ul id="menu-main-header-water-navigation" class="menu">
+          <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"></li>
+        </ul>
+      </div>
+    </div>
+    
+    
+   
+    <div class="header-mobile-nav menu-top-fijo ">
+      <div id="header-logo" class=""> <a href="#" title="Laronte.net" style="background-image:url(https://www.laronte.net/wp-content/themes/lrnt/assets/images/laronte-logo-top.png);">Laronte.net</a> </div>
+      <div class="menu-main-header-mobile-navigation-container">
+        <ul id="menu-main-header-mobile-navigation" class="menu nexcolor">
+        <!--costummer top-->
+        <li id="" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.laronte.net/store/contact/"><img id="infouser" class='icon40' style='width:40; height:40;' src='https://cdn3.iconfinder.com/data/icons/interface-8/128/InterfaceExpendet-04-48.png' title='Contact Costummer' ></a></li>         <!--store top-->
+          <li id="" class=""><a title="LaronteStore" href="https://www.laronte.net/store/"><img id="infouser" style='width:40px;' src='https://cdn3.iconfinder.com/data/icons/interface-8/128/InterfaceExpendet-11-48.png' title='LaronteStore' ></a></li>      
+          <!--music top--> 
+          <li id="" class=""><a id="openplayer_tel" class="show_detail" target="2" style="display:block"><img id="infouser" style='width:40px;' src='https://cdn3.iconfinder.com/data/icons/interface-8/128/InterfaceExpendet-07-48.png' title='Music' ></a> <a id="closeplayer_tel" class="hide_detail" target-hide="2" style="display:none; "><img id="infouser" style='width:40px;' src='https://cdn3.iconfinder.com/data/icons/interface-8/128/InterfaceExpendet-06-48.png' title='Music' ></a></li>
+          
+        </ul>
+      </div>
+      
+      <div class="more-navigation-container">
+      <!--menu top -->
+        <ul class="menu">
+          <li class="">
+          <span id="top_avatar_menuA" class="openlogin">
+        <a href="#" ><img class="flex-pic" src="https://www.laronte.net/wp-content/icons/1902268-128.png" title="Login" alt=""></a>
+        </span>
+          </li>
+          
+          <!--<li id="top_avatar_menu" class="footer-more-toggle"> <a><img class="flex-pic" src="/wp-content/themes/lrnt/assets/images/main-menu.png" title="Open Menu" alt="Menu"></a> </li>-->
+        </ul>
+      </div>
+      
+      <div class="menu-main-header-mobile-navigation-container ">
+          <div id="formup" class="menu-formup section-content span7 hidden-desktop hidden-tablet">
+             <!--MENU ALL FORM-->
+          </div>
+       </div>
+       
+    </div> 
+    
+      </div>
+  </nav>
+</header>
+
+
+
+        
+<footer id="site-footer">
+  <div class="footer-menu ">
+    <nav class="footer-top-nav footer-nav ">
+      <div class="menu-informationsidebar-navigation-container ">
+        <ul id="menu-informationsidebar-navigation" class="menu">
+          <!--home-->
+          <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a id="toppage" href="#"><img id="infouser" class='icon40' style='width:40; height:40;' src='https://www.laronte.net/wp-content/icons/update.png' title='Home' ></a></li>
+      <!--music-->
+      <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a id="openplayer_desk" class="show_detail" target="4" style="display:block">Music<img id="infouser" class='icon40' style='width:40; height:40;' src='https://www.laronte.net/wp-content/icons/playaudiomp3.png' title='Music' ></a> <a id="closeplayer_desk" class="hide_detail " target-hide="4" style="display:none ">Music<img id="infouser" class='icon40' style='width:40; height:40;' src='https://www.laronte.net/wp-content/icons/pauseaudiomp3.png' title='Music' ></a></li>
+      <!--shop-->
+      <li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://www.laronte.net/store/">Store<img id="infouser" class='icon40' style='width:40; height:40;' src='https://www.laronte.net/wp-content/icons/buycar.png' title='LaronteStore' ></a></li>
+     <!--costummer-->
+     <li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394"><a href="https://www.laronte.net/store/contact/">FAQ<img id="infouser" class='icon40' style='width:40; height:40;' src='https://www.laronte.net/wp-content/icons/file.png' title='Contact Costummer' ></a></li>
+        </ul>
+      </div>
+    </nav>
+    
+    <!--menu left-->
+    <nav class="footer-bottom-nav footer-nav ">
+      <ul class="footer-bottom-nav-contents ">
+      <div id="openM" class="hrlog">
+        <li>
+        <span id="top_avatar_menuB" class="top_avatar_menu footer-more-toggle openlogin">
+        <a href="#" ><img class="flex-pic" src="https://www.laronte.net/wp-content/icons/1902268-128.png" title="Login" alt=""></a>
+        </span>
+        </li>
+       </div>
+      </ul>
+      <a class="footer-menu-toggle" href="https://www.laronte.net/" title="Laronte.net"> <img src="https://www.laronte.net/wp-content/uploads/lrnt-logo-page.png" alt="Laronte.net"> </a> 
+      </nav>
+  </div>
+
+
+  <nav class="footer-more-nav menu-top-bajo " >
+    <div class="footer-more-nav-content ">
+      <div class="closeMe">X</div>
+      
+      <div class="footer-more-content-menu">
+        <div class="join-newsletter">
+        <div class="closeMeb hidden-desktop hidden-tablet"></div>
+        
+        <style>.menu{color:#FFFFFF;font-size:20px;}</style>
+         <span class="menuX" id="login-form-top_d"></span>
+         
+          <div id="userlog" class="footer-more-menu">
+          <i class="fa fa-chevron-right"></i>
+        <ul class="info-nav-list">
+          <li class="info-nav-column border">
+            <ul class="info-nav-column-list">
+            <span id="login-form-top_a"></span>
+            </ul>
+          </li>
+          <li class="info-nav-column border">
+            <ul class="info-nav-column-list">
+            <span id="login-form-top_a2"></span>
+            </ul>
+          </li>
+          <li class="info-nav-column border">
+            <ul class="info-nav-column-list">
+            <span id="login-form-top_a3"></span>
+            </ul>
+          </li>
+        </ul>
+        <br>
+      </div>
+         
+       
+          <span id="status_name"></span>
+          <div id="content-form">
+          <form id="weblog" name="weblog" onSubmit="return false;">
+            <div class='gform_body'>
+            <div id="logfb" class="more-trade">
+              <fieldset>
+                <label id="confermalogin">LARONTE.NET</label>
+                <input name="username" type="text" id="username" placeholder="USERNAME OR YOUR EMAIL" value="">
+              </fieldset>
+              <fieldset>
+                <label></label>
+                <input name="text" type="text" id="password" placeholder="PASSWORD" value="">
+                <style> span.colorF  {color: #FFF; font-size: 13px;}</style>
+                <div class="more-trade"><p><a href="https://www.laronte.net/account/recovery-pass.asp">Forgot Your Password?</a> &nbsp;&nbsp;|&nbsp;&nbsp; <span><a title="Laronte Account" href="https://www.laronte.net/account/register.asp"><span class="colorF">Register for free</span></a> </span></p></div>
+              </fieldset>
+              </div>
+              <div class="more-trade">
+              <fieldset>
+              <label></label>
+              <input type='submit' id='loginpost' class='button gform_button' value='Login'/>
+              </fieldset>
+              </div>
+            </div>
+          </form>  
+          </div>
+          
+          <div id="fbreg" classs="gform_body" style="display:none">
+  <div id="confermareg"></div>
+    <form id="fbregister" name="fbregister" action="https://www.laronte.net/account/add-comment/fb_register.asp" method="post" >
+          <input id="code" type="hidden" name="code" value=""> 
+          <input id="new_username" type="hidden" name="username" value="">
+          <input id="new_password" type="hidden" name="password" value=""> 
+          <fieldset>
+          <label></label>
+          <input id="email" type="hidden" placeholder="YOUR EMAIL" name="email" value="">
+          </fieldset>
+          <input id="nome" type="hidden" name="nome" value=""> 
+          <input id="cognome" type="hidden" name="cognome" value=""> 
+          <input id="country" type="hidden" name="country" value=""> 
+          <input id="citta" type="hidden" name="citta" value="">
+          <input id="authority" type="hidden" name="authority" value="">
+          <input id="stato" type="hidden" name="stato" value="">
+          <input id="myicon" type="hidden" name="myicon" value="">
+          <input id="webpage" type="hidden" name="webpage" value=""> 
+          <input id="newsletter" type="hidden" name="newsletter" value="">
+          <input id="copy_icon" type="hidden" name="copy_icon" value=""> 
+          <fieldset>
+          <label></label>
+          <!--<input type="submit" id="mySubmitButton" class='button gform_button' value="Continua" />-->
+          <input type="button" id="submitButtonId" class='button gform_button' value="CONTINUA" />
+          </fieldset>
+    </form> 
+ </div>
+ 
+   <style> #inner {display: table; margin: 0 auto;}</style>
+<div id="outer" style="width:100%">
+<br>
+<span id="fbImg"></span>
+<div id="log"></div>
+     <div id="inner">
+  <div id="fb-button" class="fb-login-button" scope="public_profile,email" onlogin="fblogin();" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="true" data-use-continue-as="true"></div>
+    </div>
+</div>
+               
+   </div>
+
+      <!--<img width="32" height="32" alt="instagram" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media-32.png">-->
+      <div class="more-footer-nav">
+        <div class="menu-mandatories-navigation-container">
+          <ul id="menu-mandatories-navigation" class="menu">
+          <li id="menu-item-2410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2410"><a href="https://www.instagram.com/Laronteofficial"><img width="30" height="30" alt="instagram" src="https://www.laronte.net/wp-content/icons/licon_instagram.png"></a></li>
+            <li id="menu-item-2410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2410"><a href="https://www.facebook.com/Laronteofficial"><img width="30" height="30" alt="facebook" src="https://www.laronte.net/wp-content/icons/licon_facebook.png"></a></li>
+           <li id="menu-item-3386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386"><a href="https://twitter.com/larontenews"><img width="30" height="30" alt="twitter" src="https://www.laronte.net/wp-content/icons/licon_twitter.png"></a></li>
+            <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://www.youtube.com/larontevideo"><img width="30" height="30" alt="youtube" src="https://www.laronte.net/wp-content/icons/licon_youtube.png"></a></li>
+            <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.laronte.net/store/">STORE</a></li>
+            <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.laronte.net/terms/">TERMS</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="more-trade">
+            <p>&copy; LARONTE.NET & Laronte-Store. All rights reserved. 2014 <br/>Laronte.net & Laronte-Store uses Cookies and need to be enabled on your browser to use Laronte Account and any Laronte.net services. </p>
+       </div>
+                        
+    </div>
+    </div>
+  </nav>
+</footer>
+
+<style>.margen {padding: 20px; color: #ccc;}</style>
+<span class="margen hidden-desktop hidden-tablet"></span>
+<span id="phot" >
+<section id="main-content">
+  <div class="article-splash">
+    <div id="post_4261" class="article-gallery-container">
+      <div class="slides-container">
+        <ul class="slides">
+          <li class="slide">
+            <div class="image-embed">
+              <img class="desaturate" src="https://www.laronte.net/public/share_image/laronte_bd13102018.jpg">
+            </div>
+            <div class="attribution ">
+              <div class="container">
+                <div class="row">
+                  <div class="span12">
+                    <div class="attribution-text">
+                      <div class="title">DON'T FLY: Laronte/Single&nbsp;<a href="https://www.laronte.net/store/album/dontfly/" target="_top">BUY NOW!</a> <br></div>
+                      <div class="author"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          
+          <li class="slide">
+            <div class="image-embed">
+              <img src="https://www.laronte.net/public/share_image/laronte_bd13102018.jpg">
+            </div>
+            <div class="attribution ">
+              <div class="container">
+                <div class="row">
+                  <div class="span12">
+                    <div class="attribution-text">
+                      <div class="title">STAY UPDATE&nbsp;<a href="https://www.laronte.net/account/register.asp" target="_top">FREE REGISTER</a> <br></div>
+                      <div class="author"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <ul class="flex-direction-nav">
+        <li> <a class="flex-prev noTransition" href="#">Previous</a> </li>
+        <li> <a class="flex-next noTransition" href="#">Next</a> </li>
+      </ul>
+      <ul class="flex-pager">
+      </ul>
+      <div class="flex-trig"></div>
+    </div>
+    <script type="text/javascript">             
+        $(window).load(function () {
+             //$("#phot").fadeOut(2000);
+         });
+    </script>
+    
+    
+    <script type="text/javascript">
+    ;(function($) {
+        $(document).ready(function(){
+            $article4261 = $('#post_4261'),
+            $slides4261 = $article4261.children('.slides-container').children('.slides'),
+            $pagination4261 = $article4261.children('.flex-direction-nav'),
+            $next4261 = $pagination4261.children('li').children('a.flex-next'),
+            $prev4261 = $pagination4261.children('li').children('a.flex-prev'),
+            $trig4261 = $article4261.children('.flex-trig'),
+            $count4261 = $slides4261.children().length;
+            $gid4261 = $article4261.parent().parent().data('gid');
+            // $position4261 = $slides4261[0].style.left;
+
+            setTimeout(function(){
+                $dataUnslider4261 = $('#post_4261 .slides-container').data('unslider-' + $gid4261);
+                // console.log($gid4261);
+                // console.log($dataUnslider4261);
+
+                // $dataUnslider4261.play();
+            },1350);
+
+            $article4261.children('ul.flex-pager').addClass('pager4261');
+
+            for(var index = 1; index <= $count4261; index++){
+                $('.pager4261').append('<li data-pager="' + index + '"><a href="#" onclick="return false;">' + index + '</a></li>')
+            }
+
+
+            $('.pager4261 li:first-child').addClass('active');
+            $('.pager4261 li').each(function(){
+                $(this).click(function(){
+                    newSlide4261 = $(this).data('pager');
+                    //$slides4261.animate({'left':'-'+newSlide+'00%'});
+                    // console.log( $('#post_4261 .slides-container').data('unslider') );
+                    $newID = $(this).parent().parent().parent().parent().data('gid');
+
+                    if( $('body').hasClass('single-fiji_issue')){
+                        $myData4261 = $('#post_4261 .slides-container').data('unslider-' + $newID);
+                        $myData4261.to(newSlide4261);
+                    }else{
+                        $myData4261 = $('#post_4261 .slides-container').data('unslider');
+                        $myData4261.to(newSlide4261);
+                    }
+                    $('.pager4261 li').each(function(){$(this).removeClass('active');});
+                    $(this).addClass('active');
+                });
+            });
+
+            // $next4261.click(function(){
+            //     setTimeout(function(){
+            //         $position4261 = $slides4261[0].style.left;
+            //             $position4261.slice(1,2)
+            //     },300);
+            // });
+
+            // $prev4261.click(function(){
+            //     setTimeout(function(){
+            //         $position4261 = $slides4261[0].style.left;
+            //             $position4261.slice(1,2)
+            //     },300);
+            // });
+
+            $trig4261.click(function(){
+                setTimeout(function(){
+                    $position4261 = $slides4261[0].style.left;
+                        $newPos = $position4261.slice(1,2);
+                        $('.pager4261 li').each(function(){$(this).removeClass('active');});
+                        $('.pager4261 li[data-pager="'+ $newPos +'"]').addClass('active');
+                },350);
+            });
+
+            $article4261.children('ul.flex-direction-nav').children('li').click(function(){
+                setTimeout(function(){
+                    $position4261 = $slides4261[0].style.left;
+                        $newPos = $position4261.slice(1,2);
+                        $('.pager4261 li').each(function(){$(this).removeClass('active');});
+                        $('.pager4261 li[data-pager="'+ $newPos +'"]').addClass('active');
+                },300);
+            });
+
+            var slidesTimeoutResize4261;
+            $(window).resize(function(){
+                if(typeof slidesTimeoutResize4261 != 'undefined') clearTimeout(slidesTimeoutResize4261);
+                slidesTimeoutResize4261 = setTimeout(function(){
+                    $('#post_4261 li .attribution').each(function(){
+                        var visible = $(this).visible();
+                        if(visible){
+                            if(typeof captionHeight != 'undefined'){
+                                captionHeight = 0;
+                                if(captionHeight < $(this).height() ){
+                                    captionHeight = $(this).height();
+                                    // console.log('New Height! - ' + captionHeight);
+                                }
+                            }else{
+                                captionHeight = $(this).height();
+                                // console.log('Setting the height! - ' + captionHeight);
+                            }
+                        }
+                    });
+
+
+                if(typeof captionHeight != 'undefined'){
+                    if(captionHeight > 30){
+                        // $('ul.pager4261').css('bottom','94px');
+                    }else{
+                        // $('ul.pager4261').css('bottom','94px');
+                    }
+                }
+
+                    $('#post_4261 .flex-next').click(function(){
+                        setTimeout(function(){
+                        $('#post_4261 li .attribution').each(function(){
+                            var visible = $(this).visible();
+                            if(visible){
+                                if(typeof captionHeight != 'undefined'){
+                                    captionHeight = 0;
+                                    if(captionHeight < $(this).height() ){
+                                        captionHeight = $(this).height();
+                                        // console.log('New Height! - ' + captionHeight);
+                                    }
+                                }else{
+                                    captionHeight = $(this).height();
+                                    // console.log('Setting the height! - ' + captionHeight);
+                                }
+                            }
+                        });
+                            setTimeout(function(){
+                            if(captionHeight > 30){
+                                // $('ul.pager4261').css('bottom','94px');
+                            }else{
+                                // $('ul.pager4261').css('bottom','64px');
+                            }
+                            },250);
+                        },250);
+                    });
+
+                    $('#post_4261 .flex-prev').click(function(){
+                        setTimeout(function(){
+                        $('#post_4261 li .attribution').each(function(){
+                            var visible = $(this).visible();
+                            if(visible){
+                                if(typeof loadCaptionHeight !== 'undefined'){
+                                    loadCaptionHeight = 0;
+                                    if(loadCaptionHeight != $(this).height() ){
+                                        loadCaptionHeight = $(this).height();
+                                        // console.log('New Height! - ' + loadCaptionHeight);
+                                    }
+                                }else{
+                                    loadCaptionHeight = $(this).height();
+                                    // console.log('Setting the height! - ' + loadCaptionHeight);
+                                }
+                            }
+                        });
+                            setTimeout(function(){
+                                if(loadCaptionHeight > 30){
+                                    // $('ul.pager4261').css('bottom','94px');
+                                }else{
+                                    // $('ul.pager4261').css('bottom','64px');
+                                }
+                            },350);
+                        },250);
+                    });
+                },50);
+            });
+
+setTimeout(function(){
+    $(window).trigger('resize');
+},250);
+        });
+    })(jQuery);
+</script> 
+  </div>
+</section>
+</span>
+
+
+<section id="main-content" class='hidden-phone'>
+<div id='aviso' class="container row-fluid" style='top: 0px; position: fixed; z-index: 1;'>
+                 <div class="attributionTop">
+              <div class="container">
+                  <div class="row-fluid">
+                    <div class="attribution-text cajab">
+                      <div class="title displayblock div-left openlogin"><span id="fixe_menuTop">
+          <a class="footer-more-toggle " href="#"><img class="flex-pic" src="https://www.laronte.net/wp-content/icons/1902268-128.png" title="Login" alt="">  Login </a>for more activity.
+          </span> <br></div>
+          
+          <div class="div-right">
+          <div class="fb-like displayblock onright" data-href="https://www.facebook.com/laronteofficial" data-width="50" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false">Facebook</div>
+          <div class="onright">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laronte&nbsp;</div>
+          <div id="fixe_menuTop_button" class="onright"></div>
+                    </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+      </div>
+</section>
+
+
+<section id="main-content ">
+<span id="updatepage"></span>
+  <div class="container">
+    <div class="inner-main-content row">
+     <!--Activity area-->
+      <div class="page-content" >
+        <!--<div id="actplayer" class=""></div>
+        <div id="lrntplayerbox" class=""></div>-->
+       </div>
+       
+       <!--Test new player music-->
+       <div id="" class="">
+    <div class="motion page-content row-fluid" >
+        <ul class='company-info-list' style="background-color: #FFFFFF;">
+        <div id="" class="" >
+        
+        <div id="actplayerNO" class=""></div>
+        <div id="lrntplayerboxNO" class=""></div>
+          
+        </div>
+        <hr>
+        </ul>
+    </div>
+    </div>
+    <!---->
+       
+       
+    <div id="moving" class="">
+    <div class="motion page-content row-fluid" >
+        <ul class='company-info-list' style="background-color: #FFFFFF;">
+        <div id="notify" class="" ></div>
+        <hr>
+        </ul>
+    </div>
+    </div>
+      <!--end activity area-->
+  
+      
+   <!--Post area-->
+       <span id="toppagepost" class=""></span>
+      <div class="motion page-content span7">
+        <ul class='company-info-list'>
+          <div id="articles" class="">
+           <div id="contentarea_demo1" class="345 span7 cable offset0" style=''></div>
+           <div id="results"><!-- results appear here --></div>
+         </div>
+          <div id="error" class="langlang"></div>
+          <!--<div id="contentform"></div>-->
+          <br>
+        </ul>
+      <div class="page-content span7 offset0 loadpg" style='height: 180px; background-color: #FFFFFF;'>
+        <div class="center">
+           <img src='https://www.laronte.net/wp-content/icons/minifindstore_spin.gif' id="loading" class="">
+         </div>
+         
+      </div>
+    </div>
+    <!--end Post area-->
+    
+      <style>.fix-me-content{margin-top: 10px;background: #FFFFFF; padding: 8px; width: auto;}</style>
+  <aside id='fix-me' class='article-sidebar span5 hidden-phone hidden-tablet '>
+ <div class="fix-me-content ">
+    <ul>
+      <li>
+        <div class="contact-info">
+          <div id="" class="" ></div>
+          <a href="https://www.laronte.net/store/" target="_blank"><img width="300" height="500" src="https://www.laronte.net/wp-content/advertisement/lrnt_store.jpg" border="0"></a>
+        </div>
+      </li>
+      <li>
+        <h5>JOIN LaronteStore®</h5>
+        <div class="contact-info">
+          <p><a href="https://www.laronte.net/account/register/" target="top">ACTIVATE YOUR ACCOUNT</a>: It’s fast and easy. Sign up to receive emails with members-only offers and see what’s happening at our Laronte website. Plus, you can receive comps and discounts for your next visit.</p>
+        </div>
+      </li>
+      
+      <br><br>
+      <li>
+        <div class="contact-info">
+          <div id="" class="" ></div>
+          <a href="https://www.facebook.com/veneromagazine" target="_blank"><img width="450" height="" src="https://www.laronte.net/wp-content/advertisement/veneromagazine_octobre2018.jpg" border="0"></a>
+        </div>
+      </li>
+      <li>
+        <h5>VeneroMagazine®</h5>
+        <div class="contact-info cerrar">
+          <p>Cómo administrar el dinero:<br>
+El manejo de las finanzas personales es un tema que no se enseña en muchas escuelas, pero es algo a lo que prácticamente todo el mundo debe enfrentarse tarde o temprano. Esto y mucho más detalles te lo contamos aquí en #VeneroMagazine</p>
+        </div>
+        <div class="fb-like" data-href="https://www.facebook.com/veneromagazine" data-width="50" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+      </li>
+    </ul>
+    </div>
+    <!--
+    <br>
+    <div class="fix-me-content ">
+    <ul>
+      <li>
+        <h5>Info</h5>
+        <div class="contact-info">
+          <p>...</p>
+        </div>
+      </li>
+    </ul>
+    </div>
+    -->
+  </aside>
+ 
+    </div>
+  </div>
+</section>
+
+<section id="main-content">
+  <div class="container">
+    
+  </div>
+</section>
+
+
+<!--
+<section id="main-content">
+  <div class="container">
+    <div class="inner-main-content row">
+      <div class="page-content span10 offset1">
+        
+      </div>
+    </div>
+  </div>
+</section>
+-->
+
+
+<!-- #main-content --> 
+<script type="text/javascript">
+            var require = {
+                baseUrl: "https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/"
+            }
+        </script> 
+<script data-main="main.js" src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/vendor/requirejs/require.js"></script> 
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/src/templates/template-partners.js"></script> 
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/src/templates/template-faqs-store.js"></script> 
+<script src="https://www.laronte.net/wp-content/themes/lrnt/assets/scripts/src/templates/guide-store.js"></script> 
+        
+<script type="text/javascript">  
+$(document).ready(function() {
+  $("#loginpost").click(function(){
+	  $('html, body').animate(
+		{
+		scrollTop: $("#updatepage").offset().top
+		}, 0);
+    var username = $("#username").val();  
+    var password = $("#password").val(); 
+	
+    $.ajax({
+      type: "POST",
+	  url: "https://www.laronte.net/account/login.asp?step=2",
+      data: "username=" + username + "&password=" + password,
+      dataType: "html",
+	  
+      success: function(msg) {
+        $("#confermalogin").html(msg);
+		$(".footer-more-nav, .footer-more-toggle, #site-footer").removeClass("active");
+        verific();
+		changelink();
+      },
+	  
+      error: function(){
+		  //$("#conferma").html(msg);
+      }
+    });
+  });
+});
+
+</script>
+
+<script type="text/javascript">
+	function ajaxSubmit() {
+    var url = "https://www.laronte.net/account/add-comment/fb_register.asp"; 
+    $.ajax({
+           type: "POST",
+           url: url,
+           data: $("#fbregister").serialize(), // serializes the form's elements.
+		   success: function(data)
+			{
+				 $("#actplayer").load("/account/add-comment/act-player.asp");
+				 $('#content-form').hide();
+				 //$(".footer-more-nav, .footer-more-toggle, #site-footer").removeClass("active");
+				  verific();
+				  changelink();
+				  cleardiv();
+				  //interval(function(){
+        //$('#contentarea_demo1').load('https://www.laronte.net/account/add-comment/post_news.asp?pag=1');
+    //}, 3000, 1);
+	
+           }
+         });
+    return false; // avoid to execute the actual submit of the form.
+}
+</script>
+
+<script type="text/javascript">
+            (function($) {
+                $(document).ready(function(){
+                    $(".closeMe, .closeMeb").click(function(e) {
+                        //$(".footer-country-select, .country-selector").removeClass("active");
+                        $(".footer-more-nav, .footer-more-toggle, #site-footer").removeClass("active");
+						e.preventDefault();
+                    });
+                });
+            })(jQuery);
+
+        </script>
+        
+        
+ <script type="text/javascript">
+	(function($) {
+		$(document).ready(function(){
+			$(".openlogin").click(function(e) {
+				$(".footer-more-nav, .footer-more-toggle, #site-footer").addClass("active");
+				e.preventDefault();
+			});
+		});
+	})(jQuery);
+
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+$('#aviso').hide(0);
+  $(window).scroll(function(){
+	  var windowHeight = $(window).scrollTop();
+	  var contenido2 = $("#toppagepost").offset();
+	  contenido2 = contenido2.top;
+	  if(windowHeight >= contenido2  ){
+		  $('#aviso').fadeIn(500);
+	  }else{
+		  $('#aviso').fadeOut(500);
+	  }
+  });
+});
+</script>
+        
+<script type="text/javascript">
+function cleardiv() {
+	//$(".registerforfree").empty(); 
+	//$('#inner').empty();
+	
+	$("a[href=#out]").click(function(event) {
+	editable.hide();
+	current.show();
+}); 
+    }
+</script>
+       
+<script type="text/javascript">
+		  (function($)
+{
+    $(document).ready(function()
+    {
+        $.ajaxSetup(
+        {
+            cache: false,
+            beforeSend: function() {
+                $('#content').hide();
+                $('#loading').show();
+            },
+            complete: function() {
+                $('#loading').hide();
+                $('#content').show();
+            },
+            success: function() {
+                $('#loading').hide();
+                $('#content').show();
+				
+            }
+        });
+		
+		
+        //var $container = $("#notify");
+        //$container.load('https://www.laronte.net/account/add-comment/notification.asp');
+        //var refreshId = setInterval(function()
+        //{
+        //    $container.load('https://www.laronte.net/account/add-comment/notification.asp');
+        //}, 20000);
+        //});
+        //})(jQuery);
+
+		  </script>
+          
+          
+          <script type="text/javascript">
+		  window.onbeforeunload = function() { 
+		    //return updatestatusOFF(); 
+		  }
+		  
+		  function updatestatusOFF(){
+            //$('#updatepage').load('https://www.laronte.net/account/logout.asp');
+          }
+		  
+	      
+    </script>
+    
+    <script type="text/javascript">
+	window.setInterval(function(){ 
+          $('#useractive').load('https://www.laronte.net/account/add-comment/notification.asp #useractive');
+		  $('#guestonline').load('https://www.laronte.net/account/add-comment/notification.asp #guestonline');
+		  $('#guestonline2').load('https://www.laronte.net/account/add-comment/notification.asp #guestonline2');
+		  $.imgReload();
+          }, 5000 ); //30000
+		  
+	</script>
+    
+    <script>
+    $(document).ready(function() {
+		interval(function(){
+        verific();
+    }, 20000, 1);
+	$('#lrntplayerbox').load('https://www.laronte.net/account/add-comment/lrntplayer.asp');
+	});
+	</script>
+    
+          
+    <script type="text/javascript">
+$(document).ready(function() {
+    $("#toppage, #header-logo").click(function(e) {
+        //$("html, body").animate({ scrollTop: 0 }, "slow");
+		
+		$('html, body').animate({
+        scrollTop: $("#updatepage").offset().top
+    }, 1000);
+	
+	interval(function(){
+        $('#contentarea_demo1').load('https://www.laronte.net/account/add-comment/post_news.asp?pag=1');
+    }, 3000, 1);
+        return false;
+    }); 
+	
+	//FBconnect();
+});
+
+function interval(func, wait, times){
+    var interv = function(w, t){
+        return function(){
+            if(typeof t === "undefined" || t-- > 0){
+                setTimeout(interv, w);
+                try{
+                    func.call(null);
+                }
+                catch(e){
+                    t = 0;
+                    throw e.toString();
+                }
+            }
+        };
+    }(wait, times);
+
+    setTimeout(interv, wait);
+};
+
+
+ </script>
+ 
+
+ 
+ 
+ <script>
+function activeUSER() { 
+    FB.api('/me?fields=id,email,name,picture,first_name,last_name,link', function(response) { 
+      //console.log('<img class="img-circle" style="" width="35" height="35" src=" '+ response.picture.data.url +' "> Welcome! ' + response.name + ' ');
+
+		//document.getElementById('fbImg').innerHTML =
+        //('<p style="color:#FFF" fontSize="17px"><img class="img-circle" style="" width="35" height="35" src=" '+ response.picture.data.url +' "> ' +  response.name  + ' (FB Connect)</p>');
+		document.getElementById('top_avatar_menuA').innerHTML = ('<span id="top_avatar_menuA" class="top_avatar_menu footer-more-toggle openlogin"><a href="#" ><img id="" src=" '+ response.picture.data.url +' " class="img-circle desaturate active_icon_menu" width="35" height="35"></a></span>');
+		document.getElementById('top_avatar_menuB').innerHTML = ('<span id="top_avatar_menuB" class="top_avatar_menu footer-more-toggle openlogin"><a href="#" ><img id="" src=" '+ response.picture.data.url +' " class="img-circle desaturate active_icon_menu" width="35" height="35" ></a></span>');
+		document.getElementById('fb-button').style.display = 'none';
+		$('#loginpost').val(' CONTINUE ');
+		$('#logfb').hide();
+		var username = document.getElementById("username").value = response.first_name + response.id; 
+        var password = document.getElementById("password").value = response.id;
+		
+    //$('#inner').empty();
+	cleardiv();
+	var code = document.getElementById("code").value = response.id;
+    var new_username = document.getElementById("new_username").value = response.first_name + response.id; 
+    var new_password = document.getElementById("new_password").value = response.id;
+    var email = document.getElementById("email").value = response.email; 
+    var nome = document.getElementById("nome").value = response.first_name; 
+	var cognome = document.getElementById("cognome").value = response.last_name;
+	var myicon = document.getElementById("myicon").value = "default_icon.jpg";
+	var webpage = document.getElementById("webpage").value = response.link;
+	var newsletter = document.getElementById("newsletter").value = "yes"
+	var authority = document.getElementById("authority").value = "user";
+	var stato = document.getElementById("stato").value = "Active";
+	var copy_icon = document.getElementById("copy_icon").value = 'https://graph.facebook.com/'+ response.id +'/picture';
+	
+		var cod = read('userCode');
+        if (cod == "") {
+		   fbverific();
+		   //verific();
+        }
+		else {
+		$('#content-form').hide();
+		svuota_lista();
+		changelink();
+		cleardiv();
+		//document.getElementById('fb-button').style.display = 'block';
+		//$(".footer-more-nav, .footer-more-toggle, #site-footer").removeClass("active");
+		//interval(function(){
+        //$('#contentarea_demo1').load('https://www.laronte.net/account/add-comment/post_news.asp?pag=1');
+    //}, 3000, 1);
+		}
+		
+      
+    }); 
+  } 
+
+(function () {
+    var old = console.log;
+    var logger = document.getElementById('log');
+    console.log = function () {
+      for (var i = 0; i < arguments.length; i++) {
+        if (typeof arguments[i] == 'object') {
+            logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<br />';
+        } else {
+            logger.innerHTML += arguments[i] + '<br />';
+        }
+      }
+    }
+})();
+</script>
+
+
+<script type="text/javascript">
+
+      function fbverific() { 
+      var code = document.getElementById("code").value; 
+      var new_username = document.getElementById("username").value;
+      var new_password = document.getElementById("password").value; 
+      var email = document.getElementById("email").value; 
+      var nome = document.getElementById("nome").value;
+	  var cognome = document.getElementById("cognome").value;
+	  var citta = document.getElementById("citta").value;
+	  var country = document.getElementById("country").value;
+	  var myicon = document.getElementById("myicon").value;
+	  var webpage = document.getElementById("webpage").value;
+	  var newsletter = document.getElementById("newsletter").value;
+	  var authority = document.getElementById("authority").value;
+	  //var dataregistrazione = document.getElementById("dataregistrazione").value;
+	  var stato = document.getElementById("stato").value;
+	  var copy_icon = document.getElementById("copy_icon").value;
+	  
+      var controlemail = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;    
+
+	  if ((username == "") || (username == "undefined")) { 
+         //alert("Username: Error"); 
+         document.register.username.focus();
+         $(".footer-more-nav, .footer-more-toggle, #site-footer").addClass("active");
+         return false;
+        
+      } 
+
+      else if ((code == "") || (code == "undefined")) { 
+         //alert("UseCode: Error"); 
+         document.register.code.focus();
+         $(".footer-more-nav, .footer-more-toggle, #site-footer").addClass("active");
+         return false;
+         
+      } 
+      
+      else if ((email == "") || (email == "undefined")) { 
+         //alert("..."); 
+         document.getElementById('fbreg').style.display = 'block';
+		 document.getElementById('content-form').style.display = 'none';
+		 document.getElementById('fb-button').style.display = 'none';
+         $(".footer-more-nav, .footer-more-toggle, #site-footer").addClass("active");
+document.getElementById('status_name').innerHTML = ("The connection with Laronte.net has been <b>revoked</b>, the use of your <b>email</b> is mandatory. Thank you for visiting us and we hope that your return immediate!<br><br>La coneccion con Laronte.net a sido <b>revocada</b>, el uso de tu <b>email</b> es obligatoria. Gracias por visitarnos y esperamos que tu regreso sea inmediato!");
+         document.register.email.value = "webmaster@laronte.net";
+		 document.register.newsletter.value = "no";
+		 document.register.email.focus();
+         return true; 
+         
+      } else { 
+	  $('#loginpost').val('CONTINUE');
+		 ajaxSubmit();
+		 
+      } 
+   }
+
+</script>
+
+<script type="text/javascript">
+$('#submit_').on('click',function (e) {
+	$('#content-form').show();
+	document.getElementById('fbreg').style.display = 'none';
+    document.getElementById('fb-button').style.display = 'block';
+	document.getElementById('status_name').innerHTML = ("");
+    }); 
+</script>
+  
+<script type="text/javascript">
+$(function () {
+    $('#fbregister').on('submit',function (e) {
+              $.ajax({
+                type: 'post',
+                url: 'https://www.laronte.net/account/add-comment/fb_register.asp',
+                data: $('#fbregister').serialize(),
+                success: function () {
+				 $("#actplayer").load("https://www.laronte.net/account/add-comment/act-player.asp");
+				  $('#content-form').hide();
+				  verific();
+				  changelink();
+				  cleardiv();
+				  //document.getElementById('fb-button').style.display = 'block';
+				  $(".footer-more-nav, .footer-more-toggle, #site-footer").removeClass("active");
+				  interval(function(){
+        $('#contentarea_demo1').load('https://www.laronte.net/account/add-comment/post_news.asp?pag=1');
+    }, 3000, 1);
+                }
+              });
+          e.preventDefault();
+        });
+});
+
+</script>
+ 
+<style>
+.menu-top-fijo {
+position: fixed;
+top: 50;
+z-index: 3000000;
+/* width:  auto;*/ 
+width: 100%;
+
+}
+
+.menu-top-bajo {
+position: fixed;
+top: 39;
+z-index: 3000000;
+/* width:  auto; width: 100%;*/ 
+overflow: hidden;
+ 
+}
+
+.menu-formup {
+position: fixed;
+top: 39;
+z-index: 3000000;
+/* width:  auto;*/ 
+width: 100%;
+overflow: hidden;
+background-color: #212020;
+ 
+}
+
+img.desaturate {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	}
+	
+.closeMeb {
+
+text-align:right;
+background: url('https://www.laronte.net/wp-content/themes/lrnt/assets/images/small-white-x.png') no-repeat right;
+ width: auto;
+height: 20px;
+top: 5px;
+right: 5px;
+cursor: pointer;
+opacity:.75;
+	}
+	
+	.closeMeb:hover {
+	opacity:1;
+}
+</style>
+
+<style style="color: #DB4437">
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,300);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+/*@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);*/
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+body, html{
+  background: #f1f1f1;
+  /*font-size:6px;*/
+   -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+    font-family: 'Roboto', sans-serif;
+	
+  }
+
+.fb_iframe_widget iframe {
+     position: relative!important;
+}
+
+.divide-desktop { border: 8px solid #F7F7F7; background-color: #F7F7F7; }
+
+
+.attributionTop {
+  background-color: #FFFFFF;
+  font-size: 17px;
+  padding: 15px 0;
+  text-align: left;
+  color: #313030;
+  border-bottom: 1px solid #E7E4E4;
+
+}
+</style>
+
+<style>
+.displayblock {
+  display: inline-block;
+}
+
+.cajab {
+  /* Por defecto en modo fila, uno al lado del otro */
+  display: flex;
+  flex-flow: row;
+  
+}
+
+
+@media (max-width: 450px) {
+  .cajab {
+    /* si es muy angosta, uno debajo del otro */
+    flex-flow: column;
+	width: 100%;
+  }
+}
+
+.div-left {
+  background-color: #FFFFFF;
+  width: 50%;
+ 
+}
+
+.div-right {
+  font-size: 13px;
+  color: #313030;
+  background-color: #FFFFFF;
+  width: 80%;
+  
+}
+
+.onright {
+ float: right;
+  
+}
+
+.button-form-comment {
+    background-color: #FFFFFF;
+    border: none;
+    color: #666;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 13px;
+    cursor: pointer;
+	height: 40px;
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+	-moz-user-select: none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+
+.button-form-comment:hover {
+    background-color: #FBFBFB;
+}
+</style>
+
+</body>
+</html>

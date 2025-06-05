@@ -1,0 +1,2459 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<html lang="en">
+<head>
+    <title>Home | Office in Valletta | European Parliament</title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/modules/webmaster-jahia-components-library/img/favicons/favicon.ico"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/modules/webmaster-jahia-components-library/img/favicons/favicon-16x16.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/modules/webmaster-jahia-components-library/img/favicons/favicon-32x32.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/modules/webmaster-jahia-components-library/img/favicons/apple-touch-icon-57x57.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/modules/webmaster-jahia-components-library/img/favicons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/modules/webmaster-jahia-components-library/img/favicons/apple-touch-icon-144x144.png"/>
+
+<meta name="robots" 					content="index, follow, noodp, noydir, notranslate, noarchive"/>
+<meta name="description" 				content="Get the latest news, information and event details from the European Parliament Liaison Office in Malta, and join our online community!"/>
+
+<link rel="canonical" href="https://valletta.europarl.europa.eu/en" />
+<link rel="alternate" hreflang="mt" href="https://valletta.europarl.europa.eu/mt"/>
+<!-- SOCIAL -->
+<!--Facebook, LinkedIn-->
+<meta property="og:title" 				content="Home | Office in Valletta | European Parliament"/>
+<meta property="og:url" 				content="https://valletta.europarl.europa.eu/en"/>
+<meta property="og:site_name" 			content="European Parliament"/>
+<meta property="og:description" 		content="Get the latest news, information and event details from the European Parliament Liaison Office in Malta, and join our online community!"/>
+<!--Facebook/LinkedIn-->
+<meta property="og:image" 				content="https://valletta.europarl.europa.eu/files/live/sites/eplo-valletta/files/assets/social-media/opengraph/meta-facebook-en.jpg"/>
+<!--Twitter-->
+<meta property="twitter:card" 			content="summary"/>
+<meta property="twitter:title" 			content="Home | Office in Valletta | European Parliament"/>
+<meta property="twitter:image" 			content="https://valletta.europarl.europa.eu/files/live/sites/eplo-valletta/files/assets/social-media/opengraph/meta-twitter-en.jpg"/>
+<meta property="twitter:site" 			content="Europarl_EN"/>
+<meta property="twitter:description" 	content="Get the latest news, information and event details from the European Parliament Liaison Office in Malta, and join our online community!"/>
+<!-- ASSETS -->
+<meta http-equiv="X-UA-Compatible" 		content="IE=edge,chrome=1"/>
+
+
+<script type="text/javascript" defer data-tracker-name="ATInternet" data-value="//www.europarl.europa.eu/website/webanalytics/ati-eplos.js" src="//www.europarl.europa.eu/website/privacy-policy/privacy-policy.js"></script><!-- MAP related resources -->
+<link rel="stylesheet" type="text/css" href="https://www.europarl.europa.eu/website/widgets/epas_map/map.css"/>
+
+<script async="async" type="text/javascript" src="https://www.europarl.europa.eu/website/widgets/epas_map/behaviour.js"></script>
+<script type="text/javascript" defer src="https://europa.eu/webtools/load.js"></script>
+<script type="text/javascript">
+    /* // INIT MAP // */
+    /*<![CDATA[*/
+    var __amd$delayedDefines = []
+    function define() {
+        var args = Array.prototype.slice.call(arguments)
+        window.__amd$delayedDefines.push(function () {
+            window.define.apply(window, args)
+        })
+    }
+    /*define.amd = {}*/
+    define('init-map', ['map-selector'], function(mcs) {
+        mcs();
+    });
+    define('office-selector-loader', ['office-selector'], function() {});
+    /*]]>*/
+</script>
+<script type="application/json" id="jahia-data-ctx">{"contextPath":"","lang":"en","uilang":"en","siteUuid":"3862f7fa-65bf-4329-b471-339e80ce9352","wcag":true,"ckeCfg":""}</script>
+<script type="application/json" id="jahia-data-ck">{"path":"/modules/ckeditor/javascript/","lng":"en_US"}</script>
+<script src="/javascript/initJahiaContext.js"></script>
+<link id="staticAssetCSS0" rel="stylesheet" href="/generated-resources/a9c26f61d11fb8e541db57eadaf6159.min.css" media="screen" type="text/css"/>
+<script id="staticAssetJavascript0" src="/modules/webmaster-jahia-components-library/javascript/components/wjclnt_navBar/navBar.white.js?v=4.5.2"  defer></script>
+<script id="staticAssetJavascript1" src="/modules/webmaster-jahia-components-library/javascript/components/wjclnt_storyList/storyList.js?v=4.5.2"  defer></script>
+<script id="staticAssetJavascript2" src="/generated-resources/1af0ba63dd98e122b066a792fd65241c.min.js"  ></script>
+<script type="application/json" id="jahia-data-aggregatedjs">{"scripts":["/modules/eplo-office-templates/javascript/js/jquery-3.6.0.min.js","/modules/webmaster-jahia-components-library/javascript/global_utils/dom.js","/modules/webmaster-jahia-components-library/javascript/global_utils/ajax.js","/modules/webmaster-jahia-components-library/javascript/global_utils/date-time.js","/modules/webmaster-jahia-components-library/javascript/global_utils/clipboard.js","/modules/webmaster-jahia-components-library/javascript/global_utils/global-helper.js","/modules/webmaster-jahia-components-library/javascript/components/wjclnt_header/header.js","/modules/webmaster-jahia-components-library/javascript/components/wjclnt_footer/footer.js","/modules/webmaster-jahia-components-library/javascript/js/bootstrap.bundle.js","/modules/eplo-office-templates/javascript/js/jquery.waypoints.min.js"]}</script>
+
+<script type="text/javascript" src="/modules/CsrfServlet"></script>
+</head>
+
+<body id="website-body" data-website="EPLO">
+<!--start bodywrapper-->
+<div class="wrapper-page">
+    
+<header id="main-header">
+    <div data-component="shortcuts" class="container">
+	<div class="row">
+		<div class="col-12">
+			<nav class="wai-shortcut" aria-label="Skip navigation links">
+				<ul class="position-fixed start-0 top-0 d-block w-100 zindex-10000">
+					<li class="position-relative d-block my-0 mx-auto">
+						<a href="#main-content" class="text-decoration-none position-absolute start-5px top-5px overflow-hidden d-block bg-blue-dark text-white display-body box-shadow-r focus-outline-wai">
+							<span class="label d-block py-3 px-4 border border-white text-white">Access to page content (press 'Enter')</span>
+						</a>
+					</li>
+					<li class="position-relative d-block my-0 mx-auto">
+						<a href="#navbar-area" class="text-decoration-none position-absolute start-5px top-5px overflow-hidden d-block bg-blue-dark text-white display-body box-shadow-r focus-outline-wai">
+							<span class="label d-block py-3 px-4 border border-white text-white">Direct access to main navigation (press "Enter")</span>
+						</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<!-- START TOOLBAR -->
+<div class="container-fluid border-width-2 border-bottom border-muted px-sm-0 px-lgr-2 topbar">
+	<div class="container">
+		<div class="row">
+
+			<!-- START LANGUAGE SWITCHER  -->
+			<div class="col-6 col-sm px-0">
+				<nav id="language-select"
+					 class="langNav navbar navbar-expand navbar-light h-100 py-0"
+					 aria-label="Change the navigation language">
+					<div class="h-100">
+						<div class="navbar-nav h-100">
+							<div class="nav-item dropdown pt-0">
+								<button type="button"
+										data-bs-toggle="dropdown"
+										aria-expanded="false"
+										aria-controls="language-list"
+										class="btn border-0 btn-sm nav-link dropdown-toggle w-100 h-100 py-2 text-start hover-animate hover-animate-up focus-outline-offset-wai pe-2rem">
+								<span class="visually-hidden">
+									Select a language; Currently :</span>
+									<span class="text-muted small d-inline-block display-13 fw-normal text-gray-dark" id="language-title">
+									EN - English</span>
+								</button>
+
+								<ul id="language-list" class="dropdown-menu dropdown-overflow-48 w-100 bg-gray-lighter mt-0 py-0 border-0">
+									<li>
+										<a href="" lang="en" hreflang="en" class="current dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+											aria-current="true" >
+											<span class="d-inline-block py-2 w-100 border-bottom">EN - English</span>
+										</a>
+									</li>
+									<li>
+										<a href="/mt" lang="mt" hreflang="mt" class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+											 >
+											<span class="d-inline-block py-2 w-100 border-bottom">MT - Malti</span>
+										</a>
+									</li>
+									</ul>
+							</div>
+						</div>
+					</div>
+					</nav>
+			</div>
+			<!-- END LANGUAGE SWITCHER -->
+
+			<!-- LINK LIST HEADER-->
+<div data-component="nav-other-planets" class="col-6 col-sm-auto px-0 text-end">
+    <nav class="navbar navbar-expand navbar-light text-end d-flex justify-content-end py-0" aria-labelledby="otherDropdownMenuLink">
+        <div class="w-100 w-sm-auto">
+            <div id="otherNavDropdown" class="w-100">
+                <ul class="nav-top navbar-nav w-100 w-sm-auto flex-wrap">
+                    <li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/news/en/" target='_self' style="">
+		<span>News</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/topics/en/" target='_self' style="">
+		<span>Topics</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/meps/en/home" target='_self' style="">
+		<span>MEPs</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/about-parliament/en" target='_self' style="">
+		<span>About Parliament</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/plenary/en/home.html" target='_self' style="">
+		<span>Plenary</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/committees/en/home" target='_self' style="">
+		<span>Committees</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://www.europarl.europa.eu/delegations/en/home" target='_self' style="">
+		<span>Delegations</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="btn btn-link btn-sm nav-item d-none d-lgr-inline text-decoration-none p-0 border-0">
+	<a class="nav-link text-end text-muted small pb-75 pt-75 me-1 display-13 fw-normal text-gray-dark hover-animate hover-animate-up focus-outline-offset-wai" href="https://elections.europa.eu/en/" target='_self' style="">
+		<span>Elections</span>
+	</a>
+</li>
+<!-- END SIMPLE LINK HEADER --><li class="nav-item dropdown pt-0 w-100 w-sm-auto">
+                        <button
+                                type="button"
+                                class="btn btn-sm nav-link dropdown-toggle bg-13 position-relative h-100 w-100 border-0 py-2 text-start hover-animate hover-animate-up focus-outline-offset-wai pe-2rem"
+                                id="otherDropdownMenuLink"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                        >
+                            <span class="text-muted small d-inline-block display-13 fw-normal text-gray-dark">
+                                Other websites</span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-end dropdown-overflow-48 end-0 w-100 bg-gray-lighter mt-0 py-0 border-0 box-shadow-r" aria-labelledby="otherDropdownMenuLink">
+                            <li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/news/en/" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            News</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/topics/en/" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            Topics</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/meps/en/home" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            MEPs</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/about-parliament/en" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            About Parliament</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/plenary/en/home.html" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            Plenary</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/committees/en/home" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            Committees</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://www.europarl.europa.eu/delegations/en/home" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            Delegations</span>
+    </a>
+</li><li class="d-lgr-none">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai"
+       href="https://elections.europa.eu/en/" target='_self' style="">
+        <span class="d-inline-block py-2 w-100 border-bottom">
+            Elections</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://multimedia.europarl.europa.eu/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Multimedia centre</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://the-president.europarl.europa.eu/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Presidency</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://the-secretary-general.europarl.europa.eu/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Secretariat-General</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://www.europarl.europa.eu/thinktank/en/home" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Think tank</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://epnewshub.eu/" target='_blank' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            EP Newshub</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://www.europarl.europa.eu/at-your-service/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            At your service</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://visiting.europarl.europa.eu/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Visiting</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://www.europarl.europa.eu/legislative-train/" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Legislative train</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://www.europarl.europa.eu/contracts-and-grants/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Contracts and Grants</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://www.europarl.europa.eu/RegistreWeb/home/welcome.htm?language=en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Register</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://data.europarl.europa.eu/en/home" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Open data portal</span>
+    </a>
+</li><li class="">
+    <a class="dropdown-item display-13 text-muted text-gray-dark py-0 hover-animate hover-animate-right focus-outline-offset-wai" href="https://liaison-offices.europarl.europa.eu/en" target='_self' style="">
+		<span class="d-inline-block pt-75 pb-75 w-100 border-bottom">
+            Liaison offices</span>
+    </a>
+</li></ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    </div>
+<!-- LINK LIST HEADER--></div>
+	</div>
+</div>
+<!-- END TOOLBAR --><div data-component="header-titles" class="py-4">
+	<div class="container">
+		<div class="row d-flex align-items-center">
+			<div class="col-12 col-lg-9 ps-0">
+				<div class="d-inline-flex align-items-center">
+                <span class="EPlogo-wrapper position-relative">
+                  <a href="https://liaison-offices.europarl.europa.eu/home.html" class="d-block ff-serif text-dark ms-3 text-decoration-none focus-outline-wai">
+                    <span class="d-block fs-2 lh-normal">Liaison offices</span>
+                  </a>
+                  <a href="https://www.europarl.europa.eu/portal/en" class="ms-3 ff-sans text-dark text-decoration-none d-block focus-outline-wai">
+                    <span class="d-block small">European Parliament</span>
+                    <span class="EPlogo"></span>
+                  </a>
+                </span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></header><div data-component="nav-main" id="sticky-top" class="bottombar">
+    <div class="container-fluid position-relative bg-primary bg-gradient border-1 border-bottom border-white shadow">
+                <div class="container position-relative zindex-101 p-0">
+                    <div class="wrapper-tools position-relative d-flex flex-row-reverse d-lgm-block py-1 py-lgm-0">
+                        <nav id="mainNav" class="navbar-expand navbar-dark">
+                            <div class="col ml-n1 d-flex justify-content-end d-lgm-block">
+                                <div class="dropdown d-lgm-none zindex-10">
+                                    <button id="hamburger-menu-button"
+                                            type="button"
+                                            class="hamburger-link bg-blue-dark border-0 text-decoration-none lh-normal rounded rounded-3 btn-secondary text-white d-flex py-2 px-2 focus-outline-offset-wai-white"
+                                            data-bs-toggle="dropdown1"
+                                            data-bs-auto-close="outside"
+                                            data-bs-offset="0,4"
+                                            aria-expanded="false">
+                                        <span class="d-block small text-uppercase me-1">Menu</span>
+                                        <span class="hamburger-icon text-white"></span>
+                                    </button>
+                                </div>
+                                <ul id="navbar-area" class="nav-main navbar-nav d-none d-lgm-flex">
+                                    <!-- START NAVBAR LINK ONE -->
+<li class="nav-item pt-0 d-lgm-block">
+    <a
+        class="position-relative text-white nav-link btn-link btn-mainNav pt-75 pb-75 fw-light text-start display-body hover-animate hover-animate-up focus-outline-offset-wai-white"
+        
+        href="https://liaison-offices.europarl.europa.eu/home.html"
+        
+
+    >
+        <span class="text-wrap lh-normal">Home</span>
+        <span class="visually-hidden">Home</span>
+        </a>
+</li>
+<!-- END NAVBAR LINK LEVELS ONE  --><!-- START NAVBAR LINK ONE -->
+<li class="nav-item pt-0 d-lgm-block">
+    <a
+        class="position-relative text-white nav-link btn-link btn-mainNav pt-75 pb-75 fw-light text-start display-body hover-animate hover-animate-up focus-outline-offset-wai-white"
+        
+        href="https://liaison-offices.europarl.europa.eu/home/mission.html"
+        
+
+    >
+        <span class="text-wrap lh-normal">Mission</span>
+        <span class="visually-hidden">Mission</span>
+        </a>
+</li>
+<!-- END NAVBAR LINK LEVELS ONE  --><!-- START NAVBAR DROPDOWN LEVEL ONE -->
+
+<li data-component="navBarDropDownLevelOne" class="nav-item pt-0 d-lgm-block">
+    <button
+        type="button"
+        class="main-menu btn-mainNav position-relative text-white btn btn-link nav-link dropdown-toggle display-body fw-light pe-4 h-100 pt-75 pb-75 hover-animate hover-animate-up focus-outline-offset-wai-white pe-4"
+        id="Offices"
+        data-bs-toggle="dropdown"
+        data-bs-auto-close="outside"
+        aria-expanded="false"
+    >
+        <span class="lh-normal text-wrap">Offices</span>
+    </button>
+    <ul class="dropdown-menu mt-0 py-0" aria-labelledby="Offices">
+        <li data-component="navBarDropDownLevelTwoThree" class="nav-item position-relative pt-0 d-lgm-block">
+            <!-- START NAVBAR LINK LEVELS TWO AND THREE -->
+<a
+        class="text-gray-dark position-relative nav-link btn-link btn-mainNav pt-75 pb-75 ps-lgm-4 pe-lgm-3 pt-lgm-3 pb-lgm-3 fw-light text-start display-body hover-animate hover-animate-right focus-outline-offset-wai"
+
+        href="https://dublin.europarl.europa.eu/en"
+        
+>
+    <span class="text-wrap lh-normal">Dublin</span>
+    <span class="visually-hidden">Dublin</span>
+    </a>
+<!-- END NAVBAR LINK LEVELS TWO AND THREE --></li><li data-component="navBarDropDownLevelTwoThree" class="nav-item position-relative pt-0 d-lgm-block">
+            <!-- START NAVBAR LINK LEVELS TWO AND THREE -->
+<a
+        class="text-gray-dark position-relative nav-link btn-link btn-mainNav pt-75 pb-75 ps-lgm-4 pe-lgm-3 pt-lgm-3 pb-lgm-3 fw-light text-start display-body hover-animate hover-animate-right focus-outline-offset-wai"
+
+        href="https://valletta.europarl.europa.eu/en"
+        
+>
+    <span class="text-wrap lh-normal">Valletta</span>
+    <span class="visually-hidden">Valletta</span>
+    </a>
+<!-- END NAVBAR LINK LEVELS TWO AND THREE --></li><li data-component="navBarDropDownLevelTwoThree" class="nav-item position-relative pt-0 d-lgm-block">
+            <!-- START NAVBAR LINK LEVELS TWO AND THREE -->
+<a
+        class="text-gray-dark position-relative nav-link btn-link btn-mainNav pt-75 pb-75 ps-lgm-4 pe-lgm-3 pt-lgm-3 pb-lgm-3 fw-light text-start display-body hover-animate hover-animate-right focus-outline-offset-wai"
+
+        href="https://london.europarl.europa.eu"
+        
+>
+    <span class="text-wrap lh-normal">London</span>
+    <span class="visually-hidden">London</span>
+    </a>
+<!-- END NAVBAR LINK LEVELS TWO AND THREE --></li><li data-component="navBarDropDownLevelTwoThree" class="nav-item position-relative pt-0 d-lgm-block">
+            <!-- START NAVBAR LINK LEVELS TWO AND THREE -->
+<a
+        class="text-gray-dark position-relative nav-link btn-link btn-mainNav pt-75 pb-75 ps-lgm-4 pe-lgm-3 pt-lgm-3 pb-lgm-3 fw-light text-start display-body hover-animate hover-animate-right focus-outline-offset-wai"
+
+        href="https://washington.europarl.europa.eu"
+        
+>
+    <span class="text-wrap lh-normal">Washington</span>
+    <span class="visually-hidden">Washington</span>
+    </a>
+<!-- END NAVBAR LINK LEVELS TWO AND THREE --></li><li data-component="navBarDropDownLevelTwoThree" class="nav-item position-relative pt-0 d-lgm-block">
+            <!-- START NAVBAR LINK LEVELS TWO AND THREE -->
+<a
+        class="text-gray-dark position-relative nav-link btn-link btn-mainNav pt-75 pb-75 ps-lgm-4 pe-lgm-3 pt-lgm-3 pb-lgm-3 fw-light text-start display-body hover-animate hover-animate-right focus-outline-offset-wai"
+
+        href="https://liaison-offices.europarl.europa.eu/home/offices.html"
+        
+>
+    <span class="text-wrap lh-normal">All offices</span>
+    <span class="visually-hidden">All offices</span>
+    </a>
+<!-- END NAVBAR LINK LEVELS TWO AND THREE --></li></ul>
+</li>
+<!-- END NAVBAR DROPDOWN LEVEL ONE --></ul>
+                            </div>
+                        </nav>
+                            <div class="title-european-parliament isSticky-d-flex text-white position-absolute text-center translate-middle-x start-50 top-0 fs-5 ff-serif align-middle h-100 pe-0 w-100" aria-hidden="true">
+                                <span>
+                                        European Parliament</span>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div><div data-component="grid-12cols" class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- START BANNER EPLO COMPONENT ========================= -->
+<section data-component="banner-eplo" class="theme-2 position-relative" aria-labelledby="heading1">
+    <!-- START FIGURE BACKGROUND ========================= -->
+    <figure data-component="figure-bg" class="srcset w-100 position-relative m-0 h-100" aria-hidden="true">
+        <img src="/files/live/sites/eplo-valletta/files/dossiers/youth-outreach/hero-valletta.jpg"
+             class="card-img-top w-100 h-100"
+             alt=""
+             role="presentation"
+             srcset="
+             /files/live/sites/eplo-valletta/files/dossiers/youth-outreach/hero-valletta.jpg 320w,
+             /files/live/sites/eplo-valletta/files/dossiers/youth-outreach/hero-valletta.jpg 640w,
+             /files/live/sites/eplo-valletta/files/dossiers/youth-outreach/hero-valletta.jpg 1176w"
+             sizes="100vw">
+    </figure>
+    <!-- END FIGURE BACKGROUND ========================= -->
+    <div class="position-absolute mt-md-0 top-10px end-10px position-absolute-nobottom">
+        <div data-component="social-sharing" class="d-flex flex-column flex-lg-row align-items-center flex-row justify-content-center justify-content-lg-start display-3 fw-normal text-gray-darker">
+    <ul class="d-flex p-0 m-0 list-unstyled">
+        <li>
+    <a href="https://www.facebook.com/ParlamentEwropew"
+       class="social-icon social-icon-sharing bg-blue p-1 m-1 w-50px h-50px d-inline-block position-relative overflow-hidden focus-outline-wai-white rounded-circle border border-1 border-white">
+        <img src="/files/live/sites/eplo-valletta/files/assets/social-media/social-media-icons/icon-facebook.svg" alt="" class="position-absolute start-0 top-0">
+        <span class="visually-hidden">Check out Parliament on Facebook</span>
+    </a>
+</li><li>
+    <a href="https://www.instagram.com/epvalletta"
+       class="social-icon social-icon-sharing bg-blue p-1 m-1 w-50px h-50px d-inline-block position-relative overflow-hidden focus-outline-wai-white rounded-circle border border-1 border-white">
+        <img src="/files/live/sites/eplo-valletta/files/assets/social-media/social-media-icons/icon-instagram.svg" alt="" class="position-absolute start-0 top-0">
+        <span class="visually-hidden">Check out Parliament on Instagram</span>
+    </a>
+</li><li>
+    <a href="https://x.com/Europarl_MT"
+       class="social-icon social-icon-sharing bg-blue p-1 m-1 w-50px h-50px d-inline-block position-relative overflow-hidden focus-outline-wai-white rounded-circle border border-1 border-white">
+        <img src="/files/live/sites/eplo-valletta/files/assets/social-media/social-media-icons/icon-x.svg" alt="" class="position-absolute start-0 top-0">
+        <span class="visually-hidden">Check out Parliament on Twitter</span>
+    </a>
+</li><li>
+    <a href="https://www.youtube.com/channel/UC3JnSl2O1oWmFzDvkExi2Mg"
+       class="social-icon social-icon-sharing bg-blue p-1 m-1 w-50px h-50px d-inline-block position-relative overflow-hidden focus-outline-wai-white rounded-circle border border-1 border-white">
+        <img src="/files/live/sites/eplo-valletta/files/assets/social-media/social-media-icons/icon-youtube.svg" alt="" class="position-absolute start-0 top-0">
+        <span class="visually-hidden">Check out Parliament on Youtube</span>
+    </a>
+</li></ul>
+</div></div>
+    <div class="position-absolute-nomobile bottom-0 start-0 w-auto d-flex flex-row justify-content-between align-items-md-center p-3 bg-blue">
+        <h1 id="heading1" class="ff-sans display-bigger fw-bold letter-spacing-02 text-white mb-0">Valletta</h1>
+        </div>
+</section>
+<!-- END BANNER EPLO COMPONENT ========================= -->
+<!-- START SUB NAVIGATION EPLO COMPONENT ========================= -->
+<nav data-component="sub-navigation-eplo" aria-label="Navigation of EPLO" class="border-bottom d-flex flex-nowrap mb-6">
+    <ul class="unstyled-list d-flex p-0 m-0">
+        <li class="align-self-center h-100">
+    <a href="/en#news" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            News</span>
+    </a>
+</li><li class="align-self-center h-100">
+    <a href="/en#events" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            Events</span>
+    </a>
+</li><li class="align-self-center h-100">
+    <a href="/en#dossiers" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            Dossiers</span>
+    </a>
+</li><li class="align-self-center h-100">
+    <a href="/en#youths-en" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            Youths</span>
+    </a>
+</li><li class="align-self-center h-100">
+    <a href="/en#meps" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            Your MEPs</span>
+    </a>
+</li><li class="align-self-center h-100">
+    <a href="/en#about-us" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            About Us</span>
+    </a>
+</li><li class="align-self-center h-100">
+    <a href="/en#useful-links" data-type="scroll-to-link" 
+       class="position-relative d-inline-block h-100 text-decoration-none display-body text-black fw-normal p-3 focus-outline-offset-wai"
+            
+    >
+        <span class="d-inline-block">
+            Useful Links</span>
+    </a>
+</li></ul>
+</nav>
+
+<script type="text/javascript" defer>
+    $(e => {
+        isFullWhiteNavBar = true;
+    })
+</script></div>
+            </div>
+        </div><main role="main" id="main-content">
+        <div data-component="grid-12cols" class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="mb-6">
+    <!-- COMPONENT LIST = storyList -->
+    <div id="story-list-7f2bfd38-32f0-4bb8-b3c2-f271b5d7d8a7" data-component="story-list" class="row flex flex-wrap mb-5">
+        <div class="col-12">
+            <!-- START HEADING 2 WITH TRANSLATE OPTION ========================= -->
+<div class="d-flex flex-column flex-sm-row align-items-sm-center pb-1-25rem pt-1-25rem">
+        <!-- START HEADING 1 ========================= -->
+        <h1 data-component="heading-1" class="display-35px ff-sans text-black fw-bolder d-inline-block py-2 mw-md-title">
+            <span class="text-break">News from Malta</span>
+        </h1>
+        <!-- END HEADING 1 ========================= -->
+</div>
+<!-- END HEADING 1 WITH TRANSLATE OPTION ========================= --></div>
+        <div class="col-lg-6 col-lgm-3">
+            <!-- START CARD STORY NEWS EPLO ========================= -->
+<div data-component="card-story-news-summary" class="mb-3 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid/main/news-from-malta/mep-thomas-bajada-highlights-the-importance-of-water-conservation-.html" target="_self" class="card border-0 bg-transparent mb-2 text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/Thomas%20Bajada%20Event/EP%20MEP%20Thomas%20Bajada%2011th%20April%202025%20(213).jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/Thomas%20Bajada%20Event/EP%20MEP%20Thomas%20Bajada%2011th%20April%202025%20(213).jpg  480w,
+                    /files/live/sites/eplo-valletta/files/Thomas%20Bajada%20Event/EP%20MEP%20Thomas%20Bajada%2011th%20April%202025%20(213).jpg  640w,
+                    /files/live/sites/eplo-valletta/files/Thomas%20Bajada%20Event/EP%20MEP%20Thomas%20Bajada%2011th%20April%202025%20(213).jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-18 fw-bold ff-sans text-blue-default d-block mb-1">
+            MEP Thomas Bajada highlights the importance of water conservation</h3>
+        <div class="text-gray-dark display-small">
+            <time datetime="2025-04-15T12:47Z"><span>15-04-2025 14:47</span></time>
+                <time datetime="2025-04-15T12:47Z"><span> - 15-04-2025 14:47</span></time>
+                    </div>
+    </a>
+    </div>
+<!-- END CARD STORY NEWS EPLO ========================= --></div>
+            <div class="col-lg-6 col-lgm-3">
+            <!-- START CARD STORY NEWS EPLO ========================= -->
+<div data-component="card-story-news-summary" class="mb-3 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid/main/news-from-malta/you-are-the-future-champions-of-european-values-mt.html" target="_self" class="card border-0 bg-transparent mb-2 text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG-20250407-WA0035.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG-20250407-WA0035.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG-20250407-WA0035.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG-20250407-WA0035.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-18 fw-bold ff-sans text-blue-default d-block mb-1">
+             “You are the future champions of European values” - EP President Metsola at St Dorothy’s School</h3>
+        <div class="text-gray-dark display-small">
+            <time datetime="2025-04-07T13:54Z"><span>07-04-2025 15:54</span></time>
+                <time datetime="2025-04-07T13:54Z"><span> - 07-04-2025 15:54</span></time>
+                    </div>
+    </a>
+    </div>
+<!-- END CARD STORY NEWS EPLO ========================= --></div>
+            <div class="col-lg-6 col-lgm-3">
+            <!-- START CARD STORY NEWS EPLO ========================= -->
+<div data-component="card-story-news-summary" class="mb-3 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid/main/news-from-malta/2025-lux-audience-award-campaign-launches-in-malta-and-gozo-mt.html" target="_self" class="card border-0 bg-transparent mb-2 text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/news/2025/LUX.png"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/news/2025/LUX.png  480w,
+                    /files/live/sites/eplo-valletta/files/news/2025/LUX.png  640w,
+                    /files/live/sites/eplo-valletta/files/news/2025/LUX.png 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-18 fw-bold ff-sans text-blue-default d-block mb-1">
+            2025 LUX Audience Award Campaign Launches in Malta and Gozo</h3>
+        <div class="text-gray-dark display-small">
+            <time datetime="2025-02-26T14:02Z"><span>26-02-2025</span></time>
+                </div>
+    </a>
+    </div>
+<!-- END CARD STORY NEWS EPLO ========================= --></div>
+            <div class="col-lg-6 col-lgm-3">
+            <!-- START CARD STORY NEWS EPLO ========================= -->
+<div data-component="card-story-news-summary" class="mb-3 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid/main/news-from-malta/local-influencers-flock-to-europe-house-to-watch-play-and-network-before-the-election.html" target="_self" class="card border-0 bg-transparent mb-2 text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/news/2024/06-june/2024-06-04-local-influencers-fl/IMG_0067-min.JPG"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/news/2024/06-june/2024-06-04-local-influencers-fl/IMG_0067-min.JPG  480w,
+                    /files/live/sites/eplo-valletta/files/news/2024/06-june/2024-06-04-local-influencers-fl/IMG_0067-min.JPG  640w,
+                    /files/live/sites/eplo-valletta/files/news/2024/06-june/2024-06-04-local-influencers-fl/IMG_0067-min.JPG 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-18 fw-bold ff-sans text-blue-default d-block mb-1">
+            Local Influencers Flock to Europe House to Watch Play and Network Before the Election</h3>
+        <div class="text-gray-dark display-small">
+            <time datetime="2024-06-04T21:30Z"><span>04-06-2024 23:30</span></time>
+                </div>
+    </a>
+    </div>
+<!-- END CARD STORY NEWS EPLO ========================= --></div>
+            </div>
+</div>
+
+<!-- WRAPPER BUTTON SECTION -->
+<div id="load-btn-section-7f2bfd38-32f0-4bb8-b3c2-f271b5d7d8a7" data-component="wrapper-link-btn" class="row theme-2 position-relative mb-6">
+    <div class="col">
+        <div class="line-link-btn d-flex justify-content-center position-relative zindex-10">
+            <!-- START LINK BTN LIGHT ========================= NEW VIEW -->
+            <span id="load-btn-7f2bfd38-32f0-4bb8-b3c2-f271b5d7d8a7" data-component="link-btn" class="theme-2 link-btn-light position-relative">
+                <a href="javascript:void(0)" class="d-inline-block w-100 lh-1 display-body text-decoration-none bg-white ff-sans text-gray-darker rounded border border-gray-light px-5 py-3 focus-outline-wai">
+                    <span class="d-block text-center">Show more</span>
+                </a>
+            </span>
+            <!-- END LINK BTN LIGHT ========================= -->
+        </div>
+    </div>
+</div>
+<!-- END WRAPPER BUTTON SECTION -->
+<script type="text/javascript" defer>
+    $((e) => {
+        initStoryList({
+            UUID: "7f2bfd38-32f0-4bb8-b3c2-f271b5d7d8a7",
+            actionUrl: '/home/pagecontent/grid/main/news-from-malta.loadStories.do',
+            itemsType: "news",
+            pageSize: "4",
+        });
+    });
+</script></div>
+            </div>
+        </div><div data-component="grid-8cols-offset-1" class="container">
+            <div class="row">
+                <!--FILTERS-->
+                <div class="col-12 col-lg-8 offset-lg-2 mb-6">
+                    <div class="text-center">
+<h2 class="display-25 ff-sans text-break text-black fw-bolder d-block mb-3">Subscribe to Our Newsletter</h2>
+
+<p>You can sign up for our newsletter by registering at <a href="https://together.eu/">together.eu</a>. Once you create an account, you&#39;ll be on our mailing list and will automatically receive our newsletter. 💙</p>
+</div></div>
+            </div>
+        </div><div data-component="grid-12cols" class="container">
+            <div class="row">
+                <div class="col-12">
+                    </div>
+            </div>
+        </div><section data-component="news-list" class="container-fluid bg-gray-white mb-6">
+    <div class="row">
+        <div class="col-12">
+            <div class="container position-relative px-0 pt-6 pb-5">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="position-absolute top-0 start-0 d-inline-block bg-gray-darker text-white p-2">News from the EP</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-6 col-lg-4">
+                            <!-- START CARD FULL ========================= -->
+<a href="https://www.europarl.europa.eu/topics/en/article/20200624STO81902/quiz-test-your-eu-knowledge" data-component="card-new" target="_blank" class="d-block mb-3 text-decoration-none text-gray-darker hover-animate hover-animate-right focus-outline-wai">
+  <span class="visually-hidden">Open in a new window</span>
+  <div class="card border-0 bg-transparent mb-4">
+    <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-2" style="height: 180px;width: 368px;">
+    <img
+            src="https://www.europarl.europa.eu/resources/library/images/20250414PHT27988/20250414PHT27988-ml.png"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    https://www.europarl.europa.eu/resources/library/images/20250414PHT27988/20250414PHT27988-ms.png 480w,
+                    https://www.europarl.europa.eu/resources/library/images/20250414PHT27988/20250414PHT27988-mm.png 640w,
+                    https://www.europarl.europa.eu/resources/library/images/20250414PHT27988/20250414PHT27988-ml.png 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+      Quiz: test your EU knowledge</h3>
+    <div class="text-gray-dark display-small">
+      <time datetime="2025-04-14T15:29Z">14-04-2025 17:29</time>
+    </div>
+  </div>
+</a>
+<!-- END CARD FULL ========================= --></div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                            <!-- START CARD FULL ========================= -->
+<a href="https://www.europarl.europa.eu/topics/en/article/20210923STO13419/gender-based-violence-definition-facts-and-eu-actions-to-stop-it" data-component="card-new" target="_blank" class="d-block mb-3 text-decoration-none text-gray-darker hover-animate hover-animate-right focus-outline-wai">
+  <span class="visually-hidden">Open in a new window</span>
+  <div class="card border-0 bg-transparent mb-4">
+    <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-2" style="height: 180px;width: 368px;">
+    <img
+            src="https://www.europarl.europa.eu/resources/library/images/20210927PHT13616/20210927PHT13616-ml.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    https://www.europarl.europa.eu/resources/library/images/20210927PHT13616/20210927PHT13616-ms.jpg 480w,
+                    https://www.europarl.europa.eu/resources/library/images/20210927PHT13616/20210927PHT13616-mm.jpg 640w,
+                    https://www.europarl.europa.eu/resources/library/images/20210927PHT13616/20210927PHT13616-ml.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+      Gender-based violence: definition, facts and EU actions to stop it</h3>
+    <div class="text-gray-dark display-small">
+      <time datetime="2025-04-10T16:39Z">10-04-2025 18:39</time>
+    </div>
+  </div>
+</a>
+<!-- END CARD FULL ========================= --></div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                            <!-- START CARD FULL ========================= -->
+<a href="https://www.europarl.europa.eu/topics/en/article/20221110STO53001/corporate-sustainability-what-the-eu-expects-from-companies" data-component="card-new" target="_blank" class="d-block mb-3 text-decoration-none text-gray-darker hover-animate hover-animate-right focus-outline-wai">
+  <span class="visually-hidden">Open in a new window</span>
+  <div class="card border-0 bg-transparent mb-4">
+    <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-2" style="height: 180px;width: 368px;">
+    <img
+            src="https://www.europarl.europa.eu/resources/library/images/20250403PHT27637/20250403PHT27637-ml.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    https://www.europarl.europa.eu/resources/library/images/20250403PHT27637/20250403PHT27637-ms.jpg 480w,
+                    https://www.europarl.europa.eu/resources/library/images/20250403PHT27637/20250403PHT27637-mm.jpg 640w,
+                    https://www.europarl.europa.eu/resources/library/images/20250403PHT27637/20250403PHT27637-ml.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+      Corporate sustainability: what the EU expects from companies </h3>
+    <div class="text-gray-dark display-small">
+      <time datetime="2025-04-03T12:34Z">03-04-2025 14:34</time>
+    </div>
+  </div>
+</a>
+<!-- END CARD FULL ========================= --></div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- WRAPPER BUTTON SECTION -->
+    <div data-component="wrapper-link-btn" class="row theme-2 position-relative">
+        <div class="col">
+            <div class="container">
+                <div class="row">
+                    <div class="line-link-btn d-flex justify-content-center mb-n4 position-relative zindex-10">
+                        <!-- START LINK BTN LIGHT ========================= NEW VIEW -->
+<span data-component="link-btn" class="theme-2 link-btn-light position-relative">
+    <a href="https://www.europarl.europa.eu/meps/en/search/advanced?countryCode=MT" class="d-inline-block w-100 lh-1 display-body text-decoration-none bg-white ff-sans text-gray-darker rounded border border-gray-light px-5 py-3 focus-outline-wai" target='_self' style="">
+        <span class="d-block text-center">All News from the EP</span>
+        <span class="visually-hidden">All News from the EP</span>
+        </a>
+</span>
+<!-- END LINK BTN LIGHT ========================= --></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- WRAPPER BUTTON SECTION -->
+</section><div data-component="grid-8cols-offset-1" class="container">
+            <div class="row">
+                <!--FILTERS-->
+                <div class="col-12 col-lg-8 offset-lg-2 mb-6">
+                    <div class="mb-6">
+    <!-- COMPONENT LIST = storyList -->
+    <div id="story-list-74ac88ab-bf7c-4904-b35c-58878b0023dc" data-component="story-list" class="row flex flex-wrap mb-5">
+        <div class="col-12">
+            <!-- START HEADING 2 WITH TRANSLATE OPTION ========================= -->
+<div class="d-flex flex-column flex-sm-row align-items-sm-center pb-1-25rem">
+    <h2 id="events" data-component="heading-2" class="display-2 ff-sans text-break text-black fw-bolder d-inline-block m-0 w-100">
+        <span class="text-break">Events</span>
+    </h2>
+</div>
+<!-- END HEADING 2 WITH TRANSLATE OPTION ========================= --></div>
+        <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/freedom-of-speech-tackling-the-spread-of-online-disinformation.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/youths/2025/march-25/Image%20foto%20evento.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/Image%20foto%20evento.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/Image%20foto%20evento.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/Image%20foto%20evento.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Freedom of Speech: Tackling the Spread of Online Disinformation</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2025-03-14T16:30Z"><span>14-03-2025 17:30</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            Students of NSTF Mini-European Assembly gathered at Europe House to debate how the EU could strike a balance between Countering Disinformation and Safeguarding Freedom of Speech.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/eu-on-wheels.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG20250315155444.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG20250315155444.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG20250315155444.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/IMG20250315155444.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            EU on Wheels: how the EU impacts different localities</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2025-03-15T08:30Z"><span>15-03-2025 09:30</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            JEF Malta organisers, together with EPLO Valletta, and the rest of the participants hopped on a vintage bus that took them all across Malta in order to see and discuss the EU in practice, in relation  to democracy, tourism or culture. </p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/strengthening-the-rights-of-europeans.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/04-april/2024-04-12-strengthening-the-rights-of-europeans/RUZ_5051-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/04-april/2024-04-12-strengthening-the-rights-of-europeans/RUZ_5051-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/04-april/2024-04-12-strengthening-the-rights-of-europeans/RUZ_5051-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/04-april/2024-04-12-strengthening-the-rights-of-europeans/RUZ_5051-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Strengthening the Rights of Europeans</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-04-12T15:00Z"><span>12-04-2024 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            "Politics can help those who cannot help themselves and especially the most vulnerable", said MEP David Casa in the last of the public discussions for the 2019-2024 legislature we organised with incumbent MEPs.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/internal-worlds-external-relations.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-21-internal-worlds-external-relations/RUZ_8376-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-21-internal-worlds-external-relations/RUZ_8376-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-21-internal-worlds-external-relations/RUZ_8376-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-21-internal-worlds-external-relations/RUZ_8376-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Internal Worlds, External Relations</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-03-21T16:00Z"><span>21-03-2024 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            To honour the winners of the 2023 Sakharov Prize for Freedom of Thought, Iranian artist Lida Sherafatmand and journalist Aida Ghajar each delivered a compelling talk about the ongoing fight for dignity and liberty in their home country.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/strengthened-connectivity-and-justice-for-our-islands.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-18-strengthened-connectivity-and-justice-for-our-islands/RUZ_7726-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-18-strengthened-connectivity-and-justice-for-our-islands/RUZ_7726-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-18-strengthened-connectivity-and-justice-for-our-islands/RUZ_7726-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-18-strengthened-connectivity-and-justice-for-our-islands/RUZ_7726-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Strengthened Connectivity and Justice for Our Islands</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-03-18T09:00Z"><span>18-03-2024 10:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            “Islands’ needs should be mainstreamed in all EU law and policy-making,” emphasised MEP Josianne Cutajar in a public discussion looking back at 5 years of her work in the EP.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/you-ropean-in-pursuit-of-the-european-dream.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-16-you-ropean-in-pursuit-of-the-european-dream/Youropean7057-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-16-you-ropean-in-pursuit-of-the-european-dream/Youropean7057-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-16-you-ropean-in-pursuit-of-the-european-dream/Youropean7057-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-16-you-ropean-in-pursuit-of-the-european-dream/Youropean7057-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            YOU-ROPEAN? in pursuit of the European dream</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-03-16T18:00Z"><span>16-03-2024 19:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            This specially crafted theatre performance for the 2024 European elections explored Maltese and European identity with humour, wit and interactive elements that entertained and educated the audience.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/women-in-leadership-breaking-barriers-and-empowering-change.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-08-women-in-leadership-breaking-barriers-and-empowering-change/RUZ_6783-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-08-women-in-leadership-breaking-barriers-and-empowering-change/RUZ_6783-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-08-women-in-leadership-breaking-barriers-and-empowering-change/RUZ_6783-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/03-march/2024-03-08-women-in-leadership-breaking-barriers-and-empowering-change/RUZ_6783-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Women in Leadership: Breaking Barriers and Empowering Change</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-03-08T11:00Z"><span>08-03-2024 12:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            For this year’s International Women's Day, we had the pleasure to host President Roberta Metsola for an intriguing gathering of notable female personalities at Europe House, coupled with the launch of an exhibition by artist Lida Sherafatmand.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/the-continental-european-market.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/02-february/2024-03-01-the-continental-european-market/RNZ_4153-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/02-february/2024-03-01-the-continental-european-market/RNZ_4153-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/02-february/2024-03-01-the-continental-european-market/RNZ_4153-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/02-february/2024-03-01-the-continental-european-market/RNZ_4153-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            The Continental European Market</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-03-01T16:00Z"><span>01-03-2024 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            MEP Alfred Sant spoke about the developments in the EU’s economic and monetary policy and the proposed laws on capital markets, which he is leading the EP's work on.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/consumer-rights.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/02-february/2024-02-23-consumer-rights/WhatsApp%20Image%202024-02-23%20at%2020.22.38(1)-min.jpeg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/02-february/2024-02-23-consumer-rights/WhatsApp%20Image%202024-02-23%20at%2020.22.38(1)-min.jpeg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/02-february/2024-02-23-consumer-rights/WhatsApp%20Image%202024-02-23%20at%2020.22.38(1)-min.jpeg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/02-february/2024-02-23-consumer-rights/WhatsApp%20Image%202024-02-23%20at%2020.22.38(1)-min.jpeg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Consumer Rights</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-02-23T16:00Z"><span>23-02-2024 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            In the second debate with MEPs on their work in the EP in the last 5 years, Alex Agius Saliba noted that the passing of the Artificial Intelligence (AI) Act will reduce the great risks posed by AI to us as individuals, and also our democracies and the values we embrace as Europeans.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/the-environment-as-a-fundamental-human-right.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2024/01-january/2024-01-26-the-environment-as-a-fundamental-human-right/Engerer_event_7-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2024/01-january/2024-01-26-the-environment-as-a-fundamental-human-right/Engerer_event_7-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2024/01-january/2024-01-26-the-environment-as-a-fundamental-human-right/Engerer_event_7-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2024/01-january/2024-01-26-the-environment-as-a-fundamental-human-right/Engerer_event_7-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            The Environment as a Fundamental Human Right</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2024-01-26T16:00Z"><span>26-01-2024 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            This debate was one of a series of events we're organising with all MEPs to inform the public and generate a discussion about the work of the EP and Maltese MEPs as the current 5-year legislature comes to an end this year.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/outlined-series.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/11-november/2023-11-27-outlined-series/outlined-1.jpeg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/11-november/2023-11-27-outlined-series/outlined-1.jpeg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/11-november/2023-11-27-outlined-series/outlined-1.jpeg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/11-november/2023-11-27-outlined-series/outlined-1.jpeg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            "Outlined" Series</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-11-27T09:00Z"><span>27-11-2023 10:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            In collaboration with up-and-coming media platform Malta Daily, we organised a dynamic series of debates at Theatre Next Door between November 2023 and January 2024, focusing on topics related to the European elections around the corner.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/voting-for-the-rights-of-all.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/10-october/2023-10-27-voting-for-the-rights-of-all/IMG_0853-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/10-october/2023-10-27-voting-for-the-rights-of-all/IMG_0853-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/10-october/2023-10-27-voting-for-the-rights-of-all/IMG_0853-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/10-october/2023-10-27-voting-for-the-rights-of-all/IMG_0853-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Voting For the Rights of All</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-10-27T15:00Z"><span>27-10-2023 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            For European Gender Equality Week, we sparked a dialogue on how we can empower younger generations to shape a brighter democratic future for Malta and Europe.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/valletta-soup-kitchen-awarded-the-2023-european-citizens-prize.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/09-september/2023-09-08-valletta-soup-kitchen-awarded-2023-european-citizens-prize/Fr%20Marcellino%20Micallef%20with%20invitees%203-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/09-september/2023-09-08-valletta-soup-kitchen-awarded-2023-european-citizens-prize/Fr%20Marcellino%20Micallef%20with%20invitees%203-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/09-september/2023-09-08-valletta-soup-kitchen-awarded-2023-european-citizens-prize/Fr%20Marcellino%20Micallef%20with%20invitees%203-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/09-september/2023-09-08-valletta-soup-kitchen-awarded-2023-european-citizens-prize/Fr%20Marcellino%20Micallef%20with%20invitees%203-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Valletta Soup Kitchen Awarded the 2023 European Citizen's Prize</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-09-08T17:00Z"><span>08-09-2023 19:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            Soup Kitchen OFM Valletta formally received the 2023 European Citizen’s Prize for Malta – the annual prize for citizen's initiatives upholding fundamental rights and European values awarded by the European Parliament.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/en/events/eu-heritage-tour-hagar-qim-and-mnajdra-temples" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-24-eu-heritage-tour-hagar-qim-and-mnajdra-temples/eplo-70.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-24-eu-heritage-tour-hagar-qim-and-mnajdra-temples/eplo-70.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-24-eu-heritage-tour-hagar-qim-and-mnajdra-temples/eplo-70.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-24-eu-heritage-tour-hagar-qim-and-mnajdra-temples/eplo-70.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            EU Heritage Tour: Ħaġar Qim and Mnajdra Temples</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-06-24T07:00Z"><span>24-06-2023 09:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            On Saturday 24 June, the fourth edition of the popular EU Heritage Tour was held at Ħaġar Qim and Mnajdra Temples, in collaboration with Heritage Malta.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/en/events/what-europe-means-for-me" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-23-what-europe-means-for-me/EPLOfriday-126-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-23-what-europe-means-for-me/EPLOfriday-126-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-23-what-europe-means-for-me/EPLOfriday-126-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/2023-06-23-what-europe-means-for-me/EPLOfriday-126-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            What Europe Means For Me</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-06-23T15:00Z"><span>23-06-2023 17:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            Businesses, civil society organisations and NGOs came together to discuss why Europe matters, less than a year before the European elections in June 2024. The exchange of views took place with Director for the European Parliament Liaison Offices in Europe, Stephen Clark, who was in Malta for a two-day visit.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/en/events/engaging-the-european-public" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/06-june/20230-06-23-engaging-the-european-public/engaging-the-european-public-1.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/20230-06-23-engaging-the-european-public/engaging-the-european-public-1.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/20230-06-23-engaging-the-european-public/engaging-the-european-public-1.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/06-june/20230-06-23-engaging-the-european-public/engaging-the-european-public-1.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Engaging the European Public</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-06-23T08:00Z"><span>23-06-2023 10:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            Stephen Clark, Director for the European Parliament Liaison Offices in Europe, visited Malta for the first time in an official capacity. Ways of bridging the gap between the EU and the public and why Europe matters were the hot topics addressed with a wide network of local stakeholders and the together.eu community.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/first-european-bench-launched-in-malta.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/05-may/2023-05-12-first-european-bench-launched-in-malta/european-bench-1"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/05-may/2023-05-12-first-european-bench-launched-in-malta/european-bench-1  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/05-may/2023-05-12-first-european-bench-launched-in-malta/european-bench-1  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/05-may/2023-05-12-first-european-bench-launched-in-malta/european-bench-1 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            First European Bench Launched in Malta</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-05-12T11:30Z"><span>12-05-2023 13:30</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            The first European Bench initiative in Malta was unveiled today at the University of Malta campus by MEP Alex Agius Saliba, supported by JEF Malta.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/home/pagecontent/grid-3/main/events/epas-transnational-seminar-held-in-cyprus.html" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-30-epas-transnational-seminar-held-in-cyprus/EPAS%20Transnational%20Cyprus%20participants%20get%20to%20know%20each%20other%20in%20the%20exceptional%20setting%20of%20the%20Kourion%20Roman%20Greek%20amphitheatre%20in%20Limassol-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-30-epas-transnational-seminar-held-in-cyprus/EPAS%20Transnational%20Cyprus%20participants%20get%20to%20know%20each%20other%20in%20the%20exceptional%20setting%20of%20the%20Kourion%20Roman%20Greek%20amphitheatre%20in%20Limassol-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-30-epas-transnational-seminar-held-in-cyprus/EPAS%20Transnational%20Cyprus%20participants%20get%20to%20know%20each%20other%20in%20the%20exceptional%20setting%20of%20the%20Kourion%20Roman%20Greek%20amphitheatre%20in%20Limassol-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-30-epas-transnational-seminar-held-in-cyprus/EPAS%20Transnational%20Cyprus%20participants%20get%20to%20know%20each%20other%20in%20the%20exceptional%20setting%20of%20the%20Kourion%20Roman%20Greek%20amphitheatre%20in%20Limassol-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            EPAS Transnational Seminar Held in Cyprus</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-03-30T07:00Z"><span>30-03-2023 09:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            Skills for the jobs of the future discussed with 32 students from Malta, who met counterparts from Cyprus, Ireland and the UK in the designated European Year of Skills.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            <div class="col-lg-6">
+            <!-- START CARD STORY EVENT ========================= -->
+<div data-component="card-story-event-summary" class="theme-2 mb-5 text-decoration-none text-gray-darker">
+    <a href="/en/events/energising-women-in-poverty" target="_self" class="card border-0 bg-transparent text-decoration-none hover-animate hover-animate-right focus-outline-wai">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-08-energising-women-in-poverty/2-min.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt=""
+            srcset="
+                    /files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-08-energising-women-in-poverty/2-min.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-08-energising-women-in-poverty/2-min.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/events/2023/03-march/2023-03-08-energising-women-in-poverty/2-min.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --><h3 class="m-0 display-20 fw-bold ff-sans text-blue d-block mb-1">
+            Energising Women in Poverty</h3>
+        <div class="text-gray-dark display-body d-flex align-items-center mb-2">
+            <img src="/modules/webmaster-jahia-components-library/img/icon-calendar.svg" alt="" class="me-1 h-15px">
+            <time datetime="2023-03-08T09:00Z"><span>08-03-2023 10:00</span></time>
+        </div>
+        <p class="text-gray-dark display-base lh-1-5 mb-0">
+            Our office and the European Commission Representation in Malta teamed up with the FEM Community, Caritas Malta, Dar Merħba Bik, Dar Hosea, St Jeanne Antide Foundation, and Soup Kitchen OFM Valletta to mark this year’s International Women’s Day.</p>
+    </a>
+    </div>
+<!-- END CARD STORY EVENT ========================= --></div>
+            </div>
+</div><!-- START HEADING 2 UNDERLINE WITH TRANSLATE OPTION ========================= -->
+<div class="d-flex flex-column flex-sm-row pb-1-25rem border-bottom border-gray-dark mb-2-5rem">
+    <h2 id="dossiers" data-component="heading-2" class="display-2 ff-sans text-break text-black fw-bolder m-0 d-inline-block w-100">
+        <span class="text-break">Dossiers</span>
+    </h2>
+    </div>
+<!-- END HEADING 2 UNDERLINE WITH TRANSLATE OPTION ========================= --><!-- START CARD STORY DOSSIER ========================= -->
+    <div data-component="card-story-dossier" class="theme-2 text-decoration-none text-gray-darker pb-2-5rem">
+        <div>
+    <h3 id="emas-at-europe-house" class="m-0 display-2 fw-bold ff-sans d-block mb-3">
+        EMAS at Europe House</h3>
+</div>
+<div class="card d-flex flex-lg-row border-0 bg-transparent mb-2">
+    <div class="w-100 w-lg-50">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/dossiers/emas-at-europe-house/emas-1.png"
+            class="card-img-top w-100 position-absolute h-100"
+            alt="Marine pollution"
+            srcset="
+                    /files/live/sites/eplo-valletta/files/dossiers/emas-at-europe-house/emas-1.png  480w,
+                    /files/live/sites/eplo-valletta/files/dossiers/emas-at-europe-house/emas-1.png  640w,
+                    /files/live/sites/eplo-valletta/files/dossiers/emas-at-europe-house/emas-1.png 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --></div>
+    <p class="w-100 w-lg-50 ms-lg-5 mb-0 display-base lh-1-5">What is EMAS? How is it implemented in Valletta?</p>
+</div>
+<span data-component="link-default">
+    <span class="d-block mb-2">
+          <a
+                  href="/en/dossiers/emas-at-europe-house"
+                  class="link-comp text-decoration-none d-inline-flex align-items-start hover-animate hover-animate-right lh-1 text-blue focus-outline-wai"
+                  target="_self"
+          >
+              <span class="display-20 fw-bold lh-normal">EMAS at Europe House</span>
+          </a>
+    </span>
+</span></div>
+    <!-- END CARD STORY DOSSIER ========================= -->
+<!-- START CARD STORY DOSSIER ========================= -->
+    <div data-component="card-story-dossier" class="theme-2 text-decoration-none text-gray-darker pt-2-5rem pb-2-5rem border-top border-top-dashed border-gray-light">
+        <div>
+    <h3 id="youths-en" class="m-0 display-2 fw-bold ff-sans d-block mb-3">
+        Youths</h3>
+</div>
+<div class="card d-flex flex-lg-row border-0 bg-transparent mb-2">
+    <div class="w-100 w-lg-50">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/youths/2025/march-25/WhatsApp%20Image%202025-03-13%20at%2013.54.22.jpeg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt="Youths"
+            srcset="
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/WhatsApp%20Image%202025-03-13%20at%2013.54.22.jpeg  480w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/WhatsApp%20Image%202025-03-13%20at%2013.54.22.jpeg  640w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/WhatsApp%20Image%202025-03-13%20at%2013.54.22.jpeg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --></div>
+    <p class="w-100 w-lg-50 ms-lg-5 mb-0 display-base lh-1-5">Activities organized for the young people of Malta. Raising active, curious and driven European citizens.</p>
+</div>
+<span data-component="link-default">
+    <span class="d-block mb-2">
+          <a
+                  href="/home/pagecontent/grid-3/main/dossiers/youths/the-maltese-national-winner-for-the-european-charlemagne-youth-prize-2025-is-here.html"
+                  class="link-comp text-decoration-none d-inline-flex align-items-start hover-animate hover-animate-right lh-1 text-blue focus-outline-wai"
+                  target="_self"
+          >
+              <span class="display-20 fw-bold lh-normal">The Maltese National Winner for the European Charlemagne Youth Prize 2025 is Here!</span>
+          </a>
+    </span>
+</span></div>
+    <!-- END CARD STORY DOSSIER ========================= -->
+<!-- START CARD STORY DOSSIER ========================= -->
+    <div data-component="card-story-dossier" class="theme-2 text-decoration-none text-gray-darker pt-2-5rem pb-2-5rem border-top border-top-dashed border-gray-light">
+        <div>
+    <h3 class="m-0 display-2 fw-bold ff-sans d-block mb-3">
+        Euroscola</h3>
+</div>
+<div class="card d-flex flex-lg-row border-0 bg-transparent mb-2">
+    <div class="w-100 w-lg-50">
+        <!-- START FIGURE CARD ========================= -->
+<figure data-component="figure-card" class="srcset w-100 position-relative m-0 mb-4" style="height: 160px;">
+    <img
+            src="/files/live/sites/eplo-valletta/files/youths/2025/march-25/489077176_1100502732116637_8147503644730952423_n.jpg"
+            class="card-img-top w-100 position-absolute h-100"
+            alt="euroescola"
+            srcset="
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/489077176_1100502732116637_8147503644730952423_n.jpg  480w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/489077176_1100502732116637_8147503644730952423_n.jpg  640w,
+                    /files/live/sites/eplo-valletta/files/youths/2025/march-25/489077176_1100502732116637_8147503644730952423_n.jpg 1176w
+                  "
+            sizes="100vw"
+    />
+</figure>
+<!-- END FIGURE CARD ========================= --></div>
+    <p class="w-100 w-lg-50 ms-lg-5 mb-0 display-base lh-1-5">Euroscola is an incredible opportunity for students to step into the shoes of MEPs for a day! Held at the European Parliament in Strasbourg, Euroscola allows students from across the EU to engage in debates, discussions, and decision-making on current European issues.</p>
+</div></div>
+    <!-- END CARD STORY DOSSIER ========================= --><span data-component="link-default">
+    <span class="d-block">
+          <a href="https://youth.europarl.europa.eu/en/more-information/euroscola.html" class="link-comp text-decoration-none d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+              target='_self' style="">
+              <img src="/modules/webmaster-jahia-components-library/img/icon-ext-link.svg" alt="" class="me-1 order-2 ms-2" width="15" height="15">
+              <span class="lh-normal">Learn more about Euroscola here</span>
+              </a>
+    </span>
+</span></div>
+            </div>
+        </div><!-- START CONTAINER TITLE TAG ========================= -->
+<div data-component="container-header-with-content-grey-background" class="theme-2 container-fluid bg-gray-white mb-6">
+    <div class="row">
+        <div class="col-12">
+            <div class="container position-relative px-0 pt-6 pb-5">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="position-absolute top-0 start-0 d-inline-block bg-gray-darker text-white ps-0-875rem pe-0-875rem pt-0-875rem pb-0-875rem">
+    <h2 id="meps" class="display-base fw-bold mb-0">Your MEPs</h2>
+</div></div>
+                </div>
+                <div data-component="grid-8cols-offset-1" class="container">
+            <div class="row">
+                <!--FILTERS-->
+                <div class="col-12 col-lg-8 offset-lg-2 mb-6">
+                    <p>The European Parliament is made up of 705 Members elected through a unique, multinational democratic process.</p>
+
+<p>Following the last European elections in June 2024, 6 MEPs representing our country took their seats in the European Parliament on 16 July 2024 for Parliament&#39;s 10th term.</p>
+
+<p>Discover who they are and learn what they are doing for you!</p></div>
+            </div>
+        </div></div>
+        </div>
+    </div>
+    <!-- WRAPPER BUTTON SECTION -->
+    <div data-component="wrapper-link-btn" class="row theme-2 position-relative">
+        <div class="col">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="line-link-btn d-flex justify-content-center mb-n4 position-relative zindex-10">
+                            <span data-component="link-btn" class="theme-2 link-btn position-relative d-block mt-2">
+<a
+  href="/home/meps.html"
+  class="d-inline-block lh-1 display-body text-decoration-none bg-blue ff-sans text-white border border-blue rounded px-5 py-3 focus-outline-wai"  style="">
+  <span class="d-block text-center">See the list of our MEPs</span>
+    <!-- Mandatory if the link is an external link (with target _blank) -->
+    <span class="visually-hidden">See the list of our MEPs</span>
+    </a>
+</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- WRAPPER BUTTON SECTION -->
+</div>
+<!-- END CONTAINER TITLE TAG ========================= --><div data-component="grid-8cols-offset-1" class="container">
+            <div class="row">
+                <!--FILTERS-->
+                <div class="col-12 col-lg-8 offset-lg-2 mb-6">
+                    <!-- START CONTAINER HEADING DEFAULT ========================= -->
+<div data-component="container-heading-with-content" class="theme-2 container-fluid mb-6">
+    <div class="row">
+        <div class="col-12">
+            <!-- NEW GRID CONTENT OF SECTION - FULL MAX WIDTH GRID (Should be simplified) -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-12">
+                                <!-- COMPONENT -->
+                                <!-- START HEADING 2 UNDERLINE WITH TRANSLATE OPTION ========================= -->
+<div class="d-flex flex-column flex-sm-row pb-1-25rem border-bottom border-gray-dark mb-2-5rem">
+    <h2 id="about-us" data-component="heading-2" class="display-2 ff-sans text-break text-black fw-bolder m-0 d-inline-block w-100">
+        <span class="text-break">About Us</span>
+    </h2>
+    </div>
+<!-- END HEADING 2 UNDERLINE WITH TRANSLATE OPTION ========================= --><div>
+                                    <div data-component="grid-full-page" class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <h2>What do we do?</h2>
+
+<p>Our office is one of the 34 Liaison Offices of the European Parliament in the EU member states, spread across capital cities and other regions. We&#39;re based in the heart of Valletta, the capital city of Malta. As their namesake implies, Liaison Offices connect the central institution of the European Parliament to the people of its countries. Our office runs various communication, information and community-building initiatives year after year, intended to foster European values in the Maltese public and increase awareness of and participation in Parliament&#39;s activities.</p><img src="/files/live/sites/eplo-valletta/files/about/20090430_300409_pbp_882_JPG_EPIOS_JPG.JPG" alt="image-from-the-document-manager" height="1000" width="750" /><p>&nbsp;</p>
+
+<h2>Where to find us?</h2>
+
+<p>Our office is situated at Europe House, at the following address: 254, St Paul Street, Valletta 1215, Malta.</p></div>
+            </div>
+        </div></div>
+                                <!-- COMPONENT -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CONTAINER HEADING DEFAULT ========================= --><!-- START CARD PEOPLE LIST ========================= -->
+<div data-component="card-people-list" class="container mb-5rem">
+    <div class="row">
+        <div class="col-12">
+            <!-- START HEADING 2 ========================= -->
+<h2 data-component="heading-2" class="display-25 ff-sans text-break text-black fw-bolder d-inline-block m-0 pb-1-25rem">
+    <span class="text-break">Our Team</span>
+</h2>
+<!-- END HEADING 2 ========================= --></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/about/team/mario-sammut.jpg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/about/team/mario-sammut.jpg 320w, /files/live/sites/eplo-valletta/files/about/team/mario-sammut.jpg 640w, /files/live/sites/eplo-valletta/files/about/team/mario-sammut.jpg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Dr Mario Sammut</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Head of Office</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 2121235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 2121235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:mario.sammut@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">mario.sammut@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/about/team/elaine-cordina.jpg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/about/team/elaine-cordina.jpg 320w, /files/live/sites/eplo-valletta/files/about/team/elaine-cordina.jpg 640w, /files/live/sites/eplo-valletta/files/about/team/elaine-cordina.jpg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Ms Elaine Cordina</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Public Relations Officer</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 21235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 21235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:elaine.cordina@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">elaine.cordina@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/about/team/odette-camilleri-bonett.jpg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/about/team/odette-camilleri-bonett.jpg 320w, /files/live/sites/eplo-valletta/files/about/team/odette-camilleri-bonett.jpg 640w, /files/live/sites/eplo-valletta/files/about/team/odette-camilleri-bonett.jpg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Ms Odette Camilleri Bonett</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Youth Correspondent</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 21235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 21235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:odette.camilleri@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">odette.camilleri@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/about/team/anna-zammit-vella.jpg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/about/team/anna-zammit-vella.jpg 320w, /files/live/sites/eplo-valletta/files/about/team/anna-zammit-vella.jpg 640w, /files/live/sites/eplo-valletta/files/about/team/anna-zammit-vella.jpg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Ms Anna Zammit Vella</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Press Officer</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 21235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 21235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:anna.zammit@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">anna.zammit@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/about/team/122380.jpg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/about/team/122380.jpg 320w, /files/live/sites/eplo-valletta/files/about/team/122380.jpg 640w, /files/live/sites/eplo-valletta/files/about/team/122380.jpg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Mr Angelo Chetcuti</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Press Officer</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 21235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 21235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:angelo.chetcuti@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">angelo.chetcuti@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/about/team/rebecca-cachia.jpeg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/about/team/rebecca-cachia.jpeg 320w, /files/live/sites/eplo-valletta/files/about/team/rebecca-cachia.jpeg 640w, /files/live/sites/eplo-valletta/files/about/team/rebecca-cachia.jpeg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Ms Rebecca Cachia</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Finance Officer</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 21235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 21235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:rebecca.cachia@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">rebecca.cachia@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        <div class="col-lg-6">
+            <div data-component="card-people" class="theme-2 d-flex mb-30">
+	<figure class="m-0 mb-4 me-4 flex-shrink-0 rounded-circle overflow-hidden">
+		<img src="/files/live/sites/eplo-valletta/files/team/ritratt.jpg"
+			 alt="people" srcset="/files/live/sites/eplo-valletta/files/team/ritratt.jpg 320w, /files/live/sites/eplo-valletta/files/team/ritratt.jpg 640w, /files/live/sites/eplo-valletta/files/team/ritratt.jpg 1176w" sizes="100vw"/>
+	</figure>
+
+	<div class="d-flex flex-column text-break">
+		<h3 data-component="heading-3" class="display-base ff-sans text-break text-black fw-bolder d-inline-block mb-1">
+			<span>Ms Sephora Francalanza</span>
+		</h3>
+
+		<p class="lh-1-2 mb-1">Administrative Official</p>
+		<span class="d-block lh-normal mb-1">
+			  <a href="tel:+356 21235075" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-1 icons bg- text-blue focus-outline-wai">
+				  <span class="lh-normal">+356 21235075</span>
+			  </a>
+			</span>
+		<span class="d-block lh-normal mb-1">
+				<a href="mailto:sephora.francalanza@europarl.europa.eu" class="link-comp text-decoration-underline d-inline-flex align-items-start hover-animate hover-animate-right lh-normal icons text-blue focus-outline-wai">
+					<span class="lh-normal">sephora.francalanza@europarl.europa.eu</span>
+				</a>
+			</span>
+		<div class="address-card mb-2 lh-1-2">
+			<address class="mb-0">
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+				<span class="text-black d-block"></span>
+
+				</address>
+		</div>
+
+		</div>
+</div></div>
+        </div>
+</div>
+<!-- END CARD PEOPLE LIST ========================= --><!-- START HEADING LIST ========================= -->
+<div class="d-flex align-items-center pb-1-25rem border-bottom border-gray-dark mb-2-5rem">
+    <h2 id="useful-links" data-component="heading-2" class="display-2 ff-sans text-break text-black fw-bolder m-0 d-inline-block w-100">
+        <span class="text-break">Useful Links</span>
+    </h2>
+    </div>
+<!-- END HEADING LIST  ========================= -->
+<!-- START LINKS LIST ========================= -->
+<div class="container px-0">
+    <div class="row">
+    <div data-component="links-list" class="col-lg-4 mb-4 mb-lg-0">
+        <h3 class="display-base fw-bold pb-3">General</h3>
+<ul class="unstyled-list p-0 m-0">
+<li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://the-president.europarl.europa.eu/en"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">EP President</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://multimedia.europarl.europa.eu/en"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Multimedia Centre</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://youth.europarl.europa.eu/home.html"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Youth Hub</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://www.europarl.europa.eu/at-your-service/en/stay-informed/citizens-app"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Citizens' App</span>
+              </a>
+    </span>
+</span></li>
+   </ul></div>
+    <div data-component="links-list" class="col-lg-4 mb-4 mb-lg-0">
+        <h3 class="display-base fw-bold pb-3">Campaigns</h3>
+<ul class="unstyled-list p-0 m-0">
+<li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://luxaward.eu"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_blank' style="">
+              <span class="display-base lh-normal">LUX Audience Award</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://youth.europarl.europa.eu/more-information/charlemagne-prize.html"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">European Charlemagne Youth Prize</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://www.europarl.europa.eu/sakharovprize/en/home"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Sakharov Prize for Freedom of Thought</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://daphnejournalismprize.eu/"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_blank' style="">
+              <span class="display-base lh-normal">Daphne Caruana Galizia Prize for Journalism</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://together.eu/"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Together.eu</span>
+              </a>
+    </span>
+</span></li>
+   </ul></div>
+    <div data-component="links-list" class="col-lg-4 mb-4 mb-lg-0">
+        <h3 class="display-base fw-bold pb-3">Programmes</h3>
+<ul class="unstyled-list p-0 m-0">
+<li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://youth.europarl.europa.eu/more-information/ambassador-school.html"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">European Parliament Ambassador Schools (EPAS)</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://youth.europarl.europa.eu/more-information/euroscola.html"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Euroscola</span>
+              </a>
+    </span>
+</span></li>
+   <li class="py-3 border-top border-gray-light">
+        <span data-component="link-default">
+    <span class="">
+          <a onclick="dom.scrollTo('', {top: scrollY-100})" href="https://www.europarl.europa.eu/at-your-service/en/work-with-us/traineeships"
+             class="link-comp d-inline-flex align-items-center text-decoration-none hover-animate hover-animate-right lh-1 icons text-blue focus-outline-wai"
+             target='_self' style="">
+              <span class="display-base lh-normal">Traineeships</span>
+              </a>
+    </span>
+</span></li>
+   </ul></div>
+    </div>
+</div>
+<!-- END LINKS LIST ========================= --></div>
+            </div>
+        </div><div data-component="grid-8cols-offset-1" class="container">
+            <div class="row">
+                <!--FILTERS-->
+                <div class="col-12 col-lg-8 offset-lg-2 mb-6">
+                    <!-- START CTA COMPACT LIST ========================= -->
+<div data-component="cta-compact-list" class="mb-5rem">
+    <div class="row">
+        <div class="col-lg-6">
+            <!-- START CTA COMPACT ========================= -->
+<div data-component="cta-compact" class="theme-2 cta-compact h-100 pb-1-25rem mb-4">
+    <!-- Remove the span class="d-flex flex-column justify-content-center p-4 text-center border border-gray-light rounded-3" for the button alone (next step)-->
+    <div class="d-flex flex-column justify-content-center h-100 p-4 text-center border border-gray-light rounded-3 mb-20 mb-lg-0">
+        <!-- OPTIONAL -->
+        <h2>Visit the Parliament</h2>
+        <!-- OPTIONAL -->
+        <p class="text-break"><p>Come and see for yourself how proposals become law and where your MEP has a say on the future of Europe. We offer a range of activities in Brussels and Strasbourg, so that whether you come alone, with your family, or in a group, there&#39;s something for you.</p>
+</p>
+        <!-- Similar to the link-btn excepted the min-width 250px -->
+        <!-- Remove the span class="d-block" for the button alone (next step)-->
+
+            <span data-component="link-btn" class="theme-2 link-btn position-relative d-block mt-2">
+<a
+  href="https://visiting.europarl.europa.eu/en"
+  class="d-inline-block lh-1 display-body text-decoration-none bg-blue ff-sans text-white border border-blue rounded px-5 py-3 focus-outline-wai" target='_self' style="">
+  <span class="d-block text-center">Visit the website</span>
+    <!-- Mandatory if the link is an external link (with target _blank) -->
+    <span class="visually-hidden">Visit the website: Visiting</span>
+    </a>
+</span></div>
+</div>
+<!-- END CTA COMPACT ========================= --></div>
+        <div class="col-lg-6">
+            <!-- START CTA COMPACT ========================= -->
+<div data-component="cta-compact" class="theme-2 cta-compact h-100 pb-1-25rem mb-4">
+    <!-- Remove the span class="d-flex flex-column justify-content-center p-4 text-center border border-gray-light rounded-3" for the button alone (next step)-->
+    <div class="d-flex flex-column justify-content-center h-100 p-4 text-center border border-gray-light rounded-3 mb-20 mb-lg-0">
+        <!-- OPTIONAL -->
+        <h2>Explore the House of European History’s online collection</h2>
+        <!-- OPTIONAL -->
+        <p class="text-break"><p>The collection contains a wide variety of historical objects including artworks, political documents and propaganda, everyday items and souvenirs of the past, which allow you to explore history from a European perspective.</p>
+</p>
+        <!-- Similar to the link-btn excepted the min-width 250px -->
+        <!-- Remove the span class="d-block" for the button alone (next step)-->
+
+            <span data-component="link-btn" class="theme-2 link-btn position-relative d-block mt-2">
+<a
+  href="https://historia.europa.eu/en/collection"
+  class="d-inline-block lh-1 display-body text-decoration-none bg-blue ff-sans text-white border border-blue rounded px-5 py-3 focus-outline-wai" target='_blank' style="">
+  <span class="d-block text-center">Visit the website</span>
+    <!-- Mandatory if the link is an external link (with target _blank) -->
+    <span class="visually-hidden">Visit the website: House of European History</span>
+    </a>
+</span></div>
+</div>
+<!-- END CTA COMPACT ========================= --></div>
+        </div>
+</div>
+<!-- END CTA COMPACT LIST ========================= --></div>
+            </div>
+        </div></main>
+    <footer data-component="footer-main">
+        
+<!-- START FOOTER ========================= -->
+<div class="container-fluid bg-gray-footer text-white">
+    <div class="row">
+        <div class="col">
+            <div class="container">
+                <div class="row mt-5 mx-n4 justify-content-between">
+                    <div class="col-lg-8 mb-4">
+                            <div class="row">
+    <div>
+        <h2 id="Liaison offices_Menu"
+            class="text-center text-lg-start mb-3 display-2 ff-serif">
+            Liaison offices</h2>
+
+        <button type="button"
+                    class="btn btn-link text-decoration-none w-100 d-lg-none"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#collapseId-595f2e19-5858-406d-91ee-ed9064de5904"
+                    aria-expanded="false"
+                    aria-controls="collapseId-595f2e19-5858-406d-91ee-ed9064de5904"
+                    aria-labelledby="Liaison offices_Menu"
+                    title="Expand the menu"
+                    onclick="onExpendCollapseMenu(this, '595f2e19-5858-406d-91ee-ed9064de5904')">
+                <span class="position-relative d-block border-top-dotted-grey-2 w-100 text-light text-center w-100">
+                    <span class="icon-more-footer d-block w-40px h-40px bg-white rounded-circle position-absolute start-50 top-50 translate-middle"></span>
+                </span>
+            </button>
+        <div id="collapseId-595f2e19-5858-406d-91ee-ed9064de5904" class="row d-lg-flex collapse">
+            <div class="col-lg-4">
+                    <div class="mb-4">
+    <nav aria-label="liaison-offices-footer-links">
+        <ul class="ml-0 mb-0 ps-0 list-unstyled">
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/at-your-service/en"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>At your service</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://www.europarl.europa.eu/at-your-service/en/stay-informed/social-media"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>The European Parliament on social media</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/factsheets/en/home"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Facts Sheets on the European Union</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://visiting.europarl.europa.eu/en/"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Visiting</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://youth.europarl.europa.eu/en/home.html"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Youth Hub</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/forms/en/ask-ep"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Ask EP</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            </ul>
+    </nav>
+</div></div>
+            </div>
+    </div>
+</div></div>
+                    <div class="col-lg-4">
+                            <h2  id="European Parliament_Menu"
+     data-component="parliamentLinkSection"
+     class="text-center text-lg-start mb-4 display-2 ff-serif">
+    European Parliament</h2>
+
+<button type="button"
+        class="btn btn-link text-decoration-none w-100 d-lg-none"
+        data-bs-toggle="collapse"
+        data-bs-target="#collapseId-269e1384-393f-40fa-9a1a-34a52a435612"
+        aria-expanded="false"
+        aria-controls="collapseId-269e1384-393f-40fa-9a1a-34a52a435612"
+        aria-labelledby="European Parliament_Menu"
+        title="Expand the menu"
+        onclick="onExpendCollapseMenu(this, '269e1384-393f-40fa-9a1a-34a52a435612')">
+    <span class="position-relative d-block border-top-dotted-grey-2 w-100 text-light text-center w-100">
+        <span class="icon-more-footer d-block w-40px h-40px bg-white rounded-circle position-absolute start-50 top-50 translate-middle"></span>
+    </span>
+</button>
+
+<div id="collapseId-269e1384-393f-40fa-9a1a-34a52a435612" class="mb-4 collapse d-lg-block">
+    <div data-component="specificLinkBlock.parliamentLinks">
+    <nav aria-label="european-parliament-footer-links">
+        <ul class="ml-0 mb-0 ps-0 list-unstyled">
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="http://europarl.europa.eu/news/en"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>News</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://www.europarl.europa.eu/topics/en/"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Topics</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/meps/en/home"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>MEPs</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/about-parliament/en/"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>About Parliament</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/plenary/en/home.html"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Plenary</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/committees/en/home"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Committees</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://europarl.europa.eu/delegations/en/home"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Delegations</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            <li class="d-flex py-1 justify-content-center justify-content-lg-start">
+                    <!-- START simpleLink.hidden.footer -->
+<a class="p-0 m-0 text-decoration-none text-center text-lg-start link-light display-3 fw-bold mb-1 d-inline-block hover-animate hover-animate-right focus-outline-wai-white"
+        href="https://elections.europa.eu/en/"
+        target='_self'
+        style=""
+        rel="noreferrer">
+    <span>Elections</span>
+</a>
+<!-- END simpleLink.hidden.footer --></li>
+            </ul>
+    </nav>
+</div></div></div>
+                    </div>
+                <div class="sep-footer row mt-4 mb-4 pt-5 border-top-dotted-grey-2">
+    <div class="col align-self-center text-center">
+        <nav aria-label="list of social network">
+            <ul class="ml-0 mb-0 ps-0 list-unstyled d-flex justify-content-center flex-wrap">
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://www.facebook.com/europeanparliament"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-facebook.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on Facebook</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://x.com/Europarl_en"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-x.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on X</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://www.flickr.com/photos/european_parliament/"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-flickr.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on Flickr</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://www.linkedin.com/company/european-parliament"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-linkedin.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on LinkedIn</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://www.youtube.com/user/EuropeanParliament"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-youtube.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on YouTube</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://instagram.com/europeanparliament"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-instagram.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on Instagram</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://www.pinterest.com/epinfographics/"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-pinterest.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on Pinterest</span>
+</a></li>
+                <li class="d-inline-block mb-2">
+                        <a data-component="social-media-link"
+    href="https://www.reddit.com/r/europeanparliament/"
+    class="social-media-link position-relative d-flex align-items-center p-2 rounded-circle bg-light spacing focus-outline-wai-white focus mx-2" target="_blank" style=""
+>
+    <img src="https://liaison-offices.europarl.europa.eu/files/live/sites/eplo/files/assets/icons/social-media-sharing-ep/icons-for-footer/icon-reddit.svg" alt="" width="18" height="17" style="width: 18px;height: 17px;">
+    <span class="visually-hidden">
+        Check out Parliament on Reddit</span>
+</a></li>
+                </ul>
+        </nav>
+    </div>
+</div><div class="row mb-5">
+    <div class="col align-self-center text-center">
+        <span class="m-2">
+                <small>
+                    <a class="d-inline-block display-small fw-bold text-decoration-none link-light hover-animate hover-animate-up active focus-outline-wai-white"
+        href="https://europarl.europa.eu/portal/en/contact"
+        target='_self'
+        style="">
+    <span>Contact</span>
+</a></small>
+            </span>
+        <span class="m-2">
+                <small>
+                    <a class="d-inline-block display-small fw-bold text-decoration-none link-light hover-animate hover-animate-up active focus-outline-wai-white"
+        href="https://europarl.europa.eu/at-your-service/en/stay-informed/rss-feeds"
+        target='_self'
+        style="">
+    <span>RSS</span>
+</a></small>
+            </span>
+        <span class="m-2">
+                <small>
+                    <a class="d-inline-block display-small fw-bold text-decoration-none link-light hover-animate hover-animate-up active focus-outline-wai-white"
+        href="https://europarl.europa.eu/portal/en/sitemap"
+        target='_self'
+        style="">
+    <span>Sitemap</span>
+</a></small>
+            </span>
+        <span class="m-2">
+                <small>
+                    <a class="d-inline-block display-small fw-bold text-decoration-none link-light hover-animate hover-animate-up active focus-outline-wai-white"
+        href="https://europarl.europa.eu/legal-notice/en/"
+        target='_self'
+        style="">
+    <span>Legal notice</span>
+</a></small>
+            </span>
+        <span class="m-2">
+                <small>
+                    <a class="d-inline-block display-small fw-bold text-decoration-none link-light hover-animate hover-animate-up active focus-outline-wai-white"
+        href="https://europarl.europa.eu/privacy-policy/en/"
+        target='_self'
+        style="">
+    <span>Privacy policy</span>
+</a></small>
+            </span>
+        <span class="m-2">
+                <small>
+                    <a class="d-inline-block display-small fw-bold text-decoration-none link-light hover-animate hover-animate-up active focus-outline-wai-white"
+        href="https://europarl.europa.eu/portal/en/accessibility"
+        target='_self'
+        style="">
+    <span>Accessibility</span>
+</a></small>
+            </span>
+        </div>
+</div></div>
+        </div>
+    </div>
+</div>
+<!-- END FOOTER ========================= --></footer>
+</div>
+<!--stop bodywrapper-->
+
+
+
+</body>
+</html>

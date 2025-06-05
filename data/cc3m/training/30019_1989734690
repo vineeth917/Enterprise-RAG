@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Taap</title>
+    <link rel="stylesheet" href="/reset.css">
+    <style>
+        @font-face {
+            font-family: desMontillesRegular;
+            src: url(/Fonts/DesMontilles-Regular.otf);
+        }
+
+        @font-face {
+            font-family: konnectRegular;
+            src: url(/Fonts/Konnect-Regular.otf);
+        }
+
+        @font-face {
+            font-family: konnectSemiBold;
+            src: url(/Fonts/Konnect-SemiBold.otf);
+        }
+
+        @font-face {
+            font-family: konnectLight;
+            src: url(/Fonts/Konnect-Light.otf);
+        }
+
+        body {
+            background: url(/img/vp-homepage.png) no-repeat top center / cover;
+        }
+
+        @media(max-width: 500px) {
+            body {
+                background: url(/img/vp-homepage-mobile.png) no-repeat top center / cover;
+            }
+        }
+
+        .modal:before {
+            content: "";
+            background: rgba(0, 0, 0, .6);
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .container {
+            width: 541px;
+            box-sizing: border-box;
+            display: table;
+            margin: 0 auto;
+            text-align: center;
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 50px 38px;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+
+        .container img {
+            margin-bottom: 15px;
+        }
+
+        .container h1 {
+            font-size: 70px;
+            color: #11214A;
+            font-style: italic;
+            margin-bottom: 25px;
+            font-family: desMontillesRegular;
+        }
+
+        .container p {
+            font-size: 18px;
+            color: #11214A;
+            line-height: 1.5;
+            font-family: konnectLight;
+            line-height: 29px;
+        }
+
+        .countdown-label {
+            font-size: 20px;
+            font-weight: 600;
+            font-family: konnectSemiBold !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 15px 0 25px;
+        }
+
+        .countdown {
+            width: 46px;
+            margin-left: 15px;
+            margin-bottom: 0 !important;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        button {
+            min-width: 294px;
+            padding: 13px 37px;
+            font-size: 16px;
+            line-height: 1.5;
+            border: 0;
+            letter-spacing: normal;
+            font-weight: 600;
+            background: #2e4ec6;
+            color: #fff;
+            border-radius: 999px;
+            cursor: pointer;
+            -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 41, .2);
+            box-shadow: 0 3px 6px 0 rgba(0, 0, 41, .2);
+        }
+
+        @media (max-width: 766px) {
+            .container {
+                width: 95%;
+                margin: 15% auto;
+            }
+
+            .container h1 {
+                font-size: 50px;
+            }
+
+            .container p {
+                font-size: 14px;
+            }
+        }
+
+        @media(max-width: 500px) {
+            .container {
+                padding: 25px 15px;
+                top: 10%;
+            }
+
+            button {
+                font-size: 14px;
+                font-weight: normal;
+                min-width: 100% !important;
+            }
+
+            .countdown-label {
+                margin-top: 30px !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="modal">
+        <div class="container">
+            <div class="content">
+                <img src="/img/our-taap-logo.png" alt="" class="logo">
+                <p>Virgin Pure is now known as Our Taap.</p>
+                <p class="countdown-label semiBold">
+                    You will be redirected in
+                    <img src="/img/countdown.gif" alt="" class="countdown hidden">
+                </p>
+                <button onclick="location.href='https://ourtaap.com'">Click here to visit Our Taap now</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const path = window.location.pathname;
+
+            // Show countdown animation after 1 second
+            setTimeout(() => {
+                document.querySelector('.countdown').classList.remove('hidden');
+            }, 1000);
+
+            // Start countdown and redirect after 3 seconds
+            let count = 0;
+            const interval = setInterval(() => {
+                if (count++ === 3) {
+                    document.querySelector('.countdown-label').innerText = 'Redirecting...';
+                    window.location.href = 'https://ourtaap.com' + path;
+                    clearInterval(interval);
+                }
+            }, 1000);
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,269 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+    <meta name="title" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="/css/normalize.min.css?hash=TP4VXDORlVi3MWVA8cScsA">
+    <link rel="stylesheet" href="/css/main.css?hash=TP4VXDORlVi3MWVA8cScsA">
+    <link rel="stylesheet" href="/css/flexslider.css?hash=TP4VXDORlVi3MWVA8cScsA">
+    <link rel="stylesheet" href="/css/mods.css?hash=TP4VXDORlVi3MWVA8cScsA">
+    <link rel="stylesheet" href="/css/swiper.min.css?hash=TP4VXDORlVi3MWVA8cScsA">
+    <link href="https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css" rel="stylesheet" />
+    <link href="https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v1.0.0/MarkerCluster.css" rel="stylesheet" />
+    <!--
+        /* @license
+         * MyFonts Webfont Build ID 2607109, 2013-07-22T11:39:55-0400
+         * 
+         * The fonts listed in this notice are subject to the End User License
+         * Agreement(s) entered into by the website owner. All other parties are 
+         * explicitly restricted from using the Licensed Webfonts(s).
+         * 
+         * You may obtain a valid license at the URLs below.
+         * 
+         * Webfont: Glypha Pro 55 Roman by Linotype
+         * URL: http://www.myfonts.com/fonts/linotype/glypha/pro-55-roman/
+         * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted &#x00A9; 2008 Linotype GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype GmbH, and may not be reproduced, 
+         * 
+         * Webfont: Univers 47 Condensed Light by Linotype
+         * URL: http://www.myfonts.com/fonts/linotype/univers/47-condensed-light/
+         * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1987, 1991, 1999, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH
+         * 
+         * 
+         * License: http://www.myfonts.com/viewlicense?type=web&buildid=2607109
+         * 
+         * © 2013 MyFonts Inc
+        */
+        -->
+
+    <!-- 1. load the webfonts -->
+    <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    <script>
+        setTimeout(function () {
+            window.location = "https://" + window.location.hostname;
+        }, 8000);
+    </script>
+
+    <script type = 'text/javascript' >
+        var appInsights=window.appInsights||function(config)
+        {
+            function r(config){ t[config] = function(){ var i = arguments; t.queue.push(function(){ t[config].apply(t, i)})} }
+            var t = { config:config},u=document,e=window,o='script',s=u.createElement(o),i,f;for(s.src=config.url||'//az416426.vo.msecnd.net/scripts/a/ai.0.js',u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=['Event','Exception','Metric','PageView','Trace','Ajax'];i.length;)r('track'+i.pop());return r('setAuthenticatedUserContext'),r('clearAuthenticatedUserContext'),config.disableExceptionTracking||(i='onerror',r('_'+i),f=e[i],e[i]=function(config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t['_' + i](config, r, u, e, o),s}),t
+        }({
+            instrumentationKey: '192b0bb8-95f4-47c4-b857-ad17c7cc0200'
+        });
+        
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+    </script>
+</head>
+<body class="error-page">
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NQ2RZ5"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>    (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NQ2RZ5');</script>
+    <!-- End Google Tag Manager -->
+
+    <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+    
+<header role="banner">
+    <div class="wrapper banner">
+        <nav role="navigation" class="clearfix">
+            <h1><a class="logo" href="/">
+                <img src="/img/WightLocations_Logo_WHITE.svg"></a></h1>
+            <a href="#primary-nav" class="nav-toggle toggle"></a>
+            <div class="menu-right clearfix">
+                <div class="top-links clearfix">
+                    <ul>
+                        <li class="sign-up"><a href="#news-signup" class="toggle">Sign Up</a></li>
+                    </ul>
+                </div>
+                <div class="header-contact clearfix">
+                    <span class="opening-hours"><strong>Open</strong> Monday - Saturday</span>
+                    <a class="tel-number" href="tel:01983617322">01983 617 322</a>
+                </div>
+            </div>
+            <ul id="primary-nav" class="clearfix">
+                <li><a href="/cottages">Search</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/let-your-property">Let my property</a></li>
+                <li><a href="#contact" class="contact-link">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
+    
+    <section class="main" role="main">
+        <div class="wrapper">
+            <h1>404 - Page Not Found</h1>
+            <h2>We've looked around, but we just can't find what you were after.</h2>
+            <p>Use the navigation links at the top to continue on your way.</p>
+            <p>If you think there really should have been something here then let us know using the contact link at the top of the page.</p>
+        </div>
+    </section>
+
+
+    
+
+<footer role="contentinfo">
+    <div class="footer-wrap">
+        <ul class="clearfix">
+          
+            
+            <li class="contact"> 
+               <span class="sitemap"><p><a href="/sitemap.aspx"><img src="/img/map.png"/> Sitemap</a></p></span>
+               <a href="tel:01983617322"><img src="/img/phone.png"/> 01983 617322</a><br />
+               <a href="mailto:theisland@classic.co.uk"><img src="/img/mail.png"/> theisland@classic.co.uk</a><br />   
+               <span class="copyright"><img src="/img/copyright.png" /> Wight Locations 2025</span>
+               
+            </li>
+           
+        </ul>
+    </div>
+    <section id="news-signup">
+        <div class="news-signup-form">
+            <a href="#news-signup" class="toggle close-news-signup">Close</a>
+            <div style="margin: 8px; font-size: 0.8em;">
+                <h2>Sign Up for News &amp; Offers</h2>
+                <form action="">
+                    <div>
+                        <label style="width: 120px;" for="firstname">First Name : <em>*</em></label>
+                        <div>
+                            <input type="text" name="firstname" value="" size="20" maxsize="100" />
+                        </div>
+                    </div>
+
+                    <div>
+                        <label style="width: 120px;" for="lastname">Last Name : <em>*</em></label>
+                        <div>
+                            <input type="text" name="lastname" value="" size="20" maxsize="100" />
+                        </div>
+                    </div>
+
+                    <div>
+                        <label style="width: 120px;" for="emailaddress">Email Address : <em>*</em></label>
+                        <div>
+                            <input type="text" name="emailaddress" value="" size="20" maxsize="100" />
+                        </div>
+                    </div>
+
+                    <div>
+                        <label style="width: 120px;" class="mxm-form-item-label"></label>
+                        <div>
+                            <input type="submit" value="Submit" class="mxm-form-element mxm-form-button" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+</footer>
+
+<!--begin contact popup-->
+<section id="contact">
+    <div class="wrapper">
+
+        <a href="#contact" class="close-contact">X | CLOSE</a>
+
+        <div class="contact-left">
+            <h1>Contact Us</h1>
+            <p class="contact-text">Please get in touch if you have any questions or comments. Our staff have first hand experience of many of our properties and would be happy to help you find your perfect holiday cottage.</p>
+            <address>
+                <b>Wight Locations</b><br />
+                High Street<br />
+                Seaview<br />
+                Isle of Wight<br />
+                PO34 5ES
+           
+            </address>
+            <div class="contact-details">
+                <p class="email">
+                    <b>Email</b><br />
+                    <a href="mailto:theisland@classic.co.uk">theisland@classic.co.uk</a>
+                </p>
+
+                <p>
+                    <b>Telephone</b><br />
+                    +44 1983 617 322
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="contact-right">
+            <h2>Questions or comments - Get In Touch!</h2>
+            <form class="contact-form">
+                <label for="your-name" class="hidden">Enter Your Name</label>
+                <input type="text" name="name" placeholder="Name:" />
+
+                <label for="email" class="hidden">Email Address</label>
+                <input type="text" name="email" placeholder="Email Address:" />
+
+                <div class="textarea-hold">
+                    <label for="message" class="hidden">Your Message</label>
+                    <textarea name="message" placeholder="Message:"></textarea>
+                    <input type="submit" class="submit" value="SEND" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--end wrapper-->
+</section>
+<!--end contact popup-->
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+    <script src="/js/vendor/moment.min.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/jquery.flexslider-min.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/jquery.sharrre-1.3.4.min.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/main.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/jquery.history.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/moment.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/swiper.min.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+
+    <script src="/js/property-gallery.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+    <script src="/js/latest-cottages-slider.js?hash=TP4VXDORlVi3MWVA8cScsA"></script>
+
+    
+
+
+   <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZQ5WRNZ5L"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-9ZQ5WRNZ5L');
+    </script>
+</body>
+</html>

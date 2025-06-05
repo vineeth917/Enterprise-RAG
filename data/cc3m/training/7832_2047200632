@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" style="--bs-primary:#234E70;--bb-primary-dark:#1e4360;--bb-primary-light:#fff;--bs-primary-rgb:35, 78, 112;--bs-secondary:#FBF8BE;--bb-secondary-dark:#d6d3a2;--bs-secondary-rgb:251, 248, 190;--bs-link-color:#234E70;--bs-link-hover-color:#1e4360;--bs-body-color:gray-800;--bs-body-bg:white;--bb-h1-color:base;--bb-h2-color:base;--bb-h3-color:base;">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="icon" href="/themes/custom/spruce/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://paullieberman.org/bike" />
+<link rel="shortlink" href="https://paullieberman.org/node/6" />
+
+    <title>Bike | Paul Lieberman&#039;s Website</title>
+    <link rel="me" href="https://paullieberman.net" />
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/filter/css/filter.caption.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/core/modules/media/css/filter.caption.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ckeditor5_plugin_pack/modules/ckeditor5_plugin_pack_indent_block/css/indent-block.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/variables.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/user.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/progress.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/node.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/fonts/alegreya_roboto.css?suhi5n" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Alegreya:700" />
+<link rel="stylesheet" media="all" href="/libraries/bootstrap/dist/css/bootstrap.min.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/bootstrap-icons.css?suhi5n" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.13.0/css/all.css" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/affix.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/book.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/contextual.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/feed-icon.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/field.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/header.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/help.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/icons.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/image-button.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/item-list.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/list-group.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/media.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/page.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/search-form.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/shortcut.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/sidebar.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/site-footer.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/skip-link.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/table.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tabledrag.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tableselect.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tablesort-indicator.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/ui.widget.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tabs.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/toolbar.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/vertical-tabs.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/views.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/webform.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/ui-dialog.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/libraries/bootstrap/css/bootstrap.min.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/custom/spruce/css/style.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/custom/spruce/css/colors.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/custom/spruce/css/blog.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/custom/spruce/css/ridelog.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/custom/spruce/css/alert.css?suhi5n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/colors/colors.css?suhi5n" />
+<link rel="stylesheet" media="print" href="/themes/contrib/bootstrap_barrio/css/print.css?suhi5n" />
+
+    
+  </head>
+  <body class="layout-no-sidebars page-node-6 path-node node--type-page">
+    <a href="#main-content" class="visually-hidden">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+        <div id="page-header">
+            <a href="/" title="Home" rel="home" class="navbar-brand">
+            Paul Lieberman&#039;s Website
+    </a>
+    
+
+  </div>
+  <nav class="navbar bg-primary navbar-expand-md" id="navbar-main">
+          <div class="container">
+              <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+      <div class="collapse navbar-collapse justify-content-end" id="CollapsingNavbar">
+              <nav role="navigation" aria-labelledby="block-bike-menu" id="block-bike" class="block block-menu navigation menu--menu-bike">
+            
+  <h2 class="visually-hidden" id="block-bike-menu">Bike</h2>
+  
+
+        
+              <ul id="block-bike" class="clearfix nav navbar-nav">
+                    <li class="nav-item">
+                          <a href="/" class="nav-link" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="nav-item active">
+                          <a href="/bike" class="nav-link active is-active" data-drupal-link-system-path="node/6" aria-current="page">Bike</a>
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/bike/bicycles" class="nav-link dropdown-toggle" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="bike/bicycles">Bicycles</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/bike/bicycle/grando" data-drupal-link-system-path="node/7043">Grando</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/bike/bicycle/ravn" data-drupal-link-system-path="node/7534">Ravn</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/bike/bicycle/soma-saga" data-drupal-link-system-path="node/3506">Soma Saga</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/bike/service-log" data-drupal-link-system-path="bike/service-log">Service-log</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/bike/bicycle/stats" data-drupal-link-system-path="bike/bicycle/stats">Mileage</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/bike/rides" class="nav-link dropdown-toggle" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="bike/rides">Rides</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/bike/ride-log" data-drupal-link-system-path="bike/ride-log">Ride log</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/bike/rides-by-month" data-drupal-link-system-path="bike/rides-by-month">Rides by month</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/bike/ridelog/yearly" data-drupal-link-system-path="bike/ridelog/yearly">Stats</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/bike/tours" class="nav-link dropdown-toggle" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="bike/tours">Tours</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/bike/tour/pictures" data-drupal-link-system-path="bike/tour/pictures">Pictures</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item">
+                          <a href="/bike/blog" class="nav-link" data-drupal-link-system-path="bike/blog">Blog</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+            </div>
+                  </div>
+      </nav>
+    </header>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container">
+
+            
+
+           <div data-drupal-messages-fallback class="hidden"></div>
+
+
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <div id="block-spruce-page-title" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+  <h1 class="title"><span class="field field--name-title field--type-string field--label-hidden">Bike</span>
+</h1>
+
+
+    </div>
+  </div>
+<div id="block-spruce-chinook-system-main" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    
+
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row">
+<div class="col-md-4">
+<figure role="group" class="caption caption-drupal-media align-left">
+<div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/full_width/public/images/63977813-9E15-4FC3-89FE-BB808F3EE25D.jpeg?itok=Q9qdZn8G" width="2048" height="2901" alt="Out on the Ravn" class="image-style-full-width">
+
+
+</div>
+          </div>
+
+</div>
+<figcaption>On a local road ride</figcaption>
+</figure>
+</div>
+<div class="col-md-4">
+<p>I got serious about bicycle riding in 2004. I had been working a desk job for 12 years and slowly but surely putting on weight. At first I was just into mountain biking but soon good a road bike and started doing long rides with friends. The eventually led to bicycle touring which soon became my passion.&nbsp;</p>
+<p>These days I still try and make the weekly club rides and get out on a tour whenever I can.</p>
+</div>
+<div class="col-md-4">
+<figure role="group" class="caption caption-drupal-media align-right">
+<div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/full_width/public/images/rideOO.png?itok=FY-ohqB0" width="2048" height="2976" alt="Riding the Oregon Outback" class="image-style-full-width">
+
+
+</div>
+          </div>
+
+</div>
+<figcaption>On the Oregon Outback in 2022</figcaption>
+</figure>
+</div>
+</div>
+<div class="row">
+<div class="col-md-2">&nbsp;</div>
+<div class="col-md-8">
+<div class="align-center">
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/images/states.jpg" width="1024" height="724" alt="Crossing into states on bike tours">
+
+</div>
+          </div>
+
+</div>
+</div>
+<div class="col-md-2">&nbsp;</div>
+</div>
+</div>
+      
+  </div>
+</article>
+
+    </div>
+  </div>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+    </div>
+        <footer class="site-footer">
+              <div class="container">
+                            </div>
+    </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/6","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"statistics":{"data":{"nid":"6"},"url":"\/modules\/contrib\/statistics\/statistics.php"},"ckeditor5Premium":{"isMediaInstalled":true},"user":{"uid":0,"permissionsHash":"97b1514361d6c207e37b71910278652c8892dad8bd2a3e45f33cb896bf5dbf19"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-beta.2"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=11.1.6"></script>
+<script src="/core/misc/drupal.js?v=11.1.6"></script>
+<script src="/core/misc/drupal.init.js?v=11.1.6"></script>
+<script src="/libraries/bootstrap/dist/js/bootstrap.bundle.min.js?suhi5n"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/barrio.js?v=11.1.6"></script>
+<script src="/libraries/popper/popper.min.js?suhi5n"></script>
+<script src="/libraries/bootstrap/js/bootstrap.min.js?suhi5n"></script>
+<script src="/themes/custom/spruce/js/global.js?v=11.1.6"></script>
+<script src="/modules/contrib/statistics/statistics.js?v=11.1.6"></script>
+
+  </body>
+</html>

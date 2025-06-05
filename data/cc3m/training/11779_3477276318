@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<meta name='robots' content='index, max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Ideas &amp; Advice | Lamps Plus - Read our latest blog posts, explore helpful how-to articles, tips and more here at the LAMP PLUS Info Center.</title>
+	<meta name="description" content="Read our latest blog posts, explore helpful how-to articles, tips and more here at the LAMP PLUS Info Center." />
+	<link rel="canonical" href="https://www.lampsplus.com/ideas-and-advice/" />
+	<link rel="next" href="https://www.lampsplus.com/ideas-and-advice/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Ideas &amp; Advice | Lamps Plus" />
+	<meta property="og:description" content="Read our latest blog posts, explore helpful how-to articles, tips and more here at the LAMP PLUS Info Center." />
+	<meta property="og:url" content="https://www.lampsplus.com/ideas-and-advice/" />
+	<meta property="og:site_name" content="Ideas &amp; Advice | Lamps Plus" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.lampsplus.com/ideas-and-advice/","url":"https://www.lampsplus.com/ideas-and-advice/","name":"Ideas &amp; Advice | Lamps Plus - Read our latest blog posts, explore helpful how-to articles, tips and more here at the LAMP PLUS Info Center.","isPartOf":{"@id":"https://www.lampsplus.com/ideas-and-advice/#website"},"description":"Read our latest blog posts, explore helpful how-to articles, tips and more here at the LAMP PLUS Info Center.","breadcrumb":{"@id":"https://www.lampsplus.com/ideas-and-advice/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://www.lampsplus.com/ideas-and-advice/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.lampsplus.com/ideas-and-advice/#website","url":"https://www.lampsplus.com/ideas-and-advice/","name":"Ideas &amp; Advice | Lamps Plus","description":"Read our latest blog posts, explore helpful how-to articles, tips and more here at the LAMP PLUS Info Center.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.lampsplus.com/ideas-and-advice/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="amphtml" href="https://www.lampsplus.com/ideas-and-advice/amp/" /><meta name="generator" content="AMP for WP 1.1.4"/><link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Ideas &amp; Advice | Lamps Plus &raquo; Feed" href="https://www.lampsplus.com/ideas-and-advice/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ideas &amp; Advice | Lamps Plus &raquo; Comments Feed" href="https://www.lampsplus.com/ideas-and-advice/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.lampsplus.com\/ideas-and-advice\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.lampsplus.com/ideas-and-advice/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/plugins/contact-widgets/assets/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpa-style-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.6.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+
+.wpa-hide-ltr#skiplinks a, .wpa-hide-ltr#skiplinks a:hover, .wpa-hide-ltr#skiplinks a:visited {
+	
+}
+.wpa-hide-ltr#skiplinks a:active,  .wpa-hide-ltr#skiplinks a:focus {
+	
+}
+	
+		:focus { outline: 2px solid #999!important; outline-offset: 2px !important; }
+		:root { --admin-bar-top : 7px; }
+</style>
+<link rel='stylesheet' id='bootstrap-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/css/bootstrap.min.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elena-font-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/fonts/elena-fonts/font.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/css/owl.carousel.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ffcustom-style-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/css/elena-custom.css?ver=8149' type='text/css' media='all' />
+<link rel='stylesheet' id='elena-style-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena-child/style.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-elena_theme-css' href='https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/inc/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-elena_theme-inline-css' type='text/css'>
+p{font-family:Helvetica,Arial,sans-serif;font-weight:400;font-style:normal;font-size:15px;line-height:1.7;color:#555;}.h1,h1,h1 a{font-family:Helvetica,Arial,sans-serif;font-weight:600;font-style:normal;font-size:28px;color:#333;}.h2,h2,h2 a{font-family:Helvetica,Arial,sans-serif;font-weight:600;font-style:normal;font-size:28px;color:#333;}.h3,h3,h3 a{font-family:Helvetica,Arial,sans-serif;font-weight:600;font-style:normal;font-size:20px;color:#333;}.h4,h4,h4 a{font-family:Helvetica,Arial,sans-serif;font-weight:600;font-style:normal;font-size:18px;color:#333;}.h5,h5,h5 a{font-family:Helvetica,Arial,sans-serif;font-weight:600;font-style:normal;font-size:16px;color:#333;}.h6,h6,h6 a{font-family:Helvetica,Arial,sans-serif;font-weight:600;font-style:normal;font-size:15px;color:#333;}
+</style>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js?ver=8.5.2#property=63891ae744c4120012bde2da&amp;product=gdpr-compliance-tool-v2&amp;source=simple-share-buttons-adder-wordpress" id="simple-share-buttons-adder-mu-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.6.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://www.lampsplus.com/ideas-and-advice/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lampsplus.com/ideas-and-advice/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<meta name="generator" content="Site Kit by Google 1.150.0" /><meta name="google-site-verification" content="M6dZA8uYiRAeYu9rKEq4eBR8e6j8S25KBu2yP8lV_Es"><link rel="icon" href="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/cropped-lampsplus-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/cropped-lampsplus-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/cropped-lampsplus-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/cropped-lampsplus-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+body, td, h1, h2, h3, h4, h5, h6, p, a, h2 a, .nav > li > a {font-family:"Gotham",Helvetica,Arial,sans-serif;}
+h1, h2, h3, h2 a {letter-spacing:-.03em; font-weight:500;line-height:1.3em;}
+
+.h1, h1, h1 a  {font-size:28px;}
+.h2, h2, h2 a {font-size:24px;}
+
+h2.entry-title {font-size: 35px;}
+
+.wp-caption .wp-caption-text {
+	font-style: italic;
+	font-size: 14px;
+	background-color:#f1f1f1;
+	padding:5px 10px 10px;}
+
+.widget-title {line-height:22px;}
+
+.clear {display:block;clear:both;}
+
+body {background-color:#fff;}
+header {border-bottom:solid 1px #ccc;}
+aside section.widget {border: solid 1px #ccc; margin-bottom:30px;}
+footer {border-top:solid 1px #ccc;}
+.post.sticky {border-bottom: solid 1px #ccc;}
+#footer-bottom, #footer-bottom a {font-size:12px; color:#666;}
+
+#footer dd {line-height: 2em;}
+
+#footer li {list-style:none;}
+
+#footer .fa {margin-right: 10px;}
+
+
+element.style {
+}
+.btn-default {font-weight:500;text-transform:uppercase; border:solid 1px #555; padding: 3px 16px; margin-top:0;}
+
+.mpb-widget-wrapper {
+    margin: 30px auto;
+}
+#page-header.minimized {width:1px;height:1px;margin:0;padding:0;}
+
+
+#masthead {
+/*background: url(https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/07/header-image-7-18.jpg) bottom center no-repeat;*/
+background: url(https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2023/03/Masthead-spring-2023.jpg) bottom center no-repeat;
+height:340px;
+padding: 80px 50px 30px;
+margin-left: 15px;
+margin-right: 15px;
+}
+#masthead div {background-color:rgba(255,255,255,.7);padding: 20px; width:34%;}
+
+#masthead h1 {font-size:32px;color:#000;}
+
+#masthead p {color:#000} 
+
+.info-box-text p {
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.pagination li a, .pagination>li:last-child>a, .pagination>li:first-child>a {background-color: #595959; border-radius:50%;width:40px;height:40px;line-height:40px;}
+.pagination>li.active>a {background-color: #000; font-weight:bold; border-radius:50%;}
+
+i.fa-thumb-tack {display:none}
+
+#page-header {margin-bottom:30px; border-top:none;}
+
+.mobilePhone {display:none;}
+
+.base-wrapper {padding-top: 0;}
+
+article .blog-article-details {float:left; margin-bottom:0px;}
+
+.ssba {padding-bottom:30px;}
+
+.ssba a {margin-left: 5px;}
+
+.single-post #page-header, .type-page #page-header {padding:0;}
+
+.post .blog-article img.wp-post-image {display:none;}
+.post-category {font-weight:normal; font-size:90%; text-transform: none; color:#656565;}
+.post-category a {text-decoration: underline;color:#656565;} 
+#secondary .textwidget a, .blog-article p a {text-decoration: underline;}
+
+.single-post .blog-article {padding:25px 50px}
+
+.post .blog-article p:nth-of-type(1) {margin-top:1em;}
+
+
+.blog-article iframe {
+	margin:0 auto;
+	text-align:center;
+	display:block;}
+
+ol.spaced-list li, ul.spaced-list li {margin-bottom:1em;}
+
+.search .blog-article {margin-bottom:0;}
+.search article.page-content {margin-bottom:20px;}
+.search .blog-article-thumbnail {display: none;}
+.search h2.entry-title a {font-size: 20px; line-height: .8em;}
+
+.bg-badge {
+	width:300px;
+	float:right;
+	display: inline;
+	border: 1px solid #ccc;
+	margin-top:20px
+}
+.widget-title {font-weight:500;}
+.wpcw-widget-social ul {
+	list-style: none;
+}
+.wpcw-widget-social ul li {
+	display:inline-block;	
+}
+.wpcw-widget-social ul li a {
+	margin: 0 2px	
+}
+
+.center {text-align:center;}
+.guideShop {
+	background: #990000;
+	box-sizing: border-box;
+  color: #fff;
+	display: inline-block;
+	font-size: 1em;
+	margin: 1em auto;
+	padding: .5em 1.2em;
+	position: relative;
+  text-align: center;
+  text-decoration: none;
+	text-transform: uppercase;
+}
+.guideShop:hover {
+  background: #cc0000;
+	color:#ffffff;
+	text-decoration:none;
+}
+.guideShop:visited {
+  background: #990000;
+	color:#ffffff;
+	text-decoration:none;
+}
+#shareHeading {margin-top:1em}
+.fs-slider-next-button, .fs-slider-prev-button {opacity:1}
+
+#secondary .textwidget a, .blog-article p a.btn-default {text-decoration:none;}
+
+
+
+/*MOBILE*/
+@media (max-width: 991px)
+{
+
+	#logo {margin: 10px; max-width:70%;}
+
+	.nav > li > a {font-size: 17px;
+	}
+
+	.nav {margin-top: 0; margin-bottom: 30px;}
+	.navbar-default .navbar-nav>.active>a {
+    color: #3b3e43;
+    background-color: #fff;
+	}
+	.nav li.dropdown ul  {background-color: #fff;}
+	.container.mpb-widget-wrapper {
+    padding-top: 20px;
+}
+	.dropdown-menu {webkit-box-shadow:none; box-shadow:none; border-top: none;}
+	.dropdown-menu li:not(:last-child) {border-bottom: none;}
+	.nav li.dropdown ul li a {color: #3b3e43; font-weight:600;}
+	.nav li.dropdown ul li a:hover {background-color:#fff;}
+	.container.mpb-widget-wrapper {padding-top:0; margin-bottom:30px;}
+	#masthead {
+    height: 120px;
+    padding: 15px;
+    margin-left: 0;
+    margin-right: 0;
+		background: none;
+		margin-bottom:30px;
+	}
+	#masthead div {text-align:center; padding:10px; background-color:#fff; width:100%;}
+	#masthead h1 {font-size: 28px; line-height: 1.4em;color:#333;}
+	#masthead p {width:100%; color:#333;}
+	.h2, h2, h2 a {font-size:20px;}
+	.widget {margin-bottom: 30px;}
+	.small-thumbs .post {
+    margin-bottom: 30px;
+	}
+	
+	#footer .col-sm-3 {
+    width: 48%;
+    float: left;
+	padding-left: 20px;
+	padding-right: 10px;
+	}
+	#footer .widget {
+    margin-bottom: 10px;
+	}
+	#footer .col-sm-3:nth-child(3)
+{ clear: left; } 
+	#shareHeading {font-size:16px;}
+}
+
+.single-post .blog-article {padding:20px}
+
+li.menu-item.dropdown.focus .dropdown-menu {
+  visibility: visible;
+  display: block;
+}
+
+/* Mobile Video Fix */
+@media (max-width: 575px) {
+  	.blog-article iframe {max-width:100%;height:auto;}
+	
+		.bg-badge {
+	width:100%;
+	float: none;
+	display: block;
+	border: 2px solid #ccc;
+	margin-top:20px
+}
+	
+}
+
+/* Mobile Menu Patch */
+@media (max-width: 767px), (max-height: 375px) {
+	#menu-item-797 .dropdown-menu {
+		display: block;
+		margin-bottom: 15px;
+		position: relative;
+		top: auto;
+		visibility: visible;
+	}
+}
+/* Mobile Telephone iPhone X Patch */
+@media (max-height: 375px) {
+	.visible-xs {
+		display: block !important;
+	}
+	.hidden-xs {
+		display: none !important;
+	}
+}		</style>
+		<link rel="preload" as="font" type="font/woff" href="/fonts/Gotham/GothamBook_normal_normal_subset1.woff2" crossorigin />
+<link rel="preload" as="font" type="font/woff" href="/fonts/Gotham/GothamBold_normal_normal_subset1.woff2" crossorigin />
+<link rel="preload" as="font" type="font/woff" href="/Content/_universal/lpIcons/fonts/LPIcons.woff?vf9e4" crossorigin />
+<link rel="preload" as="style" href="/fonts/2c528ce0-daeb-11ec-a82a-061870d834ea.css?v=2022-12-08" />
+<link rel="stylesheet" href="/fonts/2c528ce0-daeb-11ec-a82a-061870d834ea.css?v=2022-12-08" />
+<script type="text/javascript">
+    (function () {
+
+    function setCookie(cName, cValue, expDays) {
+
+        let date = new Date();
+        date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
+
+        const expires = `expires=${date.toUTCString()}`;
+        document.cookie = `${cName}=${cValue}; ${expires}; path=/`;
+
+    }
+
+    const COOKIE_EXP = 120;
+    const urlParams = new URLSearchParams(window.location.search);
+    const cookies = {
+        src: 'CMCookieFooterVendor',
+        mdm: 'CMCookieFooterMedium', 
+        cmp: 'CMCookieFooterCategory',
+        trm: 'CMCookieFooterItem',
+        cnt: 'CMCookieFooterPlacement'
+    };
+
+    Object.keys(cookies).forEach((k) => {
+
+        const param = urlParams.get(k);
+        if (param) {
+
+            setCookie(cookies[k], param, COOKIE_EXP);
+
+        }
+
+    });
+
+})();
+</script>    
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NNM5X-PGKEH-7XSBH-JMD4N-7PLZM",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"NNM5X-PGKEH-7XSBH-JMD4N-7PLZM",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="ejbz2tyxblor22af2vla-f-adfffa957-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"1079063","ak.ai":parseInt("419468",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"103f44bb","ak.r":44093,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"64.18.15.0","ak.cport":38112,"ak.gh":"23.33.28.144","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1745212758","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==mx4ADf9yytcNjd7j1x9BbIDEZYrsWOMuqUl8t/LkMm8nfE+l+XfT6A2B/FgKXosFNpOxGgLUzXvTzFB7vkQBhkyifLoRBz46KREsM/gyxUUwIb1S5DzilJgIDQc94TNRNai70kKa96qq9PG8DLgRpcMFg9QtkY1QqT9CcCeSt/G410Ikpmj9hyJ+HPt60dlcLNgQEKdakRFQElw/EnlOCBGc+TXaN8U4LZg5CKdY7mQjQWVH8mt2v0/BMvpCmX08BUu7AHrv9aYvopot+7Q6jNLV6/gaz5WPUirjF1+KmWBP4udq8gSwcoZlX1+Lc8tFB4hXqghpsrWAQ5NDhPA7M6MgElUmYkFhtvL76wTQwsdtPpfVt3K3Wpu84yryoXNl5ZW1LYOgSacSHs60zx72Gjnry9VGrUyhVzq/xW0a1pg=","ak.pv":"120","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="home blog group-blog hfeed">
+
+			<div id="page-preloader">
+			<span class="spinner" style="background: url(https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/inc/images/preloader.gif) no-repeat 50% 50%;"></span>
+		</div>
+	
+			
+<!-- HEADER -->
+<header class="main-header simple-menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                                    <a id="logo" href='https://www.lampsplus.com/ideas-and-advice/' title='Ideas &amp; Advice | Lamps Plus' rel='home'>
+                        <img src='https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2017/12/lamps-plus-ideas-advice-1.png' alt='Ideas &amp; Advice | Lamps Plus'>
+                    </a>
+                
+                <button id="mobile-menu-button" type="button" class="navbar-toggle" data-toggle="collapse"  data-target="#navbar-collapse-menu" aria-expanded="false" aria-haspopup="true">
+                    <i class="fa fa-bars"></i>
+                </button>
+            </div>
+
+            <div class="col-md-9 menu-wrapper">
+                <!-- MENU -->
+                <nav class="navbar navbar-default mobile-menu" role="navigation">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div id="navbar-collapse-menu" class="collapse navbar-collapse"><ul id="menu-minimal-primary" class="nav navbar-nav"><li id="menu-item-797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-797 dropdown"><button type="button"  title="Ideas by Category">Ideas by Category <span class="caret"></span></button>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-799"><a title="Chandelier Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/chandeliers/">Chandelier Ideas</a></li>
+	<li id="menu-item-800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-800"><a title="Ceiling Light Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/ceiling-lights/">Ceiling Light Ideas</a></li>
+	<li id="menu-item-806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-806"><a title="Lamp Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/lamps/">Lamp Ideas</a></li>
+	<li id="menu-item-801" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-801"><a title="Wall Light Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/wall-lights/">Wall Light Ideas</a></li>
+	<li id="menu-item-802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-802"><a title="Outdoor Light Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/outdoor-lights/">Outdoor Light Ideas</a></li>
+	<li id="menu-item-803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-803"><a title="Ceiling Fan Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/ceiling-fans/">Ceiling Fan Ideas</a></li>
+	<li id="menu-item-807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-807"><a title="Furniture &amp; Decor Ideas" href="https://www.lampsplus.com/ideas-and-advice/category/furniture-and-home-decor/">Furniture &#038; Decor Ideas</a></li>
+</ul>
+</li>
+<li id="menu-item-804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-804"><a title="Rooms" href="https://www.lampsplus.com/ideas-and-advice/category/rooms/">Rooms</a></li>
+<li id="menu-item-805" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-805"><a title="Styles" href="https://www.lampsplus.com/ideas-and-advice/category/style-and-trends/">Styles</a></li>
+<li id="menu-item-798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-798"><a title="Shop LampsPlus.com &gt;" href="https://www.lampsplus.com/">Shop LampsPlus.com ></a></li>
+</ul></div>                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>	
+	
+	
+	
+    
+            <div class="container mpb-widget-wrapper">
+            <div class="row">
+                <section id="custom_html-17" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div id="page-header" class="minimized"></div>
+<div id="masthead">
+<div id="">
+	<h1>Ideas &amp; Advice</h1>
+<p>Interior design tips and lighting ideas for today's home</p>
+	</div>
+	</div>
+<br>
+<div class="info-box-wrapper">
+
+	<div class="info-box">
+<a href="/ideas-and-advice/category/buying-guides/" class="info-box-link" style="background-image: url(https://image.lampsplus.com/is/image/scenes/042015-transitional-ceiling-fan-h.fpx?op_sharpen=1&fmt=jpeg&qlt=65&hei=779&fit=constrain);">
+<div class="info-box-text">
+<p>Buying Guides</p>
+</div>
+	</a></div>
+	
+<div class="info-box">
+<a href="/ideas-and-advice/category/style-and-trends/" class="info-box-link" style="background-image: url(https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2017/12/Luxe-Living-Room.jpg);">
+<div class="info-box-text">
+<p>Styles &amp; Trends</p>
+</div>
+</a>
+</div>
+	
+	<div class="info-box">
+<a href="/ideas-and-advice/category/chandeliers/" class="info-box-link" style="background-image: url(https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/02/022416-traditional-chandeliers-h.jpg);">
+<div class="info-box-text">
+<p>Chandeliers</p>
+</div>
+</a>
+</div>
+</div></div></section>            </div>
+        </div>
+    
+            <div class="base-wrapper">
+    
+        
+        
+        
+        
+        
+        
+        
+                    <div class="content">
+                                    <div class="container eqh-posts-wrapper">
+                        <div class="row">
+                            <div class="col-lg-8 small-thumbs">
+                                                                    
+    <div class="post-3717 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-buying-guides category-lamps tag-lighting-tips" id="post-3717">
+        <!-- Post image -->
+        <div class="blog-article-thumbnail text-center">
+                            <a href="https://www.lampsplus.com/ideas-and-advice/the-secret-to-great-room-lighting-layers-of-light/" title="The Secret to Great Room Lighting &#8211; Layers of Light" aria-hidden="true">
+                    <img width="850" height="550" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/02/090817-transitional-chandeliers-h-1-850x550.jpg" class="attachment-elena-img-classic size-elena-img-classic wp-post-image" alt="Contemporary kitchen and breakfast area with recessed lights" decoding="async" fetchpriority="high" />                </a>
+                    </div>
+        <!-- Post image -->
+        <div class="post-detail-wrapper">
+            <div class="blog-article-details blog-col">
+                <h2>
+                    <i class="fa fa-thumb-tack"></i>
+                    <a href="https://www.lampsplus.com/ideas-and-advice/the-secret-to-great-room-lighting-layers-of-light/">
+                        The Secret to Great Room Lighting &#8211; Layers of Light                    </a>
+                </h2>
+                <!-- <p class="entry-meta-header">
+                   <span class="posted-on">Posted on Sep-21-20</span><br class="visible-xs">
+                    <span class="posted-by">
+                        by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                    </span><br class="visible-xs">
+                    <span class="comments-info">
+                        <i class="fa fa-comments"></i>
+                        0                    </span>
+                </p> -->
+                <p class="post-category">
+                    <a href="https://www.lampsplus.com/ideas-and-advice/category/buying-guides/" rel="category tag">Buying Guides</a> / <a href="https://www.lampsplus.com/ideas-and-advice/category/lamps/" rel="category tag">Lamps</a>                </p>
+            </div><!-- blog-article-details -->
+            <p>Secret of great room lighting is to use multiple light sources, creating interesting pools of light and shadow.</p>
+            <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/the-secret-to-great-room-lighting-layers-of-light/">Read more</a>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+                                                                    
+    <div class="post-3857 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-top-questions tag-qa tag-table-lamps tag-top-questions" id="post-3857">
+        <!-- Post image -->
+        <div class="blog-article-thumbnail text-center">
+                            <a href="https://www.lampsplus.com/ideas-and-advice/top-questions-about-table-lamps/" title="Top Questions About Table Lamps" aria-hidden="true">
+                    <img width="699" height="277" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2021/09/table-lamps.jpg" class="attachment-elena-img-classic size-elena-img-classic wp-post-image" alt="" decoding="async" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2021/09/table-lamps.jpg 699w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2021/09/table-lamps-300x119.jpg 300w" sizes="(max-width: 699px) 100vw, 699px" />                </a>
+                    </div>
+        <!-- Post image -->
+        <div class="post-detail-wrapper">
+            <div class="blog-article-details blog-col">
+                <h2>
+                    <i class="fa fa-thumb-tack"></i>
+                    <a href="https://www.lampsplus.com/ideas-and-advice/top-questions-about-table-lamps/">
+                        Top Questions About Table Lamps                    </a>
+                </h2>
+                <!-- <p class="entry-meta-header">
+                   <span class="posted-on">Posted on Sep-29-21</span><br class="visible-xs">
+                    <span class="posted-by">
+                        by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                    </span><br class="visible-xs">
+                    <span class="comments-info">
+                        <i class="fa fa-comments"></i>
+                        0                    </span>
+                </p> -->
+                <p class="post-category">
+                    <a href="https://www.lampsplus.com/ideas-and-advice/category/buying-guides/top-questions/" rel="category tag">Top Questions</a>                </p>
+            </div><!-- blog-article-details -->
+            <p>Here are some of the most common questions we get asked about table lamps at Lamps Plus! Where can I buy table lamps? Lamps Plus is the largest lighting retailer in the United States, and your one-stop-shop for all things&#8230;</p>
+            <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/top-questions-about-table-lamps/">Read more</a>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-3947 post type-post status-publish format-standard has-post-thumbnail hentry category-ceiling-fans tag-ac-motor tag-ceiling-fan-motors tag-ceiling-fans tag-dc-motor" id="post-3947">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/guide-to-ac-and-dc-ceiling-fan-motors/" title="Guide to AC and DC Ceiling Fan Motors" aria-hidden="true">
+                        <img width="639" height="532" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/DC-fan-motor.png" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="" decoding="async" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/DC-fan-motor.png 639w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/DC-fan-motor-300x250.png 300w" sizes="(max-width: 639px) 100vw, 639px" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/guide-to-ac-and-dc-ceiling-fan-motors/">
+                            Guide to AC and DC Ceiling Fan Motors                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on May-11-22</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Every ceiling fan uses a built-in motor to power the fan and spin the blades, creating air movement. Not every motor is ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/guide-to-ac-and-dc-ceiling-fan-motors/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-1793 post type-post status-publish format-standard has-post-thumbnail hentry category-ceiling-fans" id="post-1793">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/ceiling-fan-quick-tips/" title="8 Quick Tips for Picking the Perfect Ceiling Fan" aria-hidden="true">
+                        <img width="850" height="800" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/01/choosing-a-ceiling-fan-850x800.png" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="" decoding="async" loading="lazy" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/ceiling-fan-quick-tips/">
+                            8 Quick Tips for Picking the Perfect Ceiling Fan                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Jan-18-18</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lamps-plus-team/" title="Posts by John Barnes" rel="author">John Barnes</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    If choosing the right ceiling fan for your space seems overwhelming, here are 8 tips to help you make your decision. Quick ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/ceiling-fan-quick-tips/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-2989 post type-post status-publish format-standard has-post-thumbnail hentry category-buying-guides category-outdoor-lights tag-outdoor-lights" id="post-2989">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-outdoor-lighting-tips/" title="How to Buy Outdoor Lighting &#8211; Planning and Design Tips" aria-hidden="true">
+                        <img width="614" height="579" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/outdoor-walkway-entry-area.jpg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="Outdoor entryway scene featuring lighting" decoding="async" loading="lazy" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/outdoor-walkway-entry-area.jpg 614w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/03/outdoor-walkway-entry-area-300x283.jpg 300w" sizes="auto, (max-width: 614px) 100vw, 614px" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-outdoor-lighting-tips/">
+                            How to Buy Outdoor Lighting &#8211; Planning and Design Tips                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Mar-30-18</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Your outdoor lighting improved. Use this guide to design a useful and beautiful outdoor lighting plan.   ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-outdoor-lighting-tips/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-3023 post type-post status-publish format-standard has-post-thumbnail hentry category-buying-guides category-outdoor-lights tag-landscape-lighting" id="post-3023">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-landscape-lighting-customize-and-connect-your-system/" title="How to Buy Landscape Lighting &#8211; Design and Install Your System" aria-hidden="true">
+                        <img width="683" height="454" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/04/Capture.jpg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="Photo of path lights in a yard" decoding="async" loading="lazy" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/04/Capture.jpg 683w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/04/Capture-300x199.jpg 300w" sizes="auto, (max-width: 683px) 100vw, 683px" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-landscape-lighting-customize-and-connect-your-system/">
+                            How to Buy Landscape Lighting &#8211; Design and Install Your System                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Apr-04-18</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Everything you need to know to design and connect your own lighting system outside your home. ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-landscape-lighting-customize-and-connect-your-system/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-3805 post type-post status-publish format-standard has-post-thumbnail hentry category-chandeliers tag-chandeliers tag-led tag-pendant-lighting" id="post-3805">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/top-questions-about-chandeliers/" title="Top Questions About Chandeliers" aria-hidden="true">
+                        <img width="780" height="780" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/modern-crystal-chandelier-with-a-gold-frame.jpeg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="crystal chandelier with gold frame" decoding="async" loading="lazy" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/modern-crystal-chandelier-with-a-gold-frame.jpeg 780w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/modern-crystal-chandelier-with-a-gold-frame-300x300.jpeg 300w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/modern-crystal-chandelier-with-a-gold-frame-150x150.jpeg 150w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/modern-crystal-chandelier-with-a-gold-frame-768x768.jpeg 768w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/05/modern-crystal-chandelier-with-a-gold-frame-45x45.jpeg 45w" sizes="auto, (max-width: 780px) 100vw, 780px" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/top-questions-about-chandeliers/">
+                            Top Questions About Chandeliers                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Jun-09-21</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Explore the top questions about chandeliers with the experts at Lamps Plus.  ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/top-questions-about-chandeliers/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-3404 post type-post status-publish format-standard has-post-thumbnail hentry category-ceiling-fans tag-ceiling-fans" id="post-3404">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/ceiling-fan-direction-summer-and-winter/" title="Ceiling Fan Direction  Summer and Winter" aria-hidden="true">
+                        <img width="480" height="480" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/01/industrial-ceiling-fan.jpg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="industrial style ceiling fan" decoding="async" loading="lazy" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/01/industrial-ceiling-fan.jpg 480w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/01/industrial-ceiling-fan-150x150.jpg 150w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/01/industrial-ceiling-fan-300x300.jpg 300w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/01/industrial-ceiling-fan-45x45.jpg 45w" sizes="auto, (max-width: 480px) 100vw, 480px" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/ceiling-fan-direction-summer-and-winter/">
+                            Ceiling Fan Direction  Summer and Winter                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Jun-11-19</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    We all know that ceiling fans are helpful in the hot summer months at creating a breeze, but did you know that ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/ceiling-fan-direction-summer-and-winter/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-2833 post type-post status-publish format-standard has-post-thumbnail hentry category-buying-guides category-chandeliers tag-chandeliers" id="post-2833">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-a-chandelier-2/" title="How to Buy a Chandelier" aria-hidden="true">
+                        <img width="784" height="686" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/02/022416-traditional-chandeliers-h.jpg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="Image of several crystal chandeliers" decoding="async" loading="lazy" srcset="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/02/022416-traditional-chandeliers-h.jpg 784w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/02/022416-traditional-chandeliers-h-300x263.jpg 300w, https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2018/02/022416-traditional-chandeliers-h-768x672.jpg 768w" sizes="auto, (max-width: 784px) 100vw, 784px" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-a-chandelier-2/">
+                            How to Buy a Chandelier                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Feb-16-18</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lamps-plus-team/" title="Posts by John Barnes" rel="author">John Barnes</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Consider these questions on size, height, and ceiling type before buying your next chandelier.  ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/how-to-buy-a-chandelier-2/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-4021 post type-post status-publish format-standard has-post-thumbnail hentry category-style-and-trends tag-chandelier tag-chandeliers tag-styles tag-trending-chandelier-style tag-trends" id="post-4021">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/the-most-popular-chandelier-styles-in-each-state/" title="The Most Popular Chandelier Styles in Each State" aria-hidden="true">
+                        <img width="850" height="800" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/10/Alabama-850x800.jpg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="" decoding="async" loading="lazy" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/the-most-popular-chandelier-styles-in-each-state/">
+                            The Most Popular Chandelier Styles in Each State                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Oct-12-22</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    If an entryway is the eye to a home, then an entryway chandelier is the designer eyewear. Focusing the first impression of ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/the-most-popular-chandelier-styles-in-each-state/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-3881 post type-post status-publish format-standard has-post-thumbnail hentry category-ceiling-fans category-outdoor-lights tag-ceiling-fans tag-marine-grade-2 tag-outdoor tag-outdoor-lights" id="post-3881">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/guide-to-marine-grade-outdoor-lighting-and-ceiling-fans/" title="Guide To Marine-Grade Outdoor Lighting and Ceiling Fans" aria-hidden="true">
+                        <img width="850" height="539" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2022/01/Header-image-850x539.png" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="" decoding="async" loading="lazy" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/guide-to-marine-grade-outdoor-lighting-and-ceiling-fans/">
+                            Guide To Marine-Grade Outdoor Lighting and Ceiling Fans                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Jan-28-22</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Every year, homeowners must replace or repair exterior fixtures and décor as a result of damage due to water exposure, increment weather, ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/guide-to-marine-grade-outdoor-lighting-and-ceiling-fans/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                    
+    <div class="small-img-wrapper">
+        <div class="blog-article post-4188 post type-post status-publish format-standard has-post-thumbnail hentry category-buying-guides category-layers-of-light tag-can-conversion-kit tag-layers-of-light tag-lighting-tips tag-recessed-lighting tag-room-lighting" id="post-4188">
+            <div class="blog-article-thumbnail entry-image eq-cols">
+                                    <a href="https://www.lampsplus.com/ideas-and-advice/going-beyond-recessed-lighting-can-conversion-kits-and-layers-of-light/" title="Going Beyond Recessed Lighting &#8211; Can Conversion Kits and Layers of Light" aria-hidden="true">
+                        <img width="850" height="800" src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2023/08/Layers-of-Light-Article-850x800.jpg" class="attachment-elena-small-img size-elena-small-img wp-post-image" alt="" decoding="async" loading="lazy" />                    </a>
+                            </div>
+            <div class="small-img-description-wrapper  post-detail-wrapper-horizontal eq-cols">
+                <div class="blog-article-details">
+                    <h2>
+                        <a href="https://www.lampsplus.com/ideas-and-advice/going-beyond-recessed-lighting-can-conversion-kits-and-layers-of-light/">
+                            Going Beyond Recessed Lighting &#8211; Can Conversion Kits and Layers of Light                        </a>
+                    </h2>
+                    <!-- <p class="entry-meta-header">
+                       <span class="posted-on">Posted on Aug-31-23</span><br class="visible-xs">
+                        <span class="posted-by">
+                            by <a href="https://www.lampsplus.com/ideas-and-advice/author/lpwpadmin/" title="Posts by lpwpadmin" rel="author">lpwpadmin</a>                        </span><br class="visible-xs">
+                        <span class="comments-info">
+                            <i class="fa fa-comments"></i>
+                            0                        </span>
+                    </p> -->
+                </div>
+                <p>
+                    Recessed lights are a very popular choice amongst designers due to their relative low cost and low profile design. A lot of ...                </p>
+                <a class="btn-default" href="https://www.lampsplus.com/ideas-and-advice/going-beyond-recessed-lighting-can-conversion-kits-and-layers-of-light/">Read more</a>
+            </div>
+        </div>
+    </div>
+                                                                <ul class="pagination">
+<li class="active"><a href="https://www.lampsplus.com/ideas-and-advice/" aria-label="Go to page 1">1</a></li>
+<li><a href="https://www.lampsplus.com/ideas-and-advice/page/2/" aria-label="Go to page 2">2</a></li>
+<li><a href="https://www.lampsplus.com/ideas-and-advice/page/3/" aria-label="Go to page 3">3</a></li>
+<li>…</li>
+<li><a href="https://www.lampsplus.com/ideas-and-advice/page/22/" aria-label="Go to page 22">22</a></li>
+</ul>
+                            </div>
+                            <div class="col-lg-4 small-img-sidebar">
+                               
+<aside id="secondary" class="widget-area" role="complementary">
+	<section id="search-3" class="widget widget_search"><h2 class="widget-title">Search</h2>
+
+<form role="search" method="get" id="searchform" class="searchform" action="https://www.lampsplus.com/ideas-and-advice/">
+    <div class="input">
+        <input type="text" name="s" id="s" placeholder="Search..." value="">
+        <div class="search-button">
+            <button type="submit"  value="" class="button-search side-f" aria-label="Search">
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </div>
+</form>
+</section><section id="text-7" class="widget widget_text"><h2 class="widget-title">About</h2>			<div class="textwidget"><p><strong>Let yourself shine.</strong> At Lamps Plus we believe in helping people create the homes of their dreams. Founded in 1976, we are the nation’s largest lighting retailer&#8230; <a href="https://www.lampsplus.com/about-us/">read more</a></p>
+</div>
+		</section><section id="custom_html-22" class="widget_text widget widget_custom_html"><h2 class="widget-title">Follow</h2><div class="textwidget custom-html-widget"><div class="wpcw-widget-social">
+  <ul>
+	<li class="no-label"><a href="https://www.pinterest.com/lampsplus/" title="Visit Lamps Plus on Pinterest" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/pinterest.svg" width="24" height="24" alt="Pinterest" class="socialIcon" /></a></li>
+	<li class="no-label"><a href="https://www.instagram.com/lampsplus/" title="Visit Lamps Plus on Instagram" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/instagram.svg" width="24" height="24" alt="Instagram" class="socialIcon" /></a></li>
+	<li class="no-label"><a href="https://www.facebook.com/lampsplus" title="Visit Lamps Plus on Facebook" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/facebook_rev.svg" width="24" height="24" alt="Facebook" class="socialIcon" /></a></li>
+	<li class="no-label"><a href="https://twitter.com/lampsplus" title="Visit Lamps Plus on Twitter" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/twitter.svg" width="24" height="24" alt="Twitter" class="socialIcon" /></a></li>
+	<li class="no-label"><a href="https://www.linkedin.com/company/lamps-plus" title="Visit Lamps Plus on LinkedIn" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/linkedin.svg" width="24" height="24" alt="LinkedIn" class="socialIcon" /></a></li>
+	<li class="no-label"><a href="https://www.youtube.com/user/LampsPlus?sub_confirmation=1" title="Visit Lamps Plus on YouTube" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/youtube.svg" width="24" height="24" alt="YouTube" class="socialIcon" /></a></li>
+	<li class="no-label"><a href="https://www.lampsplus.com/ideas-and-advice/feed/" title="View the Lamps Plus Ideas and Advice RSS feed" rel="noopener noreferrer"><img src="https://www.lampsplus.com/ideas-and-advice/wp-content/uploads/2019/08/rss.svg" width="24" height="24" alt="RSS Feed" class="socialIcon" /></a></li>
+  </ul>
+</div>
+
+<p>
+Share Your Style <strong>#myLampsPlus</strong>
+</p></div></section><section id="text-5" class="widget widget_text"><h2 class="widget-title">Contact</h2>			<div class="textwidget"><p><a href="mailto:community@lampsplus.com"><strong>By Email</strong></a><br />
+or<br />
+<a class="phone hidden-xs" href="https://www.lampsplus.com/contact-us/"><strong>800-782-1967</strong></a> <a class="mobilePhone visible-xs" href="tel:888-739-0201"><strong>888-739-0201</strong></a></p>
+</div>
+		</section></aside>                            </div>
+                        </div>
+                    </div>
+                            </div>
+        
+        
+        
+        
+        
+            </div>
+    
+
+	<div id="footer-top">
+		<div class="container-fluid">
+			<div class="row text-center">
+				<div class="widget widget-text">
+					<div class="widget_text widget widget-text"><div class="textwidget custom-html-widget"><!--<h3 id="shareHeading">Share Your Photos #mylampsplus
+</h3>
+<div id="pixlee_container"></div> -->
+</div></div>				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+					<div id="footer">
+				<div class="container">
+									</div>
+				<div class="container">
+											<div class="row">
+    <div class="col-sm-3">
+                    <div class="widget_text widget"><h3 class="widget-title">Shop</h3><div class="textwidget custom-html-widget"><dl class="first">
+<dd><a id="footer_chandeliers" href="https://www.lampsplus.com/chandeliers/">Chandeliers</a></dd>
+				<dd><a id="footer_ceiling_lights" href="https://www.lampsplus.com/ceiling-lighting/">Ceiling Lights</a></dd>
+				
+<dd><a id="footer_lamps" href="https://www.lampsplus.com/lamps/">Lamps</a></dd>
+				
+
+<dd><a id="footer_wall_lights" href="https://www.lampsplus.com/wall-lights/">Wall Lights</a></dd>
+			
+
+<dd><a id="footer_outdoor_lights" href="https://www.lampsplus.com/outdoor/">Outdoor Lights</a></dd>
+				
+
+<dd><a id="footer_ceiling_fans" href="https://www.lampsplus.com/fans/">Ceiling Fans</a></dd>
+
+
+<dd><a id="footer_furniture" href="https://www.lampsplus.com/furniture/">Furniture</a></dd>
+
+
+<dd><a id="footer_home_decor" href="https://www.lampsplus.com/home-decor/">Home Decor</a></dd>	
+
+</dl>
+<br class="clear"></div></div>            </div>
+    <div class="col-sm-3">
+                    <div class="widget_text widget"><h3 class="widget-title">Our Stores</h3><div class="textwidget custom-html-widget"><dl>
+<dd><a id="footer_store_locator" href="https://www.lampsplus.com/stores/">Store Locator</a></dd>
+				<dd><a id="footer_in_home_consultations" href="https://www.lampsplus.com/in-home-consultations/">In-Home Consultations</a></dd>
+				<dd><a id="footer_store_coupons_and_offers" href="https://www.lampsplus.com/lampsplus-coupons/">Store Coupons</a></dd>
+				<dd><a id="footer_new_homeowner_savings" href="https://www.lampsplus.com/newhomeowner/">New Homeowner Savings</a></dd>
+
+<dd><a id="footer_catalogs" href="https://www.lampsplus.com/lighting-catalog/">Catalogs</a></dd>
+<dd>&nbsp;</dd>
+<dd>&nbsp;</dd>
+</dl>
+
+</div></div>            </div>
+    <div class="col-sm-3">
+                    <div class="widget_text widget"><h3 class="widget-title">Help</h3><div class="textwidget custom-html-widget"><dl>
+
+<dd><a id="footer_customer_service" href="https://www.lampsplus.com/help-and-policies/">Customer Service</a></dd>
+
+<dd><a id="footer_order_status" href="https://www.lampsplus.com/account/order-history/" rel="nofollow">Order Status</a></dd>
+
+<dd><a id="footer_faqs" href="https://www.lampsplus.com/help-and-policies/faq.aspx">FAQs</a></dd>
+
+<dd><a id="footer_return_policy" href="https://www.lampsplus.com/help-and-policies/return-policy.aspx">Return Policy</a></dd>
+
+<dd><a id="footer_shipping_info" href="https://www.lampsplus.com/help-and-policies/shipping-and-delivery.aspx">Shipping Information</a></dd>
+
+<dd><a id="footer_manage_account" href="https://www.lampsplus.com/account/profile.aspx" rel="nofollow">Manage Account</a></dd>
+
+<dd><a id="footer_terms_of_use" href="https://www.lampsplus.com/help-and-policies/terms-of-use.aspx" rel="nofollow">Terms of Use</a></dd>
+
+</dl></div></div>            </div>
+    <div class="col-sm-3">
+                    <div class="widget_text widget"><h3 class="widget-title">Our Company</h3><div class="textwidget custom-html-widget">		<dl class="first">
+			<dd><a id="footer_about_us" href="https://www.lampsplus.com/about-us/">About Lamps Plus</a></dd>
+				<dd><a id="footer_contact_us" href="https://www.lampsplus.com/contact-us/">Contact Us</a></dd>
+				<dd><a id="footer_lamps_plus_professionals" href="https://www.lampsplus.com/pros/">Trade Program</a></dd>
+ <dd><a id="footer_careers" href="https://www.lampsplus.com/careers/">Careers</a></dd> 				<dd><a id="footer_privacy_policy" href="https://www.lampsplus.com/help-and-policies/your-privacy-and-security/">Privacy Policy</a></dd>
+<dd><a id="footer_accessibility" href="https://www.lampsplus.com/help-and-policies/accessibility/">Accessibility</a></dd>
+			
+<dd><a id="footer_press" href="https://www.lampsplus.com/ideas-and-advice/press/">Press</a></dd>			
+			
+<dd><a id="footer_site_map" href="https://www.lampsplus.com/sitemap/">Site Map</a></dd>
+
+			</dl>
+<br class="clear"></div></div>            </div>
+</div>									</div>
+				<div class="container">
+									</div>
+				<div class="container">
+									</div>
+			</div>
+			</footer>
+
+	<div id="footer-bottom">
+		<div class="container-fluid">
+			<div class="row text-center">
+				<div class="widget widget-text">
+					<div class="widget_text widget widget-text"><div class="textwidget custom-html-widget"><a href="https://www.lampsplus.com/">The Nation’s Largest Lighting Retailer</a> | <span style="white-space:nowrap;">&copy; 2023 Lamps Plus, Inc. All rights reserved.</span></div></div><div class="widget_text widget widget-text"><div class="textwidget custom-html-widget"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1043949-17"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-1043949-17');
+</script></div></div>				</div>
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=1736378436" id="simple-share-buttons-adder-ssba-js"></script>
+<script type="text/javascript" id="simple-share-buttons-adder-ssba-js-after">
+/* <![CDATA[ */
+Main.boot( [] );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena-child/elena-child-script.js?ver=1.0.3" id="theme_js-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/elena/bootstrap.min.js?ver=6.7.2" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/elena/jquery.matchHeight.js?ver=6.7.2" id="jquery.matchHeight.js-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/elena/elena-custom.js?ver=6.7.2" id="elena-custom-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/customizer.js?ver=6.7.2" id="customizer-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/elena/owl.carousel.js?ver=6.7.2" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/elena/carousel/carousel.js?ver=6.7.2" id="elena-carousel-js"></script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/themes/elena/js/skip-link-focus-fix.js?ver=20151215" id="skip-link-focus-fix-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/www.lampsplus.com\/ideas-and-advice\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/www.lampsplus.com\/ideas-and-advice","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.6.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":true,"output":"<div class=\"wpa-hide-ltr\" id=\"skiplinks\" role=\"navigation\" aria-label=\"Skip links\"><a href=\"#page-header\" class='no-scroll et_smooth_scroll_disabled'>Skip to Content<\/a> <a href=\"#footer-top\" class='no-scroll et_smooth_scroll_disabled'>Skip to footer<\/a> <\/div>"},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-US","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/www.lampsplus.com\/ideas-and-advice\/wp-admin\/admin-ajax.php","security":"08a8e764a4","action":"wpa_stats_action","url":"https:\/\/www.lampsplus.com\/ideas-and-advice\/","post_id":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lampsplus.com/ideas-and-advice/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.6.10" id="wp-accessibility-js"></script>
+
+</body>
+</html>

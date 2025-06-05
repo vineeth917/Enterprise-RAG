@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Photovide &#8211; Just another WordPress site</title>
+    <style>
+        #wpadminbar #wp-admin-bar-p404_free_top_button .ab-icon:before {
+            content: "\f103";
+            color:red;
+            top: 2px;
+        }
+    </style>
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Photovide &raquo; Feed" href="https://photovide.com/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.23.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/photovide.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://photovide.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.5' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--medium-black: #333333;--wp--preset--color--gray: #999999;--wp--preset--color--medium-gray: #666666;--wp--preset--color--light-gray: #f2f2f2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 30px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 17px;--wp--preset--font-size--huge: 40px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='penci-oswald-css' href='//fonts.googleapis.com/css?family=Oswald%3A400&#038;ver=6.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fotografie-fonts-css' href='https://photovide.com/wp-content/fonts/e5a020e7d04f021bb3df7f2df4f9cebb.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://photovide.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fotografie-style-css' href='https://photovide.com/wp-content/themes/fotografie/style.css?ver=20221006-33412' type='text/css' media='all' />
+<link rel='stylesheet' id='fotografie-block-style-css' href='https://photovide.com/wp-content/themes/fotografie/assets/css/blocks.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='instag-slider-css' href='https://photovide.com/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css?ver=1.4.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://photovide.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://photovide.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://photovide.com/wp-content/plugins/instagram-slider-widget/assets/js/jquery.flexslider-min.js?ver=2.2" id="jquery-pllexi-slider-js"></script>
+<link rel="https://api.w.org/" href="https://photovide.com/wp-json/" /><meta name="google-site-verification" content="VPvtiLFTclMJ49QtJkS2ubSn5K6Jh9sPdxTWKiSdYIc" />	<style type="text/css">
+																													</style>
+	<style type="text/css">
+																											</style>
+<script>var portfolioDataJs = portfolioDataJs || [];</script><meta name="generator" content="Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style></head>
+
+<body class="home blog wp-embed-responsive group-blog hfeed boxed-layout no-sidebar elementor-default elementor-kit-1233">
+
+
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+
+				<div class="custom-header-media">
+		<div id="wp-custom-header" class="wp-custom-header"><img fetchpriority="high" src="https://photovide.com/wp-content/themes/fotografie/assets/images/header-image.jpg" width="1920" height="689" alt="" decoding="async" /></div>	</div><!-- .custom-header-media -->
+
+			<div class="site-header-main">
+
+				
+	<div class="site-branding">
+		<div class="wrapper">
+						<div id="site-details">
+									<h1 class="site-title"><a href="https://photovide.com/" rel="home">Photovide</a></h1>
+								<h2 class="site-description">Just another WordPress site</h2>
+			</div><!-- #site-details -->
+		</div><!-- .wrapper -->
+	</div><!-- .site-branding -->
+
+				
+<div class="site-search">
+	<button class="search-toggle" aria-expanded="false">
+		<span class="screen-reader-text">Search</span>
+	</button><!-- .search-toggle -->
+	<div class="search-wrapper">
+		
+
+<form role="search" method="get" class="search-form" action="https://photovide.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+
+		<input type="search" class="search-field" placeholder="Enter keyword&hellip;" value="" name="s" />
+	</label>
+
+	<button type="submit" class="search-submit"><span class="search-button-text">Search</span></button>
+</form>
+	</div><!-- .search-wrapper -->
+</div><!-- .site-search -->
+
+					<div class="menu-toggle-wrapper">
+		<button id="menu-toggle" class="menu-toggle" aria-controls="top-menu" aria-expanded="false"></span><span class="menu-label">Menu</span></button>
+	</div><!-- .menu-toggle-wrapper -->
+	<div id="site-header-menu" class="site-header-menu">
+		<div class="wrapper">
+			
+				<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+					<ul id="primary-menu" class="menu nav-menu"><li id="menu-item-703" class="megamenu menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-703"><a href="https://photovide.com/" aria-current="page">ホーム</a></li>
+</ul>
+			
+				<div class="mobile-search-wrapper">
+					
+
+<form role="search" method="get" class="search-form" action="https://photovide.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+
+		<input type="search" class="search-field" placeholder="Enter keyword&hellip;" value="" name="s" />
+	</label>
+
+	<button type="submit" class="search-submit"><span class="search-button-text">Search</span></button>
+</form>
+				</div><!-- .search-wrapper -->
+
+			</nav><!-- .main-navigation -->
+		</div><!-- .wrapper -->
+	</div><!-- .site-header-menu -->
+
+			</div><!-- .site-header-main -->
+
+		</header>
+
+		
+		<div id="content" class="site-content">
+
+			
+			
+				<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+							<header class="blog-section-headline">
+					<div class="page-title-wrapper">
+						<h2 class="page-title">News</h2>
+					</div><!-- .page-title-wrapper -->
+				</header>
+			
+			<div id="infinite-post-wrap" class="post-archive">
+
+								
+					
+<article id="post-1270 post-1270" class="post-1270 post type-post status-publish format-standard hentry category-33 category-28">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e5%80%8b%e4%ba%ba%e8%bc%b8%e5%85%a5%e3%81%a7%e3%81%ae%e3%82%ab%e3%83%9e%e3%82%b0%e3%83%a9%e3%81%ae%e3%83%aa%e3%82%b9%e3%82%af/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e5%80%8b%e4%ba%ba%e8%bc%b8%e5%85%a5%e3%81%a7%e3%81%ae%e3%82%ab%e3%83%9e%e3%82%b0%e3%83%a9%e3%81%ae%e3%83%aa%e3%82%b9%e3%82%af/" rel="bookmark">個人輸入でのカマグラのリスク</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>カマグラは、ED（勃起不全）の治療薬として知られ、海外では広く利用されています。しかし、日本国内では未承認医薬品とされており、個人輸入を通じて入手するケースが増えています。個人輸入は便利ですが、多くのリスクが伴います。本記事では、個人輸入でカマグラを入手する際の注意点とリスクについて詳しく解説します。また、カマグラ ゴールドを利用する場合のポイントについても触れます。 1. 個人輸入とは？ 個人輸入とは、海外の医薬品を自身の使用を目的に輸入することを指します。この方法は、日本で未承認の薬を入手する手段として利用されています。カマグラの場合も、個人輸入によって入手することが可能です。ただし、自己使用目的であり、輸入量や条件には厳しい規制が存在します。 2. カマグラ個人輸入の主なリスク 1. 偽造品のリスク カマグラは人気のある薬の一つであり、偽造品が多く流通しています。これらの偽造品は有効成分が正確でない、または有害な成分が含まれている可能性があり、健康に深刻な影響を及ぼすことがあります。 2. 品質保証がない 個人輸入で購入したカマグラは、品質や安全性が保証されていません。未承認の医薬品であるため、製造工程や成分表示が信頼できるかは疑問が残ります。 3. 税関での差し押さえ カマグラを個人輸入する際、輸入量が規定を超えたり、書類に不備があると税関で差し押さえられる場合があります。この場合、製品が手元に届かないだけでなく、違法な行為とみなされるリスクもあります。 4. 健康被害のリスク 適切な医師の診断や処方を受けずに使用することで、副作用が発生する可能性が高まります。特に心臓疾患や高血圧の患者にとって、シルデナフィルを含む薬剤の誤使用は命に関わる危険性があります。 3. カマグラ 通販を利用する際の注意点 カマグラ 通販を利用する場合、以下の点に注意する必要があります。 4. 個人輸入以外の選択肢 カマグラを個人輸入する代わりに、日本国内で承認された医薬品を使用することが安全で確実な選択です。バイアグラ、レビトラ、シアリスといった薬は厚生労働省により承認され、医師の診断を通じて処方を受けることが可能です。これらの薬剤は、安全性と効果が保証されています。 5. まとめ 個人輸入でカマグラを入手することは、自己使用目的で一定条件を満たせば合法ですが、偽造品や健康被害、税関でのトラブルなど多くのリスクを伴います。カマグラ ゴールドを利用する場合は、信頼できる販売元を選び、規定を守ることが重要です。 健康と安全を第一に考え、医師の診断のもとで適切な治療法を選択することが最善の方法です。個人輸入のリスクを理解し、慎重に判断するよう心がけましょう。</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2024-11-20T10:00:00+00:00">November 20, 2024</time><time class="updated" datetime="2024-12-12T07:07:23+00:00">December 12, 2024</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/kaiyo/">Kaiyo Eguchi</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1270 -->
+
+				
+					
+<article id="post-1267 post-1267" class="post-1267 post type-post status-publish format-standard hentry category-52 tag-55 tag-54">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e5%a6%82%e4%bd%95%e9%80%b2%e8%a1%8c%e7%ab%b6%e7%88%ad%e5%b0%8d%e6%89%8b%e7%9a%84-seo-%e5%88%86%e6%9e%90%ef%bc%9f/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e5%a6%82%e4%bd%95%e9%80%b2%e8%a1%8c%e7%ab%b6%e7%88%ad%e5%b0%8d%e6%89%8b%e7%9a%84-seo-%e5%88%86%e6%9e%90%ef%bc%9f/" rel="bookmark">如何進行競爭對手的 SEO 分析？</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>競爭對手的 SEO 分析是每個網站經營者都應該進行的重要步驟。通過了解您的競爭對手如何在搜尋引擎上排名、他們使用哪些策略，以及他們的優勢和弱點，您可以制定更加精確和有效的 SEO 策略，來提升自己網站的自然排名。本文將介紹如何進行競爭對手的 SEO 分析，並提供一些實用的工具和技巧。 1. 識別競爭對手 要開始進行競爭對手的 SEO 分析，首先需要明確誰是您的主要競爭對手。這可以分為兩類： 利用 Google 搜尋引擎搜尋您想要優化的關鍵字，查看在搜尋結果中出現的網站，這些就是您的潛在競爭對手。 2. 競爭對手網站流量來源分析 了解競爭對手的網站流量來源可以幫助您更好地理解他們的 SEO 策略。使用一些專業工具，例如 SimilarWeb 或 Ahrefs，可以查看競爭對手流量的主要來源，包括： 這些數據可以幫助您發現哪些渠道是競爭對手的強項，並讓您優化自己的策略來應對。 3. 分析競爭對手的關鍵字策略 關鍵字是 SEO 成功的核心，因此了解競爭對手使用的關鍵字至關重要。以下是一些具體步驟： 4. 內容策略分析 競爭對手的內容質量和數量將直接影響他們的 SEO 表現。您應分析以下內容策略： 5. 外部連結（Backlinks）分析 外部連結在 SEO 排名中具有很高的重要性。競爭對手的連結來源可以揭示他們的網絡影響力和權威性。使用工具如 Ahrefs、Moz 或 Majestic，您可以分析競爭對手的連結策略： 6. 技術 SEO &hellip; <a href="https://photovide.com/%e5%a6%82%e4%bd%95%e9%80%b2%e8%a1%8c%e7%ab%b6%e7%88%ad%e5%b0%8d%e6%89%8b%e7%9a%84-seo-%e5%88%86%e6%9e%90%ef%bc%9f/" class="more-link"><span>Continue reading<span class="screen-reader-text">如何進行競爭對手的 SEO 分析？</span></span></a></p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2024-06-27T18:00:00+00:00">June 27, 2024</time><time class="updated" datetime="2024-10-19T16:16:48+00:00">October 19, 2024</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/rieko/">Rieko Iwata</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1267 -->
+
+				
+					
+<article id="post-1260 post-1260" class="post-1260 post type-post status-publish format-standard hentry category-33 category-50 category-51">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e3%82%ab%e3%83%9e%e3%82%b0%e3%83%a9%e3%81%a8%e3%81%9d%e3%81%ae%e6%bd%9c%e5%9c%a8%e7%9a%84%e3%81%aa%e5%89%af%e4%bd%9c%e7%94%a8%ef%bc%9a%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%8f%e3%81%b9%e3%81%8d/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e3%82%ab%e3%83%9e%e3%82%b0%e3%83%a9%e3%81%a8%e3%81%9d%e3%81%ae%e6%bd%9c%e5%9c%a8%e7%9a%84%e3%81%aa%e5%89%af%e4%bd%9c%e7%94%a8%ef%bc%9a%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%8f%e3%81%b9%e3%81%8d/" rel="bookmark">カマグラとその潜在的な副作用：知っておくべきこと</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>勃起不全に対処するために開発された薬剤であるカマグラは、性的な活力を回復させる潜在的な有効性から人気を集めています。しかし、どんな薬剤であれ、カマグラにも潜在的な副作用があります。ユーザーはこれらの潜在的な副作用についてよく知り、性的な健康に関する適切な判断をするために情報を得る必要があります。この記事では、カマグラの潜在的な副作用について探り、使用を考える前にユーザーが知っておくべきことに光を当てます。 一般的な副作用 頭痛: &#8211; カマグラの最も一般的な副作用の一つは頭痛です。血流への影響によるもので、軽度から中等度の頭痛が起こる可能性があります。 紅潮: &#8211; 顔と首の赤みや紅潮も一般的な副作用です。これは血管の拡張と血流の増加によるものです。 鼻づまり: &#8211; 一部のユーザーは鼻づまりや鼻水の症状を経験することがあります。これは通過的な副作用で、薬物の血管拡張作用と関連しています。 消化器系の問題: &#8211; 消化不良や吐き気などの胃腸の不快感が報告されていますが、これらの症状は一般的に軽度で一時的です。 一般的でない副作用 視力の変化: &#8211; まれなケースでは、カマグラが視力の変化を引き起こすことがあります。ぼやけた視界や光への感受性の増加などが報告されています。これらの症状が現れた場合はすぐに医療の専門家に相談するべきです。 めまい: &#8211; 一部の人々はめまいや立ち上がる際の軽いめまいを経験する可能性があります。この副作用は通常一時的です。 プリアピズム: &#8211; プリアピズムは、4時間以上続く痛みを伴う持続勃起で、まれですが深刻な副作用です。プリアピズムが発生した場合はすぐに医療の専門家の診察が必要です。 注意事項と警告: 他の薬物との相互作用: &#8211; カマグラは特に硝酸塩を含む薬物と相互作用する可能性があります。心臓関連の状態の治療中のユーザーは、使用前に医療提供者に相談する必要があります。 心血管の健康: &#8211; 既往の心血管疾患がある場合、カマグラの血管拡張作用が血圧に影響を与える可能性があるため注意が必要です。 アレルギー: &#8211; シルデナフィルや関連する薬物に対する既知のアレルギーがある場合、カマグラの使用を避けるべきです。 結論 カマグラは勃起不全に対する有効な解決策である一方で、ユーザーはその潜在的な副作用を理解し、必要な予防措置を講じる必要があります。特に基礎となる健康状態や他の薬物を使用している場合は、使用前に医療専門家と相談することが不可欠です。潜在的な副作用を理解することで、ユーザーは性的な健康に関する適切な判断を下し、必要に応じて速やかに医療の専門家に相談できるように</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2024-02-01T01:00:32+00:00">February 1, 2024</time><time class="updated" datetime="2024-03-04T22:31:18+00:00">March 4, 2024</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/admin/">admin</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1260 -->
+
+				
+					
+<article id="post-1263 post-1263" class="post-1263 post type-post status-publish format-standard hentry category-52 tag-53">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8%e5%88%86%e6%9e%90%e5%b7%a5%e5%85%b7%e6%8f%90%e5%8d%87seo%e6%95%88%e6%9e%9c-%e5%88%a9%e7%94%a8%e6%95%b8%e6%93%9a%e5%88%86%e6%9e%90%e6%94%b9%e9%80%b2seo%e7%ad%96/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8%e5%88%86%e6%9e%90%e5%b7%a5%e5%85%b7%e6%8f%90%e5%8d%87seo%e6%95%88%e6%9e%9c-%e5%88%a9%e7%94%a8%e6%95%b8%e6%93%9a%e5%88%86%e6%9e%90%e6%94%b9%e9%80%b2seo%e7%ad%96/" rel="bookmark">如何使用分析工具提升SEO效果 &#8211; 利用數據分析改進SEO策略</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>在當今競爭激烈的數位市場中，數據分析已成為成功SEO策略的關鍵。透過使用合適的分析工具，你可以深入了解網站的流量、用戶行為和搜尋引擎效能，從而優化SEO策略。許多SEO公司都依賴數據分析來做出明智的SEO優化決策。本文將探討如何利用分析工具來改進SEO效果。 1. 使用Google Analytics監控網站流量 Google Analytics是一個強大的免費工具，可以幫助你追蹤和分析網站流量。 2. 使用Google Search Console優化搜尋效能 Google Search Console是一個專門為SEO優化設計的工具，能提供網站在Google搜尋中的表現數據。 3. 使用Ahrefs或SEMrush進行競爭對手分析 這些付費工具提供詳細的競爭對手分析，幫助你了解你的網站與競爭對手的SEO效能對比。 4. 使用熱圖工具分析用戶行為 像Hotjar或Crazy Egg這類的熱圖工具可以幫助你可視化用戶在網站上的行為。 5. 定期審查和調整策略 分析工具的數據應該被定期檢視，以便調整SEO策略。 結論 使用分析工具來提升SEO效果是現代數位行銷不可或缺的一部分。透過Google Analytics、Google Search Console、Ahrefs、SEMrush等工具，你可以深入了解網站流量、關鍵字效能、用戶行為和競爭對手策略，從而精確地進行SEO優化。SEO 公司利用這些數據來做出戰略性決策，不斷提高網站的搜尋引擎排名和流量。持續關注分析數據，並根據數據調整策略，是成功SEO的關鍵。</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2024-01-05T09:00:00+00:00">January 5, 2024</time><time class="updated" datetime="2024-10-11T01:00:55+00:00">October 11, 2024</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/mai/">Mai Fuji</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1263 -->
+
+				
+					
+<article id="post-1253 post-1253" class="post-1253 post type-post status-publish format-standard hentry category-33 category-23 tag-kitas tag-35 tag-38">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/2022%e5%b9%b4%e3%81%ab%e3%82%ad%e3%82%bf%e3%82%b9%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e5%ae%8c%e5%85%a8%e3%81%aa%e3%82%ac%e3%82%a4%e3%83%89/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/2022%e5%b9%b4%e3%81%ab%e3%82%ad%e3%82%bf%e3%82%b9%e3%81%ab%e5%bf%9c%e5%8b%9f%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e5%ae%8c%e5%85%a8%e3%81%aa%e3%82%ac%e3%82%a4%e3%83%89/" rel="bookmark">2022年にキタスに応募するための完全なガイド</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>キタス「KITAS」は、限定滞在許可証 (限定滞在許可証) の略称です。インドネシア政府が一定期間インドネシアに滞在することを希望する外国人に発行する文書だ。キタスはインドネシア訪問の目的によって種類が異なります。この記事では、キタスとは何か、種類、申請方法など、キタスについて知っておくべきこと全てについて説明します。始めましょう！ キタスとは? キタス「KITAS」はインドネシア政府が一定期間インドネシアに滞在を希望する外国人に発行する文書だ。インドネシアでの滞在期間は、申請するキタスの種類によって決まります。 さまざまな種類のキタス: キタス「KITAS」の種類は4つあります: &#8211;学生キタス: このタイプのキタスは、インドネシアで勉強したい外国人に発行されます。このキタスの期間は通常1年ですが、勉強の長さに応じて延長することができます。 &#8211;仕事キタス: このタイプのキタスは、インドネシアで働きたい外国人に発行されています。このキタスの期間は通常2年ですが、雇用契約の期間によっては延長することができます。 &#8211;退職キタス: このタイプのキタスは、退職してインドネシアに住みたい外国人に発行されます。このキタスの期間は通常5年ですが、退職年金によっては延長することができます。 &#8211;配偶者キタス: このタイプのキタスは、インドネシアで働いているか勉強している外国人の配偶者に発行されます。このキタスの期間は、通常、スポンサー配偶者の仕事または学生のキタスと同じです。 キタスへの応募 キタス「KITAS」の申請はかなり簡単なプロセスですが、申請手続きを開始する前に必要な書類が揃っていることを確認することが重要です。キタスを申請するには、次の書類を本国のインドネシア大使館または領事館に提出する必要があります。 パスポートのコピー 記入済みの申込書 最近のパスポートサイズの写真2枚 インドネシアでのスポンサーからの推薦状（該当する場合） 必要な書類を全て提出したら、申請費用を支払い、インドネシア大使館または領事館で面接の予定を立てる必要があります。 面接の後、キタスアプリケーションの決定が通知されます。申請が承認された場合は、キタス手数料を支払い、インドネシアの入国管理局に指紋押印を提出する必要があります。 キタスの手続きが完了すると、キタスカードが届きます。キタスカードはインドネシアにいる間、常に携帯する必要があります。 キタスを持つことの利点: キタス「KITAS」のメリットは数多くあり、インドネシアでの滞在をより楽しくすることができます。 インドネシアで働いたり勉強したりする能力 あなたのキタスの期間中インドネシアに住む能力 インドネシアへの数次入国ビザを申請する能力 インドネシアでのご家族の滞在を後援する能力 (仕事や学生キタスをお持ちの場合) この記事がキタスに関する情報と申請方法についてお役に立てば幸いです。その他ご不明な点がございましたら、お気軽にお問い合わせください。ありがとうございました！</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2022-08-31T12:23:00+00:00">August 31, 2022</time><time class="updated" datetime="2022-08-20T12:51:42+00:00">August 20, 2022</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/mai/">Mai Fuji</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1253 -->
+
+				
+					
+<article id="post-1250 post-1250" class="post-1250 post type-post status-publish format-standard hentry category-33 category-23 tag-bpom tag-35 tag-36">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e3%83%86%e3%82%a3%e3%83%83%e3%82%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2%e3%81%b8%e3%81%ae%e8%a3%bd%e5%93%81%e3%81%ae%e8%bc%b8%e5%85%a5%e6%96%b9%e6%b3%95/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e3%83%86%e3%82%a3%e3%83%83%e3%82%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2%e3%81%b8%e3%81%ae%e8%a3%bd%e5%93%81%e3%81%ae%e8%bc%b8%e5%85%a5%e6%96%b9%e6%b3%95/" rel="bookmark">ティッカー:インドネシアへの製品の輸入方法</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>『BPOM』ティッカーはバダンペンガワスオバダンマカナンの略で、英語でインドネシアのFDAを意味します。この機関は設立され、国内に輸入される食品や医薬品の全ての輸入を監視する任務を担っています。インドネシアでの販売が許可される前に、輸入品は一定の基準を満たさなければなりません。この記事では、あなたが問題なく製品を輸入できるように、それらの基準を検討します。そこで、インドネシアに製品を輸入する方法について説明します。 ステップ1:インドネシアに外国法人を設立する 製品を輸入する前に最も基本的なことはインドネシアで会社を作ることです。これは支店を設立することとして知られており、これはあなたが既存の地域事業を通じて会社を運営することです。ビジネスの少なくとも51%の所有権を維持することが重要です。そうでないと、当局から外国人と見なされない可能性があります。外国法人としての地位を維持するためには、全ての利益を支店内に残し、インドネシアで税金を払わないようにしなければなりません。 ステップ2:貿易システム(DPI)に会社を登録する これにより、製品のインポートを開始できます。企業家であれば誰でも一定の基準を満たせば、DPI輸入者として登録することができる。登録されると、すべてのトランザクションに『BPOM』からの許可が必要になります。残りの手続きは、御社の利便性のために簡単かつ合理的です。 ステップ3:納税者識別番号(NPWP)を取得する ビジネスプランが完成し、会社を設立し、ケパティハンから登録番号を受け取ったら、バイヤーからの資金を預けるためにBCA銀行の口座を開設する必要があります。また、納税者番号（NPWP）も必要で、これはジャカルタ各地にあるタックスアムネスティセンターで取得することができる。 ステップ4:製品宣言を作成する インドネシアに輸入されるすべての製品は、通関の前に製品申告書が必要です。製品申告書は、正式な税関の領収書として機能し、お客様の品物が必要な輸入ガイドラインをすべて満たしていることを証明する文書です。また、製品を輸入する前に取得しなければならない規制当局の承認や輸出入ライセンスを申請する際の補助文書として使用されます。そのため、時間をかけて記入し、各セクションを正確に記入することを強くお勧めします。 ステップ5:税関・物品税総局に商品を登録する 船荷証券に商品が記載され、仕向国が指定されたら、税関・物品税総局に商品を登録する準備が整いました。商品を発送する前にこれを行うことは非常に重要です。 ステップ6:グローバルGSPに参加している国からの貨物は、貿易円滑化のための電子システム(e-Sutef)を通じて登録する必要があります。 2018年5月1日から貿易円滑化のための電子システム (e-Sutef)が義務化されました。E-Sutefに商品を登録することで、最終目的地に到着するまで商品のステータスを追跡し、お客様が関税や税金を支払ったことを確認することができます。 ステップ7:すべての請求書と文書を整理しておく 請求書やその他の書類のコピーは常にフォルダに保管しておき、必要に応じていつでも入手できるようにしてください。税金のために、または第三者による購入証明書の提示を求められた場合に、それらを求めることができます。最新バージョンでない場合は、アップデートされたバージョンを印刷して、必要になるまでフォルダに保存します。 ステップ8:エクスポート文書を組み立てる 製品を海外に出荷する前に、いくつかの重要な書類を作成し、確認する必要があります。これらの書類は、輸出書類と呼ばれることが多く、コマーシャルインボイス、パッキングリスト、船荷証券、原産地証明書、自由販売証明書などがあります。</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2022-07-24T23:57:48+00:00">July 24, 2022</time><time class="updated" datetime="2022-07-24T23:57:50+00:00">July 24, 2022</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/hide/">Hide Abe</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1250 -->
+
+				
+					
+<article id="post-1247 post-1247" class="post-1247 post type-post status-publish format-standard hentry category-33 category-23 tag-30 tag-31 tag-32">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/dvs%e3%83%9e%e3%83%ac%e3%83%bc%e3%82%b7%e3%82%a2%e3%81%a7vhm%e3%81%a8gvp/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/dvs%e3%83%9e%e3%83%ac%e3%83%bc%e3%82%b7%e3%82%a2%e3%81%a7vhm%e3%81%a8gvp/" rel="bookmark">DVS:マレーシアでVHMとGVP</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>マレーシア獣医サービス省（DVS）は、マレーシアの畜産物の安全と品質を保証する政府部門です。DVSはまた、生きている動物や動物製品の輸出入を規制し、疾病管理などのその他のサービスを提供しています。 DVSの主なアトリビュートには、次のものがあります。 人と動物のための食の安全確保 動物を病気から守る 動物の福祉を促進する 畜産業の競争力強化 DVSマレーシアが目的達成のために使用する活動 DVSは、以下を含む多くの活動を通じてその目的を達成しています。 食品の検査と試験 獣医師の登録とライセンス 生きた動物および動物製品の輸出入の規制 動物の健康と福祉に関する教育リソースを提供する。 DVSはマレーシアの重要な組織で、一般市民と動物を病気から守り、食品の安全性を確保し、動物福祉を促進する上で重要な役割を果たしています。 DVSマレーシアの主な認証問題は何ですか? DVSマレーシアがその目的を達成するために発行する認定がいくつかあります。しかし、以下は最も重要な2つです。 VHMまたは獣医健康マーク GVPまたは良好な獣医の練習 VHMとは? 動物衛生マーク（VHM）は、動物医薬品が良い動物衛生慣行に従って生産されたことを証明するためにマレーシアの動物医療省が発行する認証マークです。 VHMの要件 DVSマレーシアの認定を受けるには、ベテリナリーヘルスマーク（VHM）認定申請者は以下の条件を満たしていなければなりません。 有効かつ最新の獣医師免許を取得していること。 医療過誤保険に加入していること。 過去5年間、獣医師会からいかなる懲戒処分も受けていないこと。 申請料金の支払い DVSマレーシアは、VHM認証を発行する前に、申請者の施設のオンサイト検査を必要とする場合もあります。申請者が認証を受けた後は、認証を有効に維持するために、VHM標準に準拠している必要があります。認定を希望するマレーシアの獣医は、詳細についてDVSマレーシアにお問い合わせください。 VHMの仕組み(手順)? VHMを取得するためには、マレーシアの獣医局（DVS）に必要な書類を添えて申請する必要があります。申請書はDVSによって処理され、承認されればVHMが発行されます。 VHMは1年間有効で、毎年更新する必要があります。VHMの申請は、DVSのウェブサイト（dvs.gov.my）からオンラインで行うことができます。 GVPまたはグッド獣医師診療証明書とは何ですか グッド・ベジタリー・プラクティス (GVP) は、マレーシアの獣医師のための倫理的行動規範です。マレーシア獣医評議会 (MVC) によって開発され、マレーシアの獣医師に期待される職業的行動の最低基準を定めています。 GVPは動物福祉、専門的行為、臨床実習、研究を含む動物医療のすべての側面を含んでいる。 最終的な考え: 消費者として、VHMとDVSマレーシアによってGVPによって認定された製品の安全性と品質が保証されます。これらの製品は厳格なテストを経て、国際基準を満たしていることを意味する。 同様に、ビジネスとして、VHMおよびGVPによって認定された製品を使用することで、競争力を高めることができます。これは、お客様に安全で高品質な製品を提供することに取り組んでいることを示しています。 したがって、品質保証を求める場合は、VHMとGVPによって認定されている製品を探します。安全に使用でき、国際標準に準拠していることを確認できます。</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2022-07-13T09:00:00+00:00">July 13, 2022</time><time class="updated" datetime="2022-07-16T04:24:47+00:00">July 16, 2022</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/hide/">Hide Abe</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1247 -->
+
+				
+					
+<article id="post-1235 post-1235" class="post-1235 post type-post status-publish format-standard hentry category-26 category-23 category-25 category-24">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e9%a3%9f%e5%93%81%e6%a5%ad%e7%95%8c%e3%81%af%e3%80%81%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%82%b7%e3%83%bc%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%a9%9f%e9%96%a2%e3%81%8b%e3%82%89%e3%81%a9/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e9%a3%9f%e5%93%81%e6%a5%ad%e7%95%8c%e3%81%af%e3%80%81%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%82%b7%e3%83%bc%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%a9%9f%e9%96%a2%e3%81%8b%e3%82%89%e3%81%a9/" rel="bookmark">食品業界は、エージェンシーのような機関からどのような恩恵を受けていますか？</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>人間が生きていくために食べ物が必要であることは議論の余地がありません。しかし、専門家やMandreelのような広告代理店は、食品が消費者の注意を引く画像や要素を伴わなければならない商品であることを理解しています。 これは、人々が素晴らしいイメージプレゼンテーションを伴う製品に対する自信を持っていることを機関が理解しているからです。デジタル時代のおかげで、消費者は過去とは異なる購買習慣を持ち、食品業界にとっては、ブランドの忠実なコミュニティを作る絶好の機会です。 激しい競争 食品業界に存在する競争には目を見張るものがあります。それは、食品市場が非常に高いレベルにまで成長し、すでに消費者が食品市場の提供物に無関心になるほどになっているからです。 ある商品が他社と似ていて、何の付加価値もない場合、消費者は無関心になります。このような状況では、Mandreel.comのような広告代理店は、ブランドを管理する上で基本的な役割を果たします。 時間をかけて真のインパクトを生み出すためには、モバイルアプリケーション、ソーシャルネットワーク、ブログ、Eメールマーケティング、インフルエンサーなどのデジタルツールを活用することが望ましいと言えます。 食品業界におけるブランディングのメリット ブランディングと Mandreel Consultancyのような代理店が行った作業は、食品業界で特定の利点を生み出します。 投資: 広告キャンペーンへの投資はブランドによって決定されることを強調することが重要です。しかし、現在のデジタル時代には、良い結果を得るために多額の資金を投資する必要はありません。投資は、ブランドの規模と設定した目標に合わせて調整する必要があります。 セグメンテーション: 一方で、ブランドはブランドを使用して理想的な消費者グループを見つけ、自社製品に忠実なコミュニティを作り出すことができます。また、ブランドは、適切なタイミングで適切な状況下で消費者と交流することができます。 フィードバック: 最後に、広告戦略が成功するためには、広告プロセスを評価し、フィードバックを得て、得られた結果と目的を測定する必要があります。ブランディングと現代では、戦略と結果の評価はリアルタイムで行うことができるので、広告代理店やブランドは、状況がそれを保証する場合に必要な調整を行うことができます。 そのため、広告代理店やブランドは、デジタル時代のリズムに合わせて効果的な広告戦略を立てるのに多くの時間と労力を費やしています。 ニューロマーケティング 「感覚マーケティング」とも呼ばれ、食品業界に属するブランドに力を与える新しい方法です。ニューロマーケティングは、消費者が特定のアクションを実行するために脳刺激を使用しているため、広告代理店の間でトレンドになりつつある戦略です。 この方法により、www.mandreel.comのような広告代理店は、消費者の基準や行動を利用して、ブランドの利益のためにそれらを利用する、効果的な広告戦略を設計し実施することができます。これは、人々の注目を集め、ブランドを強化するための効果的な方法であり、新しい消費者を惹きつける可能性があります。</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-06-16T10:10:00+00:00">June 16, 2021</time><time class="updated" datetime="2021-10-23T10:12:22+00:00">October 23, 2021</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/mai/">Mai Fuji</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1235 -->
+
+				
+					
+<article id="post-1228 post-1228" class="post-1228 post type-post status-publish format-standard hentry category-23">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e5%88%9d%e5%bf%83%e8%80%85%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e3%82%b9%e3%83%86%e3%83%83%e3%82%ab%e3%83%bc%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%81%ae%e3%82%b3%e3%83%84%ef%bc%94%e9%81%b8/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e5%88%9d%e5%bf%83%e8%80%85%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e3%82%b9%e3%83%86%e3%83%83%e3%82%ab%e3%83%bc%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%81%ae%e3%82%b3%e3%83%84%ef%bc%94%e9%81%b8/" rel="bookmark">初心者のためのステッカープリントのコツ４選</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>ステッカーは多くのメリットがあるアイテムです。単にデコレーション目的として売られてもいますが、それだけではなく、ビジネスやイベントを宣伝することにも利用されます。また、様々なアートやクラフトにも使われています。どんな目的で作ることを選んでも、もちろんステッカーの見た目は大事です。良いデザインのものを作らければいけないということです。プロモーションにも、販売にも、アートやクラフトにも、魅力的な見た目が必要です。  基本的には、組み合わせも最適な色を選んで、派手すぎたりスタイリッシュすぎたりしないフォントを選択し、クオリティの高い画像やイラストを使う必要があります。&nbsp; しかし、これだけではありません。目立つ高品質のステッカーに仕上げるためにはプリントのコツというものがいくつかあるのでご紹介していきます。&nbsp; １．プロセスカラー&nbsp; 一般手的に、ステッカーデザインには３つの色の種類があります。RGB、CMYK、PANTONEカラーといったものです。RGBとCMYKは基本的にはベース色（RGBは赤、緑、青で、CMYKはシアン、マゼンタ、イエロー、ブラック）をミックスして色を作っていくものです。PANTONEはそれぞれ単色です。プリンターのインクは４つの色を使って色を作るため、印刷に最も一般的に使われるのはCMYKです。デザインするときのソフトには注意してください。一般的にデフォルトの設定はRGBでCMYKより明るい色になっていることが多いです。もしRGBでデザインしてCMYKで印刷してしまったばあい、色が正しく表示されない可能性があります。CMYKが基本色で十分なクオリティとなります。しかし、大きな欠点の一つにベタ塗りの大きいエリアには適していないということがあります。この場合はPANTONEを使う方が良いです。しかし、PANTONEカラーはCMYKやRGBに比べてかなり高価です。&nbsp; 2．大きなベタ塗りエリアを避ける&nbsp; デザインする際、CMYKの印刷プロセスの限界のせいで高い品質が保証できないので、大きなベタ塗りエリアは避けた方が賢明です。特にコストを下げたい場合には有効です。これをすることで、PANTONEカラーを使用しなければいけない状況を回避できます。&nbsp; 3．ステッカーの仕上げ&nbsp; ステッカーをよりよく見せるために印刷後の仕上げについてもいくつか選ぶことができます。色をもっと目立たせるものや、質感を変えるもの、テキスチャー、光沢を加えるもの、丈夫に仕上げるものまであります。ステッカーの好みや目的に応じで、最も適切な仕上げは変わります。&nbsp; 4．高品質に印刷&nbsp; 自宅にあるプリンターで印刷しようとは思わないでください。自宅用のプリンターでは高寝室なプリントはサポートしていません。プロの印刷サービスでのみ可能です。魅力的なステッカーを作るには、ハイクオリティなものでなければいけません。なので印刷コストには予算を掛けましょう。絶対にお金をかける価値があるものになります。詳細についてはここをクリックしてください、https://www.kiasuprint.com/cheap-sticker-label-printing-service-in-singapore/products/。&nbsp;</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2020-06-18T16:50:00+00:00">June 18, 2020</time><time class="updated" datetime="2020-07-28T16:51:57+00:00">July 28, 2020</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/hide/">Hide Abe</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1228 -->
+
+				
+					
+<article id="post-1225 post-1225" class="post-1225 post type-post status-publish format-standard hentry category-23">
+
+		<div class="post-thumbnail" style="background-image: url( 'https://photovide.com/wp-content/themes/fotografie/assets/images/no-thumb.jpg' )">
+		<a class="cover-link" href="https://photovide.com/%e4%bb%95%e4%ba%8b%e3%81%a7%e5%bf%99%e3%81%97%e3%81%84%e4%ba%ba%e3%81%8c%e6%b5%b7%e5%a4%96%e3%81%a8%e3%81%ae%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8a%e3%82%92%e6%a5%bd%e3%81%97%e3%82%80%e6%96%b9%e6%b3%95/"></a>
+	</div>
+
+
+	<div class="entry-container content-right">
+		<div class="post-wrapper">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://photovide.com/%e4%bb%95%e4%ba%8b%e3%81%a7%e5%bf%99%e3%81%97%e3%81%84%e4%ba%ba%e3%81%8c%e6%b5%b7%e5%a4%96%e3%81%a8%e3%81%ae%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8a%e3%82%92%e6%a5%bd%e3%81%97%e3%82%80%e6%96%b9%e6%b3%95/" rel="bookmark">仕事で忙しい人が海外とのつながりを楽しむ方法</a></h2>			</header>
+
+			<div class="entry-summary">
+				<p>仕事で忙しいから海外に行けない…そんな言い訳はやめましょう。もう、そんな言い訳は通用しない世の中になりましや。単純に航空券の値段が下がっていること、ビザの要件が緩和されていることなどがありますが、それだけではありません。そもそも、海外に物理的に移動しなくても、海外との接触を楽しむことができるのです。 例えば、買い物を海外からしてみるのはいかがでしょうか。日本市場にはない面白い、ユニークな商品に出会うことができます。英語が話せなくても問題ありません。フェミートを使えば、個人輸入がラクラクできます。フェミートは海外からの物品輸入を代行してくれるサイトです。フェミートはあくまでも個人的な使用のためのものなので、ビジネスとは切り分けるように、気をつけてください。つまり、日常の買い物を海外にまで拡大したい人にぴったりです。 他には、言語学習サイトがあります。例えばLang-8などです。仕組みは簡単で、言語を学びたい、教えたいという人同士をマッチングしてくれます。それぞれが、母国語を教え合うという、異文化交流の時代を物語るサイトです。しかも、無料で利用できます。中途半端に参考書を買うよりも、よっぽど深い学びを得ることができます。さらに、チャット機能によって、それぞれの国についての興味深い文化的違いに触れることもできます。仕事が忙しい人にはぴったりです。言語学習の学校に通う必要もありませんし、ちょっとした隙間時間にパソコンを開くだけでOK。わからないところがあったら、コミュニティに尋ねることができます。さらに、言語を学ぶことで「今度、この国に行ってみたいなぁ」という着想を得ることも。日本での日常から気軽に抜け出せるという意味でも、あらゆる人にオススメしたいサービスです。Femito.comのオンラインショップをご覧ください。</p>
+			</div><!-- .entry-summary -->
+
+							
+<footer class="entry-meta">
+	<span class="posted-on"><span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2020-06-01T16:28:47+00:00">June 1, 2020</time><time class="updated" datetime="2020-06-01T16:28:51+00:00">June 1, 2020</time></span><span class="byline"><span class="screen-reader-text">by </span><span class="author vcard"><a class="url fn n" href="https://photovide.com/author/mai/">Mai Fuji</a></span></span></footer><!-- .entry-meta -->
+					</div><!-- .post-wrapper -->
+	</div><!-- .entry-container -->
+</article><!-- #post-1225 -->
+
+				
+			</div><!-- .post-archive -->
+
+			
+	<nav class="navigation posts-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://photovide.com/page/2/" >Older posts</a></div></div>
+	</nav>		</main>
+	</div>
+
+
+		</div>
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+
+			<div id="site-generator">
+				<div class="wrapper">
+					<div class="site-social">
+   </div><!-- .site-social -->
+
+					<div class="site-info">
+	Copyright &copy; 2025 <a href="https://photovide.com/">Photovide</a>. All Rights Reserved.  &#124; Fotografie&nbsp;by&nbsp;<a target="_blank" href="https://catchthemes.com/">Catch Themes</a></div><!-- .site-info -->
+
+
+				</div><!-- .wrapper -->
+			</div><!-- #site-generator -->
+		</footer>
+	</div><!-- .site-inner -->
+</div><!-- #page -->
+<a href="#masthead" id="scrollup" class="backtotop"><span class="screen-reader-text">Scroll Up</span></a><script type="text/javascript" src="https://photovide.com/wp-content/plugins/penci-recipe/js/jquery.rateyo.min.js?ver=2.2" id="jquery-recipe-rateyo-js"></script>
+<script type="text/javascript" id="penci_rateyo-js-extra">
+/* <![CDATA[ */
+var PENCI = {"ajaxUrl":"https:\/\/photovide.com\/wp-admin\/admin-ajax.php","nonce":"9bf0a9f429"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://photovide.com/wp-content/plugins/penci-recipe/js/rating_recipe.js?ver=2.2" id="penci_rateyo-js"></script>
+<script type="text/javascript" src="https://photovide.com/wp-content/plugins/penci-review/js/jquery.easypiechart.min.js?ver=1.0" id="jquery-penci-piechart-js"></script>
+<script type="text/javascript" src="https://photovide.com/wp-content/plugins/penci-review/js/review.js?ver=1.0" id="jquery-penci-review-js"></script>
+<script type="text/javascript" src="https://photovide.com/wp-content/themes/fotografie/assets/js/skip-link-focus-fix.min.js?ver=20170616" id="fotografie-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://photovide.com/wp-content/themes/fotografie/assets/js/jquery.matchHeight.min.js?ver=20151215" id="jquery-match-height-js"></script>
+<script type="text/javascript" id="fotografie-custom-script-js-extra">
+/* <![CDATA[ */
+var fotografieScreenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://photovide.com/wp-content/themes/fotografie/assets/js/custom-scripts.min.js?ver=20170616" id="fotografie-custom-script-js"></script>
+
+</body>
+</html>

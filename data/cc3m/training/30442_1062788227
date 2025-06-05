@@ -1,0 +1,1658 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Athol Daily News </title>
+<!-- full/home-default.tt -->
+<!-- theme: full -->
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXDHNXS');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+
+
+	<link rel="canonical" href="https://www.atholdailynews.com/" />
+
+
+
+  <meta name="description" content="The Concord Monitor is a Pulitzer Prize winning daily newspaper and website located in the capital city of New Hampshire. The Concord Monitor is Central NH's dominant media with more than 70 percent household penetration. The Monitor is a key source of news and information for Concord, NH.">
+
+
+
+<!-- start googlemeta -->
+
+<meta name="robots" content="max-image-preview:large" />
+<meta name="robots" content="max-snippet:80" />
+
+
+<!-- end googlemeta -->
+    
+    
+
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <!-- Bootstrap -->
+    <!-- old bootstrap from 2018 design cycle -->
+    <!--link href="/static/bootstrap.min.css" rel="stylesheet" -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- 2018 NNE-CM Overrides -->
+    <link href="/static/home2018.css" type="text/css" rel="stylesheet">
+    <!-- Adriane font from Adobe -->
+    <!--link rel="stylesheet" href="https://use.typekit.net/wje2tqr.css"-->
+
+       <!-- Open Sans for meta info-->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+        <!--Adriane font from Adobe-->
+        <link rel="stylesheet" href="https://use.typekit.net/wje2tqr.css"> 
+
+        <!--Bootstrap Glyphicons-->
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+        <!--Font Awesome for social icons-->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
+
+  <!-- Tecnavia Paywall -->
+  <script type="text/javascript" src="https://atholdailynews-ma-pw.newsmemory.com/?meter&v=8&service=onstop" async></script>
+
+
+    <meta name="google-site-verification" content="6Z1xSMhLyOApV8qouIk1h2knMTlJ4WguwKCRmI3IRw0" />
+
+
+  
+    <!-- DFP Invocation Script-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="/CMSScripts/Custom/dfp/jquery.dfp.min.js"></script>
+
+
+
+  
+
+
+
+
+
+
+
+
+<!-- set paywall criteria -->
+<script type="text/javascript">
+  var ta_cat= "free";
+</script>
+<!-- end paywall criteria -->
+
+
+
+
+<script type="text/javascript">
+	function injectScript(src) {
+		var isModule = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
+		var script = document.createElement('script');
+
+		script.src = src;
+
+		if (isModule) {
+			script.type = 'module';
+		} else {
+			script.async = true;
+			script.type = 'text/javascript';
+			script.setAttribute('nomodule', '');
+		}
+
+		var firstScript = document.getElementsByTagName('script')[0];
+
+		firstScript.parentNode.insertBefore(script, firstScript);
+	}
+
+	function load(window, id, userConfig) {
+		var _a, _b;
+		var _c;
+
+		(_a = window.marfeel) !== null && _a !== void 0 ? _a : window.marfeel = {};
+		(_b = (_c = window.marfeel).cmd) !== null && _b !== void 0 ? _b : _c.cmd = [];
+		window.marfeel.config = userConfig;
+		window.marfeel.config.accountId = id;
+
+		var resourcesPath = 'https://sdk.mrf.io/statics';
+
+		injectScript("".concat(resourcesPath, "/marfeel-sdk.js?id=").concat(id), true);
+		injectScript("".concat(resourcesPath, "/marfeel-sdk.es5.js?id=").concat(id), false);
+	}
+
+	(function (window, accountId) {
+		var clientConfig = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
+
+		load(window, accountId, clientConfig);
+	})(window,5821, {} /* Config */);
+</script>
+
+
+<!-- Connatix Story Article Player Head -->
+<!-- <script>!function(n){if(!window.cnxps){window.cnxps={},window.cnxps.cmd=[];var t=n.createElement('iframe');t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.playspace.js',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);</script> -->
+<!-- End Connatix Story Article Player Head -->
+
+<link rel="apple-touch-icon" href="/static/images/ADN/apple-touch-icon.png" />
+<link rel="icon" sizes="192x192" href="/static/images/ADN/android-chrome-192x192.png" />
+<link rel="icon" sizes="512x512" href="/static/images/ADN/android-chrome-512x512.png" />
+
+
+  <!-- impact site verification code -->
+  <meta name='impact-site-verification' value='27d1ee89-38ea-4a34-adae-fe891c9769e6'>
+
+
+
+
+
+<!-- reCAPTCHA v3 -->
+<script src="https://www.google.com/recaptcha/api.js?render=6LeUgl0pAAAAALpPmy1PPpFXkXnfWUbQ4ebSxcKd"></script>
+
+<script> 
+  function onLTSubmit(token) {
+	grecaptcha.ready(function() {
+			  grecaptcha.execute('6LeUgl0pAAAAALpPmy1PPpFXkXnfWUbQ4ebSxcKd', {action: 'submitLetterForm'}).then(function(token) {
+				document.getElementById("submit_letter").submit();
+
+			  });
+		         });
+  }
+
+  function onTFSubmit(token) {
+	grecaptcha.ready(function() {
+			  grecaptcha.execute('6LeUgl0pAAAAALpPmy1PPpFXkXnfWUbQ4ebSxcKd', {action: 'submitTipForm'}).then(function(token) {
+				document.getElementById("tipform").submit();
+
+			  });
+		         });
+  }
+
+  function onSSSubmit(token) {
+        if (
+	    (document.getElementById("category").value)
+	    && (document.getElementById("winningteamname").value)
+	    && (document.getElementById("winningteamscore").value)
+//	    && (document.getElementById("winningteamrecord").value)
+//	    && (document.getElementById("winningteamkeyplayers").value)
+	    && (document.getElementById("losingteamname").value)
+	    && (document.getElementById("losingteamscore").value)
+//	    && (document.getElementById("losingteamrecord").value)
+//	    && (document.getElementById("losingteamkeyplayers").value)
+//	    && (document.getElementById("gamehighlights").value)
+//	    && (document.getElementById("coachname").value)
+	    && (document.getElementById("contactname").value)
+	    && (document.getElementById("contactemail").value)
+	    && (document.getElementById("contactphone").value)
+           ) {
+	grecaptcha.ready(function() {
+			  grecaptcha.execute('6LeUgl0pAAAAALpPmy1PPpFXkXnfWUbQ4ebSxcKd', {action: 'submitSportScoreForm'}).then(function(token) {
+				document.getElementById("sportform").submit();
+
+			  });
+		         });
+        }
+  }
+</script>
+<!-- end reCAPTCHA setup -->
+
+
+
+
+    <link href="/static/homepage.css" type="text/css" rel="stylesheet">
+  
+  </head>
+  <body style="margin-left: 5%; margin-right: 5%;">
+
+	    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXDHNXS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<!-- <div role="navigation"> -->
+
+<!-- above logo menu -->
+<ul style="display: flex; flex-wrap: wrap; list-style-type:none; background-color: white; justify-content: center; margin: auto; padding: 8px;" role="navigation">
+  
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="https://atholdailynews-ma.newsmemory.com/">E-Edition</a></li>
+  
+  
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="https://nnedigital.activehosted.com/f/47">Advertise</a></li>
+  
+  
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="https://nnedigital.activehosted.com/f/09">Newsletters</a></li>
+  
+  
+  <li style="display:inline; background:yellow; color:black;">
+    <a class="navitems" style="padding: 8px; " href="https://accountaccess.nne.media/ss70v2/nne/nonsubscribers/core/ratelanding.jsp?edition=ADN&delMeths=C,A,I,M&promo">Subscribe</a>
+  </li>
+  
+  
+  
+  <li style="display:inline;">
+    <button class="navitems" style="display: inline; background: none; border: none ! important; " onclick="ta_account();" id="ta_account_button" >Login</button>
+  </li>
+  
+</ul>
+
+<div class="col-xs-12">
+
+
+  <div style="align: center; width=100%;"> 
+    <a href="/"><img class="img-responsive" style="margin:auto;" src="/static/images/ADN/biglogo.png" alt="Athol Daily News Logo" /></a> 
+  </div>
+
+
+</div>
+
+<ul style="display: flex; flex-wrap: wrap; list-style-type:none; position:sticky; position: -webkit-sticky; z-index: 3; top:0; background-color: white; justify-content: center; margin: auto; padding: 8px;" role="navigation">
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/">Home</a></li>
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/News">News</a></li>
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/Opinion">Opinion</a></li>
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/Sports">Sports</a></li>
+
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/Police-Logs">Police Logs</a>
+
+  <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/Arts-Life">Arts &amp; Life</a></li>
+  <li style="display:inline;">
+    
+    <a class="navitems" style="padding: 8px; " href="/obits">Obituaries</a>
+    
+  </li>
+  
+  <li style="display:inline;"><a class="navitems" aria-label="Open Classified ads in new tab" style="padding: 8px; " href="http://marketplace.recorder.com/" target="_blank">Classifieds</a></li>
+  
+  
+      <li style="display:inline;"><a class="navitems" style="padding: 8px; " href="/events">Calendar</a> </li>
+  
+  
+      <li style="display:inline;"><a class="navitems" style="padding: 8px;" href="/Puzzles">Puzzles</a> </li>
+  
+  <li style="display:inline;"><style>
+.compact-open-button {
+<!--  background-color: #555; -->
+  color: blue; 
+<!--  padding: 16px 20px; -->
+  border: none;
+  cursor: pointer;
+<!--  opacity: 0.8; -->
+<!--  width: 20vw; -->
+<!--  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px; -->
+}
+
+.form-popup {
+  display: none;
+<!--  position: fixed;
+  bottom: 5%;
+  right: 5%; -->
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+<!--  overflow-x: hidden;
+  overflow-y: scroll; -->
+  background-color: white;
+  padding: 10px;
+}
+
+.form-container {
+<!--  max-width: 90%; -->
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 768px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+</style>
+
+<button class="compact-open-button" style="width:auto;" onclick="openCSForm()">Search</button>
+<div class="form-popup" id="compactsearchform" role="search">
+  <form action="/search" class="form-container">
+    SEARCH TIP: Our current search is simple: Type in a single-word search item (such as <b>pizza</b>), 
+    or if you know the exact phrase that you're looking for, you can type that in (such as <b>Fourth of July</b>). 
+   <br>
+    <label for="bodysearch">Search article text for</label>
+    <input type="text" id="bodysearch" name="bodysearch" required>
+
+    <button type="submit" class="btn">Search</button>
+
+    <button type="button" class="btn cancel" onclick="closeCSForm()">Cancel</button>
+
+     NOTE TO READERS: Our searchable web archive is currently a subset of our full web archives.  The process of moving the rest of our digital stories and photos into the online archive is difficult and time consuming, so we appreciate your patience.  Our website archive currently has all of our stories back to the start of 2023 and thousands of our most popular stories from previous years.  If you want to search a more complete archive in the meanwhile, subscribers can log into our e-edition and search more than 10 years of stories and photos.
+  </form>
+</div>
+
+<script>
+function openCSForm() {
+  document.getElementById("compactsearchform").style.display = "block";
+}
+
+function closeCSForm() {
+  document.getElementById("compactsearchform").style.display = "none";
+}
+</script>
+</li>
+</ul>
+
+<!-- </div> -->
+
+
+    <div class="col-xs-12 hidden-md hidden-sm hidden-xs expander">
+    <div class="adunit 900x90" id="Expander2020Home" data-dimensions="900x90" data-targeting='{"page_name":"Home","section":""}'></div>
+
+  </div>
+
+
+<!-- Top ad -->
+<div style="display: flex; justify-content: center; align-items: center;">
+      
+
+   
+     <div class="col-xs-12" style="text-align:center;">
+	<!-- adid: V2-Home-728x90-Top -->
+        <!-- showadnames:  -->  
+        <!-- allowshowadnames:  -->  
+	
+       <div class="adunit 728x90 320x50 center-block" id="V2-Home-728x90-Top" data-dimensions="728x90,320x50" data-size-mapping="nne-default-mapping" data-targeting='{"page_name":"Homepage","section":"Home"}'></div>
+     </div>
+   
+
+</div>
+
+
+
+        <div role="main">
+   
+	   <div class="row" style="margin-top: 1%; display: flex;">
+
+	     <div class="col-md-3 nnecolumn1" style="padding-right: 15px;">
+               <!-- ADNabovelatest.tt -->
+ <!-- <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLiFk7-nWACPYydgh6QaEcyhKqhRwVZYuAVi_PY7ByYJanw-YHIwfNSjKve9LiqLJJY-ou0ESUW-qw/pubhtml"><img src="/static/images/ADNWell /election-results-2024.jpg" class="img-responsive" alt="Election Results 2024"></a> -->
+ <!-- <a href="https://nnedigital.ac-page.com/warm-the-children-2024"><img src="/static/images/ADN/WarmTheChildrenDonation2024.jpg" class="img-responsive" alt="Warm The Children Donations"></a> -->
+	      <!-- top headlines -->
+
+   <h1 class="articlebigheadline">Latest News</h1>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/State-health-benefits-agency-running-out-of-money-60709733">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/60/49763960.jpg" alt="">
+       
+         Massachusetts health benefits agency running out of money
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     13 hours ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Shaina-Rodriguez-to-lead-Catholic-Charities-agency-in-the-Diocese-of-Springfield-60708424">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/88/49762988.jpg" alt="">
+       
+         Catholic Charities loses funding for refugee programs, shifting focus under new leader
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     13 hours ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/North-Quabbin-Notes-April-19-60706377">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/89/49761689.jpg" alt="">
+       
+         North Quabbin Notes, April 20
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     13 hours ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Bill-would-allow-Chapter-61A-exception-for-renewable-energy-at-farms-60662733">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/33/49727033.jpg" alt="">
+       
+         Bill would allow Chapter 61A exception for renewable energy at farms
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     2 days ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Athol-Royalston-recognizes-Students-of-the-Month-60704750">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/37/49760537.jpg" alt="">
+       
+         Athol Royalston recognizes Students of the Month
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     2 days ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Sportsman-s-Corner-Catch-and-release-turkey-hunting-60683315">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/41/49745541.jpg" alt="">
+       
+         Sportsman's Corner: Catch and release turkey hunting
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     3 days ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Bill-bans-cooperation-with-federal-health-care-investigations-60642422">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/15/49712015.jpg" alt="">
+       
+         Massachusetts bill bans cooperation with federal health care investigations
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     3 days ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Free-jail-calls-stressing-sheriffs-budgets-staff-60536644">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/38/49622038.jpg" alt="">
+       
+         Free jail calls stressing sheriffs’ budgets, staff
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     5 days ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+     <section>
+     <div style="clear:both; display: table; padding: 1%; margin-bottom: 4%;" >
+       <a style="display: flex;" class="articleheadline" href="/Sen-Comerford-of-Northampton-takes-lead-role-in-state-responses-to-federal-actions-by-Trump-GOP-60491214">
+       
+         <img style="width: 100px; height: 100%; float:left; padding-right: 3%;" class="img-fluid" src="/attachments/75/49586575.jpg" alt="">
+       
+         State senators organize Trump defense: Comerford a leader on Response 2025 initiative
+       </a>
+
+       <div style="float:right;"> 
+          
+            
+            
+	     6 days ago
+            
+          
+       </div>
+
+     </div>
+     </section>
+   
+
+	     </div>
+
+	     <div class="col-md-6 nnecolumn2" style="padding-left: 15px; padding-right: 15px; border-left:solid lightgrey; border-right:solid lightgrey; border-width: 1px;">
+ 	       <!-- home center 1 -->
+
+   
+     <section>
+     <a href="/Committee-reviews-school-budget-proposal-60707489">
+      
+       <img class="img-fluid" style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="/attachments/11/49762311.jpg" alt="">
+     
+       <p class="articlebigheadline">Athol School Committee reviews budget proposal</p>
+     </a>
+     <div style="align:right;"> 04-20-2025 2:01 PM</div>
+     <p>ATHOL – A review of the proposed budget for the Athol Royalston Regional School District on Wednesday shows that a few changes could have significant impacts.
+     <hr>
+     </section>
+   
+
+
+
+
+ 	       <!-- home center two -->
+
+   
+     <section>
+     <a href="/AG-pledges-to-help-fight-opioid-crisis-in-visit-to-Greenfield-60662794">
+     
+       <img class="img-fluid" style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="/attachments/38/49727038.jpg" alt="">
+     
+       <p class="articlebigheadline">AG pledges to help fight opioid crisis in visit to Greenfield</p>
+     </a>
+     <div style="align:right;"> 04-20-2025 2:02 PM</div>
+     <p>GREENFIELD — Attorney General Andrea Joy Campbell promised local officials during a visit to Greenfield on Tuesday that she intends to prioritize efforts to curb the opioid crisis in Massachusetts amid cuts and freezing of federal funding.</p>
+     <hr>
+     </section>
+   
+
+	     </div>
+
+	     <div class="col-md-3 nnecolumn3" style="padding-left: 15px;">
+	       
+
+   
+	
+     <div style="position:relative;left:2px;" class="adunit 300x250 centerad" id="V2-Home-300x250-Top" data-dimensions="300x250" data-targeting='{"page_name":"Homepage","section":"Home"}'></div>
+   
+
+
+
+
+<!-- homeboxes -->
+
+ 
+
+<h1 class="articlebigheadline">Most Read</h1>
+
+	
+
+
+
+
+
+<h1 class="articlebigheadline">Editors Picks</h1>
+
+   	
+	<section>
+          <a class="articleheadline" style="display: flex;" href="/Athol-Royalston-receive-Rural-Development-grants-60085520">
+	
+            <img class="img-fluid" style="width: 100px; height: 100%; float: left; padding-right: 2%;" src="/attachments/52/49260352.jpg" alt="">
+        
+          Athol, Royalston receive Rural Development grants</a>
+	  <div style="clear:both; margin-bottom: 4%;"></div>
+        </section>
+   
+
+
+
+   
+        <section>
+          <a class="articleheadline" style="display: flex;" href="/Peter-Durant-considers-run-for-governor-60085984">
+	
+            <img style="width: 100px; height: 100%; float: left; padding-right: 2%;" src="/attachments/74/49260274.jpg" alt="">
+        
+          Peter Durant pledges decision on governor bid ‘relatively shortly’</a>
+	  <div style="clear:both; margin-bottom: 4%;"></div>
+        </section>
+   
+
+
+
+   
+        <section>
+          <a class="articleheadline" style="display: flex;" href="/UMass-Amherst-one-of-60-campuses-across-country-warned-of-possible-federal-investigations-into-lack-of-protection-for-Jewish-students-60073095">
+	
+            <img style="width: 100px; height: 100%; float: left; padding-right: 2%;" src="/attachments/04/49243204.jpg" alt="">
+        
+          Feds target UMass over charges of antisemitism on campus</a>
+	  <div style="clear:both; margin-bottom: 4%;"></div>
+        </section>
+   
+
+
+
+   
+        <section>
+          <a class="articleheadline" style="display: flex;" href="/McGovern-calls-on-voters-to-resist-federal-cuts-to-food-services-60085683">
+	
+            <img style="width: 100px; height: 100%; float: left; padding-right: 2%;" src="/attachments/32/49249532.jpg" alt="">
+        
+          McGovern calls on voters to resist federal cuts to food services</a>
+	  <div style="clear:both; margin-bottom: 4%;"></div>
+        </section>
+   
+
+
+
+<!-- since yesterday mostread populated, only include first four homeboxes -->
+
+	     </div>
+	  </div>
+
+	<div style="display: flex; justify-content: center; align-items: center;">
+	
+
+   
+     <div class="col-xs-12" style="text-align:center; margin-top:1%;">
+	
+       <div class="adunit 728x90 320x50 center-block" id="V2-Home-Video-Sponsored-Content" data-dimensions="728x90,300x50" data-size-mapping="nne-default-mapping" data-targeting='{"page_name":"Homepage","section":"Home&"}'></div>
+     </div>
+   
+
+	</div>
+
+	<!--	<div style="display: flex; justify-content: center; align-items: center;">
+	  <a href="/search?keyword=HometownHeroes2022"><img class="img-responsive" src="/static/images/2024-Hometown-Heroes-High-Quality.jpg" alt="Hometown Heros Logo"></a>
+	</div>
+-->
+
+
+ 	<div class="row" style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+	<!-- sports block -->
+
+   <h1><a class="articlebigheadline" href="/Sports">Sports</a></h1>
+   <div class="row">
+   <!-- start of first sportblock row -->
+   
+     <div class="col-md-3" style="margin-bottom:1%; border-right: lightgrey solid 1px;">
+       <section>
+       <!-- sport center -->
+       <a class="articleheadline" href="/UMass-football-Minutemen-cap-successful-camp-with-annual-Spring-Game-at-McGuirk-60726572">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/01/49780001.jpg" alt="">
+       
+       <br>UMass football: Minutemen cap successful camp with annual Spring Game at McGuirk</a>
+       <div style="align:right;"> 04-19-2025 5:42 PM</div>
+       <p>AMHERST — Late in the fourth quarter of Saturday’s UMass football spring game, Team Maroon worked the ball inside the Team White 10-yard line trailing 17-10. Team Maroon quarterback Grant Jordan received a shotgun snap from the 4-yard line, faked the ball to his running back and scrambled right.
+       </section>
+     </div>
+   
+   
+     <div class="col-md-6">
+       <div class="row">
+   
+     
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+     <!-- start of sport article -->
+       <a class="articleheadline" href="/HS-Roundup-Frontier-girls-tennis-wins-fourth-in-a-row-following-4-1-victory-over-Lee-60710025">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/10/49768410.jpg" alt="">
+       
+       HS Roundup: Frontier girls tennis wins fourth in a row following 4-1 victory over Lee</a>
+             <div style="align:right;"> 04-18-2025 9:24 PM</div>
+<!--             <p> -->
+       </section>
+
+           </div>
+   
+     
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+     <!-- start of sport article -->
+       <a class="articleheadline" href="/Youth-baseball-softball-seasons-getting-underway-as-Greenfield-Minor-League-Baseball-opening-day-parade-kicks-off-Saturday-60710454">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/89/49766089.jpg" alt="">
+       
+       Youth seasons getting underway as Greenfield Minor League Baseball opening day parade kicks off Saturday</a>
+             <div style="align:right;"> 04-18-2025 7:18 PM</div>
+<!--             <p> -->
+       </section>
+
+           </div>
+   
+     
+     
+       
+         <!-- start a new sportblock row -->
+         </div>
+
+         <div class="row">
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+     <!-- start of sport article -->
+       <a class="articleheadline" href="/Keeping-Score-with-Chip-Ainsworth-A-Monday-trip-to-Sortino-Field-60689925">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/10/49748710.jpg" alt="">
+       
+       Keeping Score with Chip Ainsworth: A Monday trip to Sortino Field</a>
+             <div style="align:right;"> 04-18-2025 2:01 PM</div>
+<!--             <p> -->
+       </section>
+
+           </div>
+   
+     
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+     <!-- start of sport article -->
+       <a class="articleheadline" href="/UMass-football-wraps-up-spring-practice-to-hold-spring-game-Saturday-60697365">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/07/49752607.jpg" alt="">
+       
+       UMass football: Minutemen wrap up spring practice, turn focus to Spring Game Saturday</a>
+             <div style="align:right;"> 04-18-2025 12:01 PM</div>
+<!--             <p> -->
+       </section>
+
+           </div>
+   
+     <!-- end of sport block rows -->
+    </div>
+       </div>
+
+     <div class="col-md-3" style="margin-bottom: 1%;">
+
+	
+
+   
+     <div class="col-xs-12" style="text-align:center; margin-top:1%;">
+	
+       <div class="adunit 300x600 center-block" id="V2-Home-300x600-Top" data-dimensions="300x600" data-targeting='{"page_name":"Homepage","section":"Home&"}'></div>
+     </div>
+   
+
+     </div>
+             
+
+
+
+	</div>
+
+	<!-- opinion block -->
+
+	<div class="row"  style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+
+   <h1><a class="articlebigheadline" href="/Opinion">Opinion</a></h1>
+   <div class="row">
+   
+     <div class="col-md-3" style="margin-bottom: 1%; border-right: lightgrey solid 1px;">
+       <section>
+       <!-- opinion center -->
+       <a class="articleheadline" href="/Letter-60584155">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/77/49713977.jpg" alt=" ">
+       
+       <br>Kim George: A heartfelt thank you to our amazing volunteers</a>
+       <div style="align:right;"> 04-20-2025 5:01 PM</div>
+       <p>We cannot express enough gratitude for our volunteers’ incredible work for Pioneer Valley Hospice & Palliative Care. Their passion, dedication, and unwavering commitment to our cause have left a lasting impact, and we feel truly fortunate to have them as members of our team.
+       </section>
+     </div>
+   
+   
+   <div class="col-md-6">
+     <div class="row">
+
+   
+     
+     
+       <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+       <a class="articleheadline" href="/Letter-60653743">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/54/46204954.jpg" alt=" ">
+       
+       Jeremy Williams: Welcome, brothers and sisters</a>
+         <div style="align:right;"> 04-20-2025 5:01 PM</div>
+<!--         <p> -->
+       </section>
+       </div>
+   
+     
+     
+       <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+       <a class="articleheadline" href="/Guest-column-60678150">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/35/49737735.jpg" alt="">
+       
+       Guest columnist Ben Grosscup: Anti-Trump resistance can’t be ‘hands off’ on militarism</a>
+         <div style="align:right;"> 04-20-2025 12:00 PM</div>
+<!--         <p> -->
+       </section>
+       </div>
+   
+     
+     
+       
+     </div>
+     <!-- start a new opinionblock row -->
+     <div class="row">
+     
+       <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+       <a class="articleheadline" href="/MyTurnDoerner-60556889">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/58/49622858.jpg" alt="STAFF FILE PHOTO ">
+       
+       My Turn: Don’t be afraid</a>
+         <div style="align:right;"> 04-19-2025 10:04 PM</div>
+<!--         <p> -->
+       </section>
+       </div>
+   
+     
+     
+       <div class="col-md-6" style="margin-bottom: 1%">
+       <section>
+       <a class="articleheadline" href="/Columnist-Huer-60672919">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/33/49761233.jpg" alt="Jon Huer">
+       
+       Columnist Jon Huer: How dirty is our money? Very dirty</a>
+         <div style="align:right;"> 04-18-2025 10:11 AM</div>
+<!--         <p> -->
+       </section>
+       </div>
+   
+     <!-- end of opinionblock rows -->
+     </div>
+   </div>
+   <div class="col-md-3" style="margin-bottom: 1%">
+<div style="height:8%; margin-bottom: 3%;"><img src="/static/images/ADN/buzz.gif" alt="buzz logo"></div>
+<div class="cbuzzframe" id="f2f_widget_22815963481662152843"></div>
+<script type="text/javascript">
+	var f2f = {
+	    width: '100%',
+	    height: '100%',
+	    clickTag: '',
+	    cacheBuster: ''
+	};
+	(function() {
+	var i = document.createElement('iframe'),
+	    w = document.getElementById('f2f_widget_22815963481662152843');
+	i.src = 'https://atholdailynews.friends2follow.com/f2f/widget/async/socialstack/all/0/12/140/1/1/1/9/9/1' + 
+	'?click=' + (f2f.clickTag.length > 0 ? encodeURIComponent(f2f.clickTag) : '') +
+	'&cache=' + (f2f.cacheBuster.length > 0 ? f2f.cacheBuster : ''),
+	i.width = f2f.width, i.height = f2f.height, i.scrolling = 'no', i.frameBorder = 0;
+	w.appendChild(i);
+	})();
+</script>
+</div>
+   </div>
+   </div>
+</div>
+
+
+	
+<div class="row" style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+<h1><a class="articlebigheadline" href="/Puzzles">Your Daily Puzzles</a></h1>  
+  <div class="puzzleblock">
+    <a href="/Puzzles/crossword">Cross|Word <img src="/static/images/puzzle/Recirc-crossword-ratio1x1_480.webp" style="width:30%; height:auto; float: right;"></a>
+    <p>An approachable redesign to a classic. Explore our "hints."
+  </div>
+  <div class="puzzleblock">
+    <a href="/Puzzles/flipart">Flipart <img src="/static/images/puzzle/Recirc-flipart-ratio1x1_480.webp" style="width:30%; height:auto; float: right;"></a>
+    <p>A quick daily flip. Finally, someone cracked the code on digital jigsaw puzzles.
+  </div>
+  <div class="puzzleblock">
+    <a href="/Puzzles/reallybadchess">Really Bad Chess <img src="/static/images/puzzle/Recirc-reallybadchess-ratio1x1_480.webp" style="width:30%; height:auto; float: right;"></a>
+    <p>Chess but with chaos: Every day is a unique, wacky board.
+  </div>
+  <div class="puzzleblock">
+    <a href="/Puzzles/spelltower">SpellTower <img src="/static/images/puzzle/Recirc-spelltower-ratio1x1_480.webp" style="width:30%; height:auto; float: right;"></a>
+    <p>Word search but as a strategy game.  Clearing the board feels really good.
+  </div>
+  <div class="puzzleblock">
+    <a href="/Puzzles/typeshift">Typeshift <img src="/static/images/puzzle/Recirc-typeshift-ratio1x1_480.webp" style="width:30%; height:auto; float: right;"></a>
+    <p>Align the letters in just the right way to spell a word. And then more words.
+  </div>
+</div>
+
+
+
+	<!-- custom block -->
+
+<div class="row" style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+   <h1><a class="articlebigheadline" href="/Police-Logs">Police Logs</a></h1>
+   <div class="row">
+   <!-- start of first customblock row -->
+   
+     <div class="col-md-3" style="margin-bottom:1%; border-right: lightgrey solid 1px;">
+        <section>
+       <!-- customblock center -->
+       <a class="articleheadline" href="/Athol-Police-Logs-Mar-1-to-Mar-17-2025-60085172">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/16/49279416.jpg" alt="">
+       
+       <br>Athol Police Logs, March 1 – March 17, 2025</a>
+       <div style="align:right;"> 03-19-2025 10:48 AM</div>
+       <p>12:40 a.m. - Party over 911 stating he believes his wife has an infection in her mouth and is in a lot of pain. When reporting party was advised dispatch would be sending an ambulance, he declined.
+        </section>
+     </div>
+   
+   
+     <div class="col-md-6">
+       <div class="row">
+   
+     
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+     <!-- start of customblock article -->
+        <section>
+       <a class="articleheadline" href="/Athol-Police-Logs-Feb-6-Feb-27-2025-59824912">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/37/49037137.jpg" alt="">
+       
+       Athol Police Logs: Feb. 6 – Feb. 27, 2025</a>
+             <div style="align:right;"> 03-05-2025 1:02 PM</div>
+<!--             <p> -->
+        </section>
+
+           </div>
+   
+     
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+     <!-- start of customblock article -->
+        <section>
+       <a class="articleheadline" href="/Athol-Police-Logs-Jan-16-to-Feb-2-2025-59312870">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/03/48555503.jpg" alt="">
+       
+       Athol Police Logs Jan. 16 to Feb. 2, 2025</a>
+             <div style="align:right;"> 02-07-2025 1:36 PM</div>
+<!--             <p> -->
+        </section>
+
+           </div>
+   
+     
+     
+       
+         <!-- start a new customblock row -->
+         </div>
+
+         <div class="row">
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+     <!-- start of customblock article -->
+        <section>
+       <a class="articleheadline" href="/Orange-Police-Logs-Dec-31-2024-to-Jan-10-2025-59037998">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/20/48268020.jpg" alt="">
+       
+       Orange Police Logs: Dec. 31, 2024 to Jan. 10, 2025</a>
+             <div style="align:right;"> 01-21-2025 12:29 PM</div>
+<!--             <p> -->
+        </section>
+
+           </div>
+   
+     
+     
+           <div class="col-md-6" style="margin-bottom: 1%">
+     <!-- start of customblock article -->
+        <section>
+       <a class="articleheadline" href="/Orange-Police-Logs-Nov-14-to-Nov-18-2024-58527921">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/56/47746156.jpg" alt="">
+       
+       Orange Police Logs, Nov. 14 - 18, 2024</a>
+             <div style="align:right;"> 12-20-2024 2:16 PM</div>
+<!--             <p> -->
+        </section>
+
+           </div>
+   
+     <!-- end of custom block -->
+         </div>
+       </div>
+       <div class="col-md-3" style="margin-bottom: 1%;">
+	
+         <h1 class="articleheadline">e-Edition</h1>
+         <a target="_top" href="https://atholdailynews-ma.newsmemory.com/">
+           <img src="https://atholdailynews-ma.newsmemory.com/getprima.php" alt="Current front page for Athol Daily News">
+         </a>
+ 	
+       </div>
+     </div>
+</div>   
+
+
+
+	<!-- arts block -->
+
+	<div class="row"  style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+
+   <h1><a class="articlebigheadline" href="/Arts-Life">Arts &amp; Life</a></h1>
+   <div class="row">
+     
+     <div class="col-md-3" style="margin-bottom: 1%; border-right: lightgrey solid 1px;">
+        <section>
+       <!-- arts-life center -->
+       <a class="articleheadline" href="/Historic-Deerfield-Body-by-Design-Exhibition-marks-opening-of-museum-60502685">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/51/49715751.jpg" alt="">
+       
+       <br>From corsets to Spanx: Historic Deerfield opens the season with ‘Body by Design: Fashionable Silhouettes from the Ideal to the Real,’ May 3</a>
+       <div style="align:right;"> 04-18-2025 9:28 AM</div>
+       <p>There’s no need to don your corset or three-piece suit for Historic Deerfield’s opening exhibition this season.
+        </section>
+     </div>
+
+     
+     
+     <div class="col-md-6">
+       <div class="row">   
+
+       
+         
+         
+       <div class="col-md-6" style="margin-bottom: 1%">
+        <section>
+       <a class="articleheadline" href="/Bach-Festival-April-17-60650554">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/25/49716225.jpg" alt="">
+       
+       Bach and better than ever: UMass Amherst biennial Bach Fest returns April 25-27 with a multitude of concerts and symposia</a>
+         <div style="align:right;"> 04-18-2025 9:26 AM</div>
+<!--         <p> -->
+        </section>
+       </div>
+     
+         
+         
+       <div class="col-md-6" style="margin-bottom: 1%">
+        <section>
+       <a class="articleheadline" href="/ashfield-square-dancing-april-19-60673034">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/89/49733989.jpg" alt="">
+       
+       Squarely a good time: There’s a resurgence of square dancing in the hilltowns</a>
+         <div style="align:right;"> 04-18-2025 9:24 AM</div>
+<!--         <p> -->
+        </section>
+       </div>
+     
+         
+         
+           
+       </div>
+       <!-- start a new artsblock row -->
+       <div class="row">
+         
+       <div class="col-md-6" style="margin-bottom: 1%">
+        <section>
+       <a class="articleheadline" href="/eveline-macdougall-april-19-60581711">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/21/49733321.jpg" alt="">
+       
+       Practical skills and spiritual nourishment: Seeds of Solidarity Farm and Education Center offers workshops</a>
+         <div style="align:right;"> 04-18-2025 9:22 AM</div>
+<!--         <p> -->
+        </section>
+       </div>
+     
+         
+         
+       <div class="col-md-6" style="margin-bottom: 1%">
+        <section>
+       <a class="articleheadline" href="/valley-bounty-april-19-60670454">
+       
+<img class="img-fluid" style="float:left; padding-right: 1%;" src="/attachments/12/49731512.jpg" alt="">
+       
+       Valley Bounty: Keeping that farming romance alive: Cara and Michael Zueger run Free Living Farm in Petersham</a>
+         <div style="align:right;"> 04-18-2025 9:21 AM</div>
+<!--         <p> -->
+        </section>
+       </div>
+     
+     <!-- end of artsblock rows -->
+   </div>
+ </div>
+
+ <div class="col-md-3" style="margin-bottom: 1%; border-left: solid lightgrey 1px; ">
+   
+<a target="_blank" href="https://local.atholdailynews.com/" class="articleheadline">Local Advertisers</a>
+
+<script type="text/javascript" src="https://local.atholdailynews.com/places/widget/js:1/type:300x250"></script>
+
+
+   
+
+   
+     <div class="col-xs-12" style="text-align:center; margin-top:1%;">
+	
+       <div class="adunit 300x250 center-block" id="V2-Home-300x250-Bottom" data-dimensions="300x250" data-targeting='{"page_name":"Homepage","section":"Home&"}'></div>
+     </div>
+   
+
+ </div>
+
+</div>
+
+ 
+
+	
+<div class="row"  style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+    
+    <h1><a class="articlebigheadline" style="padding: 8px; " href="/obits">Obituaries</a></h1>
+    
+   
+   
+     <!-- start of individual obit -->
+     <div class="articleblock" style=" padding: 1%;">
+        <section>
+     <a class="articleheadline" href="http://www.legacy.com/Link.asp?I=LS000208941488" aria-label="Open Obit detail for Dale A. Berry in new tab" target="_blank">
+     
+     <img style="float: left; margin-right: 2%; width:100%; max-width:150px;" src="https://cache.legacy.com/legacy/images/Cobrands/atholdailynews/Photos/W0032059-1_20250415.jpg" alt="Obit photo for Dale A. Berry">
+     
+     Dale A. Berry</a> 
+     <div style="align:right;"> </div>
+     <p>
+
+   Greenfield, MA - Dale A. Berry, 82 passed on February 27th 2025 of an
+   illness at Baystate Franklin hospital. Born in Lyndonville, Vermont on
+   September 25th 1942 to Maynard and Arlene (Jesseman) Berry. He was one
+   of 11 brothers and siste...  <a aria-label="Open Obit detail for Dale A. Berry in new tab" href="http://www.legacy.com/Link.asp?I=LS000208941488" target="_blank">remainder of obit for Dale A. Berry</a>
+        </section>
+     </div>
+   
+     <!-- start of individual obit -->
+     <div class="articleblock" style=" padding: 1%;">
+        <section>
+     <a class="articleheadline" href="http://www.legacy.com/Link.asp?I=LS000208929810" aria-label="Open Obit detail for Barbara A. Bacigalupo-Sawicki in new tab" target="_blank">
+     
+     <img style="float: left; margin-right: 2%; width:100%; max-width:150px;" src="https://www.legacy.com/obituaries/images/premiumobit/premiumobit_candle.jpg" alt="Obit photo for Barbara A. Bacigalupo-Sawicki">
+     
+     Barbara A. Bacigalupo-Sawicki</a> 
+     <div style="align:right;"> </div>
+     <p>
+
+   ERVING, MA - Barbara A. Bacigalupo-Sawicki, 57, of North Street, died
+   early Thursday morning, April 10, 2025 at Baystate Medical Center in
+   Springfield.
+
+   Born in Montague on May 13, 1967, she was the daughter of Daniel E.
+   and Minnie E...  <a aria-label="Open Obit detail for Barbara A. Bacigalupo-Sawicki in new tab" href="http://www.legacy.com/Link.asp?I=LS000208929810" target="_blank">remainder of obit for Barbara A. Bacigalupo-Sawicki</a>
+        </section>
+     </div>
+   
+     <!-- start of individual obit -->
+     <div class="articleblock" style=" padding: 1%;">
+        <section>
+     <a class="articleheadline" href="http://www.legacy.com/Link.asp?I=LS000208922311" aria-label="Open Obit detail for Irene A. Cullen in new tab" target="_blank">
+     
+     <img style="float: left; margin-right: 2%; width:100%; max-width:150px;" src="https://cache.legacy.com/legacy/images/Cobrands/atholdailynews/Photos/W0031998-1_20250411.jpg" alt="Obit photo for Irene A. Cullen">
+     
+     Irene A. Cullen</a> 
+     <div style="align:right;"> </div>
+     <p>
+
+   Templeton, MA - Irene Annie (Pietrowsky) Cullen, went home to be with
+   the Lord on March 29, 2025, at Alliance Health at Baldwinville, in
+   Templeton, MA. Irene was born on May 14, 1932, in Athol, MA to Walter
+   and Mary (Szymcik) Pietrowsky...  <a aria-label="Open Obit detail for Irene A. Cullen in new tab" href="http://www.legacy.com/Link.asp?I=LS000208922311" target="_blank">remainder of obit for Irene A. Cullen</a>
+        </section>
+     </div>
+   
+     <!-- start of individual obit -->
+     <div class="articleblock" style=" padding: 1%;">
+        <section>
+     <a class="articleheadline" href="http://www.legacy.com/Link.asp?I=LS000208914579" aria-label="Open Obit detail for Cicely M. Sawin in new tab" target="_blank">
+     
+     <img style="float: left; margin-right: 2%; width:100%; max-width:150px;" src="https://cache.legacy.com/legacy/images/Cobrands/atholdailynews/Photos/W0031968-1_20250410.jpg" alt="Obit photo for Cicely M. Sawin">
+     
+     Cicely M. Sawin</a> 
+     <div style="align:right;"> </div>
+     <p>
+
+   TURNERS FALLS, MA - Cicely M. Sawin, 48, of J Street, died on Tuesday,
+   April 1, 2025 at Baystate Medical Center in Springfield following an
+   illness.
+
+   Born in Greenfield on February 13, 1977, she was the daughter of Larry
+   and Sharon (...  <a aria-label="Open Obit detail for Cicely M. Sawin in new tab" href="http://www.legacy.com/Link.asp?I=LS000208914579" target="_blank">remainder of obit for Cicely M. Sawin</a>
+        </section>
+     </div>
+   
+</div>
+
+
+
+	<!-- event block -->
+
+	<div class="row"  style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+
+<table border=0 width=100%>
+<tr>
+<td>
+  
+      <h1><a class="articlebigheadline" href="/events">Events</a></h1>
+  
+</td>
+</tr>
+<tr>
+<td valign=top>
+<div data-cswidget="11496" style="width:100%;"> 
+<script type="text/javascript" async defer src="//cdn.cityspark.com/wid/get.js" > </script>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- end of event block -->
+
+	<div class="row"  style="margin-top: 1%; border-top-style: solid; border-width: 1px">
+	</div>
+
+	</div>
+
+	<!-- ===================================================================================================================== -->
+<!-- HOME TALL SECTIONS COPY BELOW HERE  -->
+<!-- ===================================================================================================================== -->
+<!--
+<head>
+<style>
+a {color:black;text-decoration:none;}
+a:hover {color:steelblue;}
+</style>
+</head>
+-->
+
+
+
+<!-- ===================================================================================================================== -->
+<!-- HOME CONTRIBUTE COPY BELOW HERE  -->
+<!-- ===================================================================================================================== -->
+
+<!--
+<head>
+<style>
+a {color:black;text-decoration:none;}
+a:hover {color:steelblue;}
+</style>
+</head>
+-->
+
+<h2>Contribute</h2>
+
+
+<a style="margin-right:1%; color:white!important; text-decoration-line:none; font-size:14px!important;" class="open-button" target="_blank" href="https://placead.nne.media/obits/adn/index.html">
+Submit Obituary
+</a>
+
+
+<a style="margin-right:1%; color:white!important; text-decoration-line:none; font-size:14px!important;" class="open-button" target="_blank" href="/submit-a-tip">
+Submit News Tip
+</a>
+
+
+
+
+<button class="open-button" onclick="openLTForm()">Submit Letter to the Editor</button>
+<div class="form-popup" id="letterform">
+  <form id="submit_letter" action="/letter_form" class="form-container" method="post">
+    <div class="row" style="padding: 2%;">
+    <h2>Submit Letter to the Editor</h2>
+
+    <label for="firstname">First Name</label>
+    <input type="text" id="firstname" name="firstname" placeholder="Your first name" maxlength="50" required>
+
+    <label for="lastname">Last Name</label>
+    <input type="text" id="lastname" name="lastname" placeholder="Your middle name and last name" maxlength="50" required>
+
+    <label for="citystate">City, ST</label>
+    <input type="text" id="citystate" name="citystate" placeholder="Your city and state" maxlength="50" required>
+
+    <label for="headline">Headline</label>
+    <input type="text" id="headline" name="headline" placeholder="The headline you would like with your letter" maxlength="100" required>
+
+    <label for="letter">Letter (maximum 250 words)</label>
+    <textarea style="width: 100%; height: 20vmin; margin-bottom:1%;" type="text" id="letter" name="letter" placeholder="Your letter" required>
+    </textarea>
+
+    <div style="border: 1px solid">
+
+    <h3>Your contact info</h3>
+    <p>In case we need to contact you - we do not publish these in print or online
+    <p>
+    <label for="streetaddress">Street Address</label>
+    <input type="text" id="streetaddress" name="streetaddress" placeholder="Your street address" maxlength="80" required>
+
+    <label for="phone">Your phone number with area code</label>
+    <input type="tel" id="phone" name="phone" placeholder="(603)555-1212" maxlength="20" required>
+
+    <label for="email">E-mail</label>
+    <input type="email" id="email" name="email" placeholder="Your email address" maxlength="50" required>
+
+    <input type="hidden" name="canary" value="">
+    </div>
+
+    </div>
+
+    <button class="btn g-recaptcha" data-sitekey="6LeUgl0pAAAAALpPmy1PPpFXkXnfWUbQ4ebSxcKd" data-callback='onLTSubmit' data-action='submit'>Send</button>
+
+
+    <button type="button" class="btn cancel" onclick="closeLTForm()">Cancel</button>
+  </form>
+</div>
+
+<script>
+function openLTForm() {
+  document.getElementById("letterform").style.display = "block";
+}
+
+function closeLTForm() {
+  document.getElementById("letterform").style.display = "none";
+}
+</script>
+
+
+
+<!--
+<button style="font-size:9pt;">News and Announcements</button>
+--><div style="height:10px;"></div>
+<div style="width:100%;height:2px;border-top:2px solid black;"></div>
+<div style="height:10px;"></div>
+
+      </div>
+
+	
+<!-- ===================================================================================================================== -->
+<!-- FOOTER COPY BELOW HERE  -->
+<!-- ===================================================================================================================== -->
+
+
+
+<div class="container-fluid" role="contentinfo">
+  <div class="row">
+  <div class="col-sm-4">
+
+<h1><img alt="Page footer: small Athol Daily News logo" src="/static/images/ADN/smalllogo.jpg" width="240px" /></h1>
+<br>14 Hope St
+<br>Suite 101
+<br>Greenfield, MA 01301
+<br>413-772-0261 
+ 
+<p>
+<ul>
+<li><a href="/Reader-Services/Terms-Of-Service">Terms &amp; Conditions</a>
+<li><a href="/Reader-Services/Privacy-Policy">Privacy Policy</a> 
+<li><a href="/Reader-Services/About-Us">About Us</a>
+<li><a href="/Reader-Services/Accessibility">Accessibility</a>
+</ul>
+</p>
+</div>
+<div class="col-sm-4">
+
+<h2>Circulation Customer Service</h2>
+<ul>
+<li>413-774-2741</li>
+<li>circulation@atholdailynews.com</li>
+<ul>
+<h2>Social Media</h2>
+<ul>
+<li><a target="_blank" href="https://www.facebook.com/atholdailynews/">Facebook</a></li>
+<li><a target="_blank" href="https://twitter.com/atholdailynews/">X/Twitter</a></li>
+</ul>
+
+</div>
+<div class="col-sm-4">
+<h2>The Newspapers of New England Family</h2>
+<ul>
+<li><a href="http://www.amherstbulletin.com">Amherst Bulletin</a></li>
+<li><a href="http://www.atholdailynews.com">Athol Daily News</a></li>
+<li><a href="http://www.concordmonitor.com">Concord Monitor</a></li>
+<li><a href="http://www.gazettenet.com">Daily Hampshire Gazette</a></li>
+<li><a href="http://www.recorder.com">Greenfield Recorder</a></li>
+<li><a href="http://www.ledgertranscript.com">Monadnock Ledger-Transcript</a></li>
+<li><a href="http://www.vnews.com">Valley News</a></li>
+<li><a href="http://www.valleyadvocate.com">Valley Advocate</a></li>
+<li><a href="https://www.theconcordinsider.com/">The Concord Insider</a></li>
+<li><a href="https://www.aroundconcord.com/">Around Concord</a></li> 
+<li><a href="http://www.nnedigital.com">NNEdigital</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+    
+  <!-- weatherbug start -->
+  
+  <!-- weatherbug end -->
+  
+
+<div class="row">
+<div style="text-align:center;width:100%;">
+<p>By using this site, you agree with our use of cookies to personalize your experience, measure ads and monitor how our site works to improve it for our users</p>
+
+<p>Copyright &copy; 2023 to 2025_ by Newspapers of Massachusetts, Inc. All rights reserved.
+
+</div>
+</div>
+<!-- ===================================================================================================================== -->
+<!-- FOOTER COPY BELOW HERE  -->
+<!-- ===================================================================================================================== -->
+
+<!-- End Nav more Modal -->
+
+
+<!-- Tecnavia Paywall Script at End of Page -->
+<script type="text/javascript" src="https://atholdailynews-ma-pw.newsmemory.com/?meter&v=8"  async></script>
+
+
+
+  
+<!-- DFP Invocation Script-->
+    <script src="/CMSScripts/Custom/dfp/dfp-jquery-ADN.js"></script>
+  
+
+
+<!-- ActiveCampaign -->
+<script type="text/javascript">
+    (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+    vgo('setAccount', '225377893');
+    vgo('setTrackByDefault', true);
+
+    vgo('process');
+</script>
+
+
+<!-- Chartbeat -->
+<script type='text/javascript'>
+    (function() {
+        /** CONFIGURATION START **/
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+        _sf_async_config.uid = 62369; //CHANGE THIS TO YOUR ACCOUNT ID
+        _sf_async_config.domain = 'atholdailynews.com'; //CHANGE THIS TO YOUR SITE ID
+        _sf_async_config.useCanonical = true;
+_sf_async_config.useCanonicalDomain = true;
+        _sf_async_config.sections = ''; //SET PAGE SECTION(S)
+        _sf_async_config.authors = ''; //SET PAGE AUTHOR(S)
+        /** CONFIGURATION END **/
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            var n = document.getElementsByTagName('script')[0];
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = '//static.chartbeat.com/js/chartbeat.js';
+            n.parentNode.insertBefore(e, n);
+        }
+        loadChartbeat();
+     })();
+</script>
+
+<!-- log what tecnavia knows about this page request -->   
+<script type="text/javascript">
+  async function fetchAsync(url) {
+    let response = await fetch(url);
+    let data = await response;
+    return data
+  }
+  function notifystat() {
+    var nne_type;
+    var nne_taus;
+    if (typeof ta_userSubscription !== 'undefined') {
+      nne_taus = ta_userSubscription;
+    } 
+    if (typeof ta_userSubscriptions !== 'undefined') {
+      nne_taus = ta_userSubscriptions;
+    }
+    if (typeof nne_taus !== 'undefined') {
+      if (ta_isFromAllowedIp) {
+        nne_type = 'ALLOWEDIP';
+      }	
+      else {
+        var nne_type_array = ta_getValue(nne_taus, pSKValue).split(',');
+        if (nne_type_array.includes('SUBSCRIBER')) {
+	  nne_type = 'SUBSCRIBER';
+        }
+        else if (nne_type_array.includes('REGISTERED')) {
+          nne_type = 'REGISTERED';
+        }
+        else {
+          nne_type = 'ANONYMOUS';
+        }
+      }
+    }
+    else {
+      /* failed to get data from Tecnavia */
+      nne_type = 'TA_NA';
+    }
+    var nne_notifyurl = 'https://atholdailynews.com/statistics/home/' + nne_type + '-' + ta_cat;
+    var nne_notifydata = fetchAsync(nne_notifyurl); 
+    /* Don't actually care about what the result is, the action of fetching is what logs what we care about */
+  }
+  setTimeout(() => { notifystat(); }, 3000 );
+</script> 
+    
+<!--
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+-->
+
+
+
+
+  </body>
+</html>

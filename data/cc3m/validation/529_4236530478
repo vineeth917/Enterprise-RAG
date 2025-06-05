@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<script type="text/javascript">
+/* <![CDATA[ */
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+/* ]]> */
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<style type="text/css">
+			.header-image .title-area, .header-image .title, .header-image .title a {
+				background: url("https://factoryexpohomes.com/resources/logos/PM_logo-lake-city.png") no-repeat scroll left top transparent !important;		
+				height: 98px !important;		
+				width: 340px !important;
+			}
+		</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/css/ie7.css" />
+	<![endif]-->
+    <!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/css/ie8.css" />
+	<![endif]-->    
+       
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>New Factory Direct Park Model Homes for Sale from $51,900!</title>
+	<meta name="description" content="Factory Located - New Park Model RV&#039;s for Sale shipping to Florida &amp; Georgia - Factory Tours Daily - View Models on Sale." />
+	<link rel="canonical" href="https://lc.parkmodelsdirect.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Champion Homes Center" />
+	<meta property="og:description" content="Factory Located - New Park Model RV&#039;s for Sale shipping to Florida &amp; Georgia - Factory Tours Daily - View Models on Sale." />
+	<meta property="og:url" content="https://lc.parkmodelsdirect.com/" />
+	<meta property="og:site_name" content="Champion Homes Center" />
+	<meta property="og:image" content="https://lc.parkmodelsdirect.com/wp-content/uploads/2025/04/champion-homes-center-share.jpg" />
+	<meta property="og:image:width" content="1080" />
+	<meta property="og:image:height" content="600" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://lc.parkmodelsdirect.com/","url":"https://lc.parkmodelsdirect.com/","name":"New Factory Direct Park Model Homes for Sale from $51,900!","isPartOf":{"@id":"https://lc.parkmodelsdirect.com/#website"},"about":{"@id":"https://lc.parkmodelsdirect.com/#organization"},"description":"Factory Located - New Park Model RV's for Sale shipping to Florida & Georgia - Factory Tours Daily - View Models on Sale.","breadcrumb":{"@id":"https://lc.parkmodelsdirect.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://lc.parkmodelsdirect.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://lc.parkmodelsdirect.com/#website","url":"https://lc.parkmodelsdirect.com/","name":"Champion Homes Center","description":"Park Model RV Homes National Dealer","publisher":{"@id":"https://lc.parkmodelsdirect.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://lc.parkmodelsdirect.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://lc.parkmodelsdirect.com/#organization","name":"Park Models Direct","url":"https://lc.parkmodelsdirect.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://lc.parkmodelsdirect.com/#/schema/logo/image/","url":"https://lc.parkmodelsdirect.com/wp-content/uploads/2020/06/ParkModelsDirect_logo-color.png","contentUrl":"https://lc.parkmodelsdirect.com/wp-content/uploads/2020/06/ParkModelsDirect_logo-color.png","width":693,"height":247,"caption":"Park Models Direct"},"image":{"@id":"https://lc.parkmodelsdirect.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ParkModelsDirect/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Champion Homes Center &raquo; Feed" href="https://lc.parkmodelsdirect.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Champion Homes Center &raquo; Comments Feed" href="https://lc.parkmodelsdirect.com/comments/feed/" />
+<link rel='stylesheet' id='factory-expo-home-centers-css' href='https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/style.css?ver=2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://lc.parkmodelsdirect.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://lc.parkmodelsdirect.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://lc.parkmodelsdirect.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='view_editor_gutenberg_frontend_assets-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/public/css/views-frontend.css?ver=3.6.19' type='text/css' media='all' />
+<style id='view_editor_gutenberg_frontend_assets-inline-css' type='text/css'>
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='color-css-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/expo-customize/css/color.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='promotions-css-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/expo-promotions/css/promotions.css?ver=250421' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-share-main-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/simple-social-share/css/style.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='brb-public-main-css-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/business-reviews-bundle/assets/css/public-main.css?ver=1.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty_photo_css-css' href='https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/css/prettyPhoto.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcode-css-css' href='https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/include/shortcodes/shortcode.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mobile-css-css' href='https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/css/mobile.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css-css' href='https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/css/flexslider.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css' href='https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/css/custom.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.12.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-instance-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/css/style-curvy-black.css?ver=4.12.7' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-overrides-css-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/vendor/toolset/toolset-theme-settings/res/css/themes/genesis-overrides.css?ver=1.5.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css' href='//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-featherlight-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.4' type='text/css' media='all' />
+<!--n2css--><!--n2js--><script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/vendor/toolset/common-es/public/toolset-common-es-frontend.js?ver=175000" id="toolset-common-es-frontend-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"1","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"ccpa_gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#000000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#1e73be","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#3566bb","button_3_button_hover":"#2a5296","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"1","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/lc.parkmodelsdirect.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.2.10" id="cookie-law-info-js"></script>
+<script type="text/javascript" id="cookie-law-info-ccpa-js-extra">
+/* <![CDATA[ */
+var ccpa_data = {"opt_out_prompt":"Do you really wish to opt out?","opt_out_confirm":"Confirm","opt_out_cancel":"Cancel"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/cookie-law-info/legacy/admin/modules/ccpa/assets/js/cookie-law-info-ccpa.js?ver=3.2.10" id="cookie-law-info-ccpa-js"></script>
+<script type="text/javascript" defer="defer" src="https://lc.parkmodelsdirect.com/wp-content/plugins/business-reviews-bundle/assets/js/public-main.js?ver=1.9.6" id="brb-public-main-js-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery-easing.js?ver=1.3" id="jquery_easing_js-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery.isotope.min.js?ver=1.5.25" id="jquery_isotope_min_js-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery.prettyPhoto.js?ver=3.1.5" id="jquery_prettyphoto_js-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery.ScrollTo.min.js?ver=1.4.3.1" id="jQuery_ScrollTo_min_js-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery_custom.js?ver=6.8" id="custom_js-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery.mobilemenu.js?ver=6.8" id="jquery_mobile-js"></script>
+<link rel="https://api.w.org/" href="https://lc.parkmodelsdirect.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lc.parkmodelsdirect.com/xmlrpc.php?rsd" />
+<link rel="icon" href="https://factoryexpohomes.com/resources/favicons/PM_favicon-lake-city.png" />
+<link rel="pingback" href="https://lc.parkmodelsdirect.com/xmlrpc.php" />
+				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+				<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+				<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" media="all" />
+				<style type="text/css" media="screen">.zp_social_icons {  overflow: hidden;  }    .zp_social_icons .alignleft, .zp_social_icons .alignright {  margin: 0; padding: 0;  }  .zp_social_icons ul li {  float: left;  list-style-type: none !important;  padding: 0 !important;  border: medium none;  }  .zp_social_icons ul li a {  -webkit-box-sizing: border-box;  -moz-box-sizing: border-box;  box-sizing: border-box;  background-color: transparent !important;  color: #FFF !important;  font-style: normal;  display: block;  font-family: "socialicoregular";  font-size: 20px;  height: 40px;  line-height: 1;  margin: 2px 2px;  opacity: 1;  overflow: hidden;  padding: 10px 0 0;  text-align: center;  vertical-align: bottom;  width: 40px;  transition: all 0s ease 0s;  text-shadow: none !important;  }  .zp_social_icons ul li a:hover {  color: #CCC !important;  }  /* tooltip CSS  -------------------------------------------------------------*/    #tiptip_holder {  background: url(https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/include/widgets/images/bg-popup.png) no-repeat scroll 12px bottom;  display: block;  left: -17px;  padding: 0 0 20px;  position: absolute;  top: 19px;  z-index: 99999;  }  #tiptip_holder.tip_top {  padding-bottom: 5px;  }  #tiptip_holder.tip_bottom {  padding-top: 5px;  }  #tiptip_holder.tip_right {  padding-left: 5px;  }  #tiptip_holder.tip_left {  padding-right: 5px;  }  #tiptip_content {  font-size: 11px;  color: #fff;  padding: 2px 8px;  background-color: #46494A;  }  #tiptip_arrow, #tiptip_arrow_inner {  position: absolute;  height: 0;  width: 0;  }  #tiptip_holder.tip_top #tiptip_arrow {  border-top-color: #fff;  border-top-color: rgba(255, 255, 255, 0.35);  }  #tiptip_holder.tip_bottom #tiptip_arrow {  border-bottom-color: #fff;  border-bottom-color: rgba(255, 255, 255, 0.35);  }  #tiptip_holder.tip_right #tiptip_arrow {  border-right-color: #fff;  border-right-color: rgba(255, 255, 255, 0.35);  }  #tiptip_holder.tip_left #tiptip_arrow {  border-left-color: #fff;  border-left-color: rgba(255, 255, 255, 0.35);  }  #tiptip_holder.tip_top #tiptip_arrow_inner {  margin-top: -7px;  margin-left: -6px;  border-top-color: rgb(102,102,102);  border-top-color: rgba(102, 102, 102, 0.92);  }  #tiptip_holder.tip_bottom #tiptip_arrow_inner {  margin-top: -5px;  margin-left: -6px;  border-bottom-color: rgb(102,102,102);  border-bottom-color: rgba(102, 102, 102, 0.92);  }  #tiptip_holder.tip_right #tiptip_arrow_inner {  margin-top: -6px;  margin-left: -5px;  border-right-color: rgb(102,102,102);  border-right-color: rgba(102, 102, 102, 0.92);  }  #tiptip_holder.tip_left #tiptip_arrow_inner {  margin-top: -6px;  margin-left: -7px;  border-left-color: rgb(102,102,102);  border-left-color: rgba(102, 102, 102, 0.92);  }  #tiptip_content:after{  background: #fff;  }  .zp_social_icons ul li.social-dribble a {  background-color: #F14280;  }  .zp_social_icons ul li.social-behance a {  background-color: #319DD4;  }  .zp_social_icons ul li.social-facebook a {  background-color: #3C5A98;  }  .zp_social_icons ul li.social-gplus a {  background-color: #D94A3A;  }  .zp_social_icons ul li.social-linkedin a {  background-color: #007BB6;  }  .zp_social_icons ul li.social-deviantart a {  background-color: #9DA79D;  }  .zp_social_icons ul li.social-twitter a {  background-color: #2DAAE2;  }  .zp_social_icons ul li.social-vimeo a {  background-color: #52B6EC;  }  .zp_social_icons ul li.social-pinterest a {  background-color: #D62229;  }  .zp_social_icons ul li.social-flickr a {  background-color: #0063D6;  }  .zp_social_icons ul li.social-tumblr a {  background-color: #007BB6;  }  .zp_social_icons ul li.social-youtube a {  background-color: #F14280;  }  </style> <script> window.addEventListener("load",function(){ var c={script:false,link:false}; function ls(s) { if(!['script','link'].includes(s)||c[s]){return;}c[s]=true; var d=document,f=d.getElementsByTagName(s)[0],j=d.createElement(s); if(s==='script'){j.async=true;j.src='https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/vendor/toolset/blocks/public/js/frontend.js?v=1.6.15';}else{ j.rel='stylesheet';j.href='https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css?v=1.6.15';} f.parentNode.insertBefore(j, f); }; function ex(){ls('script');ls('link')} window.addEventListener("scroll", ex, {once: true}); if (('IntersectionObserver' in window) && ('IntersectionObserverEntry' in window) && ('intersectionRatio' in window.IntersectionObserverEntry.prototype)) { var i = 0, fb = document.querySelectorAll("[class^='tb-']"), o = new IntersectionObserver(es => { es.forEach(e => { o.unobserve(e.target); if (e.intersectionRatio > 0) { ex();o.disconnect();}else{ i++;if(fb.length>i){o.observe(fb[i])}} }) }); if (fb.length) { o.observe(fb[i]) } } }) </script>
+	<noscript>
+		<link rel="stylesheet" href="https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css">
+	</noscript>			            <style>
+				            
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+						font-size: 0px !important;
+						color: rgba(0, 0, 0, 0);
+					}
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+						font-size: 11px !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						z-index: 1;
+					}
+					.asl_w_container {
+						width: 100%;
+						margin: 0px 0px 0px 0px;
+						min-width: 200px;
+					}
+					div[id*='ajaxsearchlite'].asl_m {
+						width: 100%;
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+						font-weight: bold;
+						color: rgba(217, 49, 43, 1);
+						background-color: rgba(238, 238, 238, 1);
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
+						width: 70px;
+						height: 70px;
+						object-fit: cover;
+					}
+					div.asl_r .results {
+						max-height: none;
+					}
+				
+						div.asl_m.asl_w {
+							border:2px solid rgb(0, 0, 0) !important;border-radius:0px 0px 0px 0px !important;
+							box-shadow: none !important;
+						}
+						div.asl_m.asl_w .probox {border: none !important;}
+					
+						div.asl_r.asl_w.vertical .results .item::after {
+							display: block;
+							position: absolute;
+							bottom: 0;
+							content: '';
+							height: 1px;
+							width: 100%;
+							background: #D8D8D8;
+						}
+						div.asl_r.asl_w.vertical .results .item.asl_last_item::after {
+							display: none;
+						}
+					 .asl_w_container {
+min-width: auto;
+}			            </style>
+			            <!-- Start Schema -->
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "additionalType": "http://www.productontology.org/doc/Manufactured_housing",
+  "name": "Champion Homes Center",
+  "url": "https://lc.parkmodelsdirect.com/",
+  "logo": "https://images.parkmodelsdirect.com/logos/lcpm-logo.svg",
+  "image": "https://images.parkmodelsdirect.com/logos/lcpm-logo.svg",
+  "telephone": "+1(800)965-0341",
+  "description": "Champion Homes Center in Lake City, Flordia sells mobile homes direct from the factory to you. We ship these homes to Flordia and Georgia. We offer many park model floor plans to choose from.",
+  "priceRange" : "$51,900 - $120,900",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1915A SE SR100",
+    "addressLocality": "Lake City",
+    "addressRegion": "FL",
+    "postalCode": "32025",
+    "addressCountry": "US",
+    "areaServed": ["FL", "GA"]
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.170929",
+    "longitude": "-82.578914"
+  },
+  "hasMap": "https://www.google.com/maps?ll=30.170929,-82.578914&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=2579405667534276308",
+  "openingHours": "Mo, Tu, We, Th, Fr 08:30-17:30, Sa 9:00-16:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Sales",
+    "telephone": "+1(800)965-0341",
+    "contactOption" : "TollFree"
+  }
+}
+ </script>
+<!-- End Schema --><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4460753-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4460753-11');
+gtag('config', 'AW-1071649122');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WCNSR7');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Start Bing Conversion Tracking Script 2020 place on all pages -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5189099"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+<!-- End Bing Conversion Tracking Script 2020 -->
+
+<!-- Start Google Adsense Code (Only show anchor ads on bottom of screen)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5221720986405494",
+    enable_page_level_ads: true,
+    overlays: {bottom: true}
+  });
+</script>
+<!-- End Google Adsense Code (Only show anchor ads on bottom of screen) -->		<style type="text/css" id="wp-custom-css">
+			.home .universalAdsenseSquare,
+.page-id-1355 .universalAdsenseSquare,
+.home .adsbygoogle,
+.page-id-1355 .adsbygoogle,
+.home #IL_INSEARCH,
+.page-id-1355 #IL_INSEARCH,
+.home .IL_BASE,
+.page-id-1355 .IL_BASE {
+	display: none !important;
+}
+.universalAdsenseSquare,
+.universalAdsenseHorizontal,
+.universalAdsenseVertical {
+	overflow: hidden;
+}
+
+.ginput_container_consent {
+  display: flex;
+  align-items: flex-start;
+}
+.ginput_container_consent input {
+  margin-top: 5px;
+  margin-right: 5px;
+}		</style>
+		</head>
+<body class="home blog wp-theme-genesis wp-child-theme-factoryexpo wp-featherlight-captions header-image sidebar-content genesis-breadcrumbs-hidden genesis-footer-widgets-visible">
+<div class="site-container">		<div class="utility-bar">
+				<div id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://parkmodelsdirect.com">Park Models Direct</a> | Shipping to: <strong><span>Florida, Alabama &amp; Georgia</span></strong>
+
+<div style="float:right;">
+	<a href="https://parkmodelsdirect.com">change state or location</a>
+</div>
+
+<style>
+  .utility-bar {
+		padding: 0 .5rem .5rem;
+	}
+	
+	.textwidget {
+		font-size: 12px;
+	}
+</style></div></div>		</div>
+	<header class="site-header"><div class="wrap"><div class="title-area"><h1 class="site-title"><a href="https://lc.parkmodelsdirect.com/">Champion Homes Center</a></h1><p class="site-description">Park Model RV Homes National Dealer</p></div><div class="widget-area header-widget-area"><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div class="headerContainer">
+	<div class="logoContainer">
+		<a href="/">
+				<img class="lazy lazy-hidden logoImage" alt="Logo" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://images.parkmodelsdirect.com/logos/lcpm-logo.svg" /><noscript><img class="logoImage" alt="Logo" src="https://images.parkmodelsdirect.com/logos/lcpm-logo.svg" /></noscript>
+		</a>
+	</div>
+	
+	<div class="leaderContainer">
+		<a href="/floorplan/berry-hill/">
+		<img class="lazy lazy-hidden leaderImage" alt="Berry Hill" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://images.parkmodelsdirect.com/leaders/lcpm-leader.png" /><noscript><img class="leaderImage" alt="Berry Hill" src="https://images.parkmodelsdirect.com/leaders/lcpm-leader.png" /></noscript>
+		</a>
+	</div>
+
+	<div class="headerTextContainer">
+		<div style="font-size:16px; color:black;">
+			<span style="white-space:nowrap; font-weight:700;">
+				BUY DIRECT AT THE FACTORY!
+			</span>
+			<span style="color:#dbdbdb;">|</span>
+			<span style="white-space:nowrap; font-weight:800;">
+				<a style="color:black;" href="tel:1-800-965-0341">1-800-965-0341</a>
+			</span>
+		</div>
+		
+		<div style="font-size:14px; color:#434343; padding-top:10px; padding-bottom:10px; font-weight:600; line-height:20px;">
+			<i>New Park Model RVs with <span style="white-space:nowrap;">Factory Direct Pricing</span></i>
+		</div>
+	</div>
+	
+</div>
+
+<style>
+	.site-header .widget-area {
+    float: none;
+    text-align: right;
+    width: inherit;
+	}
+	
+	.title-area {
+		display: none;
+	}
+	
+	.headerContainer {
+		display: flex;
+	}
+	
+	.headerTextContainer, .logoContainer {
+		padding-top: 20px;
+	}
+	
+	.headerTextContainer {
+		align-self: center;
+	}
+	.logoContainer {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		min-height: 102px;
+	}
+	.logoImage {
+		width: 220px;
+	}
+	
+	.leaderContainer {
+		padding-top: 15px;
+		padding-left:10px;
+		padding-right:10px;
+		margin:auto;
+	}
+	
+	.leaderImage {
+		width: 203px;
+		vertical-align: text-top;
+	}
+	
+	.content {
+		width: 887px;
+	}
+	
+	.home .site-inner, .site-inner {
+		border: none;
+	}
+	
+	.nav-primary {
+		line-height: 0px;
+    text-align: center;
+	}
+	
+	.nav-primary .wrap {
+		display: inline-block;
+	}
+	
+	@media only screen and (max-width: 1024px) {
+		.header-image .title-area {
+    display: none !important;
+    width: 100% !important;
+    background-position: center !important;
+		}
+		
+		.site-header .widget-area {	 
+ 			text-align: right !important; 
+ 		} 
+		
+		.sidebar-content .sidebar-primary {
+    	width: 20%;
+		}
+		
+		.sidebar-content .content {
+			width: 80%;
+		}
+		
+		.content {
+			padding-top: 0px;
+			padding-right: 0px;
+		}
+		
+		.wrap {
+			width: auto;
+		}
+}
+
+@media only screen and (max-width: 1000px) {
+	.nav-primary {
+		background: #f5f5f4;
+		margin: auto;
+    margin-bottom: 20px;
+		width: 94%;
+		float: none;
+	}
+	
+	.nav-primary ul {
+		display: none;
+	}
+	
+	.nav-primary .select-menu {
+		border: 1px solid #CCC;
+		display: block;
+		margin: 0 auto;
+	}
+	
+	.wrap {
+			width: 100%;
+		}
+}
+	
+@media only screen and (max-width: 865px) {
+		.site-header .widget-area {	 
+ 			text-align: center !important; 
+ 		} 	
+	
+		.headerContainer {
+			display: block;
+		}
+	
+		.logoContainer {
+			width: 50%;
+    	float: left;
+			margin: auto;
+		}
+	
+		.leaderContainer   {
+			width: 50%;
+			float: right;
+			padding-top: 20px;
+			padding-right: 0px;
+			padding-left: 0px;
+		}
+	
+		.headerTextContainer {
+			width: 100%;
+			float: left;
+			margin: auto;
+		}
+	
+		.sidebar-content .sidebar-primary {
+    	width: 50%;
+			float: none;
+			margin: auto;
+			display: block;
+		}
+		
+		.sidebar-content .content {
+			width: 100%;
+		}
+	
+		.content {
+			padding: 0px;
+		}
+}
+	
+@media only screen and (max-width: 600px) {
+	.sidebar-content .sidebar-primary {
+    	width: 100%;
+			float: none;
+			margin: auto;
+			display: block;
+		}
+}
+	
+@media only screen and (max-width: 450px) {
+	.logoContainer, .leaderContainer, .headerTextContainer  {
+		width: 100%;
+		float: none;
+	}
+	.logoContainer {
+    min-height: auto;
+	}
+	.leaderContainer {
+		padding-top: 30px;	
+	}
+	
+	.promoMore {
+		font-size: 18px;
+	}
+}
+</style>
+</div></div></section>
+</div></div></header><nav class="nav-primary" aria-label="Main"><div class="wrap"><ul id="menu-primary-navigation" class="menu genesis-nav-menu menu-primary"><li id="menu-item-7073" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7073"><a href="https://lc.parkmodelsdirect.com/" aria-current="page"><span >Home</span></a></li>
+<li id="menu-item-7103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7103"><a href="https://lc.parkmodelsdirect.com/floor-plans-clearance-park-models/"><span >Floor Plans &#038; Inventory</span></a></li>
+<li id="menu-item-7074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7074"><a href="https://lc.parkmodelsdirect.com/factory-expo-park-models-woodburn-oregon/"><span >About Us</span></a></li>
+<li id="menu-item-7079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7079"><a href="https://lc.parkmodelsdirect.com/park-model-photo-gallery/"><span >Gallery</span></a></li>
+<li id="menu-item-7078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7078"><a href="https://lc.parkmodelsdirect.com/mobile-home-loans-lenders/"><span >Loans &#038; Lenders</span></a></li>
+<li id="menu-item-7102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7102"><a href="https://lc.parkmodelsdirect.com/factory-expo-customer-reviews/"><span >Reviews</span></a></li>
+<li id="menu-item-7077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7077"><a href="https://lc.parkmodelsdirect.com/frequently-asked-questions/"><span >FAQ</span></a></li>
+<li id="menu-item-7075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7075"><a href="https://lc.parkmodelsdirect.com/contact-us/"><span >Contact</span></a></li>
+<li id="menu-item-7081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7081"><a href="https://lc.parkmodelsdirect.com/park-models-on-sale/"><span >Models on Sale</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><main class="content"> 
+	<div class="home-top">
+		<div class="widget-area">
+			<div class="widget">
+				<div id="wp_views-3" class="widget widget_wp_views">
+
+
+
+	
+	
+	
+
+</div><div id="wp_views-2" class="widget widget_wp_views">
+
+
+<div id="wpv-view-layout-7056" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-7056" data-viewnumber="7056" data-pagination="{&quot;id&quot;:&quot;7056&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:&quot;500&quot;,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:&quot;1&quot;,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://expohomes.org/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=7056&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=7056">
+
+	
+	<!-- wpv-loop-start -->
+	
+		<div class="promoContainer promoContainer-april">
+  <div class="promoHeaderContainer">
+    <img decoding="async" class="lazy lazy-hidden promoTitle" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/promos/april/april-title.png" /><noscript><img decoding="async" class="lazy lazy-hidden promoTitle" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/promos/april/april-title.png" /><noscript><img decoding="async" class="promoTitle" src="https://factoryexpohomes.com/resources/promos/april/april-title.png" /></noscript></noscript>
+    
+    
+    <img decoding="async" class="lazy lazy-hidden promoTitleDate" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/promos/april/april-date-2.png" /><noscript><img decoding="async" class="lazy lazy-hidden promoTitleDate" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/promos/april/april-date-2.png" /><noscript><img decoding="async" class="promoTitleDate" src="https://factoryexpohomes.com/resources/promos/april/april-date-2.png" /></noscript></noscript>
+    
+  </div>
+  <div class="promoHeroContainer">
+    <img decoding="async" class="lazy lazy-hidden promoHero promoHero-april" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/heroes/lcpm/lcpm-active.jpg" /><noscript><img decoding="async" class="lazy lazy-hidden promoHero promoHero-april" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/heroes/lcpm/lcpm-active.jpg" /><noscript><img decoding="async" class="promoHero promoHero-april" src="https://factoryexpohomes.com/resources/heroes/lcpm/lcpm-active.jpg" /></noscript></noscript>
+  </div>
+  <div class="promoBody">
+
+
+<div id="wpv-view-layout-7057" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-7057" data-viewnumber="7057" data-pagination="{&quot;id&quot;:&quot;7057&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:&quot;500&quot;,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:&quot;1&quot;,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://expohomes.org/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:0,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=7057&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:&#091;&#093;,&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=7057">
+
+	
+	
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	
+		
+		<tr>
+			<td>
+				<div class="promoFloorplan">
+  <div style="display: flex; flex-wrap: wrap-reverse;">
+    <div>
+      <h3 class="promoFloorplanTitle promoFloorplanTitle-april"><a href="https://lc.parkmodelsdirect.com/floorplan/berry-hill/">Berry Hill</a></h3>
+      <h3 class="promoFloorplanSpecs promoFloorplanSpecs-april">1 Bed · 1 Bath ·
+      
+      389 SqFt
+      
+      
+      </h3>
+    </div>
+    <div style="margin: 0 0 0 auto; line-height: 22px;">
+      
+      
+    </div>
+  </div>
+  
+  <div class="promoFloorplanImg">
+    <a href="https://lc.parkmodelsdirect.com/floorplan/berry-hill/">
+      
+      	
+      
+      <!--<a href="[types field='floorplan-image-field' output='raw'][/types]">-->
+      <img decoding="async" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://images.fbhexpo.com/locations/lcpm/floorplans/Berry-Hill.png" alt="Berry Hill Park Model " title="Berry Hill Park Model " class="lazy lazy-hidden attachment-full aligncenter" /><noscript><img decoding="async" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://images.fbhexpo.com/locations/lcpm/floorplans/Berry-Hill.png" alt="Berry Hill Park Model " title="Berry Hill Park Model " class="lazy lazy-hidden attachment-full aligncenter" /><noscript><img decoding="async" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://images.fbhexpo.com/locations/lcpm/floorplans/Berry-Hill.png" alt="Berry Hill Park Model " title="Berry Hill Park Model " class="lazy lazy-hidden attachment-full aligncenter" /><noscript><img decoding="async" src="https://images.fbhexpo.com/locations/lcpm/floorplans/Berry-Hill.png" alt="Berry Hill Park Model " title="Berry Hill Park Model " class="attachment-full aligncenter" /></noscript></noscript></noscript>
+      <!--</a>-->
+      
+      </a>
+  </div>
+  
+  
+  <div class="promoFloorplanFooterContainer">
+    <div class="promoFloorplanPriceContainer">
+      
+      
+        
+          <div class="promoFloorplanWas promoFloorplanWas-april">
+            SPECIAL VALUE
+          </div>
+          <div class="promoFloorplanNow promoFloorplanNow-april">
+            Now $51,900!
+          </div>
+        
+        
+      
+    </div>
+    
+    <div class="promoFloorplanBtnContainer promoFloorplanBtnContainer-april" >
+      <a class="promoFloorplanDetailsBtn promoFloorplanDetailsBtn-april" href="https://lc.parkmodelsdirect.com/floorplan/berry-hill/">VIEW DETAILS</a>
+    </div>
+  </div>
+</div>
+			</td>
+		
+			<td></td>
+		</tr>
+	
+	</table>
+	
+	
+	
+</div></div>
+  <div class="promoMore promoMore-april">
+    <span style="white-space:nowrap;">More Homes On Sale &#8211; </span>
+    <span>Call <a style="white-space:nowrap;" href="tel:1-800-965-0341">1-800-965-0341</a> for Details</span>
+  </div>
+  <div class="promoEnds promoEnds-april">SALE ENDS Wednesday, <span style="white-space:nowrap;">April 30th,</span> 2025</div>
+  <div class="promoBottom promoBottom-april">Ask About Our Early Bird Discounts <span style="white-space:nowrap;">&#038; Free Factory Tour</span></div>
+</div>
+	
+	<!-- wpv-loop-end -->
+	
+	
+</div></div>			</div>
+		</div>
+	</div>
+<div id="home-middle-wrap">
+	<div class="home-middle widget-area">
+		<div id="custom_html-12" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><h1>
+	New Mobile Homes for sale in GA, AL and FL
+</h1>
+Champion Homes Center in Lake City Florida is your source for new mobile homes directly from the factory. By buying at the factory you'll save on your home purchase. We deliver these homes to Georgia, Alabama and Florida</div></div>	</div>
+	<div class="home-bottom widget-area">
+			</div>
+      
+</div>
+</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar"><section id="custom_html-24" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="padding-right: 4px; margin-bottom: 10px;">
+	<div class="asl_w_container asl_w_container_1">
+	<div id='ajaxsearchlite1'
+		 data-id="1"
+		 data-instance="1"
+		 class="asl_w asl_m asl_m_1 asl_m_1_1">
+		<div class="probox">
+
+	
+	<div class='prosettings' style='display:none;' data-opened=0>
+				<div class='innericon'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<polygon transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+				</svg>
+		</div>
+	</div>
+
+	
+	
+	<div class='proinput'>
+        <form role="search" action='#' autocomplete="off"
+			  aria-label="Search form">
+			<input aria-label="Search input"
+				   type='search' class='orig'
+				   tabindex="0"
+				   name='phrase'
+				   placeholder='Search here..'
+				   value=''
+				   autocomplete="off"/>
+			<input aria-label="Search autocomplete"
+				   type='text'
+				   class='autocomplete'
+				   tabindex="-1"
+				   name='phrase'
+				   value=''
+				   autocomplete="off" disabled/>
+			<input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+		</form>
+	</div>
+
+	
+	
+	<button class='promagnifier' tabindex="0" aria-label="Search magnifier">
+				<span class='innericon' style="display:block;">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<path d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+						C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+						c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+						c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+						z"/>
+				</svg>
+		</span>
+	</button>
+
+	
+	
+	<div class='proloading'>
+
+		<div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+			</div>
+
+			<div class='proclose'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+				 y="0px"
+				 width="12" height="12" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+				 xml:space="preserve">
+				<polygon points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+			</svg>
+		</div>
+	
+	
+</div>	</div>
+	<div class='asl_data_container' style="display:none !important;">
+		<div class="asl_init_data wpdreams_asl_data_ct"
+	 style="display:none !important;"
+	 id="asl_init_id_1"
+	 data-asl-id="1"
+	 data-asl-instance="1"
+	 data-asldata="ew0KCSJob21ldXJsIjogImh0dHBzOi8vbGMucGFya21vZGVsc2RpcmVjdC5jb20vIiwNCgkicmVzdWx0c3R5cGUiOiAidmVydGljYWwiLA0KCSJyZXN1bHRzcG9zaXRpb24iOiAiaG92ZXIiLA0KCSJpdGVtc2NvdW50IjogNSwNCgkiY2hhcmNvdW50IjogIDAsDQoJImhpZ2hsaWdodCI6IDAsDQoJImhpZ2hsaWdodHdob2xld29yZHMiOiAxLA0KCSJzaW5nbGVIaWdobGlnaHQiOiAwLA0KCSJzY3JvbGxUb1Jlc3VsdHMiOiB7DQoJCSJlbmFibGVkIjogMCwNCgkJIm9mZnNldCI6IDANCgl9LA0KCSJyZXN1bHRhcmVhY2xpY2thYmxlIjogMSwNCgkiYXV0b2NvbXBsZXRlIjogew0KCQkiZW5hYmxlZCIgOiAxLA0KCQkibGFuZyIgOiAiZW4iLA0KCQkidHJpZ2dlcl9jaGFyY291bnQiIDogMA0KCX0sDQoJIm1vYmlsZSI6IHsNCgkJIm1lbnVfc2VsZWN0b3IiOiAiI21lbnUtdG9nZ2xlIg0KCX0sDQoJInRyaWdnZXIiOiB7DQoJCSJjbGljayI6ICJhamF4X3NlYXJjaCIsDQoJCSJjbGlja19sb2NhdGlvbiI6ICJzYW1lIiwNCgkJInVwZGF0ZV9ocmVmIjogMCwNCgkJInJldHVybiI6ICJhamF4X3NlYXJjaCIsDQoJCSJyZXR1cm5fbG9jYXRpb24iOiAic2FtZSIsDQoJCSJmYWNldCI6IDEsDQoJCSJ0eXBlIjogMSwNCgkJInJlZGlyZWN0X3VybCI6ICI/cz17cGhyYXNlfSIsDQoJCSJkZWxheSI6IDMwMA0KCX0sDQogICAgImFuaW1hdGlvbnMiOiB7DQogICAgICAgICJwYyI6IHsNCiAgICAgICAgICAgICJzZXR0aW5ncyI6IHsNCiAgICAgICAgICAgICAgICAiYW5pbSIgOiAiZmFkZWRyb3AiLA0KICAgICAgICAgICAgICAgICJkdXIiICA6IDMwMA0KICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICJyZXN1bHRzIiA6IHsNCgkJCQkiYW5pbSIgOiAiZmFkZWRyb3AiLA0KCQkJCSJkdXIiICA6IDMwMA0KICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICJpdGVtcyIgOiAidm9pZGFuaW0iDQogICAgICAgIH0sDQogICAgICAgICJtb2IiOiB7DQogICAgICAgICAgICAic2V0dGluZ3MiOiB7DQogICAgICAgICAgICAgICAgImFuaW0iIDogImZhZGVkcm9wIiwNCiAgICAgICAgICAgICAgICAiZHVyIiAgOiAzMDANCiAgICAgICAgICAgIH0sDQogICAgICAgICAgICAicmVzdWx0cyIgOiB7DQoJCQkJImFuaW0iIDogImZhZGVkcm9wIiwNCgkJCQkiZHVyIiAgOiAzMDANCiAgICAgICAgICAgIH0sDQogICAgICAgICAgICAiaXRlbXMiIDogInZvaWRhbmltIg0KICAgICAgICB9DQogICAgfSwNCgkiYXV0b3AiOiB7DQoJCSJzdGF0ZSI6ICJkaXNhYmxlZCIsDQoJCSJwaHJhc2UiOiAiIiwNCgkJImNvdW50IjogMQl9LA0KICAgICJyZXNQYWdlIjogew0KICAgICAgICAidXNlQWpheCI6IDAsDQogICAgICAgICJzZWxlY3RvciI6ICIjbWFpbiIsDQogICAgICAgICJ0cmlnZ2VyX3R5cGUiOiAxLA0KICAgICAgICAidHJpZ2dlcl9mYWNldCI6IDEsDQogICAgICAgICJ0cmlnZ2VyX21hZ25pZmllciI6IDAsDQogICAgICAgICJ0cmlnZ2VyX3JldHVybiI6IDAgICAgfSwNCgkicmVzdWx0c1NuYXBUbyI6ICJsZWZ0IiwNCiAgICAicmVzdWx0cyI6IHsNCiAgICAgICAgIndpZHRoIjogImF1dG8iLA0KICAgICAgICAid2lkdGhfdGFibGV0IjogImF1dG8iLA0KICAgICAgICAid2lkdGhfcGhvbmUiOiAiYXV0byINCiAgICB9LA0KCSJzZXR0aW5nc2ltYWdlcG9zIjogInJpZ2h0IiwNCgkiY2xvc2VPbkRvY0NsaWNrIjogMSwNCgkib3ZlcnJpZGV3cGRlZmF1bHQiOiAwLA0KCSJvdmVycmlkZV9tZXRob2QiOiAiZ2V0Ig0KfQ0K"></div>	<div id="asl_hidden_data">
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="aslblur">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+			</filter>
+		</svg>
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="no_aslblur"></filter>
+		</svg>
+	</div>
+	</div>
+
+	<div id='ajaxsearchliteres1'
+	 class='vertical wpdreams_asl_results asl_w asl_r asl_r_1 asl_r_1_1'>
+
+	
+	<div class="results">
+
+		
+		<div class="resdrg">
+		</div>
+
+		
+	</div>
+
+	
+	
+</div>
+
+	<div id='__original__ajaxsearchlitesettings1'
+		 data-id="1"
+		 class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+		<form name='options'
+	  aria-label="Search settings form"
+	  autocomplete = 'off'>
+
+	
+	
+	<input type="hidden" name="filters_changed" style="display:none;" value="0">
+	<input type="hidden" name="filters_initial" style="display:none;" value="1">
+
+	<div class="asl_option_inner hiddend">
+		<input type='hidden' name='qtranslate_lang' id='qtranslate_lang1'
+			   value='0'/>
+	</div>
+
+	
+	
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Generic selectors</legend>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="exact"
+					   aria-label="Exact matches only"
+					   name="asl_gen[]" />
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Exact matches only			</div>
+		</div>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="title"
+					   aria-label="Search in title"
+					   name="asl_gen[]"  checked="checked"/>
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Search in title			</div>
+		</div>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="content"
+					   aria-label="Search in content"
+					   name="asl_gen[]"  checked="checked"/>
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Search in content			</div>
+		</div>
+		<div class="asl_option_inner hiddend">
+			<input type="checkbox" value="excerpt"
+				   aria-label="Search in excerpt"
+				   name="asl_gen[]"  checked="checked"/>
+			<div class="asl_option_checkbox"></div>
+		</div>
+	</fieldset>
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Post Type Selectors</legend>
+					<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="floorplan"
+					   aria-label="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="overstock-home"
+					   aria-label="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="move-in-ready-home"
+					   aria-label="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+			</div>
+				</fieldset>
+	</form>
+	</div>
+</div>
+</div></div></div></section>
+<section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div class="deliveryMap">
+	<div>SHIPPING HOMES TO:</div>
+	<div>
+		<a href="/" title="Park Model Sales in Florida, Alabama &amp; Georgia" alt="Park Model Sales in [bloginfo key='states_sold']">
+			<img class="lazy lazy-hidden" style="max-width:350px; padding-left:15px; padding-right:15px;" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/maps/PM_map-lake-city.png"  title="Florida, Alabama &amp; Georgia" alt="Florida, Alabama &amp; Georgia" /><noscript><img style="max-width:350px; padding-left:15px; padding-right:15px;" src="https://factoryexpohomes.com/resources/maps/PM_map-lake-city.png"  title="Florida, Alabama &amp; Georgia" alt="Florida, Alabama &amp; Georgia" /></noscript>
+		</a>
+	</div>
+	<div>
+		<a style="color:white;text-decoration:underline;font-weight:normal;" href="https://parkmodelsdirect.com/" target="_blank">
+			<div>VIEW OTHER STATES</div>
+		</a>
+	</div>
+</div>
+
+<style>
+	.deliveryMap {
+		margin: 0 0 10px 0 !important;
+    padding: 0 !important;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+		background-color: var(--primaryColor);
+	}
+	
+	/*#menu-item-7095 {
+    background-color: #ffcf7a;
+	}
+	
+	#menu-item-7095 a {
+    color: black !important;
+	}*/
+	
+	#menu-item-7081 {
+    background: #931416;
+	}
+	
+	.sidebar-primary .menu li {
+		background: black;
+		font-weight: 600;
+		border-left: none;
+	}
+	
+	.sidebar-primary .menu li:hover {
+    background: black;
+    color: #ccc!important;
+	}
+</style></div></div></section>
+<section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-products-menu-container"><ul id="menu-products-menu" class="menu"><li id="menu-item-7098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7098"><a href="https://lc.parkmodelsdirect.com/park-model-floor-plans/">Floor Plans</a></li>
+<li id="menu-item-7093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7093"><a href="https://lc.parkmodelsdirect.com/home-series/">Browse by Home Series</a></li>
+<li id="menu-item-7744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7744"><a href="https://lc.parkmodelsdirect.com/request-appointment/">Request an Appointment</a></li>
+<li id="menu-item-7095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7095"><a href="https://lc.parkmodelsdirect.com/clearance-sale/">Clearance Homes</a></li>
+<li id="menu-item-8134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8134"><a href="https://lc.parkmodelsdirect.com/color-selections/">Color Selections</a></li>
+<li id="menu-item-8135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8135"><a href="https://lc.parkmodelsdirect.com/upgrades-options/">Upgrades &#038; Options</a></li>
+<li id="menu-item-7101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7101"><a href="https://lc.parkmodelsdirect.com/multi-purchases/">Volume Home Sales</a></li>
+<li id="menu-item-7430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7430"><a href="https://factoryhomesale.com">Manufactured Homes</a></li>
+</ul></div></div></section>
+<section id="custom_html-20" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div class="espanol-sidebar">Se Habla Español<br/>1-800-965-3052</div>
+
+<style>
+.espanol-sidebar {
+    background: #931416;
+    color: #fff;
+    font-weight: 700;
+    font-size: 11px;
+    padding: 3px;
+    text-align: center;
+    margin-top: 5px;
+		border-left: none;
+}
+</style></div></div></section>
+<section id="custom_html-16" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="margin-top:15px;">
+	<a href="/mobile-home-insurance/">
+		<img class="lazy lazy-hidden" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/MHI-quote-badge.png" alt="Mobile Home Insurance Quote"/><noscript><img src="https://factoryexpohomes.com/resources/site-images/MHI-quote-badge.png" alt="Mobile Home Insurance Quote"/></noscript>
+	</a>
+</div></div></div></section>
+<section id="custom_html-18" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="background:#dedadb; margin-top:15px; margin-bottom:15px; text-align:center; color:#020202; padding-left:15px; padding-right:15px; line-height:18px;">
+	<div style="margin-top:15px;">
+		<div style="font-size:16px; font-weight:800;">
+			SAVE $1,000'S
+		</div>
+		<div style="font-size:14px; font-weight:600;">
+			BY RECEIVING CLEARANCE AND SALES ALERTS.
+		</div>
+	</div>
+	
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework newsletterForm_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_3' ><div id='gf_3' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+							<p class='gform_required_legend'></p>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_3' class='newsletterForm' action='/#gf_3' data-formid='3' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_3_1" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_3_1" ><label class='gfield_label gform-field-label' for='input_3_1'>Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_3_1' type='email' value='' class='large'   placeholder='Enter Email Address' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_3_2" class="gfield gfield--type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_2" ><div class='ginput_container ginput_container_text'><input name='input_2' id='input_3_2' type='hidden' class='gform_hidden'  aria-invalid="false" value='Lake City' /></div></div><div id="field_3_3" class="gfield gfield--type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_3" ><div class='ginput_container ginput_container_text'><input name='input_3' id='input_3_3' type='hidden' class='gform_hidden'  aria-invalid="false" value='LCPM Newsletter' /></div></div><div id="field_3_4" class="gfield gfield--type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_4" ><div class='ginput_container ginput_container_text'><input name='input_4' id='input_3_4' type='hidden' class='gform_hidden'  aria-invalid="false" value='1006' /></div></div><div id="field_3_5" class="gfield gfield--type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_5" ><div class='ginput_container ginput_container_text'><input name='input_5' id='input_3_5' type='hidden' class='gform_hidden'  aria-invalid="false" value='48502' /></div></div><div id="field_3_6" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_6" ><label class='gfield_label gform-field-label' for='input_3_6'>Phone</label><div class='ginput_container'><input name='input_6' id='input_3_6' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_3_6'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_3' class='gform_button button gform-button--width-full' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' value='Submit'  /> 
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_3' value='postback' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_3' id='gform_theme_3' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_3' id='gform_style_settings_3' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_3' value='WyJbXSIsIjJiMDAxYmM5YTExNWY5ZWM2NjBjNWQ4MjU4NDBkNTA5Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 3, 'https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_3').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_3').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner( 3, 'https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [3, current_page]);window['gf_submitting_3'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_3').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_3').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [3]);window['gf_submitting_3'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_3').text());}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "3", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_3" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_3";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_3" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 3, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+
+	<div style="font-size:10px; margin-bottom:15px;">
+		*Email Addresses are Never Shared
+	</div>
+</div>
+
+<style>
+	#gform_fields_3 {
+		grid-row-gap: 5px;
+	}
+	#input_3_1 {
+		text-align: center;
+	}
+</style></div></div></section>
+<section id="custom_html-22" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="margin-bottom:15px;">
+	<a href="/mobile-home-resources/">
+		<img class="lazy lazy-hidden" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/resources-banner.png" alt="Mobile Home Resources"/><noscript><img src="https://factoryexpohomes.com/resources/site-images/resources-banner.png" alt="Mobile Home Resources"/></noscript>
+	</a>
+</div></div></div></section>
+<section id="custom_html-17" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="/contact-us/">
+	<img class="lazy lazy-hidden" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/questions-btn.svg" alt="Contact Park Models Direct" /><noscript><img src="https://factoryexpohomes.com/resources/site-images/questions-btn.svg" alt="Contact Park Models Direct" /></noscript>
+</a></div></div></section>
+<section id="custom_html-15" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="margin-top:15px;">
+	<a href="https://factoryhomesale.com/" target="_blank">
+		<img class="lazy lazy-hidden" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/PM-Cross-Promotion-HUD-ad.jpg" alt="Mobile Homes"/><noscript><img src="https://factoryexpohomes.com/resources/site-images/PM-Cross-Promotion-HUD-ad.jpg" alt="Mobile Homes"/></noscript>
+	</a>
+</div></div></div></section>
+<section id="custom_html-14" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="margin-top:20px;">
+	<a href="/make-a-payment/">
+		<div style="text-align:center; font-size:10px; font-weight:600; color:black;">
+			WE ACCEPT ALL MAJOR CREDIT CARDS
+		</div>
+		<img class="lazy lazy-hidden" style="padding-left:15px; padding-right:15px;" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/credit-cards.jpg" alt="We Accept All Major Credit Cards" /><noscript><img style="padding-left:15px; padding-right:15px;" src="https://factoryexpohomes.com/resources/site-images/credit-cards.jpg" alt="We Accept All Major Credit Cards" /></noscript>
+		<div style="margin-top:15px; text-align:center">
+			<span style="border: 1px solid gray; padding-left:15px; padding-right:15px; padding-top:5px; padding-bottom:5px; font-weight:600; color:black;">MAKE A PAYMENT</span>
+		</div>
+	</a>
+</div></div></div></section>
+<section id="custom_html-13" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div style="text-align:center; margin-top:25px; margin-bottom:10px; font-weight:600;">
+	<span>ENGAGE WITH US:</span>
+	<div style="text-align:center; margin-top:5px;">
+		<a style="text-decoration:none;" href="https://www.facebook.com/ParkModelsDirect/" target="_blank">
+			<img class="lazy lazy-hidden" style="max-width:45px; max-height:45px; margin-right:2.5px;" alt="facebook" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/facebook-black.png" /><noscript><img style="max-width:45px; max-height:45px; margin-right:2.5px;" alt="facebook" src="https://factoryexpohomes.com/resources/site-images/facebook-black.png" /></noscript>
+		</a>
+		<a style="text-decoration:none;" href="https://www.youtube.com/channel/UC_aVA47CW2w5wzo-WW7QBWg" target="_blank">
+			<img class="lazy lazy-hidden" style="max-width:45px; max-height:45px; margin-left:2.5px;" alt="youtube" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://factoryexpohomes.com/resources/site-images/youtube-black.png" /><noscript><img style="max-width:45px; max-height:45px; margin-left:2.5px;" alt="youtube" src="https://factoryexpohomes.com/resources/site-images/youtube-black.png" /></noscript>
+		</a>
+	</div>
+</div></div></div></section>
+<section id="custom_html-21" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div class="universalAdsenseSquare">
+	<p class="decorated"><span>advertisement</span></p>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <div class="googleAdsenseSquare" style="display: flex; justify-content: center; margin: 0 auto; text-align: center; overflow: hidden;">
+    <!-- Universal Mobile Home Sites - Square -->
+    <ins class="adsbygoogle"
+        style="display:inline-block; width:100%; height:200px;"
+        data-ad-client="ca-pub-5221720986405494"
+        data-ad-slot="2550438618"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  <hr style="border: none; border-top: 1px solid #dedadb; width: 100%; max-width: 400px; height: 1px; margin: 16px auto; opacity: 1;" /><style>.decorated{
+    overflow: hidden;
+    text-align: center;
+    margin: 10px auto !important;
+    max-width: 400px;
+    color: #999999;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .decorated > span{
+    position: relative;
+    display: inline-block;
+    color: #999999;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0 !important;
+  }
+  .decorated > span:before, .decorated > span:after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    border-bottom: 1px solid #dedadb;
+    width: 100vw;
+    margin: 0 5px;
+  }
+  .decorated > span:before{
+    right: 100%;
+  }
+  .decorated > span:after{
+    left: 100%;
+  }</style>
+</div>
+
+<style>
+	.home .universalAdsenseSquare,
+	.page-id-1355 .universalAdsenseSquare,
+	.home .adsbygoogle,
+	.page-id-1355 .adsbygoogle {
+		display: none !important;
+	}
+	.universalAdsenseSquare,
+	.universalAdsenseHorizontal,
+	.universalAdsenseVertical {
+		overflow: hidden;
+	}
+</style></div></div></section>
+</aside></div></div></div><div class="footer-widgets"><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widget-title widgettitle">Primary Navigation</h4>
+<div class="menu-primary-navigation-footer-container"><ul id="menu-primary-navigation-footer" class="menu"><li id="menu-item-7083" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7083"><a href="https://lc.parkmodelsdirect.com/" aria-current="page">Home</a></li>
+<li id="menu-item-7084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7084"><a href="https://lc.parkmodelsdirect.com/factory-expo-park-models-woodburn-oregon/">About Champion Homes Center</a></li>
+<li id="menu-item-7089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7089"><a href="https://lc.parkmodelsdirect.com/park-model-photo-gallery/">Park Model Photo Gallery</a></li>
+<li id="menu-item-7090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7090"><a href="https://lc.parkmodelsdirect.com/videos/">Park Model Videos</a></li>
+<li id="menu-item-7087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7087"><a href="https://lc.parkmodelsdirect.com/factory-expo-customer-reviews/">Customer Reviews</a></li>
+<li id="menu-item-7091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7091"><a href="https://lc.parkmodelsdirect.com/park-models-on-sale/">Park Models on Sale</a></li>
+<li id="menu-item-7085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7085"><a href="https://lc.parkmodelsdirect.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-7086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7086"><a href="https://lc.parkmodelsdirect.com/contact-us/location-map/">Location Map</a></li>
+<li id="menu-item-7088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7088"><a href="https://lc.parkmodelsdirect.com/make-a-payment/">Make a Payment</a></li>
+</ul></div></div></section>
+<section id="search-3" class="widget widget_search"><div class="widget-wrap"><h4 class="widget-title widgettitle">Search this Website</h4>
+<form class="search-form" method="get" action="https://lc.parkmodelsdirect.com/" role="search"><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website"><input class="search-form-submit" type="submit" value="Search"><meta content="https://lc.parkmodelsdirect.com/?s={s}"></form></div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widget-title widgettitle">Find your Park Model</h4>
+<div class="menu-products-menu-container"><ul id="menu-products-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7098"><a href="https://lc.parkmodelsdirect.com/park-model-floor-plans/">Floor Plans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7093"><a href="https://lc.parkmodelsdirect.com/home-series/">Browse by Home Series</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7744"><a href="https://lc.parkmodelsdirect.com/request-appointment/">Request an Appointment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7095"><a href="https://lc.parkmodelsdirect.com/clearance-sale/">Clearance Homes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8134"><a href="https://lc.parkmodelsdirect.com/color-selections/">Color Selections</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8135"><a href="https://lc.parkmodelsdirect.com/upgrades-options/">Upgrades &#038; Options</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7101"><a href="https://lc.parkmodelsdirect.com/multi-purchases/">Volume Home Sales</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7430"><a href="https://factoryhomesale.com">Manufactured Homes</a></li>
+</ul></div></div></section>
+<section id="nav_menu-5" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widget-title widgettitle">Resources</h4>
+<div class="menu-resources-menu-container"><ul id="menu-resources-menu" class="menu"><li id="menu-item-7382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7382"><a href="https://lc.parkmodelsdirect.com/frequently-asked-questions/">Frequently Asked Questions</a></li>
+<li id="menu-item-7383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7383"><a href="https://lc.parkmodelsdirect.com/mobile-home-insurance/">Home Insurance</a></li>
+<li id="menu-item-7384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7384"><a href="https://lc.parkmodelsdirect.com/mobile-home-loans-lenders/">Loans &#038; Lenders</a></li>
+<li id="menu-item-7896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7896"><a href="https://lc.parkmodelsdirect.com/mobile-home-resources/">Articles</a></li>
+<li id="menu-item-7905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7905"><a href="https://lc.parkmodelsdirect.com/factory-warranty-contacts/">Factory Warranty Contacts</a></li>
+</ul></div></div></section>
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="custom_html-8" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h4 class="widget-title widgettitle">Contact Us</h4>
+<div class="textwidget custom-html-widget"><h6>Champion Homes Center</h6>
+<strong>Sales Office &amp; Model Village</strong><br/><br/>
+<div><label class="phone">Toll Free:</label> 1-800-965-0341</div>
+<div><label class="email">EMail:</label> <a href="https://lc.parkmodelsdirect.com/contact-us/">Contact Us</a></div>
+<div><label class="hours">Hours:</label> Mon-Fri 8:00am to 5:00pm</div>
+<div><label class="blankspot">&nbsp;</label> Sat 10:00am to 4:00pm</div>
+<div><label class="blankspot">&nbsp;</label> Sun Closed</div>
+<div><label class="latlon"></label><a href="https://lc.parkmodelsdirect.com/contact-us/location-map/">Location Map &amp; Directions</a></div>
+There are 12 Champion Homes Center locations: <a href="https://parkmodelsdirect.com">Change your location</a></div></div></section>
+<section id="zp_social_icons-2" class="widget zp_social_icons"><div class="widget-wrap"><h4 class="widget-title widgettitle">Connect with Us</h4>
+<ul class="alignleft"><li class="social-facebook"><a class="hastip" title="facebook" href="https://www.facebook.com/ParkModelsDirect/" >F</a></li><li class="social-youtube"><a class="hastip" title="youtube" href="https://www.youtube.com/channel/UC_aVA47CW2w5wzo-WW7QBWg" >X</a></li></ul></div></section>
+</div><div class="widget-area footer-widgets-4 footer-widget-area"><section id="custom_html-9" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h4 class="widget-title widgettitle">Homes Manufactured By:</h4>
+<div class="textwidget custom-html-widget"><div><img class="lazy lazy-hidden" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://images.parkmodelsdirect.com/logos/manufacturers/champion-homes-logo-white.svg" alt="Homes Manufactured by Champion Homes" title="Homes Manufactured by Champion Homes" width="250" height="92"/><noscript><img src="https://images.parkmodelsdirect.com/logos/manufacturers/champion-homes-logo-white.svg" alt="Homes Manufactured by Champion Homes" title="Homes Manufactured by Champion Homes" width="250" height="92"/></noscript></div>
+This Champion Homes Center location delivers our finely built Champion Homes to <strong>Florida, Alabama &amp; Georgia</strong>. <br><br>Throughout its 50+ year history, Champion has been acknowledged as a major leader in the manufactured housing industry and is one of the largest factory-built home builders in North America.</div></div></section>
+</div><div class="widget-area footer-widgets-5 footer-widget-area"><section id="custom_html-10" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><div class="footerlogos"><img src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="/wp-content/themes/factoryexpo/images/fair-housing.png" alt="an Equal Housing Opportunity" title="an Equal Housing Opportunity" width="50" height="50" class="lazy lazy-hidden alignright" /><noscript><img src="/wp-content/themes/factoryexpo/images/fair-housing.png" alt="an Equal Housing Opportunity" title="an Equal Housing Opportunity" width="50" height="50" class="alignright" /></noscript></div>Champion Homes Center reserves the right to modify, cancel or substitute products or features of this event at any time without prior notice or obligation. Pictures and other promotional materials are representative and may depict or contain floor plans, square footages, elevations, options, upgrades, extra design features, decorations, floor coverings, specialty light fixtures, custom paint and wall coverings, window treatments, landscaping, sound and alarm systems, furnishings, appliances, and other designer/decorator features and amenities that are not included as part of the home and/or may not be available at all locations. Home, pricing and community information is subject to change, and homes to prior sale, at any time without notice or obligation. &#x000A9;&nbsp;2025 Champion Homes Center. All rights reserved. | LIC# DH/1101956/5
+
+<style>
+	#field_9_1 {
+		margin-bottom: 0px;
+	}
+	#gform_submit_button_9 {
+		margin-top: 10px;
+	}
+	.ui-datepicker table {
+    background: #bbb;
+	}
+	.ui-datepicker-title select {
+		width: 100%;
+	}
+	.ui-datepicker-calendar td {
+		width: auto;
+    display: table-cell;
+	}
+	.gform_wrapper input.datepicker_with_icon.medium {
+		width: calc(100% - 24px) !important;
+	}
+	body .gform_wrapper img.ui-datepicker-trigger {
+    vertical-align: sub;
+	}
+</style></div></div></section>
+</div></div></div><a id="top-link" href="#top" >TOP</a></div><footer class="site-footer"><div class="wrap"><!-- Start footer menu. -->
+<div id = "footer_nav">
+	</div>
+<div class="creds">
+	<a href="/privacy-policy/">Privacy Policy</a> | <a href="/california-residents-notice-at-collection-and-personal-information-rights/">California Residents: Notice at Collection and Personal Information Rights</a> | <a href="/do-not-sell-or-share-my-information/">Do Not Sell or Share my Information</a><br/>
+	&copy; 2025	Champion Homes Center - Lake City, FL | Park Model RV Homes National Dealer</div>
+</div></footer>
+<script type="text/javascript">
+const wpvViewHead = document.getElementsByTagName( "head" )[ 0 ];
+const wpvViewExtraCss = document.createElement( "style" );
+wpvViewExtraCss.textContent = '<!--[if IE 7]><style>.wpv-pagination { *zoom: 1; }</style><![endif]-->';
+wpvViewHead.appendChild( wpvViewExtraCss );
+</script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/factoryexpo\/*","\/wp-content\/themes\/genesis\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Infolinks START -->
+<script type="text/javascript">jQuery(document).ready(function(){jQuery('.description').before('<span><!--INFOLINKS_OFF--></span>');jQuery('.description').after('<span><!--INFOLINKS_ON--></span>');jQuery('#headerimg').before('<span><!--INFOLINKS_OFF--></span>');jQuery('#headerimg').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');});</script>
+<script type="text/javascript">
+    var infolinks_pid = 3348531; 
+    var infolinks_plugin_version = "WP_3.2.3"; 
+    var infolinks_resources = "https://resources.infolinks.com/js"; 
+</script>
+<script type="text/javascript" src="https://resources.infolinks.com/js/infolinks_main.js" ></script>
+<!-- Infolinks END --><!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cookieInfoContainer">This website uses cookies to analyze our traffic. Nothing more. <a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">OK</a></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WCNSR7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Start Collapsible Script -->
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("activeCollapsible");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+<!-- End Collapsible Script -->
+
+<!-- Start Tabs Script -->
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+if (document.getElementById("defaultOpen") != null) {
+  // Get the element with id="defaultOpen" and click on it
+  document.getElementById("defaultOpen").click();
+}
+</script>
+<!-- End Tab Script -->
+<div id="fb-root"></div>
+													<script>(function(d, s, id) {
+												  var js, fjs = d.getElementsByTagName(s)[0];
+												  if (d.getElementById(id)) return;
+												  js = d.createElement(s); js.id = id;
+												  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+												  fjs.parentNode.insertBefore(js, fjs);
+												}(document, "script", "facebook-jssdk"));</script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "twitter-wjs");</script><script type="text/javascript">
+									  				(function() {
+									    				var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+									    				po.src = "https://apis.google.com/js/platform.js";
+									    				var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+									  				})();
+													</script><link rel='stylesheet' id='gform_basic-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.9.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.9.6.1' type='text/css' media='all' />
+<script type="text/javascript" id="wd-asl-ajaxsearchlite-js-before">
+/* <![CDATA[ */
+window.ASL = typeof window.ASL !== 'undefined' ? window.ASL : {}; window.ASL.wp_rocket_exception = "DOMContentLoaded"; window.ASL.ajaxurl = "https:\/\/lc.parkmodelsdirect.com\/wp-admin\/admin-ajax.php"; window.ASL.backend_ajaxurl = "https:\/\/lc.parkmodelsdirect.com\/wp-admin\/admin-ajax.php"; window.ASL.js_scope = "jQuery"; window.ASL.asl_url = "https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/"; window.ASL.detect_ajax = 1; window.ASL.media_query = 4769; window.ASL.version = 4769; window.ASL.pageHTML = ""; window.ASL.additional_scripts = [{"handle":"wd-asl-ajaxsearchlite","src":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-prereq.js","prereq":[]},{"handle":"wd-asl-ajaxsearchlite-core","src":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-core.js","prereq":[]},{"handle":"wd-asl-ajaxsearchlite-vertical","src":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-results-vertical.js","prereq":["wd-asl-ajaxsearchlite"]},{"handle":"wd-asl-ajaxsearchlite-autocomplete","src":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-autocomplete.js","prereq":["wd-asl-ajaxsearchlite"]},{"handle":"wd-asl-ajaxsearchlite-load","src":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-load.js","prereq":["wd-asl-ajaxsearchlite-autocomplete"]}]; window.ASL.script_async_load = false; window.ASL.init_only_in_viewport = true; window.ASL.font_url = "https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/ajax-search-lite\/css\/fonts\/icons2.woff2"; window.ASL.css_async = false; window.ASL.highlight = {"enabled":false,"data":[]}; window.ASL.analytics = {"method":0,"tracking_id":"","string":"?ajax_search={asl_term}","event":{"focus":{"active":1,"action":"focus","category":"ASL","label":"Input focus","value":"1"},"search_start":{"active":0,"action":"search_start","category":"ASL","label":"Phrase: {phrase}","value":"1"},"search_end":{"active":1,"action":"search_end","category":"ASL","label":"{phrase} | {results_count}","value":"1"},"magnifier":{"active":1,"action":"magnifier","category":"ASL","label":"Magnifier clicked","value":"1"},"return":{"active":1,"action":"return","category":"ASL","label":"Return button pressed","value":"1"},"facet_change":{"active":0,"action":"facet_change","category":"ASL","label":"{option_label} | {option_value}","value":"1"},"result_click":{"active":1,"action":"result_click","category":"ASL","label":"{result_title} | {result_url}","value":"1"}}};
+window.ASL_INSTANCES = [];window.ASL_INSTANCES[1] = {"homeurl":"https:\/\/lc.parkmodelsdirect.com\/","resultstype":"vertical","resultsposition":"hover","itemscount":5,"charcount":0,"highlight":0,"highlightwholewords":1,"singleHighlight":0,"scrollToResults":{"enabled":0,"offset":0},"resultareaclickable":1,"autocomplete":{"enabled":1,"lang":"en","trigger_charcount":0},"mobile":{"menu_selector":"#menu-toggle"},"trigger":{"click":"ajax_search","click_location":"same","update_href":0,"return":"ajax_search","return_location":"same","facet":1,"type":1,"redirect_url":"?s={phrase}","delay":300},"animations":{"pc":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"},"mob":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"}},"autop":{"state":"disabled","phrase":"","count":1},"resPage":{"useAjax":0,"selector":"#main","trigger_type":1,"trigger_facet":1,"trigger_magnifier":0,"trigger_return":0},"resultsSnapTo":"left","results":{"width":"auto","width_tablet":"auto","width_phone":"auto"},"settingsimagepos":"right","closeOnDocClick":1,"overridewpdefault":0,"override_method":"get"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-prereq.js?ver=4769" id="wd-asl-ajaxsearchlite-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-core.js?ver=4769" id="wd-asl-ajaxsearchlite-core-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-results-vertical.js?ver=4769" id="wd-asl-ajaxsearchlite-vertical-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-autocomplete.js?ver=4769" id="wd-asl-ajaxsearchlite-autocomplete-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-load.js?ver=4769" id="wd-asl-ajaxsearchlite-load-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-wrapper.js?ver=4769" id="wd-asl-ajaxsearchlite-wrapper-js"></script>
+<script type="text/javascript" id="jquery-lazyloadxt-js-extra">
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js?ver=2.7.3" id="jquery-lazyloadxt-js"></script>
+<script type="text/javascript" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=2.7.3" id="jquery-lazyloadxt-srcset-js"></script>
+<script type="text/javascript" id="jquery-lazyloadxt-extend-js-extra">
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0","horizontal_container_classnames":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//lc.parkmodelsdirect.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=2.7.3" id="jquery-lazyloadxt-extend-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.4" id="wp-featherlight-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/themes/factoryexpo/js/jquery.tipTip.minified.js?ver=1.3" id="jquery_tipTip-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.6.1" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"0237db2a4deede341f40b45343798409","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.6.1" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.6.1" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=a8f8e72876ba5bc3f797026fe4225946" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=639b4ac21c17c9dc304b05db4a3d3293" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"0237db2a4deede341f40b45343798409"},"ajax":{"ajaxurl":"https:\/\/lc.parkmodelsdirect.com\/wp-admin\/admin-ajax.php","ajax_submission_nonce":"a4091e9dd9","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/","config_nonce":"e1c3c1ecdf"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://lc.parkmodelsdirect.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=a00f827ff5444913010975cb6bfb8673" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2" id="jquery-touch-punch-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.8" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.8" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/wp-util.min.js?ver=6.8" id="wp-util-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/backbone.min.js?ver=1.6.0" id="backbone-js"></script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-includes/js/mediaelement/wp-playlist.min.js?ver=6.8" id="wp-playlist-js"></script>
+<script type="text/javascript" id="views-blocks-frontend-js-extra">
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"https:\/\/lc.parkmodelsdirect.com\/wp-admin\/admin-ajax.php","calendar_image":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"datepicker_min_year":"1582","datepicker_max_year":"3000","resize_debounce_tolerance":"100","datepicker_style_url":"https:\/\/lc.parkmodelsdirect.com\/wp-content\/plugins\/types\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css","wpmlLang":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lc.parkmodelsdirect.com/wp-content/plugins/wp-views/public/js/views-frontend.js?ver=3.6.19" id="views-blocks-frontend-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "3", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_3" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_3";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_3" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 3, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+</body></html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced 
+
+Served from: lc.parkmodelsdirect.com @ 2025-04-21 04:14:55 by W3 Total Cache
+-->

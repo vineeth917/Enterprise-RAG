@@ -1,0 +1,3872 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+
+        <!-- Start cookieyes banner --> 
+    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/6df53bda0444ce6a471b6a86/script.js"></script> 
+    <!-- End cookieyes banner --> 
+
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4265387-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);ga('require', 'GTM-5C7T34Z');gtag("config", "UA-4265387-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});</script>
+<meta name="description" content="The National WWII Museum in New Orleans tells the story of the American Experience in the war that changed the world - why it was fought, how it was won, and what it means today." />
+<meta name="keywords" content="WWII Museum, New Orleans, Louisiana, D-Day Museum" />
+<link rel="canonical" href="https://www.nationalww2museum.org/" />
+<link rel="shortlink" href="https://www.nationalww2museum.org/" />
+<meta property="og:site_name" content="The National WWII Museum | New Orleans" />
+<meta property="og:title" content="Home" />
+<meta property="og:image" content="https://www.nationalww2museum.org//themes/nwwiim/images/placeholders/placeholder-open-graph.jpg" />
+<meta property="og:image:url" content="https://www.nationalww2museum.org//themes/nwwiim/images/placeholders/placeholder-open-graph.jpg" />
+<meta name="msvalidate.01" content="C1BA3C5E09C99A8C5CAE355F5DF8D081" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/nwwiim/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Home | The National WWII Museum | New Orleans</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/nwwiim/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/themes/nwwiim/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/themes/nwwiim/favicons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="/themes/nwwiim/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/themes/nwwiim/favicons/android-chrome-384x384.png" sizes="384x384">
+    <link rel="icon" type="image/png" href="/themes/nwwiim/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/themes/nwwiim/favicons/manifest.json">
+    <link rel="mask-icon" href="/themes/nwwiim/favicons/safari-pinned-tab.svg" color="#00396a">
+    <link rel="shortcut icon" href="/themes/nwwiim/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#00396a">
+    <meta name="msapplication-TileImage" content="/themes/nwwiim/favicons/mstile-150x150.png">
+    <meta name="msapplication-config" content="/themes/nwwiim/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+        <script src="https://use.typekit.net/ajl2pve.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+        <script src="/themes/nwwiim/js/vendor/videojs-ie8.min.js"></script>
+
+        <link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/align.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/fieldgroup.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/container-inline.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/clearfix.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/details.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/hidden.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/item-list.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/js.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/nowrap.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/position-container.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/reset-appearance.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/resize.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-counter.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-counters.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-general-info.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/tablesort.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/filter/filter.caption.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/entity_embed/css/entity_embed.filter.caption.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/views/views.module.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/modules/custom/nwwiim_utility/css/nwwiim_utility.modal.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/themes/nwwiim/css/style.css?sukeqd" />
+<link rel="stylesheet" media="all" href="/themes/nwwiim/css/honor-roll.css?sukeqd" />
+
+    <noscript><link rel="stylesheet" href="/themes/nwwiim/css/no-js.css" media="all"></noscript>
+</head>
+
+<body class="page-museum-opened no-sidebars path-frontpage page-type-landing">
+  <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TCRPVQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TCRPVQ');</script>
+  <!-- End Google Tag Manager -->
+
+
+  <a tab-index="-1" class="element-invisible element-focusable bg-grey u-centered-text" href="#main">
+    <h2>Skip to Main Content of WWII</h2>
+  </a>
+
+      
+  
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page" role="document" class="">
+
+  
+
+  <header id="header" class="cf">
+          <div class="header-logo">
+        
+
+  
+
+<div id="block-sitebranding" class="block block-system block-system-branding-block">
+  
+    
+        <h1 id="logo">
+    	<a href="/" title="Home" rel="home"></a>
+    </h1>
+  </div>
+
+
+
+      </div>
+    
+    <div class="mobile-nav-teaser">
+      
+
+  <nav role="navigation" aria-labelledby="block-headermobilenavigation-menu" id="block-headermobilenavigation">
+            
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/visit" target="" data-drupal-link-system-path="node/466">Visit</a>
+              </li>
+                <li class="menu-item">
+        <a href="/visit/museum-campus/higgins-hotel-conference-center" target="">Stay</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events-programs" target="" data-drupal-link-system-path="node/467">Events</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+
+
+    </div>
+
+    <div class="mobile-toggle-nav">
+      <div class="more-btn">
+        <span>More</span>
+      </div>
+      <div class="overlay"></div>
+    </div>
+    <div class="nav-wrapper">
+              <div class="header-top">
+          
+
+  <nav role="navigation" aria-labelledby="block-headerutilitynavigation-menu" id="block-headerutilitynavigation" class="block-header-utility-menu">
+            
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/events-programs/educational-travel" class="icon-globe" data-drupal-link-system-path="node/117669">Travel</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://store.nationalww2museum.org" class="icon-shop">Store</a>
+              </li>
+                <li class="menu-item">
+        <a href="/visit/museum-campus-guide" class="icon-ticket" target="" data-drupal-link-system-path="node/604">Campus</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/events-calendar" class="icon-calendar" target="" data-drupal-link-system-path="node/475">Calendar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events-programs/bbs-stage-door-canteen" class="icon-ticket" target="" title="BB&#039;s Stage Door Canteen" data-drupal-link-system-path="node/671">BB&#039;s Stage Door Canteen</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+
+<div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-nwwiim-search" role="search">
+  
+    
+      <div class="block-content">
+      <form action="/search" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys--3" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search" data-drupal-selector="edit-keys" type="search" id="edit-keys--3" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input alt="Search Button" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-footersocialnetworksnavigation-2-menu" id="block-footersocialnetworksnavigation-2" class="block block-socials-menu">
+            
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/WWIIMuseum/" class="icon-facebook" target="_blank">Facebook</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.instagram.com/wwiimuseum/" class="icon-instagram" target="_blank">Instagram</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.youtube.com/channel/UCmTCST8yVyVMctEYY9WeMWw" class="icon-youtube" target="_blank">Youtube</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://x.com/WWIImuseum" class="icon-x" target="_blank">X (formerly Twitter)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.tiktok.com/@wwiimuseum" class="icon-tiktok">TikTok</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.linkedin.com/company/the-national-wwii-museum" class="icon-linkedin">LinkedIn</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+
+
+        </div>
+      
+              <div class="header-bottom">
+          
+
+  
+
+
+<div id="block-headerbuyticketsbutton" class="block block-type-button">
+  
+  
+
+            <a href="https://www.nationalww2museum.org/buy-tickets" title="Purchase Tickets" class="btn solid ticket" target="_blank"><span>Purchase Tickets</span></a>
+      </div><nav role="navigation" aria-labelledby="block-nwwiim-main-menu-menu" id="block-nwwiim-main-menu" class="block block-header-main-menu">
+            
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/visit" target="" data-drupal-link-system-path="node/466">Visit</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                      <div class="dropdown-block">
+
+
+<div id="block-dropdownctavisit" class="block block-block-content block-block-content91f3a1e2-f531-4196-805c-4abfd08b29de" onclick="location.href='https://www.nationalww2museum.org/visit/museum-campus-guide/liberation-pavilion'">
+  
+    
+      <div class="block-content">
+      
+      <figure class="cb-image">
+                  <div class="img-ratio--wide bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2023-06/3Q9A2879.jpg?h=1dd3cf61" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2023-06/3Q9A2879.jpg?h=1dd3cf61" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+                <figcaption>
+          <div class="u-faux-table">
+            <div class="u-faux-table--align-middle">
+                                            <h4 class="f--secondary f--uppercase">LIBERATION PAVILION</h4>
+                          </div>
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
+
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item">
+        <a href="/visit/plan-your-visit" title="Plan your visit to The National WWII Museum" data-drupal-link-system-path="node/117835">Plan Your Visit</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/visit/museum-campus-guide" data-drupal-link-system-path="node/604">Museum Campus Guide</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/visit/exhibits" data-drupal-link-system-path="node/505">Exhibits</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/visit/groups" data-drupal-link-system-path="node/678">Groups</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.nationalww2museum.org/visit/plan-your-visit/accessibility" target="_self">Accessibility</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/visit/museum-tours" data-drupal-link-system-path="node/50167">Museum Tours</a>
+              </li>
+                <li class="menu-item">
+        <a href="/visit/plan-your-visit#Directions" data-drupal-link-system-path="node/117835">Directions</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://ticketing.nationalww2museum.org/Webstore/shop/ViewItems.aspx?CG=Tickets&amp;C=GA" target="" title="Purchase Tickets">Purchase Tickets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/visit/plan-your-visit#Parking" data-drupal-link-system-path="node/117835">Parking</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/visit/plan-your-visit/itineraries" target="" title="View Itineraries" data-drupal-link-system-path="node/546">Itineraries</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/visit/dining" data-drupal-link-system-path="node/589">Dining</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/higgins-hotel-conference-center" data-drupal-link-system-path="node/704">Stay</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                      <div class="dropdown-block">
+
+
+<div id="block-drowpdownctastay" class="block block-block-content block-block-content4a53602e-4b0a-48c4-b320-6babedefc689" onclick="location.href=''">
+  
+    
+      <div class="block-content">
+      
+      <figure class="cb-image">
+                <figcaption>
+          <div class="u-faux-table">
+            <div class="u-faux-table--align-middle">
+                                        </div>
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
+
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item">
+        <a href="https://www.higginshotelnola.com/">The Higgins Hotel &amp; Conference Center</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.higginshotelnola.com/new-orleans-restaurants">Hotel Dining</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/events-programs" target="" data-drupal-link-system-path="node/467">Events</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                      <div class="dropdown-block">
+
+
+<div id="block-dropdownctaeventsprograms" class="block block-block-content block-block-content9952df3e-5e42-4aaf-9f8d-3637db681ae3" onclick="location.href='/events-programs/events-calendar'">
+  
+    
+      <div class="block-content">
+      
+      <figure class="cb-image">
+                  <div class="img-ratio--wide bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" alt="Thumbnail" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2017-06/distancelearning-home_front-vft.jpg?h=af3cde7e" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2017-06/distancelearning-home_front-vft.jpg?h=af3cde7e" alt="Thumbnail"/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+                <figcaption>
+          <div class="u-faux-table">
+            <div class="u-faux-table--align-middle">
+                              <div class="f--label c--white">View Upcoming Programming</div>
+                                            <h4 class="f--secondary f--uppercase">Events Calendar</h4>
+                          </div>
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
+
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item">
+        <a href="/events/events-calendar" data-drupal-link-system-path="node/475">Events Calendar</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/events-programs/educational-travel" title="Travel programs provided by The National WWII Museum" data-drupal-link-system-path="node/117669">Educational Travel</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events/public-programs/conferences-symposia" data-drupal-link-system-path="node/761">Conferences &amp; Symposia</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events-programs/event-recaps" target="" data-drupal-link-system-path="events-programs/event-recaps">Event Recaps</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events-programs/bbs-stage-door-canteen" data-drupal-link-system-path="node/671">BB&#039;s Stage Door Canteen</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/events/special-events" data-drupal-link-system-path="node/769">Special Events</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/events/youth-and-family-programs" data-drupal-link-system-path="node/577">Youth and Family Programs</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/events-programs/public-programs" data-drupal-link-system-path="node/947">Public Programs</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.nationalww2museum.org/events/private-event-rentals/special-event-entertainment#victory-belles">The Victory Belles</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/private-event-rentals" data-drupal-link-system-path="node/542">Private Event Rentals</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/the-war" target="" data-drupal-link-system-path="node/464">The War</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                      <div class="dropdown-block">
+
+
+<div id="block-dropdownctathewar" class="block block-block-content block-block-contentea9191cd-9d1e-4b0c-8b52-8fade6683702" onclick="location.href='https://www.nationalww2museum.org/war/research-veteran/wwii-research-services'">
+  
+    
+      <div class="block-content">
+      
+      <figure class="cb-image">
+                  <div class="img-ratio--wide bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2023-02/research-header-updated.jpg?h=c12fc1b4" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2023-02/research-header-updated.jpg?h=c12fc1b4" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+                <figcaption>
+          <div class="u-faux-table">
+            <div class="u-faux-table--align-middle">
+                              <div class="f--label c--white">Learn More</div>
+                                            <h4 class="f--secondary f--uppercase">WWII Research Services</h4>
+                          </div>
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
+
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item">
+        <a href="/topics" data-drupal-link-system-path="node/597">Explore By Topic</a>
+              </li>
+                <li class="menu-item">
+        <a href="/war/explore-war" data-drupal-link-system-path="node/963">All Articles</a>
+              </li>
+                <li class="menu-item">
+        <a href="/war/profiles" target="" data-drupal-link-system-path="node/506">Profiles</a>
+              </li>
+                <li class="menu-item">
+        <a href="/war/from-collection" data-drupal-link-system-path="node/561">From the Collection</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/war/research-veteran" data-drupal-link-system-path="node/844">Research A Veteran</a>
+              </li>
+                <li class="menu-item">
+        <a href="/war/wwii-veteran-statistics" data-drupal-link-system-path="node/845">WWII Veteran Statistics</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/war/jenny-craig-institute-study-war-and-democracy" data-drupal-link-system-path="node/1889">Jenny Craig Institute for the Study of War and Democracy</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/podcasts" data-drupal-link-system-path="node/53580">Podcasts</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/students-teachers" data-drupal-link-system-path="node/117509">Students &amp; Teachers</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/students-teachers/distance-learning" data-drupal-link-system-path="node/49981">Distance Learning</a>
+              </li>
+                <li class="menu-item">
+        <a href="/students-teachers/field-trips" data-drupal-link-system-path="node/677">Field Trips</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/students-teachers/educator-resources" data-drupal-link-system-path="node/804">Educator Resources</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/students-teachers/school-programs" data-drupal-link-system-path="node/841">School Programs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events-programs/educational-travel/student-travel-national-wwii-museum" data-drupal-link-system-path="node/556">Student Travel</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/students-teachers/student-resources" data-drupal-link-system-path="node/823">Student Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/students-teachers/asu-partnership" target="" data-drupal-link-system-path="node/50160">ASU Partnership</a>
+              </li>
+                <li class="menu-item">
+        <a href="/visit/museum-campus-guide/hall-democracy/madlyn-and-paul-hilliard-research-library" data-drupal-link-system-path="node/53295">Madlyn and Paul Hilliard Research Library</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/about-us" target="" data-drupal-link-system-path="node/469">About Us</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                      <div class="dropdown-block">
+
+
+<div id="block-dropdownctaaboutus" class="block block-block-content block-block-content0a267a09-0791-4fc9-b724-c88aba800e3f" onclick="location.href='/about-us/mission-vision-values'">
+  
+    
+      <div class="block-content">
+      
+      <figure class="cb-image">
+                  <div class="img-ratio--wide bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" alt="US Freedom Pavilion: The Boeing Center exterior" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2024-11/USFP%20Exterior%20PREFERRED.jpg?h=d420901f" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2024-11/USFP%20Exterior%20PREFERRED.jpg?h=d420901f" alt="US Freedom Pavilion: The Boeing Center exterior"/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+                <figcaption>
+          <div class="u-faux-table">
+            <div class="u-faux-table--align-middle">
+                              <div class="f--label c--white">Explore</div>
+                                            <h4 class="f--secondary f--uppercase">Our Mission</h4>
+                          </div>
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
+
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item">
+        <a href="/about-us/mission-vision-values" target="" data-drupal-link-system-path="node/477">Mission / Vision / Values</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/about-us/our-team" data-drupal-link-system-path="node/838">Our Team</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about-us/our-partners" data-drupal-link-system-path="node/848">Our Partners</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/about-us/annual-reports-and-financials" data-drupal-link-system-path="node/918">Annual Reports and Financials</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about-us/notes-museum" target="" data-drupal-link-system-path="node/543">Notes from the Museum</a>
+              </li>
+                <li class="menu-item">
+        <a href="/employment" target="" title="Join Our Team" data-drupal-link-system-path="node/872">Join Our Team</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about-us/rights-reproduction" data-drupal-link-system-path="node/117150">Rights &amp; Reproduction</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/give" target="" data-drupal-link-system-path="node/470">Give</a>
+                  <div class="sub-menu-toggle"></div>
+          <div class="drop-menu">
+                      <div class="dropdown-block">
+
+
+<div id="block-dropdownctagive" class="block block-block-content block-block-content75b785fd-52d9-4e0d-b367-dfc45894e3a2" onclick="location.href='https://www.nationalww2museum.org/give/become-member'">
+  
+    
+      <div class="block-content">
+      
+      <figure class="cb-image">
+                  <div class="img-ratio--wide bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" alt="Thumbnail" title="Girl with Vet" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2017-06/Sv-N9ePbWXMxjol4tPxIoDLC-lbF-FCXBBQqFvBldf0.jpg?h=6ff83453" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2017-06/Sv-N9ePbWXMxjol4tPxIoDLC-lbF-FCXBBQqFvBldf0.jpg?h=6ff83453" alt="Thumbnail"/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+                <figcaption>
+          <div class="u-faux-table">
+            <div class="u-faux-table--align-middle">
+                              <div class="f--label c--white">Join Today</div>
+                                            <h4 class="f--secondary f--uppercase">Become a Member</h4>
+                          </div>
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
+
+                                <div class="menu-container">
+                            <ul class="menu level1">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/give/ways-give" target="" data-drupal-link-system-path="node/694">Ways To Give</a>
+              </li>
+                <li class="menu-item">
+        <a href="/give/10-them" data-drupal-link-system-path="node/693">$10 For Them</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/give/become-member" data-drupal-link-system-path="node/708">Become a Member</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/give/honor-roll-charter-members" data-drupal-link-system-path="give/honor-roll-charter-members">Honor Roll of Charter Members</a>
+              </li>
+                <li class="menu-item">
+        <a href="/give/honor-your-hero/road-victory" target="" title="Brick and Paver Tributes" data-drupal-link-system-path="node/690">Brick and Paver Tributes</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/give/honor-your-hero" data-drupal-link-system-path="node/802">Honor Your Hero</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/give/capital-campaign" data-drupal-link-system-path="node/699">Capital Campaign</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://impact.nationalww2museum.org/" target="">Gift Planning</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/give/other-ways-support-museum" data-drupal-link-system-path="node/725">Other Ways to Support the Museum</a>
+              </li>
+                <li class="menu-item">
+        <a href="/give/donor-privacy-policy" data-drupal-link-system-path="node/714">Donor Privacy Policy</a>
+              </li>
+        </ul>
+  
+            </div>
+                    </div>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+
+
+        </div>
+          </div>
+  </header>
+
+
+  <main role="main" id="main">
+
+                  <section id="hero-homepage" class="bg--black cf">
+          
+
+  
+
+
+<div id="block-homepagecarousel" class="block block-block-content block-block-content15ff2671-e43b-4594-9ba4-39c4d57e816a">
+  
+  
+
+  
+    
+<ul class="carousel-home carousel-with-overlay cf" class="field field--name-field-hero-carousel-p field--type-entity-reference-revisions field--label-hidden">
+      %}
+    
+                                          
+      <li class="carousel-cell hero-carousel--effect">
+
+                              <div class="bg-img" style="background-image: url('/sites/default/files/styles/hero_large/public/2025-03/On%20high%20ground%20overlooking%20an%20icy%20inlet%20in%20Alaska%2C%20U.S.%20Marines%20man%20a%20machine%20gun%20at%20a%20lookout%20post.%20Marine%20Corps%20-%20NARA%20-%20535778_final%20%281%29_1.jpg?h=35336cdd');"></div>
+                  
+        <span class="bg-overlay"></span>
+
+        <div class="carousel-content">
+                      <div class="u-faux-table">
+              <div class="u-faux-table--align-middle">
+                <div class="carousel-content-inner l-container--md">
+                                      <div class="f--label f--uppercase c--white">Special Exhibit</div>
+                                                      <h1 class="f--secondary f--uppercase">
+                                          <a href="/visit/exhibits/special-exhibits/american-shores-aleutian-islands-campaign" title="See the Special Exhibit">On American Shores: The Aleutian Islands Campaign</a>
+                                        </h2>
+
+                                                              <div class="f--desc">On display March 26, 2025, through January 11, 2026.</div>
+                                                              <a href="/visit/exhibits/special-exhibits/american-shores-aleutian-islands-campaign" title="See the Special Exhibit" class="btn solid"><span>See the Special Exhibit</span></a>
+                                                        </div>
+              </div>
+            </div>
+                  </div>
+
+      </li>
+    
+      %}
+    
+                                          
+      <li class="carousel-cell hero-carousel--effect">
+
+                              <div class="bg-img" style="background-image: url('/sites/default/files/styles/hero_large/public/2024-08/3Q9A4769.jpg?h=46fe2957');"></div>
+                  
+        <span class="bg-overlay"></span>
+
+        <div class="carousel-content">
+                      <div class="u-faux-table">
+              <div class="u-faux-table--align-middle">
+                <div class="carousel-content-inner l-container--md">
+                                                      <h1 class="f--secondary f--uppercase">
+                                          <a href="https://www.nationalww2museum.org/buy-tickets" title="Buy Tickets">JOHN E. KUSHNER RESTORATION PAVILION</a>
+                                        </h2>
+
+                                                              <div class="f--desc">Now Open</div>
+                                                              <a href="https://www.nationalww2museum.org/buy-tickets" title="Buy Tickets" class="btn solid"><span>Buy Tickets</span></a>
+                                                        </div>
+              </div>
+            </div>
+                  </div>
+
+      </li>
+    
+      %}
+    
+                                          
+      <li class="carousel-cell hero-carousel--effect">
+
+                              <div class="bg-img" style="background-image: url('/sites/default/files/styles/hero_large/public/2024-11/illuminate-the-night-carousel-image-3600x1700.jpg?h=4cd29779');"></div>
+                  
+        <span class="bg-overlay"></span>
+
+        <div class="carousel-content">
+                      <div class="u-faux-table">
+              <div class="u-faux-table--align-middle">
+                <div class="carousel-content-inner l-container--md">
+                                                      <h1 class="f--secondary f--uppercase">
+                                          <a href="https://www.nationalww2museum.org/programs/victory-belles-illuminate-night" title="Learn More">Illuminate the Night </a>
+                                        </h2>
+
+                                                              <div class="f--desc">With the Victory Belles and Expressions of America!</div>
+                                                              <a href="https://www.nationalww2museum.org/programs/victory-belles-illuminate-night" title="Learn More" class="btn solid"><span>Learn More</span></a>
+                                                        </div>
+              </div>
+            </div>
+                  </div>
+
+      </li>
+    
+      %}
+    
+                                          
+      <li class="carousel-cell hero-carousel--effect">
+
+                              <div class="bg-img" style="background-image: url('/sites/default/files/styles/hero_large/public/2024-11/accessibility-options-carousel-image-3600x1700.jpg?h=4cd29779');"></div>
+                  
+        <span class="bg-overlay"></span>
+
+        <div class="carousel-content">
+                      <div class="u-faux-table">
+              <div class="u-faux-table--align-middle">
+                <div class="carousel-content-inner l-container--md">
+                                                      <h1 class="f--secondary f--uppercase">
+                                          <a href="https://www.nationalww2museum.org/visit/plan-your-visit/accessibility" title="Learn More">Accessibility Options</a>
+                                        </h2>
+
+                                                              <div class="f--desc">The National WWII Museum is committed to making its galleries, exhibits, pavilions, and programs accessible to all visitors.</div>
+                                                              <a href="https://www.nationalww2museum.org/visit/plan-your-visit/accessibility" title="Learn More" class="btn solid"><span>Learn More</span></a>
+                                                        </div>
+              </div>
+            </div>
+                  </div>
+
+      </li>
+    
+      %}
+    
+                                          
+      <li class="carousel-cell hero-carousel--effect">
+
+                              <div class="bg-img" style="background-image: url('/sites/default/files/styles/hero_large/public/2025-04/podcasts-homepage-slider.jpg?h=4cd29779');"></div>
+                  
+        <span class="bg-overlay"></span>
+
+        <div class="carousel-content">
+                      <div class="u-faux-table">
+              <div class="u-faux-table--align-middle">
+                <div class="carousel-content-inner l-container--md">
+                                                      <h1 class="f--secondary f--uppercase">
+                                          <a href="https://www.nationalww2museum.org/podcasts" title="Listen to the 1945 podcast series">Podcasts</a>
+                                        </h2>
+
+                                                              <div class="f--desc">Listen and subscribe to the National WWII Museum’s podcasts</div>
+                                                              <a href="https://www.nationalww2museum.org/podcasts" title="Listen to the 1945 podcast series" class="btn solid"><span>Listen to the 1945 podcast series</span></a>
+                                                        </div>
+              </div>
+            </div>
+                  </div>
+
+      </li>
+    
+  </ul>
+
+
+
+          <div class="block-museum-hours bg--white">
+        <div class="museum-hours">
+  <p><span>Open today</span> 9:00 a.m. - 5:00 p.m.</p>
+</div>
+
+        <a href="/visit/plan-your-visit" title="Plan Your Visit" class="btn solid teal"><span>Plan Your Visit</span></a>
+      </div>
+    
+  </div>
+
+
+
+        </section>
+          
+    
+    
+    
+    
+          <section id="content" class="cf">
+        
+
+  
+<article id="node-224" class=" cf" about="/home">
+  
+    
+  
+          
+          
+
+
+
+
+  
+  
+
+  <div class="paragraph p-bundle p-bundle--split-callout with-media ani-reveal">
+                <div class="flex-grid flex-align--center l-container--lg row-inside--md ">
+        <div class="col--first col-flex--1">
+                                <h1 class="f--secondary f--uppercase">Our Mission</h1>
+                                <div class="f--desc"><p>The National WWII Museum tells the story of the American experience in&nbsp;<em>the war that changed the world</em>—why it was fought, how it was won, and what it means today—so that all generations will understand the price of freedom and be inspired by what they learn.</p></div>
+                                <a href="/about-us/mission-vision-values" title="Learn More" class="btn solid teal" target="_self"><span>Learn More</span></a>
+          
+                  </div>
+
+                  <div class="col--second col-flex--1">
+            <div class="img-ratio--wide bg--black">
+              
+              
+                              
+<ul class="carousel-basic carousel-with-overlay cf" class="field field--name-field-callout-carousel-p field--type-entity-reference-revisions field--label-above">
+      <li class="carousel-cell">
+
+        <div class="paragraph paragraph--type--bundle-callout-carousel paragraph--view-mode--default">
+                                  
+              <figure class="cb-image">
+          <div class="img-ratio--wide bg--black">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2017-04/ed-sti-landing-page2.jpg" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2017-04/ed-sti-landing-page2.jpg" alt=""/></noscript>
+
+
+
+
+</div>
+      
+          </div>
+
+                      <span class="bg-overlay"></span>
+            <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle">
+                  <div class="f--label f--uppercase c--white">Discover</div>
+                  <h2 class="f--tertiary f--page-title">The Museum</h2>
+                  <div class="f--uppercase f--secondary"></div>
+                  <div class="btn basic">Explore our exhibits</div>
+                </div>
+              </div>
+                              <a href="/visit/exhibits" class="link-whole-area">Explore our exhibits</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell">
+
+        <div class="paragraph paragraph--type--bundle-callout-carousel paragraph--view-mode--default">
+                                  
+              <figure class="cb-image">
+          <div class="img-ratio--wide bg--black">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2017-04/african-americans-wwii-001.jpg" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2017-04/african-americans-wwii-001.jpg" alt=""/></noscript>
+
+
+
+
+</div>
+      
+          </div>
+
+                      <span class="bg-overlay"></span>
+            <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle">
+                  <div class="f--label f--uppercase c--white">Uncover</div>
+                  <h2 class="f--tertiary f--page-title">The History</h2>
+                  <div class="f--uppercase f--secondary"></div>
+                  <div class="btn basic">Read the latest articles</div>
+                </div>
+              </div>
+                              <a href="/the-war" class="link-whole-area">Read the latest articles</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell">
+
+        <div class="paragraph paragraph--type--bundle-callout-carousel paragraph--view-mode--default">
+                                  
+              <figure class="cb-image">
+          <div class="img-ratio--wide bg--black">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" alt="National WWII Museum expansion rendering" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2017-04/national_20wwii_20museum_20expansion.0_1.jpg?h=160820ce" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2017-04/national_20wwii_20museum_20expansion.0_1.jpg?h=160820ce" alt="National WWII Museum expansion rendering"/></noscript>
+
+
+
+
+</div>
+      
+          </div>
+
+                      <span class="bg-overlay"></span>
+            <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle">
+                  <div class="f--label f--uppercase c--white">Capital Campaign</div>
+                  <h2 class="f--tertiary f--page-title">The Expansion</h2>
+                  <div class="f--uppercase f--secondary"></div>
+                  <div class="btn basic">See the progress</div>
+                </div>
+              </div>
+                              <a href="/give/capital-campaign" class="link-whole-area">See the progress</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+  </ul>
+
+                          </div>
+          </div>
+              </div>
+            </div>
+
+          
+
+  
+
+
+  
+
+  
+      <div class="paragraph p-bundle p-bundle--embed-views ani-reveal">
+  
+  
+    
+
+          <div class="content-inner row-inside--md l-container--lg border--top-thin ">
+    
+                  <div class="bundle--heading">
+                          <h2 class="f--secondary f--uppercase">Latest From Around The Museum</h2>
+                                              </div>
+                 <div class="bundle--items">
+          <div class="views-element-container"><div class="views views-latest js-view-dom-id-bc796b3cb74491e9d479386ff1d728e634e61e9a24c08335175e7465aab02ca8 flex-grid cf">
+  
+  
+  
+
+  
+  
+
+        
+      <div class="attachment col-flex--1">
+      <div class="views-element-container"><div class="views views-latest js-view-dom-id-c17edf1d89fe1f05b43b24d797f23e9a51e4e047d4bf511ecb504a56ce56ed03 flex-grid cf">
+  
+  
+  
+
+  
+  
+
+  
+  
+      <main class="content ">
+          <div class="col-item col-featured">
+
+        
+<article id="node-132816" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/marine-killed-peleliu-accounted-80-years-after-battle">
+
+      <div class="col-image">
+              <a href="/war/articles/marine-killed-peleliu-accounted-80-years-after-battle" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="491" height="328" alt="A Marine Corps amphibious tractor (LVT) on “Orange” beach at Peleliu" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2024-09/lvt-peleliu.png" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2024-09/lvt-peleliu.png" alt="A Marine Corps amphibious tractor (LVT) on “Orange” beach at Peleliu"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/articles" hreflang="en">Article</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/marine-killed-peleliu-accounted-80-years-after-battle" rel="bookmark" target="_self">Marine Killed at Peleliu Accounted For 80 Years After Battle</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>After 80 years, the remains of Private First Class John Henry Newstrom, a US Marine killed during the Battle of Peleliu in 1944, have been identified and will be returned home thanks to a joint recovery effort by the US and Japanese governments.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+</div>
+
+      
+      
+    </main>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  
+      <main class="content col-flex--1">
+      <div>
+  
+  <ul class="column-grid cols--2">
+
+          <li class="col-item">
+
+        
+<article id="node-132812" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/eleanor-roosevelts-my-day-column-after-fdrs-death">
+
+      <div class="col-image">
+              <a href="/war/articles/eleanor-roosevelts-my-day-column-after-fdrs-death" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="506" alt="Franklin D. Roosevelt and Eleanor Roosevelt" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2025-04/09-1664a.png" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2025-04/09-1664a.png" alt="Franklin D. Roosevelt and Eleanor Roosevelt"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/articles" hreflang="en">Article</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/eleanor-roosevelts-my-day-column-after-fdrs-death" rel="bookmark" target="_self">Eleanor Roosevelt’s My Day Column after FDR's Death</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>In her first <em>My Day</em> column after Franklin D. Roosevelt's death on April 12, 1945, Eleanor Roosevelt reflects on the sorrow following his passing, honors his commitment to justice, and urges the world to unite in building a lasting, just peace.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+</li>
+          <li class="col-item">
+
+        
+<article id="node-132810" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/lost-wwii-shipwrecks-discovered-aleutian-waters-attu-island">
+
+      <div class="col-image">
+              <a href="/war/articles/lost-wwii-shipwrecks-discovered-aleutian-waters-attu-island" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="506" alt="Members of the Exploring Attu’s Underwater Battlefield and Offshore Environment expedition" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2025-04/Group%20Photo.png" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2025-04/Group%20Photo.png" alt="Members of the Exploring Attu’s Underwater Battlefield and Offshore Environment expedition"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/articles" hreflang="en">Article</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/lost-wwii-shipwrecks-discovered-aleutian-waters-attu-island" rel="bookmark" target="_self">New Underwater Exploration of Attu’s World War II Shipwrecks</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>A multinational team has rediscovered long-lost WWII shipwrecks off Attu Island in Alaska, using sonar, drones, and archival research to document a forgotten underwater battlefield.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+</li>
+          <li class="col-item">
+
+        
+<article id="node-132803" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/marguerite-hunold-and-weather-forecasting-aleutians">
+
+      <div class="col-image">
+              <a href="/war/articles/marguerite-hunold-and-weather-forecasting-aleutians" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="488" alt="Marguerite Hunold is greeted by Lieutenant Commander Vincent Albert Sweeney" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2025-03/474749346_640640621953498_7136788975301580151_n.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2025-03/474749346_640640621953498_7136788975301580151_n.jpg" alt="Marguerite Hunold is greeted by Lieutenant Commander Vincent Albert Sweeney"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/marguerite-hunold-and-weather-forecasting-aleutians" rel="bookmark" target="_self">Marguerite Hunold and Weather Forecasting in the Aleutians</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Marguerite Frances Hunold, a pioneering aerologist in the US Navy’s WAVES program during World War II, became the first woman in her field to serve in Alaska, where she helped shape naval aviation forecasting in one of the world’s most challenging weather environments.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+</li>
+          <li class="col-item">
+
+        
+<article id="node-132802" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/operation-iceberg-battle-okinawa">
+
+      <div class="col-image">
+              <a href="/war/articles/operation-iceberg-battle-okinawa" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="506" alt="Two Marines fighting on Okinawa" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2025-03/Ww2_158.png" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2025-03/Ww2_158.png" alt="Two Marines fighting on Okinawa"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/articles" hreflang="en">Article</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/operation-iceberg-battle-okinawa" rel="bookmark" target="_self">Operation Iceberg: The Battle for Okinawa</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Controlling the Ryukyu Islands would allow the Americans to finally sever Japan from its South Asian empire.&nbsp;</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+</li>
+    
+  </ul>
+
+</div>
+
+      
+      
+    </main>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+
+        </div>
+      </div>
+
+            <div class="content-border l-container--lg "></div>
+      
+    
+    </div>
+  
+
+          
+
+  
+
+  <div class="paragraph p-bundle p-bundle--cta-butons row-outside--md">
+          <div class="l-container--sm text-align--center">
+                        
+                      <a href="/war/explore-war" title="Explore WWII History" class="btn solid teal"><span>Explore WWII History</span></a>
+                      <a href="/about-us/notes-museum" title="Explore Updates from the Museum " class="btn solid teal"><span>Explore Updates from the Museum </span></a>
+                        </div>
+      </div>
+
+          
+
+
+
+  
+  
+
+  
+      <div class="paragraph p-bundle p-bundle--embed-views bg--very-light-grey ani-reveal">
+  
+  
+    
+
+          <div class="content-inner row-inside--md l-container--lg  ">
+    
+                  <div class="bundle--heading">
+                          <h2 class="f--secondary f--uppercase">Events &amp; Public Programs</h2>
+                                                  <a href="/events/events-calendar" class="btn basic more">See All Upcoming Events</a>
+                      </div>
+                 <div class="bundle--items">
+          <div class="views-element-container"><div class="views views-events js-view-dom-id-76966d5126588b6e787db61b6b23adf318434071b1567f4b98659cbeefe5cb67 cf">
+  
+  
+  
+
+  
+  
+  
+      <main>
+      <div class="views-view-grid horizontal cols-2 clearfix">
+            <div class="flex-grid gutter--sm">
+                  <div class="col-item col-flex--1 bg--white">
+
+        
+<article id="node-132791" class="view-mode--teaser flex-grid effect--view-mode effect--no-border view-mode--sr-from-left  cf" about="/events-programs/events/136436-evening-reflection-yom-hashoah-commemoration">
+
+      <div class="col-first col-image col-flex--1 gap--sm">
+      <div class="img-ratio--wide bg--very-light-grey">
+                  <a href="/events-programs/events/136436-evening-reflection-yom-hashoah-commemoration" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2025-04/960x700_Event%20Header.jpg?h=07f9aabd" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2025-04/960x700_Event%20Header.jpg?h=07f9aabd" alt=""/></noscript>
+
+
+
+
+</a>
+        
+      </div>
+    </div>
+    
+  <div class="col-second col-flex--2">
+    <div class="f--label f--uppercase">
+            <div class="field field--name-field-program-type field--type-entity-reference field--label-hidden field__item"><a href="/events-programs/programs/anniversaries-commemorations" hreflang="en">Anniversaries &amp; Commemorations</a></div>
+      </div>
+
+    
+    
+              <h3 class="f--title f--tertiary"><a href="/events-programs/events/136436-evening-reflection-yom-hashoah-commemoration" rel="bookmark" target="_self">An Evening of Reflection: Yom HaShoah Commemoration</a></h3>
+      
+        
+
+          <div class="f--date">
+                  04/22/2025 | 5:00 PM - 8:00 PM
+              </div>
+    
+          <div class="f--desc">
+        <p>Join us for an evening of remembrance and reflection to commemorate Yom HaShoah.</p>
+      </div>
+    
+          
+
+  <div class="tickets-info">
+    <a href="https://support.nationalww2museum.org/site/Ticketing/2050686650?view=Tickets&amp;id=136436" title="Register" class="btn solid teal wow" target="_blank"><span>Register</span></a>
+    <a href="/events-programs/events/136436-evening-reflection-yom-hashoah-commemoration" target="_self" class="btn basic more"><span>Learn More</span></a>
+  </div>
+    
+  </div>
+
+</article></div>
+                  <div class="col-item col-flex--1 bg--white">
+
+        
+<article id="node-124869" class="view-mode--teaser flex-grid effect--view-mode effect--no-border view-mode--sr-from-left  cf" about="/events-programs/events/135944-bing-belles">
+
+      <div class="col-first col-image col-flex--1 gap--sm">
+      <div class="img-ratio--wide bg--very-light-grey">
+                  <a href="/events-programs/events/135944-bing-belles" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2025-02/960x700_Event%20Header%2810%29.jpg?h=0ba02942" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2025-02/960x700_Event%20Header%2810%29.jpg?h=0ba02942" alt=""/></noscript>
+
+
+
+
+</a>
+        
+      </div>
+    </div>
+    
+  <div class="col-second col-flex--2">
+    <div class="f--label f--uppercase">
+            <div class="field field--name-field-program-type field--type-entity-reference field--label-hidden field__item"><a href="/events-programs/programs/bbs-stage-door-canteen" hreflang="en">BB&#039;s Stage Door Canteen</a></div>
+      </div>
+
+    
+    
+              <h3 class="f--title f--tertiary"><a href="/events-programs/events/135944-bing-belles" rel="bookmark" target="_self">"Bing & the Belles"</a></h3>
+      
+        
+
+          <div class="f--date">
+                  04/23/2025 | 11:45 AM - 2:00 PM
+              </div>
+    
+          <div class="f--desc">
+        <p>Join Bing and the Belles as they look back on his USO performances during World War II and sing his wartime hits.</p>
+      </div>
+    
+          
+
+  <div class="tickets-info">
+    <a href="https://ticketing.nationalww2museum.org/webstore/shop/viewItems.aspx?cg=Tickets&amp;c=BB" title="Buy tickets" class="btn solid teal wow" target="_blank"><span>Buy tickets</span></a>
+    <a href="/events-programs/events/135944-bing-belles" target="_self" class="btn basic more"><span>Learn More</span></a>
+  </div>
+    
+  </div>
+
+</article></div>
+              </div>
+          <div class="flex-grid gutter--sm">
+                  <div class="col-item col-flex--1 bg--white">
+
+        
+<article id="node-132774" class="view-mode--teaser flex-grid effect--view-mode effect--no-border view-mode--sr-from-left  cf" about="/events-programs/events/136376-sensory-friendly-morning-family-day">
+
+      <div class="col-first col-image col-flex--1 gap--sm">
+      <div class="img-ratio--wide bg--very-light-grey">
+                  <a href="/events-programs/events/136376-sensory-friendly-morning-family-day" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2025-03/960x700_Event%20Header%2815%29.jpg?h=07f9aabd" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2025-03/960x700_Event%20Header%2815%29.jpg?h=07f9aabd" alt=""/></noscript>
+
+
+
+
+</a>
+        
+      </div>
+    </div>
+    
+  <div class="col-second col-flex--2">
+    <div class="f--label f--uppercase">
+            <div class="field field--name-field-program-type field--type-entity-reference field--label-hidden field__item"><a href="/events-programs/programs/special-events" hreflang="en">Special Events</a></div>
+      </div>
+
+    
+    
+              <h3 class="f--title f--tertiary"><a href="/events-programs/events/136376-sensory-friendly-morning-family-day" rel="bookmark" target="_self">Sensory Friendly Morning: Family Day</a></h3>
+      
+        
+
+          <div class="f--date">
+                  04/26/2025 | 8:00 AM - 12:00 PM
+              </div>
+    
+          <div class="f--desc">
+        <p>Join us in partnership with the Autism Society of Greater New Orleans for a morning of sensory friendly fun!</p>
+      </div>
+    
+          
+
+  <div class="tickets-info">
+    <a href="https://ticketing.nationalww2museum.org/Webstore/landingPage?cg=SFM&amp;c=SFM" title="Reserve Tickets" class="btn solid teal wow" target="_blank"><span>Reserve Tickets</span></a>
+    <a href="/events-programs/events/136376-sensory-friendly-morning-family-day" target="_self" class="btn basic more"><span>Learn More</span></a>
+  </div>
+    
+  </div>
+
+</article></div>
+                  <div class="col-item col-flex--1 bg--white">
+
+        
+<article id="node-124870" class="view-mode--teaser flex-grid effect--view-mode effect--no-border view-mode--sr-from-left  cf" about="/events-programs/events/135945-bing-belles">
+
+      <div class="col-first col-image col-flex--1 gap--sm">
+      <div class="img-ratio--wide bg--very-light-grey">
+                  <a href="/events-programs/events/135945-bing-belles" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="400" height="290" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_small/public/2025-02/960x700_Event%20Header%2810%29.jpg?h=0ba02942" />
+<noscript><img src="/sites/default/files/styles/wide_small/public/2025-02/960x700_Event%20Header%2810%29.jpg?h=0ba02942" alt=""/></noscript>
+
+
+
+
+</a>
+        
+      </div>
+    </div>
+    
+  <div class="col-second col-flex--2">
+    <div class="f--label f--uppercase">
+            <div class="field field--name-field-program-type field--type-entity-reference field--label-hidden field__item"><a href="/events-programs/programs/bbs-stage-door-canteen" hreflang="en">BB&#039;s Stage Door Canteen</a></div>
+      </div>
+
+    
+    
+              <h3 class="f--title f--tertiary"><a href="/events-programs/events/135945-bing-belles" rel="bookmark" target="_self">"Bing & the Belles"</a></h3>
+      
+        
+
+          <div class="f--date">
+                  05/07/2025 | 11:45 AM - 2:00 PM
+              </div>
+    
+          <div class="f--desc">
+        <p>Join Bing and the Belles as they look back on his USO performances during World War II and sing his wartime hits.</p>
+      </div>
+    
+          
+
+  <div class="tickets-info">
+    <a href="https://ticketing.nationalww2museum.org/webstore/shop/viewItems.aspx?cg=Tickets&amp;c=BB" title="Buy tickets" class="btn solid teal wow" target="_blank"><span>Buy tickets</span></a>
+    <a href="/events-programs/events/135945-bing-belles" target="_self" class="btn basic more"><span>Learn More</span></a>
+  </div>
+    
+  </div>
+
+</article></div>
+              </div>
+      </div>
+
+      
+      
+    </main>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+
+        </div>
+      </div>
+
+            <div class="content-border l-container--lg "></div>
+      
+    
+    </div>
+  
+
+          
+
+
+
+
+
+
+  <div class="paragraph p-bundle p-bundle--block-carousel">
+          <div class="content-inner l-container--lg row-inside--md effect--with-border  ">
+                  <div class="bundle--heading">
+                          <h2 class="f--secondary f--uppercase">Trending Topics</h2>
+                                      <a href="/war/explore-war" class="btn basic more">Explore The War</a>
+                      </div>
+         
+                        
+                
+                
+<ul class="carousel-group cf" class="field field--name-field-callout-items-p field--type-entity-reference-revisions field--label-hidden">
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2025-03/okinawa.png?h=f3846524" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2025-03/okinawa.png?h=f3846524" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Battle of Okinawa</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="https://www.nationalww2museum.org/war/topics/battle-of-okinawa" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2025-01/iwojima.png?h=cf907513" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2025-01/iwojima.png?h=cf907513" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Battle of Iwo Jima</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="https://www.nationalww2museum.org/war/topics/battle-iwo-jima" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2024-08/American_290th_Infantry_Regiment_infantrymen_fighting_in_snow_during_the_Battle_of_the_Bulge.jpg?h=3df67fa1" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2024-08/American_290th_Infantry_Regiment_infantrymen_fighting_in_snow_during_the_Battle_of_the_Bulge.jpg?h=3df67fa1" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Battle of the Bulge</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="https://www.nationalww2museum.org/war/topics/battle-bulge" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2024-05/Into_the_Jaws_of_Death_23-0455M_edit.jpg?h=35db0da9" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2024-05/Into_the_Jaws_of_Death_23-0455M_edit.jpg?h=35db0da9" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">D-Day and the Normandy Campaign</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="https://www.nationalww2museum.org/war/topics/d-day-and-normandy-campaign" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2022-02/%2522Line_up_of_some_of_women_welders_including_the_women%27s_welding_champion_of_Ingalls_%28Shipbuilding_Corp.%2C_Pascagoula%2C_MS%29_-_NARA_-_522890.jpg?h=07f9aabd" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2022-02/%2522Line_up_of_some_of_women_welders_including_the_women%27s_welding_champion_of_Ingalls_%28Shipbuilding_Corp.%2C_Pascagoula%2C_MS%29_-_NARA_-_522890.jpg?h=07f9aabd" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Women of World War II</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="https://www.nationalww2museum.org/war/topics/women-world-war-ii" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+  </ul>
+
+
+      </div>
+      </div>
+
+          
+
+
+
+
+
+  <div class="paragraph p-bundle p-bundle--block-carousel">
+          <div class="content-inner l-container--lg row-inside--md ">
+                  <div class="bundle--heading">
+                          <h2 class="f--secondary f--uppercase">Event Recaps</h2>
+                                      <a href="/events-programs/event-recaps" class="btn basic more">Explore More Event Recaps</a>
+                      </div>
+         
+        
+<ul class="carousel-group gutter--md cf" class="field field--name-field-related-items field--type-entity-reference field--label-hidden">
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-132793" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-robin-judd-between-two-worlds">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-robin-judd-between-two-worlds" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2025-03/960x700_Event%20Header%20%281%29.jpg?h=07f9aabd" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2025-03/960x700_Event%20Header%20%281%29.jpg?h=07f9aabd" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-robin-judd-between-two-worlds" rel="bookmark" target="_self">Meet the Author: Robin Judd, "Between Two Worlds"</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Facing the harrowing task of rebuilding a life in the wake of the Holocaust, many Jewish survivors, community and religious leaders, and Allied soldiers viewed marriage between Jewish women and military personnel as a way to move forward after unspeakable loss.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-132761" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/fighting-right-fight-african-american-experiences-world-war-ii-symposium">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/fighting-right-fight-african-american-experiences-world-war-ii-symposium" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2025-02/fftrtf-symposium_1.png?h=484f51ea" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2025-02/fftrtf-symposium_1.png?h=484f51ea" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/fighting-right-fight-african-american-experiences-world-war-ii-symposium" rel="bookmark" target="_self">Fighting for the Right to Fight: African American Experiences in World War II Symposium</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>The engaging daylong symposium program provided a deep dive into the significant role Black servicemembers and Home Front workers played in securing Allied victory in World War II.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-124773" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-anthony-tucker-jones-hitlers-winter-and-churchill-cold-war">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-anthony-tucker-jones-hitlers-winter-and-churchill-cold-war" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-11/960x700_Event%20Header%289%29.jpg?h=0bec7728" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-11/960x700_Event%20Header%289%29.jpg?h=0bec7728" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-anthony-tucker-jones-hitlers-winter-and-churchill-cold-war" rel="bookmark" target="_self">Meet the Author: Anthony Tucker-Jones, "Hitler’s Winter" and "Churchill Cold War Warrior"</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>In <em>Hitler’s Winter</em>, Anthony Tucker-Jones explores the Battle of the Bulge, the last major German offensive in the West.&nbsp;</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-124750" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/17th-international-conference-world-war-ii">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/17th-international-conference-world-war-ii" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" alt="2024 International Conference Title Slide" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-11/24-0652_17th%20International%20Conference%20Livestream_Title%20Slide.jpg?h=9cb47cad" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-11/24-0652_17th%20International%20Conference%20Livestream_Title%20Slide.jpg?h=9cb47cad" alt="2024 International Conference Title Slide"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/17th-international-conference-world-war-ii" rel="bookmark" target="_self">17th International Conference on World War II</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>The 17th International Conference on World War II, a program of the Jenny Craig Institute for the Study of War and Democracy at The National WWII Museum, was presented by the Pritzker Military Foundation on behalf of Pritzker Military Museum &amp; Library, with additional support from the Gen. Raymond E. Mason Jr. Distinguished Lecture Series on World War II Endowment Fund and the George P. Shultz Forum on World Affairs.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-124774" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-rona-simmons-no-average-day-24-hours-october-24-1944">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-rona-simmons-no-average-day-24-hours-october-24-1944" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-09/24-0775%20_%20MTA%20-%20No%20Average%20Day_V1_960x700%20Website%20Calendar.jpg?h=6328b48a" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-09/24-0775%20_%20MTA%20-%20No%20Average%20Day_V1_960x700%20Website%20Calendar.jpg?h=6328b48a" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-rona-simmons-no-average-day-24-hours-october-24-1944" rel="bookmark" target="_self">Meet the Author: Rona Simmons, No Average Day: The 24 Hours of October 24, 1944</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>More than 2,600 Americans perished around the world on October 24, 1944—a day overshadowed by more widely remembered dates in WWII history.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-120381" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-stephen-o-sears-sunniland">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-stephen-o-sears-sunniland" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-07/960x700_Event%20Header%281%29.jpg?h=0bec7728" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-07/960x700_Event%20Header%281%29.jpg?h=0bec7728" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-stephen-o-sears-sunniland" rel="bookmark" target="_self">Meet the Author: Stephen O. Sears, 'Sunniland'</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>The novel Sunniland follows a young geologist in Florida monitoring the development of a new oil well while facing a German U-boat rampage taking place in the nearby Gulf of Mexico in the spring of 1943.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117983" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-mark-t-calhoun-general-lesley-j-mcnair">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-mark-t-calhoun-general-lesley-j-mcnair" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-06/960x700_Event%20Header.jpg?h=0bec7728" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-06/960x700_Event%20Header.jpg?h=0bec7728" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-mark-t-calhoun-general-lesley-j-mcnair" rel="bookmark" target="_self">Meet the Author: Mark T. Calhoun, "General Lesley J. McNair"</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Mark Calhoun, PhD, offered a detailed examination of General Lesley J. McNair, a man so instrumental to America’s military preparedness and Army modernization but remains little-known today.&nbsp;</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117903" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/beyond-beaches-d1-and-battle-normandy">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/beyond-beaches-d1-and-battle-normandy" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" alt="Beyond the Beaches" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-06/24-0480%20Beyond%20the%20Beaches%20D-Day%20Symposium%20Livestream%20Graphics_Symposium_0.jpg?h=37a4c5f6" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-06/24-0480%20Beyond%20the%20Beaches%20D-Day%20Symposium%20Livestream%20Graphics_Symposium_0.jpg?h=37a4c5f6" alt="Beyond the Beaches"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/beyond-beaches-d1-and-battle-normandy" rel="bookmark" target="_self">Beyond the Beaches: D+1 and the Battle for Normandy</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>At this free daylong public symposium, guests heard from leading historians on the challenges, battles, and victories that followed the June 6 Allied landings and made the liberation of Europe from Nazi oppression possible.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117893" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/museum-celebrates-2024-american-spirit-awards-new-orleans">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/museum-celebrates-2024-american-spirit-awards-new-orleans" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" alt="American Spirit Awards 2024" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-06/1%20AMERICAN%20SPIRIT%20AWARDS%202024_287.JPG?h=591a005c" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-06/1%20AMERICAN%20SPIRIT%20AWARDS%202024_287.JPG?h=591a005c" alt="American Spirit Awards 2024"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/museum-celebrates-2024-american-spirit-awards-new-orleans" rel="bookmark" target="_self">Museum Celebrates 2024 American Spirit Awards in New Orleans</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Tuskegee Airmen, Four-Star General Ann E. Dunwoody, and Acclaimed Filmmaker Steven Spielberg Bestowed with Museum’s Highest Honor</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117818" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/dauntless-conversation-wwii-veteran-paul-hilliard">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/dauntless-conversation-wwii-veteran-paul-hilliard" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-04/24-0229-mason-lecture-hilliard-960x700-web-cal-entry.jpg?h=6328b48a" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-04/24-0229-mason-lecture-hilliard-960x700-web-cal-entry.jpg?h=6328b48a" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/dauntless-conversation-wwii-veteran-paul-hilliard" rel="bookmark" target="_self">Dauntless: A Conversation with WWII Veteran Paul Hilliard</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Visitors at the National WWII Museum had the special opportunity to hear from WWII veteran and Museum Trustee Paul Hilliard as he discussed his life story documented in the new biography, <em>Dauntless</em>.&nbsp;</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117758" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/our-war-too-womens-history-symposium">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/our-war-too-womens-history-symposium" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" alt="Our War Too Women&#039;s History Symposium" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-03/Z6A_8045.jpg?h=af64fd07" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-03/Z6A_8045.jpg?h=af64fd07" alt="Our War Too Women&amp;#039;s History Symposium"/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/our-war-too-womens-history-symposium" rel="bookmark" target="_self">Our War Too: Women's History Symposium</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>The symposium, which took place from February 29 to March 1, 2024, featured topics expanding upon the Museum’s special exhibit, <em>Our War Too: Women in Service</em>.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117718" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-james-b-conroy-devils-will-get-no-rest">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-james-b-conroy-devils-will-get-no-rest" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2023-11/23-0959%20MTA%20-%20The%20Devil%20Will%20Get%20No%20Rest_Website%20Calendar%20Entry%20960x700.jpg?h=6328b48a" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2023-11/23-0959%20MTA%20-%20The%20Devil%20Will%20Get%20No%20Rest_Website%20Calendar%20Entry%20960x700.jpg?h=6328b48a" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-james-b-conroy-devils-will-get-no-rest" rel="bookmark" target="_self">Meet the Author: James B. Conroy, 'The Devils Will Get No Rest'</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Conroy discussed his unique perspective of the Anglo-American clash over military strategy in January 1943 that ultimately produced the Allied plan for victory in World War II.</p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-117698" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/2023-international-conference-world-war-ii">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/2023-international-conference-world-war-ii" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2024-01/2023_IntlConf_May2023_eComm%20%281%29.jpg?h=63d2fa23" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2024-01/2023_IntlConf_May2023_eComm%20%281%29.jpg?h=63d2fa23" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/2023-international-conference-world-war-ii" rel="bookmark" target="_self">2023 International Conference on World War II</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>The 16th International Conference on World War II, a program of the Jenny Craig Institute for the Study of War and Democracy at The National WWII Museum, was presented by the Pritzker Military Foundation on behalf of Pritzker Military Museum &amp; Library, with additional support from The Gen. Raymond E. Mason Jr. Distinguished Lecture Series on World War II Endowment Fund.<o:p></o:p></p>
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-116485" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/pearl-harbor-commemorative-ceremony">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/pearl-harbor-commemorative-ceremony" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-12/22-0906%20PearlHarbor_PromotionalPackage_960x700.png?h=864d3346" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-12/22-0906%20PearlHarbor_PromotionalPackage_960x700.png?h=864d3346" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/pearl-harbor-commemorative-ceremony" rel="bookmark" target="_self">Pearl Harbor Commemorative Ceremony</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>During this year’s commemorative ceremony, pay tribute to those who lost their lives on December 7, 1941, through a moving program that brings to life the enduring significance and legacy of this day, its heroic Medal of Honor actions, and its relevance today.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-116431" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/keep-touch-letters-hope">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/keep-touch-letters-hope" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-10/22-0710%20EoA_StudentWebinar_PromotionalGraphics_960x700.jpeg?h=864d3346" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-10/22-0710%20EoA_StudentWebinar_PromotionalGraphics_960x700.jpeg?h=864d3346" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/keep-touch-letters-hope" rel="bookmark" target="_self"><em>Keep in Touch: Letters of Hope</em></a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>During this webinar, Linda Hope, daughter of Bob Hope, and The National WWII Museum will discuss her father’s legacy by examining some of the letters he received, emphasizing how this translates to current classrooms and how letter writing can still make an impact on active military communities today.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-116432" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/why-did-kristallnacht-happen-teaching-history-european-antisemitism">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/why-did-kristallnacht-happen-teaching-history-european-antisemitism" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-09/Oct.%2022%20Webinar_Event%20Page%20Image.jpg?h=07f9aabd" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-09/Oct.%2022%20Webinar_Event%20Page%20Image.jpg?h=07f9aabd" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/why-did-kristallnacht-happen-teaching-history-european-antisemitism" rel="bookmark" target="_self">Why Did "Kristallnacht" Happen? Teaching the History of European Antisemitism</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Learn about&nbsp;<em>Kristallnacht&nbsp;</em>or the “Night of Broken Glass” and how the history of European antisemitism helped lead to this event.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-115694" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/meet-author-borderlands-biography-z-anthony-kruszewski-wartime-europe-and">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/meet-author-borderlands-biography-z-anthony-kruszewski-wartime-europe-and" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-09/Kruszewski%20and%20Halicka%20photo.jpeg?h=158ec70b" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-09/Kruszewski%20and%20Halicka%20photo.jpeg?h=158ec70b" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/meet-author-borderlands-biography-z-anthony-kruszewski-wartime-europe-and" rel="bookmark" target="_self">Meet the Author&mdash;<em>Borderlands Biography: Z. Anthony Kruszewski in Wartime Europe and Postwar America</em></a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Join us for an engaging evening with Z. Anthony Kruszewski—an eyewitness to the war in Europe, an extraordinary man, and leading intellectual in the Polish-American community.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-115658" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/lunchbox-lecture-unconditional-extermination-operation-reinhard-and-ss-camps">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/lunchbox-lecture-unconditional-extermination-operation-reinhard-and-ss-camps" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-08/22-0539-lbl-unconditional-extermination-event-graphic-960x700-r1.jpeg?h=6328b48a" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-08/22-0539-lbl-unconditional-extermination-event-graphic-960x700-r1.jpeg?h=6328b48a" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/lunchbox-lecture-unconditional-extermination-operation-reinhard-and-ss-camps" rel="bookmark" target="_self">Lunchbox Lecture: Unconditional Extermination: Operation Reinhard and the SS Camps at Belzec, Sobibor, and Treblinka</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>This presentation will offer a detailed history of the Operation Reinhard camps Belzec, Sobibor, and Treblinka in 1942–1943 and where they might fit in the larger history of the Holocaust.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-110682" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/lunchbox-lecture-mealtime-mess-halls-food-japanese-american-incarceration">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/lunchbox-lecture-mealtime-mess-halls-food-japanese-american-incarceration" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-07/22-0462%20LBL%20Japanese%20Incarceration_WebsiteCalendarEntry.jpeg?h=864d3346" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-07/22-0462%20LBL%20Japanese%20Incarceration_WebsiteCalendarEntry.jpeg?h=864d3346" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/lunchbox-lecture-mealtime-mess-halls-food-japanese-american-incarceration" rel="bookmark" target="_self">Lunchbox Lecture: Mealtime in the Mess Halls: Food in the Japanese American Incarceration Camps of World War II</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>During World War II, 120,000 Japanese Americans attempted to adjust to their lives behind barbed wire at one of 10 incarceration camps—and this included encountering new food served in the mess halls.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-110010" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/lunchbox-lecture-holocaust-bullets">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/lunchbox-lecture-holocaust-bullets" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-06/22-0432-lbl-holocaust-by-bullets-event-graphic-960x700-r1.jpeg?h=6328b48a" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-06/22-0432-lbl-holocaust-by-bullets-event-graphic-960x700-r1.jpeg?h=6328b48a" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/lunchbox-lecture-holocaust-bullets" rel="bookmark" target="_self">Lunchbox Lecture: Holocaust By Bullets</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Before the killing centers opened at Birkenau, Treblinka, Sobibor, Belzec, and Majdanek, Jews were already being murdered by the Germans, their Axis allies, and local collaborators in Ukraine, Belarus, and other USSR republics.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-108646" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/black-soldiers-letters-home">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/black-soldiers-letters-home" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-06/22-0424-killion-family-letters-event-graphic-960x700-r1.jpg?h=6328b48a" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-06/22-0424-killion-family-letters-event-graphic-960x700-r1.jpg?h=6328b48a" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/black-soldiers-letters-home" rel="bookmark" target="_self">A Black Soldier's Letters Home</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Join us for a special program highlighting wartime correspondence from James Killion, Jr.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-107434" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/about-us/notes-museum/chinas-war-chinas-memories">
+
+      <div class="col-image">
+              <a href="/about-us/notes-museum/chinas-war-chinas-memories" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="960" height="700" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/wide_medium/public/2022-06/chinas-good-war-website.jpg?h=4fa54830" />
+<noscript><img src="/sites/default/files/styles/wide_medium/public/2022-06/chinas-good-war-website.jpg?h=4fa54830" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+            <div class="field field--name-field-blog-type field--type-entity-reference field--label-hidden field__item"><a href="/taxonomy/term/51" hreflang="en">Event Recap</a></div>
+      </div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/about-us/notes-museum/chinas-war-chinas-memories" rel="bookmark" target="_self">China's War, China's Memories</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Join us for an engaging conversation about Sir Rana Mitter's two masterful works,&nbsp;<em>Forgotten Ally</em>&nbsp;and&nbsp;<em>China’s Good War: How World War II Is Shaping a New Nationalism</em>.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+  </ul>
+
+
+
+      </div>
+      </div>
+
+          
+
+
+  
+
+
+  <div class="paragraph p-bundle p-bundle--block-carousel">
+          <div class="content-inner l-container--lg row-inside--md border--top-thin">
+                  <div class="bundle--heading">
+                          <h2 class="f--secondary f--uppercase">Oral History Profiles</h2>
+                                      <a href="/war/profiles" class="btn basic more">Explore More Oral History Profiles</a>
+                      </div>
+         
+        
+<ul class="carousel-group gutter--md cf" class="field field--name-field-related-items field--type-entity-reference field--label-hidden">
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54278" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/mark-gordon-hazard-79th-infantry-division">
+
+      <div class="col-image">
+              <a href="/war/articles/mark-gordon-hazard-79th-infantry-division" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-10/20-0419-national-ww2-gordon-hazard-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-10/20-0419-national-ww2-gordon-hazard-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/mark-gordon-hazard-79th-infantry-division" rel="bookmark" target="_self">Mark Gordon Hazard, 79th Infantry Division</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Mark Hazard discusses a patrol he led behind German lines just before the assault on Hagenau with the objective of capturing a German soldier to interrogate for information about enemy strength in the area.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54229" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/benjamin-carson-2nd-marine-raider-battalion">
+
+      <div class="col-image">
+              <a href="/war/articles/benjamin-carson-2nd-marine-raider-battalion" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-09/20-0404-national-ww2-ben-carson-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-09/20-0404-national-ww2-ben-carson-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/benjamin-carson-2nd-marine-raider-battalion" rel="bookmark" target="_self">Benjamin Carson, 2nd Marine Raider Battalion</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Benjamin Carson talks about volunteering for the 2nd Marine Raider Battalion and the brutally realistic training they received in San Diego to prepare for combat in the Pacific.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54205" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/jack-glass-uss-enterprise-cv-6">
+
+      <div class="col-image">
+              <a href="/war/articles/jack-glass-uss-enterprise-cv-6" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-09/20-0344-national-ww2-jack-glass-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-09/20-0344-national-ww2-jack-glass-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/jack-glass-uss-enterprise-cv-6" rel="bookmark" target="_self">Jack Glass, USS <em>Enterprise</em> (CV-6)</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Jack Glass describes his experiences aboard the USS <em>Enterprise</em> (CV-6) during the Battle of the Eastern Solomons in August 1942.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54192" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/frank-buschmeier-100th-bomb-group">
+
+      <div class="col-image">
+              <a href="/war/articles/frank-buschmeier-100th-bomb-group" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-09/20-0328-national-ww2-frank-buschmeier-blog-post-header-970x600-r1%20%281%29.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-09/20-0328-national-ww2-frank-buschmeier-blog-post-header-970x600-r1%20%281%29.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/frank-buschmeier-100th-bomb-group" rel="bookmark" target="_self">Frank Buschmeier, 100th Bomb Group</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Frank Buschmeier discusses his capture and subsequent imprisonment after his B-17 was shot down during a mission to Merseberg, Germany in July 1944.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54174" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/james-horse-collar-smith-1st-marine-raider-battalion">
+
+      <div class="col-image">
+              <a href="/war/articles/james-horse-collar-smith-1st-marine-raider-battalion" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-09/20-0343-national-ww2-james-smith-blog-post-header-970x600-r2.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-09/20-0343-national-ww2-james-smith-blog-post-header-970x600-r2.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/james-horse-collar-smith-1st-marine-raider-battalion" rel="bookmark" target="_self">James “Horse Collar” Smith, 1st Marine Raider Battalion</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>James “Horse Collar” Smith describes his experiences during the Battle of Bloody Ridge on Guadalcanal in September 1942.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54161" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/walter-jacobs-77th-infantry-division">
+
+      <div class="col-image">
+              <a href="/war/articles/walter-jacobs-77th-infantry-division" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0342-national-ww2-walter-jacobs-blog-post-header-970x600-r3.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0342-national-ww2-walter-jacobs-blog-post-header-970x600-r3.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/walter-jacobs-77th-infantry-division" rel="bookmark" target="_self">Walter Jacobs, 77th Infantry Division</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Walter Jacobs talks about encountering a wounded Japanese soldier during the fighting on Ie Shima and how he believes that his sparing of an enemy soldier’s life resulted in him surviving the fighting there and later on Okinawa.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54137" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/florence-reynolds-wasp">
+
+      <div class="col-image">
+              <a href="/war/articles/florence-reynolds-wasp" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0336-national-ww2-museum-oral-history-name-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0336-national-ww2-museum-oral-history-name-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/florence-reynolds-wasp" rel="bookmark" target="_self">Florence Reynolds, WASP</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Florence Reynolds describes a negative encounter she had with an Army Air Forces maintenance officer when she questioned the condition of an aircraft she was ordered to fly.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54126" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/william-s-jones-7th-infantry-division-attu">
+
+      <div class="col-image">
+              <a href="/war/articles/william-s-jones-7th-infantry-division-attu" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0333-national-ww2-william-jones-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0333-national-ww2-william-jones-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/william-s-jones-7th-infantry-division-attu" rel="bookmark" target="_self">William S. Jones, 7th Infantry Division, Attu</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>William S. Jones describes his experiences during the fight to recapture Attu in the Aleutian Islands in May 1943.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54113" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/mike-iron-mike-mervosh-4th-marine-division">
+
+      <div class="col-image">
+              <a href="/war/articles/mike-iron-mike-mervosh-4th-marine-division" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0325-national-ww2-mike-mervosh-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0325-national-ww2-mike-mervosh-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/mike-iron-mike-mervosh-4th-marine-division" rel="bookmark" target="_self">Mike “Iron Mike” Mervosh, 4th Marine Division</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Mike Mervosh describes his experience with the flag raising on Iwo Jima.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54112" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/herbert-helibrun-301st-bomb-group">
+
+      <div class="col-image">
+              <a href="/war/articles/herbert-helibrun-301st-bomb-group" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0324-national-ww2-herbert-helibrun-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0324-national-ww2-herbert-helibrun-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/herbert-helibrun-301st-bomb-group" rel="bookmark" target="_self">Herbert Helibrun, 301st Bomb Group</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Herbert Heilbrun describes the Christmas 1944 mission he took part in to bomb the oil refineries at Brux, Czechoslovakia and how well defended the area was.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54111" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/stanley-wolczyk-7th-infantry-division-attu">
+
+      <div class="col-image">
+              <a href="/war/articles/stanley-wolczyk-7th-infantry-division-attu" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0323-national-ww2-stanley-wolczyk-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0323-national-ww2-stanley-wolczyk-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/stanley-wolczyk-7th-infantry-division-attu" rel="bookmark" target="_self">Stanley Wolczyk, 7th Infantry Division, Attu</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Stanley Wolczyk discusses his experiences on Attu in May 1943 and being wounded late in the fight, a wound which ended his Army service.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54110" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/charles-mcgee-332nd-fighter-group">
+
+      <div class="col-image">
+              <a href="/war/articles/charles-mcgee-332nd-fighter-group" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0322-national-ww2-charles-mcgee-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0322-national-ww2-charles-mcgee-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/charles-mcgee-332nd-fighter-group" rel="bookmark" target="_self">Charles McGee, 332nd Fighter Group</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Charles McGee discusses flying bomber escort for 15th Air Force heavy bombardment groups and downing a German Focke Wulf Fw 190 during one of those missions.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54109" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/george-peto-1st-marine-division">
+
+      <div class="col-image">
+              <a href="/war/articles/george-peto-1st-marine-division" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-08/20-0321-national-ww2-george-peto-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-08/20-0321-national-ww2-george-peto-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/george-peto-1st-marine-division" rel="bookmark" target="_self">George Peto, 1st Marine Division</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>George Peto describes an uphill assault he took part in on Okinawa that ended up being his proudest day in the Marine Corps, despite the tremendous casualties his company suffered.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54078" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/maynard-david-504th-bomb-group">
+
+      <div class="col-image">
+              <a href="/war/articles/maynard-david-504th-bomb-group" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-07/20-0319-national-ww2-david-maynard-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-07/20-0319-national-ww2-david-maynard-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/maynard-david-504th-bomb-group" rel="bookmark" target="_self">Maynard David, 504th Bomb Group</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Maynard David talks about a particularly harrowing mission he and his crew flew to Tokyo, Japan in May 1945.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54077" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/theodore-dutch-van-kirk-navigator-enola-gay">
+
+      <div class="col-image">
+              <a href="/war/articles/theodore-dutch-van-kirk-navigator-enola-gay" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-07/20-0318-national-ww2-theodore-van-kirk-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-07/20-0318-national-ww2-theodore-van-kirk-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/theodore-dutch-van-kirk-navigator-enola-gay" rel="bookmark" target="_self">Theodore “Dutch” Van Kirk, Navigator on the Enola Gay</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Theodore “Dutch” Van Kirk, navigator on the Enola Gay, describes arriving at Wendover Field, Utah and figuring out that he would be taking part in a mission to drop an atomic bomb.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+      <li class="carousel-cell">
+      
+
+        
+<article id="node-54076" class="view-mode--teaser-tile effect--view-mode  cf view-mode--hover-effect"  about="/war/articles/joseph-sasser-50th-engineers-attu">
+
+      <div class="col-image">
+              <a href="/war/articles/joseph-sasser-50th-engineers-attu" target="_self">
+    
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="650" height="474" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/max_650x650/public/2020-07/20-0317-national-ww2-joseph-sasser-blog-post-header-970x600-r1.jpg" />
+<noscript><img src="/sites/default/files/styles/max_650x650/public/2020-07/20-0317-national-ww2-joseph-sasser-blog-post-header-970x600-r1.jpg" alt=""/></noscript>
+
+
+
+
+</a>
+          </div>
+  
+  <div class="col-content">
+
+    <div class="f--label f--uppercase effect--f">
+  <div class="field field--name-field-article-type field--type-entity-reference field--label-above">
+    <div class="field__label">Article Type</div>
+              <div class="field__item"><a href="/war/profiles-0" hreflang="en">Profile</a></div>
+          </div>
+</div>
+
+    
+    
+                    <h3 class="f--title f--tertiary"><a href="/war/articles/joseph-sasser-50th-engineers-attu" rel="bookmark" target="_self">Joseph Sasser, 50th Engineers, Attu</a></h3>
+            
+    
+
+    
+          <div class="f--desc">
+        <p>Joseph Sasser discusses his experiences on Engineer Hill during the final hours of the Battle of Attu in May 1943.</p>
+
+      </div>
+        
+    
+  </div>
+
+</article>
+
+    </li>
+  </ul>
+
+
+
+      </div>
+      </div>
+
+          
+
+
+  <div class="paragraph p-bundle p-bundle--full-width-callout bg-black ani-reveal">
+    
+                        <div class="bg-img parallax" style="background-image: url('/sites/default/files/styles/hero_large/public/2020-08/20-0304_V-J_Day_Brightsign_Slides_1920x1080_1.jpg');"></div>
+          <span class="bg-overlay overlay--dark"></span>
+              
+      <div class="l-container--sm">
+        <div class="content-inner">
+                      <div class="f--label f--uppercase">A PODCAST SERIES FROM THE NATIONAL WWII MUSEUM</div>
+          
+                      <h2 class="f--secondary f--uppercase"><em>1945</em></h2>
+          
+                      <div class="f--desc"><p>To commemorate the 80th anniversary of the end of World War II, The National WWII Museum presents <em>1945</em>, a new six-part podcast series that tells the story of one of the most consequential years in modern history. Episodes available weekly starting April 17.</p></div>
+          
+                      <a href="https://www.nationalww2museum.org/war/podcasts/1945" title="Learn More" class="btn solid"><span>Learn More</span></a>
+                  </div>
+      </div>
+      </div>
+
+          
+
+
+
+
+
+
+  <div class="paragraph p-bundle p-bundle--block-carousel">
+          <div class="content-inner l-container--lg row-inside--md effect--with-border  ">
+                  <div class="bundle--heading">
+                          <h2 class="f--secondary f--uppercase">WWII Podcasts</h2>
+                                      <a href="/podcasts" class="btn basic more">Browse all series</a>
+                      </div>
+         
+                        
+                
+                
+<ul class="carousel-group cf" class="field field--name-field-callout-items-p field--type-entity-reference-revisions field--label-hidden">
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2025-03/24-0762_1945%20End%20of%20War%20Podcast%20Promotion_V2.jpg?h=8cf625d8" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2025-03/24-0762_1945%20End%20of%20War%20Podcast%20Promotion_V2.jpg?h=8cf625d8" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">1945</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="/war/podcasts/1945" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2024-05/24-0350%20On-Topic%20Podcast%20Artwork_FINAL.jpg?h=bb151699" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2024-05/24-0350%20On-Topic%20Podcast%20Artwork_FINAL.jpg?h=bb151699" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">World War II On Topic</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="/war/podcasts/world-war-ii-topic" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2024-09/24-0703_Antisemitism%20The%20Fight%20at%20Home%20Podcast%20Promotion_Promo%20Art.jpg?h=82ff5361" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2024-09/24-0703_Antisemitism%20The%20Fight%20at%20Home%20Podcast%20Promotion_Promo%20Art.jpg?h=82ff5361" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Antisemitism: The Fight in WWII America</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="/war/podcasts/antisemitism-fight-wwii-america" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2024-01/23-1096%20Channel%20Cover%203000X3000_Option%203_V3_0.jpg?h=f405c703" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2024-01/23-1096%20Channel%20Cover%203000X3000_Option%203_V3_0.jpg?h=f405c703" alt=""/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Making Masters of the Air</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="/war/podcasts/making-masters-air" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" alt="Thumbnail" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2020-10/20-0097_TBMA_Podcast_Tile_ID.jpg" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2020-10/20-0097_TBMA_Podcast_Tile_ID.jpg" alt="Thumbnail"/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">"To The Best of My Ability"</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="/war/podcasts/best-my-ability-podcast" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+      <li class="carousel-cell effect--carousel-cell">
+        <div class="paragraph paragraph--type--bundle-callout-image-items paragraph--view-mode--default">
+                      
+              <figure class="cb-image">
+          <div class="img-ratio--tall bg--dark">
+            
+            <div class="field field--name-field-callout-image field--type-entity-reference field--label-hidden field__item">  
+<img loading="lazy" src="/themes/nwwiim/images/loaders/placeholder.gif" width="580" height="690" alt="Thumbnail" typeof="foaf:Image" class="b-lazy" data-src="/sites/default/files/styles/narrow_medium/public/2018-06/32756152_210206009763863_5078610991420276736_o.jpg" />
+<noscript><img src="/sites/default/files/styles/narrow_medium/public/2018-06/32756152_210206009763863_5078610991420276736_o.jpg" alt="Thumbnail"/></noscript>
+
+
+</div>
+      
+            <span class="bg-overlay"></span>
+          </div>
+
+                      <figcaption>
+              <div class="u-faux-table">
+                <div class="u-faux-table--align-middle effect--u-faux-table">
+                  <h3 class="f--secondary f--uppercase">Service on Celluloid</h3>
+                  <span class="icon-arrow-right"></span>
+                </div>
+              </div>
+                              <a href="/war/podcasts/service-celluloid-podcast" class="link-whole-area">Learn More</a>
+                          </figcaption>
+                  </figure>
+            </div>
+
+    </li>
+  </ul>
+
+
+      </div>
+      </div>
+
+          
+
+
+
+      
+</article>
+
+
+
+
+
+      </section>
+      </main>
+
+</div>
+
+
+  <footer id="footer" role="contentinfo">
+    
+    
+
+  
+
+
+<div id="block-donatecalloutblock" class="block p-bundle p-bundle--full-width-callout bg--light-grey">
+  
+  
+
+  
+          <div class="bg-img parallax" style="background-image: url('/sites/default/files/styles/hero_large/public/2017-07/media-dday-anniversary-lg03.jpg');"></div>
+      <span class="bg-overlay overlay--dark"></span>
+    
+    <div class="l-container--sm">
+      <div class="content-inner">
+                  <h2 class="f--secondary f--uppercase">Every day, memories of World War II—its sights and sounds, its terrors and triumphs—disappear.</h2>
+        
+                  <a href="https://secure3.convio.net/nw2m/site/Donation2?df_id=8047&amp;mfc_pref=T&amp;8047_donation=form1&amp;_ga=2.197693999.1013023893.1499027539-1310154821.1499027539" title="Give Today" class="btn solid"><span>Give Today</span></a>
+              </div>
+    </div>
+
+  </div>
+
+
+
+
+    <div class="footer-content row-inside--sm cf">
+      <div class="l-faux-table l-container--md">
+      	          <div class="footer-top col-third">
+            
+
+  
+
+<div id="block-blockfooteraddress" class="block-footer-address block block-block-content block-block-content70a391e4-61ef-45fa-9843-4672b2772891">
+  
+    
+      <div class="block-content">
+      <div class="museum-hours">
+  <p><span>Open today</span> 9:00 a.m. - 5:00 p.m.</p>
+</div>
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>945 Magazine Street, New Orleans, LA 70130<br>
+<a href="mailto:info@nationalww2museum.org">info@nationalww2museum.org</a><br>
+504-528-1944</p>
+</div>
+      
+    </div>
+  </div><nav role="navigation" aria-labelledby="block-nwwiim-footer-menu" id="block-nwwiim-footer" class="block-footer-main-menu">
+            
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/about-us" target="" data-drupal-link-system-path="node/469">About the Museum</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/media-resources" target="">Media</a>
+              </li>
+                <li class="menu-item">
+        <a href="/employment" target="" data-drupal-link-system-path="node/872">Join Our Team</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about-us/contact-us" target="" data-drupal-link-system-path="node/929">Contact Us</a>
+              </li>
+                <li class="menu-item">
+        <a href="/volunteer" target="" data-drupal-link-system-path="node/803">Volunteer</a>
+              </li>
+                <li class="menu-item">
+        <a href="/private-event-rentals" target="" data-drupal-link-system-path="node/542">Rentals</a>
+              </li>
+                <li class="menu-item">
+        <a href="/privacy-policy" target="" data-drupal-link-system-path="node/932">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.nationalww2museum.org/visit/plan-your-visit#FAQ">FAQs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/accessibility" target="" data-drupal-link-system-path="node/53281">Accessibility</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+
+
+          </div>
+        
+                  <div class="footer-bottom col-two-thirds">
+            
+
+  <nav role="navigation" aria-labelledby="block-footerutilitynavigation-menu" id="block-footerutilitynavigation" class="block block-footer-utility-menu">
+            
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://ticketing.nationalww2museum.org/Webstore/shop/ViewItems.aspx?CG=Tickets&amp;C=GA" target="">Buy Tickets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/give/become-member" target="" data-drupal-link-system-path="node/708">Become a Member</a>
+              </li>
+                <li class="menu-item">
+        <a href="/give/ways-give" target="" data-drupal-link-system-path="node/694">Donate</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://store.nationalww2museum.org/">Museum Store</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+<nav role="navigation" aria-labelledby="block-footersocialnetworksnavigation-menu" id="block-footersocialnetworksnavigation" class="block block-socials-menu">
+      
+      <h2 class="block-title" >Follow Us Today</h2>
+    
+
+        <div class="block-content">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/WWIIMuseum/" class="icon-facebook" target="_blank">Facebook</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.instagram.com/wwiimuseum/" class="icon-instagram" target="_blank">Instagram</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.youtube.com/channel/UCmTCST8yVyVMctEYY9WeMWw" class="icon-youtube" target="_blank">Youtube</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://x.com/WWIImuseum" class="icon-x" target="_blank">X (formerly Twitter)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.tiktok.com/@wwiimuseum" class="icon-tiktok">TikTok</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.linkedin.com/company/the-national-wwii-museum" class="icon-linkedin">LinkedIn</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+
+
+<div id="block-footernewsletterbutton" class="block block-type-button">
+  
+  
+
+            <a href="http://support.nationalww2museum.org/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162" title="Sign Up for our Newsletter" class="btn solid navy" target="_blank"><span>Sign Up for our Newsletter</span></a>
+      </div>
+
+<div id="block-blockfooterranking" class="block-footer-ranking block block-block-content block-block-contentc36ceb83-988b-4929-862d-8fb7a319beb5">
+  
+    
+      <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>#1 Attraction&nbsp;in New Orleans</p>
+</div>
+      
+    </div>
+  </div>
+
+
+<div id="block-blockfootermap" class="block-footer-map block block-block-content block-block-contentb0f26388-9c1d-4ea3-8377-15ada9983184">
+  
+    
+      <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a class="btn solid" href="/visit/museum-campus"><span>View Campus Map</span></a></p>
+</div>
+      
+    </div>
+  </div>
+
+
+
+          </div>
+              </div>
+    </div>
+  </footer>
+
+  </div>
+
+  
+  
+  <div id="js-mediaQueryReference"></div>
+  
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/224","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-4265387-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"4454116b0692ac40c0963c110a180302b12879cc367d7c0a4c3babbaf1614e08"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.5"></script>
+<script src="/core/misc/drupal.js?v=10.4.5"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.5"></script>
+<script src="/themes/nwwiim/js/vendor/modernizr.min.js?v=10.4.5"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.4.5"></script>
+<script src="/themes/nwwiim/js/vendor/plugins.min.js?v=10.4.5"></script>
+<script src="/themes/nwwiim/js/functionality.min.js?v=10.4.5"></script>
+
+</body>
+</html>

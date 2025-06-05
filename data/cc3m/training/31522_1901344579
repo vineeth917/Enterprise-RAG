@@ -1,0 +1,1058 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Charset -->
+    <meta charset="UTF-8"/>
+    <!-- Author -->
+    <!-- <meta name="author" content="Zura labadze"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <meta property="author" content="FrontNews" />
+<meta property="fb:app_id" content="519182821891003" />
+<meta property="og:image:width" content="526" />
+<meta property="og:image:height" content="280" />
+<meta property="og:title" content="Головна сторінка | Front News - Україна" />
+<meta property="og:description" content="інформаційне агентство" />
+<meta property="og:image" content="https://frontnews.eu/themes/application/Components/images/logo.png" />
+<meta property="og:url" content="https://frontnews.eu/ua/home/" />
+    <title>Front News - Україна | Головна сторінка</title>
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/font.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/custom.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/elite.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/elite-font-awesome.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/jquery.mCustomScrollbar.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/bootstrap.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/style.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/swiper.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/font-icons.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/animate.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/magnific-popup.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/responsive.css"/>
+    <link rel="stylesheet" href="https://frontnews.eu/themes/application/Components/css/slick.css"/>
+
+    <link rel="icon" href="https://frontnews.eu/themes/application/Components/images/favicon.png" type="image/vnd.microsoft.icon"/>
+    <script src="https://frontnews.eu/themes/application/Components/js/jquery-1.11.1.min.js"></script>
+    <script src="https://frontnews.eu/themes/application/Components/js/jquery.cookie.min.js"></script>
+    <script src="https://frontnews.eu/themes/application/Components/js/froogaloop.js"></script>
+    <script src="https://frontnews.eu/themes/application/Components/js/jquery.mCustomScrollbar.js"></script>
+    <script src="https://frontnews.eu/themes/application/Components/js/THREEx.FullScreen.js"></script>
+    <script src="https://frontnews.eu/themes/application/Components/js/jquery.validate.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css"
+          integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous"/>
+</head>
+<body class="stretched no-transition">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=2093431180964037&autoLogAppEvents=1"
+        nonce="IYNweRLJ"></script>
+
+<div id="wrapper" class="clearfix">
+    <div id="top-bar">
+        <div class="container clearfix">
+            <div class="col_half nobottommargin">
+                <div class="top-links">
+                    <span><img src="https://frontnews.eu/themes/application/Components/svg/global.svg" alt="global"/></span>
+                    <span>08:24:11</span>
+                    <span>
+                                понеділок,
+                        21 квітня, 2025                            </span>
+                </div>
+            </div>
+            <div class="col_half fright col_last nobottommargin">
+                <div class="top-links">
+                                        <a href="https://frontnews.eu/ua">
+                        <span>UKR</span>
+                    </a>
+                                        <a href="https://frontnews.eu/en">
+                        <span>ENG</span>
+                    </a>
+                    
+                    <div id="primary-menu-trigger">
+                        <i class="icon-reorder"></i>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <header>
+        <div class="container clearfix logoHeader">
+            <div id="logo">
+                <a href="https://frontnews.eu/ua/" class="standard-logo"><img src="https://frontnews.eu/themes/application/Components/svg/logo.svg" alt="Logo"/></a>
+                <a href="https://frontnews.eu/ua/" class="retina-logo"><img src="https://frontnews.eu/themes/application/Components/svg/logo.svg" alt="Logo"/></a>
+            </div>
+
+            <div class="top-advert">
+                <div id="top-search" class="header-misc-icon">
+                    <a href="#" id="top-search-trigger">
+                        <i class="icon-search3"></i>
+                        <i class="icon-line-cross"></i>
+                    </a>
+                    <form action="https://frontnews.eu/ua/search" method="get">
+                        <input type="text" name="q" class="form-control" value=""
+                               placeholder="Пошук"/>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div id="header-wrap">
+            <nav id="primary-menu" class="style-2">
+                <div class="container clearfix">
+
+                    <ul>
+                        <li class="mega-menu">
+                            <a href="https://frontnews.eu/ua/">
+                                <div> головний</div>
+                            </a>
+                        </li>
+                                                                        <li
+                        >
+                        <a href="https://frontnews.eu/ua/politika/">
+                            <div>
+                                 політика                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/ekonomika/">
+                            <div>
+                                 економіка                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/sazogadoeba/">
+                            <div>
+                                 суспільство                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/samartali/">
+                            <div>
+                                 закон                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/samxedro/">
+                            <div>
+                                Війна                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/konfliqtebi/">
+                            <div>
+                                 конфлікти                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/sporti/">
+                            <div>
+                                 спорт                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/kultura/">
+                            <div>
+                                КультурА                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/shemtxveva/">
+                            <div>
+                                Події                            </div>
+                        </a>
+                        </li>
+                                                                                                <li
+                        >
+                        <a href="https://frontnews.eu/ua/msoflio/">
+                            <div>
+                                світ                            </div>
+                        </a>
+                        </li>
+                                                                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container clearfix">
+    <div class="row">
+
+        <div class="fslider col-md-9 clearfix" data-pagi="true" data-speed="650" data-pause="3500" data-animation="fade"
+             data-arrows="true" data-thumbs="false">
+            <div class="flexslider">
+                <div class="slider-wrap">
+                                        <div class="slide">
+                        <article class="entry mb-0">
+                            <a href="https://frontnews.eu/ua/news/details/82638"><img
+                                    src="https://frontnews.eu/./uploads/photos/cache/2024-08/6b02baac28e2abbace7f650d50a00877.jpg" alt="Image"></a>
+                            <div class="text-overlay p-4">
+                                <div class="entry-c">
+                                    <div class="entry-categories">
+                                        <a href="https://frontnews.eu/ua/politika"> політика</a>
+                                        <span>07 серпня, 2024</span>
+                                    </div>
+                                    <div class="entry-title">
+                                        <h3>
+                                            <a href="https://frontnews.eu/ua/news/details/82638"
+                                               class="text-light">У Держдепі США назвали наступ ЗСУ в Курській області &quot;суверенним рішенням&quot; України</a>
+                                        </h3>
+                                    </div>
+
+                                    <div class="entry-meta">
+                                        <p>Україна заздалегідь не поінформувала США про свій план наступу на територію Росії. Про це заявили в </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                                        <div class="slide">
+                        <article class="entry mb-0">
+                            <a href="https://frontnews.eu/ua/news/details/82635"><img
+                                    src="https://frontnews.eu/./uploads/photos/cache/2024-08/ab878bafed735fb04642828a5308d44f.jpg" alt="Image"></a>
+                            <div class="text-overlay p-4">
+                                <div class="entry-c">
+                                    <div class="entry-categories">
+                                        <a href="https://frontnews.eu/ua/politika"> політика</a>
+                                        <span>07 серпня, 2024</span>
+                                    </div>
+                                    <div class="entry-title">
+                                        <h3>
+                                            <a href="https://frontnews.eu/ua/news/details/82635"
+                                               class="text-light"> У Єврокомісії прокоментували події в Курській області: Україна має законне право захищатися</a>
+                                        </h3>
+                                    </div>
+
+                                    <div class="entry-meta">
+                                        <p>Україна має законне право захищатися, зокрема "завдаючи ударів по агресору на його території". Про ц</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                                        <div class="slide">
+                        <article class="entry mb-0">
+                            <a href="https://frontnews.eu/ua/news/details/82632"><img
+                                    src="https://frontnews.eu/./uploads/photos/cache/2024-08/bf4a3495c71c06c13fa395e5da9ef2ed.jpg" alt="Image"></a>
+                            <div class="text-overlay p-4">
+                                <div class="entry-c">
+                                    <div class="entry-categories">
+                                        <a href="https://frontnews.eu/ua/politika"> політика</a>
+                                        <span>07 серпня, 2024</span>
+                                    </div>
+                                    <div class="entry-title">
+                                        <h3>
+                                            <a href="https://frontnews.eu/ua/news/details/82632"
+                                               class="text-light">США запросили в Києва роз'яснення щодо ситуації в Курській області, - Джон Кірбі</a>
+                                        </h3>
+                                    </div>
+
+                                    <div class="entry-meta">
+                                        <p>США запросять у Києва інформацію та роз'яснення щодо ситуації в Курській області. Про це під час бри</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                                        <div class="slide">
+                        <article class="entry mb-0">
+                            <a href="https://frontnews.eu/ua/news/details/82629"><img
+                                    src="https://frontnews.eu/./uploads/photos/cache/2024-08/14284d589da9ba8cbe978eda5833c097.jpeg" alt="Image"></a>
+                            <div class="text-overlay p-4">
+                                <div class="entry-c">
+                                    <div class="entry-categories">
+                                        <a href="https://frontnews.eu/ua/samxedro">Війна</a>
+                                        <span>07 серпня, 2024</span>
+                                    </div>
+                                    <div class="entry-title">
+                                        <h3>
+                                            <a href="https://frontnews.eu/ua/news/details/82629"
+                                               class="text-light">Глава Генштабу РФ прокоментував ситуацію в Курській області: Просування ЗСУ зупинено</a>
+                                        </h3>
+                                    </div>
+
+                                    <div class="entry-meta">
+                                        <p>Начальник Генерального штабу ЗС РФ Валерій Герасимов заявив Володимиру Путіну, що просування українс</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                                        <div class="slide">
+                        <article class="entry mb-0">
+                            <a href="https://frontnews.eu/ua/news/details/82626"><img
+                                    src="https://frontnews.eu/./uploads/photos/cache/2024-08/138114aa40c4468b65c5a2bbc0d8cb04.jpg" alt="Image"></a>
+                            <div class="text-overlay p-4">
+                                <div class="entry-c">
+                                    <div class="entry-categories">
+                                        <a href="https://frontnews.eu/ua/samxedro">Війна</a>
+                                        <span>07 серпня, 2024</span>
+                                    </div>
+                                    <div class="entry-title">
+                                        <h3>
+                                            <a href="https://frontnews.eu/ua/news/details/82626"
+                                               class="text-light">У Сумській області оголосили обов'язкову евакуацію в 23 населених пунктах</a>
+                                        </h3>
+                                    </div>
+
+                                    <div class="entry-meta">
+                                        <p>У 23 населених пунктах п'яти громад Сумського району буде проведено обов'язкову евакуацію населення.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                                    </div>
+            </div>
+        </div> <!-- Flex Slider End -->
+        <div class="col-md-3  mt-5 mt-lg-0">
+            <div class="latest-news-header">
+                Термінові новини            </div>
+            <div class="latest-news-box">
+
+                
+                <div class="latest-news-item">
+                    <div class="latest-news-item-title">
+                        <a href="https://frontnews.eu/ua/news/details/82638"
+                           title="У Держдепі США назвали наступ ЗСУ в Курській області &quot;суверенним рішенням&quot; України">У Держдепі США назвали наступ ЗСУ в Курській області &quot;суверенним рішенням&quot; України</a>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="latest-news-item-date col-md-12">07 August, 2024</div>
+                    </div>
+                </div>
+                
+                <div class="latest-news-item">
+                    <div class="latest-news-item-title">
+                        <a href="https://frontnews.eu/ua/news/details/82637"
+                           title="Перший летальний випадок від нового штаму COVID-19 FLiRT зафіксовано в Івано-Франківській області">Перший летальний випадок від нового штаму COVID-19 FLiRT зафіксовано в Івано-Франківській області</a>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="latest-news-item-date col-md-12">07 August, 2024</div>
+                    </div>
+                </div>
+                
+                <div class="latest-news-item">
+                    <div class="latest-news-item-title">
+                        <a href="https://frontnews.eu/ua/news/details/82636"
+                           title="Військовозобов'язані почнуть отримувати штрафи за неоновлення даних із кінця вересня, - нардеп">Військовозобов'язані почнуть отримувати штрафи за неоновлення даних із кінця вересня, - нардеп</a>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="latest-news-item-date col-md-12">07 August, 2024</div>
+                    </div>
+                </div>
+                
+                <div class="latest-news-item">
+                    <div class="latest-news-item-title">
+                        <a href="https://frontnews.eu/ua/news/details/82635"
+                           title=" У Єврокомісії прокоментували події в Курській області: Україна має законне право захищатися"> У Єврокомісії прокоментували події в Курській області: Україна має законне право захищатися</a>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="latest-news-item-date col-md-12">07 August, 2024</div>
+                    </div>
+                </div>
+                
+                <div class="latest-news-item">
+                    <div class="latest-news-item-title">
+                        <a href="https://frontnews.eu/ua/news/details/82634"
+                           title="Транзит газу в Європу триває без перебоїв, незважаючи на повідомлення про захоплення станції &quot;Суджа&quot;, - ОГТСУ">Транзит газу в Європу триває без перебоїв, незважаючи на повідомлення про захоплення станції &quot;Суджа&quot;, - ОГТСУ</a>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="latest-news-item-date col-md-12">07 August, 2024</div>
+                    </div>
+                </div>
+                            </div>
+        </div>
+
+    </div>
+</div><div class="container clearfix" style="margin-top: 50px;">
+     <div class="cat-point"></div>
+    <h4 class="latest-new-title">останні новини</h4>
+    <div class="row col-mb-50">
+        <div class="col-12">
+            <div class="row posts-md col-mb-30">
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82638"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/70158cb835b5e8bea5123c9787a3b629.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/politika"><span> політика</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82638">У Держдепі США назвали наступ ЗСУ в Курській області &quot;суверенним рішенням&quot; України</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            20:59&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82637"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/8884c8a4c282ac56c2224c9fcab0683e.jpeg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/rubric"><span> рубрика</span></a>
+                                                        <a href="https://frontnews.eu/ua/covid-19"><span> COVID-19</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82637">Перший летальний випадок від нового штаму COVID-19 FLiRT зафіксовано в Івано-Франківській області</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            20:39&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82636"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/f8e3c262247b072f83208e946283ac82.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/sazogadoeba"><span> суспільство</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82636">Військовозобов'язані почнуть отримувати штрафи за неоновлення даних із кінця вересня, - нардеп</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            20:16&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82635"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/9db19ad115a447f00985f81e4d8eca39.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/politika"><span> політика</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82635"> У Єврокомісії прокоментували події в Курській області: Україна має законне право захищатися</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            19:55&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82634"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/63a93620df4488aceb38003970820120.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/samxedro"><span>Війна</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82634">Транзит газу в Європу триває без перебоїв, незважаючи на повідомлення про захоплення станції &quot;Суджа&quot;, - ОГТСУ</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            19:32&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82633"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/bf05662af5332d980893ef0684274091.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/ekonomika"><span> економіка</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82633">В Україні можуть початися перебої з хлібом: подробиці</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            19:08&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82632"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/74bce4019129720b0206e82259eb018f.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/politika"><span> політика</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82632">США запросили в Києва роз'яснення щодо ситуації в Курській області, - Джон Кірбі</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            18:45&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                                <div class="entry col-sm-6 col-lg-3">
+                    <div class="grid-inner">
+                        <div class="entry-image">
+                            <a href="https://frontnews.eu/ua/news/details/82631"><img src="https://frontnews.eu/./uploads/photos/cache/2024-08/2da6ffb0b67d5735dbc3a40ab6e58757.jpg"
+                                                                                      alt="Image"></a>
+                        </div>
+                        <div class="latest-news-item-cat">
+                                                        <a href="https://frontnews.eu/ua/sazogadoeba"><span> суспільство</span></a>
+                                                                                    
+                        </div>
+                        <div class="entry-title title-xs nott">
+                            <h3>
+                                <a href="https://frontnews.eu/ua/news/details/82631">Батьки, які відмовляються евакуюватися з дітьми, можуть зіткнутися з кримінальною відповідальністю</a>
+                            </h3>
+                        </div>
+                        <div class="entry-meta">
+                            18:25&nbsp;&nbsp;&nbsp;8 Місяць 1 Тиждень Назад                        </div>
+                    </div>
+                </div>
+                            </div>
+        </div>
+        <div class="col-12">
+            <a class="see-all-btn" href="https://frontnews.eu/ua/news"> бачити все                <img src="https://frontnews.eu/themes/application/Components/svg/up-arrow.svg" alt="">
+            </a>
+        </div>
+    </div>
+</div>
+<div class="container" style="margin-bottom: 50px">
+     <div class="cat-point"></div>
+    <div class="video-gallery-title">
+         відеогалерея    </div>
+    <div id="main_video"
+         class="owl-carousel owl-carousel-full portfolio-carousel portfolio-notitle portfolio-nomargin carousel-widget"
+         data-margin="20" data-nav="true" data-pagi="false" data-items-xs="1" data-items-sm="2" data-items-md="2"
+         data-items-lg="2" data-items-xl="2">
+
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/61227">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-06/4adc617f624820c94baada4958d122ca.png" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/rubric"><span> рубрика</span></a>
+                                                <a href="https://frontnews.eu/ua/ukraina"><span> україна</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/61227">Українська дамба: тисячі людей тікають від повені після обвалу дамби біля Нової Каховки</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/play.svg" alt="">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/61212">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-06/802a6b354939cf1074213c130ad5e6b2.jpeg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/rubric"><span> рубрика</span></a>
+                                                <a href="https://frontnews.eu/ua/ukraina"><span> україна</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/61212">Зеленський і спецпредставник Папи Римського обговорили українську формулу миру</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/play.svg" alt="">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/61209">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-06/7b7e779f3da4535f804d30e89640c9d2.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/61209">Журналіст Kyiv Post виступає в парламенті Румунії на відкритті виставки</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/play.svg" alt="">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/59951">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-05/a75fbd52ec73f98b3bfa911d9195bc6b.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/samartali"><span> закон</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/59951">Зараз для мене настав час випробувань – митрополит Лонгін</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/play.svg" alt="">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/58966">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-05/1ba3f9c9ed6310658e6fe8cf4b49aee9.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/sazogadoeba"><span> суспільство</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/58966">Володимир Зеленський подав законопроєкт на святкування 8 та 9 травня</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/play.svg" alt="">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<div class="container" style="margin-bottom: 50px">
+    <div class="cat-point"></div>
+    <div class="video-gallery-title">
+        Фотоісторія    </div>
+    <div id="main_video"
+         class="owl-carousel owl-carousel-full portfolio-carousel portfolio-notitle portfolio-nomargin carousel-widget"
+         data-margin="20" data-nav="true" data-pagi="false" data-items-xs="1" data-items-sm="2" data-items-md="2"
+         data-items-lg="2" data-items-xl="2">
+
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/63873">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-07/24e8ac53429a566481d7c34b61e39b9b.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/msoflio"><span>світ</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/63873">  У центрі російського Таганрога стався вибух: багато постраждалих</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/camera.svg" alt="" class="photoalbumicon">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/63679">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-07/6d7129e172ece4232e942b0bd742ed1b.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/samxedro"><span>Війна</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/63679">Ворог використав близько 20 ракет. Гуменюк назвала особливість удару по Одесі</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/camera.svg" alt="" class="photoalbumicon">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/62407">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-06/d7f4d75bbd13df1c0c9eb8c7db245041.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/samxedro"><span>Війна</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/62407">Росія випустила по Україні понад 50 ракет: Ігнат розповів деталі нічної атаки</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/camera.svg" alt="" class="photoalbumicon">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/60494">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-05/c33945588a02a6f45c8fad179d4ba3bf.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/politika"><span> політика</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/60494">Байден і республіканці переконують Конгрес підтримати підвищення ліміту держборгу, - CNN</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/camera.svg" alt="" class="photoalbumicon">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+                <div class="ms-item">
+            <div class="iportfolio">
+                <div class="portfolio-image">
+                    <a href="https://frontnews.eu/ua/news/details/60479">
+                        <img src="https://frontnews.eu/./uploads/photos/cache/2023-05/a15601ffdbbaf7e4bcfb057270967d7c.jpg" alt="">
+                    </a>
+
+                </div>
+                <div class="portfolio-desc">
+
+                                        <div class="menu-tag respohid">
+                        <a href="https://frontnews.eu/ua/samxedro"><span>Війна</span></a>
+                        
+                                            </div>
+                    
+                    <h3>
+                        <a href="https://frontnews.eu/ua/news/details/60479">Ситуація на фронті сьогодні 29 травня</a>
+                        <img src="https://frontnews.eu/themes/application/Components/svg/camera.svg" alt="" class="photoalbumicon">
+                    </h3>
+
+
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="container">
+    <div class="cat-point"></div>
+    <h3 class="cat-point-title">Війна</h3>
+    <div class="row">
+        <div class="col-md-4">
+            <div class=" clearfix postap-2">
+                                <div class="entry clearfix">
+                    <div class="entry-image">
+                        <a href="https://frontnews.eu/ua/news/details/82634">
+                            <img class="image_fade" src="https://frontnews.eu/./uploads/photos/cache/2024-08/681fc06c25a69b51b02bdd41359727ef.jpg"
+                                 alt="Транзит газу в Європу триває без перебоїв, незважаючи на повідомлення про захоплення станції "Суджа", - ОГТСУ">
+                            <div class="box-shadow">
+                                <h4 class="b-1-title">Транзит газу в Європу триває без перебоїв, незважаючи на повідомлення про захоплення станції "Суджа", - ОГТСУ</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                            </div>
+        </div>
+        <div class="col-md-4">
+                        <a href="https://frontnews.eu/ua/news/details/82629">
+                <div class="sec-box-news">
+                    <div class="sec-box-news-title">Глава Генштабу РФ прокоментував ситуацію в Курській області: Просування ЗСУ зупинено</div>
+                    <div class="sec-box-news-desc">Начальник Генерального штабу ЗС РФ Валерій Герасимов заявив Володимиру Путіну, що просування українс                    </div>
+                    <div class="sec-box-news-date">07 August, 2024</div>
+                </div>
+            </a>
+                    </div>
+        <div class="col-md-4">
+
+            
+                                                                                    <a href="https://frontnews.eu/ua/news/details/82626">
+                <div class="thee-box-news">
+                    <img src="https://frontnews.eu/./uploads/photos/cache/2024-08/7bff02051656d62d415c3312da0565e5.jpg" alt="У Сумській області оголосили обов'язкову евакуацію в 23 населених пунктах">
+                    <div class="thee-box-news-title">У Сумській області оголосили обов'язкову евакуацію в 23 населених пунктах</div>
+                </div>
+            </a>
+                                                <a href="https://frontnews.eu/ua/news/details/82624">
+                <div class="thee-box-news">
+                    <img src="https://frontnews.eu/./uploads/photos/cache/2024-08/3fa864d898dd710d902c290dda8b99ec.jpg" alt="Росіяни нарощують військову присутність у районі Вовчанська, - ОТУ "Харків"">
+                    <div class="thee-box-news-title">Росіяни нарощують військову присутність у районі Вовчанська, - ОТУ "Харків"</div>
+                </div>
+            </a>
+                                                <a href="https://frontnews.eu/ua/news/details/82623">
+                <div class="thee-box-news">
+                    <img src="https://frontnews.eu/./uploads/photos/cache/2024-08/28e5a72d46d5d17872098610fd65da25.jpg" alt="ЗСУ захопили газовимірювальну станцію "Суджа" в Курській області, - росЗМІ">
+                    <div class="thee-box-news-title">ЗСУ захопили газовимірювальну станцію "Суджа" в Курській області, - росЗМІ</div>
+                </div>
+            </a>
+                                    
+
+        </div>
+    </div>
+
+</div>
+
+
+<div class="container">
+    <div class="cat-point"></div>
+    <h3 class="cat-point-title"> співбесіда</h3>
+    <div class="row">
+        <div class="col-md-4">
+            <div class=" clearfix postap-1">
+                                <div class="entry clearfix">
+                    <div class="entry-image">
+                        <a href="https://frontnews.eu/ua/news/details/76603">
+                            <img class="image_fade" src="https://frontnews.eu/./uploads/photos/cache/2024-03/8f724230c51239e24f4179ff2035c34b.jpg"
+                                 alt="Майкл Руні: У Росії пройшли вибори без вибору">
+                            <div class="box-shadow">
+                                <h4 class="b-1-title">Майкл Руні: У Росії пройшли вибори без вибору</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                            </div>
+        </div>
+        <div class="col-md-4">
+                        <a href="https://frontnews.eu/ua/news/details/64787">
+                <div class="sec-box-news">
+                    <div class="sec-box-news-title">Микола Мельник: український народ  і є головною зброєю перемоги</div>
+                    <div class="sec-box-news-desc">Експерт Аналітичної групи &laquo;Левіафан&raquo; Микола Мельник у перші дні війни добровольцем пішов                    </div>
+                    <div class="sec-box-news-date">21 August, 2023</div>
+                </div>
+            </a>
+                    </div>
+        <div class="col-md-4">
+
+            
+                                                                                    <a href="https://frontnews.eu/ua/news/details/64589">
+                <div class="thee-box-news">
+                    <img src="https://frontnews.eu/./uploads/photos/cache/2023-08/1c9cd7ac90df846881ffea5a2326bce0.jpg" alt="Ректор ДУІТЗ Олександр Назаренко про ворожу атаку на виш">
+                    <div class="thee-box-news-title">Ректор ДУІТЗ Олександр Назаренко про ворожу атаку на виш</div>
+                </div>
+            </a>
+                                                <a href="https://frontnews.eu/ua/news/details/63808">
+                <div class="thee-box-news">
+                    <img src="https://frontnews.eu/./uploads/photos/cache/2023-07/4485558244fe0f0518d411bc3f4dad7c.jpg" alt="Неорганізована ірраціональність Путіна та триваюча ерозія російської державності">
+                    <div class="thee-box-news-title">Неорганізована ірраціональність Путіна та триваюча ерозія російської державності</div>
+                </div>
+            </a>
+                                                <a href="https://frontnews.eu/ua/news/details/63002">
+                <div class="thee-box-news">
+                    <img src="https://frontnews.eu/./uploads/photos/cache/2023-07/b735757eb79ba0ff9f181ce82a9fda27.jpg" alt="Нездорове партнерство. Питання Саакашвілі посварив Київ та Тбілісі">
+                    <div class="thee-box-news-title">Нездорове партнерство. Питання Саакашвілі посварив Київ та Тбілісі</div>
+                </div>
+            </a>
+                                    
+
+        </div>
+    </div>
+
+</div>
+
+    <footer id="footer" class="dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="fo-cat-title">Категорія</div>
+                    <ul class="f-cat">
+                                                <li>
+                            <a href="https://frontnews.eu/ua/politika/"> політика</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/ekonomika/"> економіка</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/sazogadoeba/"> суспільство</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/samartali/"> закон</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/samxedro/">Війна</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/konfliqtebi/"> конфлікти</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/sporti/"> спорт</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/kultura/">КультурА</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/shemtxveva/">Події</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/msoflio/">світ</a>
+                        </li>
+                                            </ul>
+                </div>
+                <div class="col-md-3">
+                    <div class="fo-cat-title">рубрики</div>
+                    <ul class="f-cat">
+                                                <li>
+                            <a href="https://frontnews.eu/ua/siaxle/"> новини</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/eqskluzivi/">ексклюзивний</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/interviu/"> співбесіда</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/covid-19/"> COVID-19</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/teqnologiebi/"> технології</a>
+                        </li>
+                                                <li>
+                            <a href="https://frontnews.eu/ua/ukraina/"> україна</a>
+                        </li>
+                                            </ul>
+                </div>
+                <div class="col-md-3">
+                    <div class="fo-cat-title"> зв'яжіться з нами</div>
+                    <ul class="f-cat">
+                        <li>
+                            <a> адреса:</a>
+                        </li>
+                        <li>
+                            <a>Україна, 01033, м. Київ, вул. Толстого Льва, 15</a>
+                        </li>
+
+                        <li>
+                            <a> Телефон:</a>
+                        </li>
+                        <li>
+                            <a>+380 67 333 84 33</a>
+                        </li>
+
+                        <li>
+                            <a>електронна пошта:</a>
+                        </li>
+                        <li>
+                            <a>editorial@frontnews.eu</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <div class="fo-cat-title">соц. медіа</div>
+                    <a href="https://www.facebook.com/FrontNewsUkraine" target="_blank" class="social-icon si-colored si-facebook">
+                        <i class="icon-facebook"></i>
+                        <i class="icon-facebook"></i>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCUrvVqXzwOtQbt-aOWunGbA" arget="_blank" class="social-icon si-colored si-youtube">
+                        <i class="fab fa-youtube fa-f"></i>
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                    <a href="https://www.instagram.com/frontnewsua/" arget="_blank" class="social-icon si-colored si-instagram">
+                        <i class="fab fa-instagram fa-f"></i>
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://twitter.com/Front_News_eu" arget="_blank" class="social-icon si-colored si-twitter">
+                        <i class="icon-twitter"></i>
+                        <i class="icon-twitter"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98811056-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-98811056-1');
+</script>
+<script src="https://frontnews.eu/themes/application/Components/js/plugins.js"></script>
+<script src="https://frontnews.eu/themes/application/Components/js/functions.js"></script>
+</body>
+</html>
+

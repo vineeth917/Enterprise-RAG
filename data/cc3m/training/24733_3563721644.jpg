@@ -1,0 +1,2 @@
+<br />
+<b>Fatal error</b>:  Cannot redeclare get_content() (previously declared in /www/wwwroot/test2503.com/func.php:330) in <b>/www/wwwroot/test2503.com/func.php</b> on line <b>463</b><br />

@@ -1,0 +1,576 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Page Not Found</title>
+<meta name="description" content="This is the web site of William Hillyard & Deborah Hillyard.  This is the 404 page not found page">
+<meta name="keywords" content="page,not,found">
+<meta name="author" content="William Hillyard">
+<meta name="generator" content="WYSIWYG Web Builder - http://www.wysiwygwebbuilder.com">
+<style type="text/css">
+div#container
+{
+   width: 1200px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #000000;
+   background-image: url('images/black%2dbgrnd.JPG');
+   background-attachment: scroll;
+   background-position: left top;
+   background-repeat: repeat;
+   color: #E6E6FA;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+a
+{
+   color: #AFEEEE;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+</style>
+<link href="font-awesome.min.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.Style1
+{
+   color: #7A8CA0;
+   font-weight: bold;
+   text-decoration: underline;
+}
+a.Style1:visited
+{
+   color: #546D81;
+   font-weight: bold;
+   text-decoration: underline;
+}
+a.Style1:active
+{
+   color: #FF0000;
+   text-decoration: underline;
+}
+a.Style1:hover
+{
+   color: #B4BEC9;
+   font-weight: bold;
+   text-decoration: underline;
+}
+#wb_test-footer-menu
+{
+   border: 0px solid #2F4F4F;
+   background-color: transparent;
+   margin: 0;
+   text-align: center;
+}
+#wb_test-footer-menu ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_test-footer-menu li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 5px 0px 0px;
+}
+#wb_test-footer-menu a
+{
+   display: block;
+   float: left;
+   color: #DCDCDC;
+   border: 0px solid #DCDCDC;
+   background-color: #000000;
+   background-image: none;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 12px;
+   font-style: normal;
+   text-decoration: none;
+   height: 20px;
+   line-height: 20px;
+   padding: 0px 7px 0px 7px;
+   vertical-align: middle;
+   text-align: center;
+}
+#wb_test-footer-menu li:hover a, #wb_test-footer-menu a:hover, #wb_test-footer-menu .active
+{
+   color: #FF0000;
+   border: 0px solid #7A8CA0;
+   background-color: #000000;
+   background-image: none;
+}
+#wb_test-footer-menu li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_test-footer-menu li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_test-footer-menu br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#new-footerLine1
+{
+   border-color: #A0A0A0;
+   border-style: solid;
+   border-bottom-width: 2px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_test-hdrTextArt1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#wb_test-hdrTextArt1 a img
+{
+   position: absolute;
+   left: 0;
+}
+#wb_test-hdrTextArt1 .default
+{
+   position: absolute;
+   left: 0;
+}
+#wb_test-hdrTextArt1 a .hover
+{
+   visibility: hidden;
+}
+#wb_test-hdrTextArt1 a:hover .hover
+{
+   visibility: visible;
+}
+#wb_test-hdrTextArt1 a:hover .default
+{
+   visibility: hidden;
+}
+#test-hdrTextArt1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#test-hdrTextArt1:hover
+{
+   border-color: #FF0000;
+   -webkit-transition: border-color 500ms linear 0ms;
+   transition: border-color 500ms linear 0ms;
+}
+#wb_testingResponsiveMenu2
+{
+   background-color: rgba(0,0,0,1.00);
+   display: block;
+   font-family: Arial;
+   font-weight: normal;
+   text-align: center;
+   width: 100%;
+}
+#testingResponsiveMenu2
+{
+   background-color: #000000;
+   display: inline-block;
+   height: 27px;
+}
+#wb_testingResponsiveMenu2 ul
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+}
+#wb_testingResponsiveMenu2 ul:after
+{
+   clear: both;
+   content: "";
+   display: block;
+}
+#wb_testingResponsiveMenu2 ul li
+{
+   display: list-item;
+   float: left;
+   list-style: none;
+   z-index: 9999;
+}
+#wb_testingResponsiveMenu2 ul li i
+{
+   font-size: 12px;
+   width: 12px;
+}
+#wb_testingResponsiveMenu2 ul li a
+{
+   background-color: #000000;
+   color: #DCDCDC;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+   padding: 0px 15px 0px 15px;
+   text-align: center;
+   text-decoration: none;
+}
+#wb_testingResponsiveMenu2 > ul > li > a 
+{
+   height: 27px;
+}
+.testingResponsiveMenu2 a 
+{
+   display: block;
+}
+#wb_testingResponsiveMenu2 li a:hover, #wb_testingResponsiveMenu2 li .active
+{
+   background-color: #000000;
+   color: #FF0000;
+}
+#wb_testingResponsiveMenu2 ul ul
+{
+   display: none;
+   position: absolute;
+   top: 27px;
+}
+#wb_testingResponsiveMenu2 ul li:hover > ul
+{
+   display: list-item;
+}
+#wb_testingResponsiveMenu2 ul ul li 
+{
+   float: none;
+   position: relative;
+   width: 119px;
+}
+#wb_testingResponsiveMenu2 ul ul li a
+{
+   background-color: #7A7A7A;
+   color: #FFFFFF;
+}
+#wb_testingResponsiveMenu2 ul ul li a:hover, #wb_testingResponsiveMenu2 ul ul li .active
+{
+   background-color: #CCCCCC;
+   color: #424242;
+}
+#wb_testingResponsiveMenu2 ul ul li i 
+{
+   margin-right: 4px;
+   vertical-align: middle;
+}
+#wb_testingResponsiveMenu2 ul ul li a 
+{
+   color: #FFFFFF;
+   padding-top: 15px;
+   padding-right: 20px;
+   padding-bottom: 15px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_testingResponsiveMenu2 ul ul ul li 
+{
+   left: 119px;
+   position: relative;
+   top: -27px;
+}
+#wb_testingResponsiveMenu2 .arrow-down 
+{
+   display: inline-block;
+   width: 0;
+   height: 0;
+   margin-left: 2px;
+   vertical-align: middle;
+   border-top: 4px solid #DCDCDC;
+   border-right: 4px solid transparent;
+   border-left: 4px solid transparent;
+   border-bottom: 0 dotted;
+}
+#wb_testingResponsiveMenu2 .arrow-left 
+{
+   display: inline-block;
+   width: 0;
+   height: 0;
+   margin-left: 4px;
+   vertical-align: middle;
+   border-left: 4px solid #FFFFFF;
+   border-top: 4px solid transparent;
+   border-bottom: 4px solid transparent;
+   border-right: 0 dotted;
+}
+#wb_testingResponsiveMenu2 li a:hover .arrow-down
+{ 
+   border-top-color: #FF0000;
+}
+#wb_testingResponsiveMenu2 ul ul li a:hover .arrow-left, #wb_testingResponsiveMenu2 ul ul li .active .arrow-left
+{ 
+   border-left-color: #424242;
+}
+#wb_testingResponsiveMenu2 .toggle,[id^=testingResponsiveMenu2-submenu]
+{
+   display: none;
+}
+@media all and (max-width:768px) 
+{
+#wb_testingResponsiveMenu2
+{
+   margin: 0;
+   text-align: left;
+}
+#wb_testingResponsiveMenu2 ul li a, #wb_testingResponsiveMenu2 .toggle
+{
+   font-size: 13px;
+   font-weight: normal;
+   font-style: normal;
+   padding: 15px 20px 15px 20px;
+}
+#wb_testingResponsiveMenu2 .toggle + a
+{
+   display: none !important;
+}
+.testingResponsiveMenu2 
+{
+   display: none;
+   z-index: 9999;
+}
+#testingResponsiveMenu2 
+{
+   background-color: transparent;
+   display: none;
+}
+#wb_testingResponsiveMenu2 > ul > li > a 
+{
+   height: auto !important;   margin: 0;
+}
+#wb_testingResponsiveMenu2 .toggle 
+{
+   display: block;
+   background-color: #000000;
+   color: #DCDCDC;
+   padding: 0px 20px 0px 20px;
+   line-height: 42px;
+   text-decoration: none;
+   border: none;
+}
+#wb_testingResponsiveMenu2 .toggle:hover 
+{
+   background-color: #000000;
+   color: #FF0000;
+}
+[id^=testingResponsiveMenu2-submenu]:checked + ul 
+{
+   display: block !important;
+}
+#testingResponsiveMenu2-title
+{
+   height: 27px !important;
+   line-height: 27px !important;
+   text-align: center;
+}
+#wb_testingResponsiveMenu2 ul li 
+{
+   display: block;
+   width: 100% !important;
+   text-align: center;
+}
+#wb_testingResponsiveMenu2 ul ul .toggle,
+#wb_testingResponsiveMenu2 ul ul a 
+{
+   padding: 0 40px;
+}
+#wb_testingResponsiveMenu2 a:hover,
+#wb_testingResponsiveMenu2 ul ul ul a 
+{
+   background-color: #7A7A7A;
+   color: #FFFFFF;
+}
+#wb_testingResponsiveMenu2 ul li ul li .toggle,
+#wb_testingResponsiveMenu2 ul ul a 
+{
+   background-color: #7A7A7A;
+   color: #FFFFFF;
+}
+#wb_testingResponsiveMenu2 ul ul ul a 
+{
+   padding: 15px 20px 15px 60px;
+}
+#wb_testingResponsiveMenu2 ul li a 
+{
+   text-align: center;
+}
+#wb_testingResponsiveMenu2 ul li a br 
+{
+   display: none;
+}
+#wb_testingResponsiveMenu2 ul li i 
+{
+   margin-right: 4px;
+}
+#wb_testingResponsiveMenu2 ul ul 
+{
+   float: none;
+   position: static;
+}
+#wb_testingResponsiveMenu2 ul ul li:hover > ul,
+#wb_testingResponsiveMenu2 ul li:hover > ul 
+{
+   display: none;
+}
+#wb_testingResponsiveMenu2 ul ul li 
+{
+   display: block;
+   width: 100%;
+}
+#wb_testingResponsiveMenu2 ul ul ul li 
+{
+   position: static;
+}
+#testingResponsiveMenu2-icon 
+{
+   display: block;
+   position: absolute;
+   right: 15px;
+   top: 1px;
+}
+#testingResponsiveMenu2-icon span 
+{
+   display: block;
+   margin-top: 4px;
+   height: 2px;
+   background-color: #DCDCDC;
+   color: #DCDCDC;
+   width: 24px;
+}
+#wb_testingResponsiveMenu2 ul li ul li .toggle:hover
+{
+   background-color: #CCCCCC;
+   color: #424242;
+}
+#wb_testingResponsiveMenu2 .toggle .arrow-down 
+{
+   border-top-color: #DCDCDC;
+}
+#wb_testingResponsiveMenu2 .toggle:hover .arrow-down, #wb_testingResponsiveMenu2 li .active .arrow-down
+{
+   border-top-color: #FF0000;
+}
+#wb_testingResponsiveMenu2 ul li ul li .toggle .arrow-down 
+{
+   border-top-color: #FFFFFF;
+}
+#wb_testingResponsiveMenu2 ul li ul li .toggle:hover .arrow-down, #wb_testingResponsiveMenu2 ul li ul li .active .arrow-down
+{
+   border-top-color: #424242;
+}
+}
+#new-headerLine1
+{
+   border-color: #A0A0A0;
+   border-style: solid;
+   border-bottom-width: 2px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+</style>
+</head>
+<body>
+<div id="container">
+<div id="wb_MasterPage1" style="position:absolute;left:0px;top:230px;width:1200px;height:23px;z-index:5;">
+<div id="wb_test-footer-menu" style="position:absolute;left:0px;top:3px;width:1200px;height:20px;z-index:0;">
+<ul id="test-footer-menu" role="menubar" class="nav">
+<li class="nav-item firstmain"><a role="menuitem" class="nav-link" href="./site-map/content.html" target="_self" title="Site Map">Site&nbsp;Map</a>
+</li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="./legal/copyright.html" target="_self" title="Terms of Use">Terms&nbsp;of&nbsp;Use</a>
+</li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="mailto:contact@whillyard.com" target="_self" title="Contact">Contact</a>
+</li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="http://www.startlogic.com/join/index.bml?AffID=627980&LinkName=trancedevo" target="_blank" title="Web Hosting by StartLogic">Web&nbsp;Hosting&nbsp;by&nbsp;StartLogic</a>
+</li>
+</ul>
+</div>
+<hr id="new-footerLine1" style="position:absolute;left:400px;top:1px;width:400px;z-index:1;">
+</div>
+<div id="wb_MasterPage2" style="position:absolute;left:0px;top:0px;width:1200px;height:64px;z-index:6;">
+<div id="wb_test-hdrTextArt1" style="position:absolute;left:350px;top:4px;width:500px;height:22px;z-index:2;">
+<a href=""><img class="hover" src="images/img0066_hover.png" alt="WILLIAM &amp; DEBORAH HILLYARD" title="WILLIAM &amp; DEBORAH HILLYARD" style="border-width:0;width:500px;height:22px;"><span class="default"><img src="images/img0066.png" id="test-hdrTextArt1" alt="WILLIAM &amp; DEBORAH HILLYARD" title="WILLIAM &amp; DEBORAH HILLYARD" style="width:500px;height:22px;"></span></a></div>
+<div id="wb_testingResponsiveMenu2" style="position:absolute;left:0px;top:34px;width:1200px;height:27px;z-index:3;">
+<label class="toggle" for="testingResponsiveMenu2-submenu" id="testingResponsiveMenu2-title">Menu<span id="testingResponsiveMenu2-icon"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></span></label>
+<input type="checkbox" id="testingResponsiveMenu2-submenu">
+<ul class="testingResponsiveMenu2" id="testingResponsiveMenu2" role="menu">
+<li><a role="menuitem" href="./index.html"><i class="fa fa-home fa-2x">&nbsp;</i><br>Home</a></li>
+<li><a role="menuitem" href="./news-site-info.html"><i class="fa fa-book fa-2x">&nbsp;</i><br>News&nbsp;&amp;&nbsp;Information</a></li>
+<li><a role="menuitem" href="./biographies/william-early-years.html"><i class="fa fa-user fa-2x">&nbsp;</i><br>Biographical</a></li>
+<li><a role="menuitem" href="./music-studio/my-music-studio.html"><i class="fa fa-music fa-2x">&nbsp;</i><br>Music</a></li>
+<li><a role="menuitem" href="./our-vacations/vacations.html"><i class="fa fa-suitcase fa-2x">&nbsp;</i><br>Travel</a></li>
+<li><a role="menuitem" href="./science-pages/physics.html"><i class="fa fa-joomla fa-2x">&nbsp;</i><br>Physics</a></li>
+<li><a role="menuitem" href="./science-pages/cosmology.html"><i class="fa fa-star fa-2x">&nbsp;</i><br>Astronomy&nbsp;&amp;&nbsp;Cosmology</a></li>
+<li><a role="menuitem" href="./science-pages/our-solar-system/solar-system.html"><i class="fa fa-sun-o fa-2x">&nbsp;</i><br>Solar&nbsp;systems</a></li>
+<li><a role="menuitem" href="./pseudo-science/intro.html"><i class="fa fa-exclamation fa-2x">&nbsp;</i><br>Pseudo-Scientific&nbsp;Nonsense</a></li>
+</ul>
+</div>
+<hr id="new-headerLine1" style="position:absolute;left:115px;top:62px;width:970px;z-index:4;">
+</div>
+<div id="wb_Shape1" style="position:absolute;left:290px;top:72px;width:620px;height:150px;z-index:7;">
+<img src="images/img0327.png" id="Shape1" alt="" style="width:620px;height:150px;"></div>
+<div id="wb_Text1" style="position:absolute;left:280px;top:110px;width:640px;height:90px;text-align:center;z-index:8;">
+<span style="color:#A8B4C1;font-family:Arial;font-size:15px;"><strong>The page that you requested does not appear to exist on this website.&nbsp; <br>Please use the menu to access any part of the site, <br>or use the <a href="./site-map/content.html" class="Style1">Site Map</a> which provides an index to every section of the website.&nbsp; <br><br>Thank you for visiting this site.&nbsp; </strong></span></div>
+</div>
+</body>
+</html>

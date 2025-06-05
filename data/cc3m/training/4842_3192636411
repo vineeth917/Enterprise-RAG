@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang=en-GB class=" optml_no_js no-js">
+<head itemscope itemtype="https://schema.org/WebSite">
+<meta charset=UTF-8 />
+<meta name=viewport content="width=device-width, initial-scale=1"/>
+<title>Everycolour</title>
+<style>
+        #wpadminbar #wp-admin-bar-p404_free_top_button .ab-icon:before {
+            content: "\f103";
+            color:red;
+            top: 2px;
+        }
+    </style>
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<meta name=description content="Loving football, celebrating diversity">
+<meta name=robots content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel=canonical href="https://everycolour.co.uk/">
+<style id=wp-emoji-styles-inline-css type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style><link rel=stylesheet id=wp-block-library-css href='wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media=all /><style id=wp-block-library-inline-css type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style><link rel=stylesheet id=mediaelement-css href='wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media=all /><link rel=stylesheet id=wp-mediaelement-css href='wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.2' type='text/css' media=all /><link rel=stylesheet id=genesis-blocks-style-css-css href='wp-content/plugins/genesis-page-builder/lib/genesis-blocks/dist/blocks.style.build.css?ver=1630423062' type='text/css' media=all /><style id=classic-theme-styles-inline-css type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style><style id=global-styles-inline-css type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style><link rel=stylesheet id=cookie-notice-front-css href='wp-content/plugins/cookie-notice/css/front.min.css?ver=2.4.17' type='text/css' media=all /><link rel=stylesheet id=genesis-page-builder-frontend-styles-css href='wp-content/plugins/genesis-page-builder/build/frontend.styles.build.css?ver=1630423064' type='text/css' media=all /><link rel=stylesheet id=responsive-video-light-css href='wp-content/plugins/responsive-video-light/css/responsive-videos.css?ver=20130111' type='text/css' media=all /><link rel=stylesheet id=supersideme-style-css href='wp-content/plugins/superside-me/includes/css/supersideme-style.css?ver=2.2.3' type='text/css' media=screen /><style id=supersideme-style-inline-css type='text/css'>
+@media only screen and (max-width: 800px) { nav,#nav,.nav-primary,.nav-secondary,.supersideme .site-header .secondary-toggle,.menu-toggle { display: none; } .slide-nav-link,.ssme-search { display: block; } }.sidr { width: 260px; } .sidr.left { left: -260px; } .sidr.right { right: -260px; } .slide-nav-link { background-color: #4f1d79; background-color: rgba(79,29,121,0.9); right: 0; color: #fefefe; position: relative; width: 100%; } .sidr { background-color: #4f1d79; background-color: rgba(79,29,121,0.9); color: #fefefe; } .sidr h3, .sidr h4, .sidr .widget, .sidr p { color: #fefefe; } .slide-nav-link:focus, .sidr:focus, .sidr a:focus, .menu-close:focus, .sub-menu-toggle:focus { outline: #fefefe dotted 1px; } .sidr a, .sidr a:focus, .sidr a:active, .sidr button, .sidr .sub-menu-toggle:before { color: #fefefe; } .search-me:before { color: #4f1d79; }.slide-nav-link:before, .search-me:before, .menu-close:before, .sidr .sub-menu-toggle:before, .ssme-search:before { display: inline-block; font: normal normal normal 20px FontAwesome; margin: 0; text-rendering: auto; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -webkit-transform: translate(0, 0); -ms-transform: translate(0, 0); transform: translate(0, 0); letter-spacing: 0; vertical-align: middle; }.menu-close:before, .sidr .sub-menu-toggle:before { font-size: 16px; } .slide-nav-link:before { content: "\f0c9"; } .slide-nav-link.menu-open:before { content: "\f0c9"; } .menu-close:before { content: "\f00d"; } .sidr .sub-menu-toggle:before { content: "\f107"; } .sidr .sub-menu-toggle.menu-open:before { content: "\f106"; } .search-me:before, .ssme-search:before { content: "\f002"; }
+</style><link rel=stylesheet id=supersideme-fontawesome-css href='wp-content/plugins/superside-me/includes/css/supersideme-fontawesome.css?ver=4.7' type='text/css' media=screen /><link rel=stylesheet id=genesis-sample-fonts-css href='//fonts.googleapis.com/css?family=ABeeZee&#038;ver=2.6.0' type='text/css' media=all /><link rel=stylesheet id=dashicons-css href='wp-includes/css/dashicons.min.css?ver=6.7.2' type='text/css' media=all /><link rel=stylesheet id=font-awesome-css href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media=all /><link rel=stylesheet id=blox-default-styles-css href='wp-content/plugins/blox/assets/css/default.css?ver=1.4.8' type='text/css' media=all /><style id=optm_lazyload_noscript_style-inline-css type='text/css'>
+html.optml_no_js img[data-opt-src] { display: none !important; } 
+ html .elementor-section[data-settings*="background_background"]:not(.optml-bg-lazyloaded),
+html .elementor-section > .elementor-background-overlay:not(.optml-bg-lazyloaded),
+html [class*="wp-block-cover"][style*="background-image"]:not(.optml-bg-lazyloaded),
+html [class*="wp-block-group"][style*="background-image"]:not(.optml-bg-lazyloaded) { background-image: none !important; } 
+</style><link rel=stylesheet id=genesis-sample-css href='wp-content/themes/genesis-sample2/style.css?ver=2.6.0' type='text/css' media=all /><link rel=stylesheet id=jetpack_css-css href='wp-content/plugins/jetpack/css/jetpack.css?ver=12.9.4' type='text/css' media=all /><style>img#wpstats{display:none}</style><link rel=stylesheet href="https://use.typekit.net/wpj6czg.css"><style type="text/css">
+			img[data-opt-src]:not([data-opt-lazy-loaded]) {
+				transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+				-webkit-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+				-moz-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+				-o-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+			}
+			img[data-opt-src]:not([data-opt-lazy-loaded]) {
+					opacity: .75;
+					-webkit-filter: blur(8px);
+					-moz-filter: blur(8px);
+					-o-filter: blur(8px);
+					-ms-filter: blur(8px);
+					filter: blur(8px);
+					transform: scale(1.04);
+					animation: 0.1s ease-in;
+					-webkit-transform: translate3d(0, 0, 0);
+			}
+			/** optmliframelazyloadplaceholder */
+		</style><style type="text/css" id=wp-custom-css>.no-tagline #blox_global_28 .header-subtitle {
+	display:none!important;
+}
+
+
+
+
+.blm-example-video .entry-title {
+	text-align:center;
+}
+
+.blm-example-video #blox_global_28,
+.blm-example-video #blox_global_9714 {
+	display:none;
+}
+
+
+
+.post-views {
+	display:none;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 801px) {
+
+	/* Site-Inner
+	--------------------------------------------- */
+
+	.site-inner {
+		margin-top: 0px;
+		max-width: 1140px;
+	}
+	
+}
+
+
+
+
+
+
+
+
+/* home-band flex approach */
+
+.flex-video-container {
+
+    padding: 0;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-between;
+
+}
+
+.flex-video-item {
+    color: #000;
+    width: calc(100%/2 - 15px);
+    margin-bottom: 40px;
+	padding:0;
+	font-weight:700;
+}
+
+.neville .content {
+width:100%;
+
+}
+
+.neville .video-wrapper {
+	margin-bottom:10px!important;
+}
+
+
+@media only screen and (max-width: 420px) {
+
+.flex-video-item {
+    width: 100%;
+    margin-bottom: 30px;
+}
+}</style><style type="text/css">#blox_global_21 {display:none;}
+
+
+
+@media only screen and (max-width: 800px) {
+	#blox_global_21 
+	{
+		float:right;
+		margin-top:12px;
+		padding-right:0;
+		display:block;
+	}
+}</style><style type="text/css">#blox_global_28 {	    
+padding:0;
+
+
+
+}
+
+#blox_global_28 .header-subtitle {
+    margin: 0 auto;
+    padding: 10px 15px 15px;
+    color: #fff;
+    font-weight: 700;
+font-size:30px;
+max-width:1140px;
+background-color: #e9008c;
+position:absolute;
+bottom:0;
+}
+
+@media only screen and (max-width: 640px) {
+.site-header {
+
+    padding: 0 20px;
+
+}
+
+#blox_global_28 .header-subtitle {
+    margin: 0 auto;
+    padding: 5px 20px;
+    color: #fff;
+    font-weight: 700;
+font-size:25px;
+max-width:1140px;
+background-color: #e9008c;
+bottom:0;
+}
+
+}
+
+@media only screen and (max-width: 535px) {
+.site-header {
+
+    padding: 0 15px;
+
+}
+
+#blox_global_28 .header-subtitle {
+    margin: 0 auto;
+    padding: 5px 15px;
+    color: #fff;
+    font-weight: 700;
+font-size:25px;
+background-color: #e9008c;
+left:0;
+right:0;
+bottom:0;
+line-height:125%;
+}</style><style type="text/css">/* #b41a89; jc sje purple */
+/* #f38300; jc sje orange */
+/* #84c100; jc sje green */
+/* #00479a; jc sje normal blue */
+
+#blox_global_9710 {
+color: #ffffff;
+background-color: #FAE021; /* jc everycolour yellow */
+padding: 30px;
+}
+
+.promo-container {
+display:-webkit-box;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+max-width:1140px;
+margin:0 auto;
+-webkit-box-orient:horizontal;
+-webkit-box-direction:normal;
+-ms-flex-direction:row;
+flex-direction:row;
+
+}
+
+.promo {
+-webkit-box-flex: 0;
+    -ms-flex: 0 1 49%;
+        flex: 0 1 49%;
+    background-color: #4F1D79;
+}
+
+.promo:last-child {
+background-color: #458BFD; /*cyan blue*/
+}
+
+.promo .entry-title {
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 125%;
+    margin: 0 0 0;
+    padding: 15px 20px 20px;
+    letter-spacing: 0;
+}
+
+
+.promo a {
+color:#fff;
+}
+
+.promo a:hover {
+color:#F9DE3C;
+}
+
+
+
+
+
+
+#blox_global_9710 p {
+margin: 0;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+#blox_global_9710 {
+    color: #ffffff;
+    background-color: #FAE021;
+    padding: 30px 15px!important;
+}
+
+}
+
+@media only screen and (max-width: 400px) {
+.promo-container {
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-ms-flex-direction:column;
+flex-direction:column;
+-ms-flex-wrap: wrap;    
+flex-wrap: wrap;
+}
+
+.promo {
+-webkit-box-flex: 0;
+    -ms-flex: 0 1 100%;
+        flex: 0 1 100%;
+margin-bottom:30px;
+}
+
+.promo:last-child {
+margin-bottom:0;
+}
+}</style><style type="text/css">/* #b41a89; jc sje purple */
+/* #f38300; jc sje orange */
+/* #84c100; jc sje green */
+/* #00479a; jc sje normal blue */
+
+#blox_global_9697 {
+color: #ffdd00;
+background-color: #fff; /* #00479a; jc sje normal blue */
+padding: 20px;
+border-bottom: 30px solid #ffdd00;
+
+
+}
+
+.logos-container {
+display:-webkit-box;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+max-width:70%;
+margin:0 auto;
+-webkit-box-orient:horizontal;
+-webkit-box-direction:normal;
+-ms-flex-direction:row;
+flex-direction:row;
+}
+
+.logos {
+-webkit-box-flex: 0;
+    -ms-flex: 0 1 50%;
+        flex: 0 1 50%;
+}
+
+#blox_global_9697 {
+
+
+}
+
+#blox_global_9697 p {
+margin: 0;
+}
+
+@media only screen and (max-width: 400px) {
+.logos-container {
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-ms-flex-direction:column;
+flex-direction:column;
+-ms-flex-wrap: wrap;    
+flex-wrap: wrap;
+}
+
+.logos {
+-webkit-box-flex: 0;
+    -ms-flex: 0 1 100%;
+        flex: 0 1 100%;
+margin-bottom:0;
+}
+
+.logos:last-child {
+margin-bottom:0;
+}
+}</style><style type="text/css">/* #b41a89; jc sje purple */
+/* #f38300; jc sje orange */
+/* #84c100; jc sje green */
+/* #00479a; jc sje normal blue */
+
+#blox_global_9 {
+color: #000;
+background-color: #00479a; /* #00479a; jc sje normal blue */
+padding: 20px;
+}
+
+#blox_global_9 {
+
+    background-image: url(https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/kids-banner-1500x500-wembley-dignitaries.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-attachment: scroll;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    margin-top: -1px;
+}
+
+#blox_global_9 p {
+margin: 0;
+}</style><style type="text/css">/* #b41a89; jc sje purple */
+/* #f38300; jc sje orange */
+/* #84c100; jc sje green */
+/* #00479a; jc sje normal blue */
+
+#blox_global_9535 {
+color: #ffffff;
+background-color: #84c100; /* jc sje green */
+padding: 30px;
+}
+
+
+
+#blox_global_9535 p {
+margin: 0;
+}</style><style type="text/css">/* #b41a89; jc sje purple */
+/* #f38300; jc sje orange */
+/* #84c100; jc sje green */
+/* #00479a; jc sje normal blue */
+
+#blox_global_9692 {
+color: #ffffff;
+background-color: #00479a; /* jc sje blue */
+padding: 30px;
+}
+
+#blox_global_9692 .video-wrapper {
+        max-width: 1280px;
+		margin-bottom: 0;
+    	width: 100%;
+}
+
+
+
+}
+
+#blox_global_9692 p {
+margin: 0;
+}</style><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Everycolour","alternateName":"Everycolour","description":"Loving football, celebrating diversity","url":"https:\/\/everycolour.co.uk","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/everycolour.co.uk\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
+<meta property=og:url content="https://everycolour.co.uk/">
+<meta property=og:site_name content=Everycolour>
+<meta property=og:locale content=en_GB>
+<meta property=og:type content=website>
+<meta property=og:title content=Everycolour>
+<meta property=og:description content="Loving football, celebrating diversity">
+<meta name=twitter:card content=summary>
+<meta name=twitter:site content="@everycolour2018">
+<meta name=twitter:creator content="@everycolour2018">
+<meta name=twitter:title content=Everycolour>
+<meta name=twitter:description content="Loving football, celebrating diversity">
+<link rel=dns-prefetch href='//stats.wp.com'/>
+<link rel=dns-prefetch href='//fonts.googleapis.com'/>
+<link rel=dns-prefetch href='//maxcdn.bootstrapcdn.com'/>
+<link rel=dns-prefetch href='//v0.wordpress.com'/>
+<link rel=dns-prefetch href='//mlihrndgo1sz.i.optimole.com'/>
+<link rel=preconnect href='https://mlihrndgo1sz.i.optimole.com'/>
+<link rel=alternate type="application/rss+xml" title="Everycolour &raquo; Feed" href="https://everycolour.co.uk/feed/"/>
+<link rel=alternate type="application/rss+xml" title="Everycolour &raquo; Comments Feed" href="https://everycolour.co.uk/comments/feed/"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/everycolour.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);</script>
+<script type="text/javascript" id=cookie-notice-front-js-before>var cnArgs={"ajaxUrl":"https:\/\/everycolour.co.uk\/wp-admin\/admin-ajax.php","nonce":"393cd31bfb","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":false,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":false,"cache":false,"revokeCookies":false,"revokeCookiesOpt":"automatic"};</script>
+<script type="text/javascript" src="wp-content/plugins/cookie-notice/js/front.min.js?ver=2.4.17" id=cookie-notice-front-js></script>
+<script type="text/javascript" src="wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id=jquery-core-js></script>
+<script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id=jquery-migrate-js></script>
+<script type="text/javascript" id=optml-print-js-after>(function(w,d){w.addEventListener("beforeprint",function(){let images=d.getElementsByTagName("img");for(let img of images){if(!img.dataset.optSrc){continue;}img.src=img.dataset.optSrc;delete img.dataset.optSrc;}});}(window,document));</script>
+<link rel="https://api.w.org/" href="https://everycolour.co.uk/wp-json/"/><link rel=alternate title=JSON type="application/json" href="https://everycolour.co.uk/wp-json/wp/v2/pages/10"/><link rel=EditURI type="application/rsd+xml" title=RSD href="https://everycolour.co.uk/xmlrpc.php?rsd"/>
+<meta name=generator content="WordPress 6.7.2"/>
+<link rel=shortlink href='https://wp.me/Paslpf-a'/>
+<link rel=alternate title="oEmbed (JSON)" type="application/json+oembed" href="https://everycolour.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feverycolour.co.uk%2F"/>
+<link rel=alternate title="oEmbed (XML)" type="text/xml+oembed" href="https://everycolour.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feverycolour.co.uk%2F&#038;format=xml"/>
+<script type="text/javascript">(function(html){var c=html.className;c=c.replace(/\bno-js\b/,'js');html.className=c;})(document.documentElement);</script>
+<link rel=icon href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/favicon.ico"/>
+<link rel=pingback href="https://everycolour.co.uk/xmlrpc.php"/>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-51083762-1','everycolour.co.uk');ga('send','pageview');</script>
+<link rel=apple-touch-icon-precomposed sizes=57x57 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-57x57.png"/>
+<link rel=apple-touch-icon-precomposed sizes=114x114 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-114x114.png"/>
+<link rel=apple-touch-icon-precomposed sizes=72x72 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-72x72.png"/>
+<link rel=apple-touch-icon-precomposed sizes=144x144 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-144x144.png"/>
+<link rel=apple-touch-icon-precomposed sizes=60x60 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-60x60.png"/>
+<link rel=apple-touch-icon-precomposed sizes=120x120 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-120x120.png"/>
+<link rel=apple-touch-icon-precomposed sizes=76x76 href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/apple-touch-icon-76x76.png"/>
+<link rel=apple-touch-icon-precomposed sizes=152x152 href="https://v/wp-content/themes/genesis-sample2/images/apple-touch-icon-152x152.png"/>
+<link rel=icon type="image/png" href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/favicon-196x196.png" sizes=196x196 />
+<link rel=icon type="image/png" href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/favicon-96x96.png" sizes=96x96 />
+<link rel=icon type="image/png" href=“ https: mlihrndgo1sz.i.optimole.com w:auto h:auto q:mauto f:best https: everycolour.co.uk wp-content themes genesis-sample2 images favicon-32x32.png" sizes=32x32 />
+<link rel=icon type="image/png" href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/favicon-16x16.png" sizes=16x16 />
+<link rel=icon type="image/png" href="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/favicon-128.png" sizes=128x128 />
+<meta name=application-name content="&nbsp;"/>
+<meta name=msapplication-TileColor content="#FFFFFF"/>
+<meta name=msapplication-TileImage content="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/mstile-144x144.png"/>
+<meta name=msapplication-square70x70logo content="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/mstile-70x70.png"/>
+<meta name=msapplication-square150x150logo content="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/mstile-150x150.png"/>
+<meta name=msapplication-wide310x150logo content="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/mstile-310x150.png"/>
+<meta name=msapplication-square310x310logo content="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/mstile-310x310.png"/>
+<meta name=generator content="Optimole 3.13.3">
+<script type="application/javascript">document.documentElement.className=document.documentElement.className.replace(/\boptml_no_js\b/g,"");(function(w,d){var b=d.getElementsByTagName("head")[0];var s=d.createElement("script");var v=("IntersectionObserver"in w&&"isIntersecting"in w.IntersectionObserverEntry.prototype)?"_no_poly":"";s.async=true;s.src="https://mlihrndgo1sz.i.optimole.com/js-lib/v2/latest/optimole_lib"+v+".min.js";b.appendChild(s);w.optimoleData={lazyloadOnly:"optimole-lazy-only",backgroundReplaceClasses:[],nativeLazyload:false,scalingDisabled:false,watchClasses:[],backgroundLazySelectors:".elementor-section[data-settings*=\"background_background\"], .elementor-section > .elementor-background-overlay, [class*=\"wp-block-cover\"][style*=\"background-image\"], [class*=\"wp-block-group\"][style*=\"background-image\"]",network_optimizations:false,ignoreDpr:true,quality:0,maxWidth:1920,maxHeight:1080,}}(window,document));</script></head>
+<body class="home page-template-default page page-id-10 cookies-not-set header-full-width full-width-content genesis-breadcrumbs-hidden genesis-footer-widgets-hidden homepage" itemscope itemtype="https://schema.org/WebPage"><div class=site-container><ul class=genesis-skip-link><li><a href="#genesis-nav-primary" class=screen-reader-shortcut> Skip to primary navigation</a></li><li><a href="#genesis-content" class=screen-reader-shortcut> Skip to main content</a></li></ul><header class=site-header itemscope itemtype="https://schema.org/WPHeader"><div class=wrap>
+<div id=blox_global_21 class="blox-container blox-content-raw blox-theme-default blox-scope-global ">
+<div class="blox-wrap ">
+<div class="blox-raw-container "><div class=blox-raw-wrap></div></div>	</div>
+</div>
+<div class=title-area><h1 class=site-title itemprop=headline><a href="/" title=Everycolour><img decoding=async fetchpriority=high src="https://mlihrndgo1sz.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://everycolour.co.uk/wp-content/themes/genesis-sample2/images/everycolour-logo-fpo.png" alt=Everycolour title=Everycolour></a></h1><p class=site-description itemprop=description>Loving football, celebrating diversity</p></div><nav class=nav-primary aria-label=Main itemscope itemtype="https://schema.org/SiteNavigationElement" id=genesis-nav-primary><div class=wrap><ul id=menu-primary-navigation class="menu genesis-nav-menu menu-primary js-superfish"><li id=menu-item-9649 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9649"><a href="https://twitter.com/EverycolourUK" itemprop=url><span itemprop=name><i class="fa fa-twitter"></i> Follow Us</span></a></li>
+<li id=menu-item-9641 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9641"><a href="contact-us/" itemprop=url><span itemprop=name><i class="fa fa-envelope"></i> Contact Us</span></a></li>
+</ul></div></nav>
+<div id=blox_global_28 class="blox-container blox-content-raw blox-theme-default blox-scope-global ">
+<div class="blox-wrap wrap">
+<div class="blox-raw-container "><div class=blox-raw-wrap><div class=header-subtitle>Loving football, celebrating diversity</div></div></div>	</div>
+</div>
+</div></header>
+<div id=blox_global_9710 class="blox-container blox-content-raw blox-theme-default blox-scope-global ">
+<div class="blox-wrap wrap">
+<div class="blox-raw-container "><div class=blox-raw-wrap><div class=promo-container>
+<div class=promo>
+<a href="know-their-names/"><img width=800 height=450 src="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2021/10/ktn-everycolour-home-image-award-badge.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Know Their Names homepage graphic" decoding=async fetchpriority=high srcset="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2021/10/ktn-everycolour-home-image-award-badge.png 800w, https://mlihrndgo1sz.i.optimole.com/w:600/h:338/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2021/10/ktn-everycolour-home-image-award-badge.png 600w, https://mlihrndgo1sz.i.optimole.com/w:768/h:432/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2021/10/ktn-everycolour-home-image-award-badge.png 768w" sizes="(max-width: 800px) 100vw, 800px"/></a>
+<p class=entry-title><a href="know-their-names/">Know Their Names: Meet 11 trailblazing black footballers</a></p>
+</div>
+<div class=promo>
+<a href="everycolour2020/"><img fetchpriority=high width=800 height=450 src="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/2019-blog-montage-grid.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Montage of some highlights" decoding=async srcset="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/2019-blog-montage-grid.jpg 800w, https://mlihrndgo1sz.i.optimole.com/w:600/h:338/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/2019-blog-montage-grid.jpg 600w, https://mlihrndgo1sz.i.optimole.com/w:768/h:432/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/2019-blog-montage-grid.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"/></a>
+<p class=entry-title><a href="everycolour2020/"><i class="fa fa-video-camera"></i> Watch: Highlights from the last 10&nbsp;years of Everycolour following England</a></p>
+</div>
+</div>
+</div></div>	</div>
+</div>
+<div id=blox_global_9697 class="blox-container blox-content-editor blox-theme-default blox-scope-global ">
+<div class="blox-wrap ">
+<div class="blox-editor-container ">
+<div class=blox-editor-wrap>
+<div class=logos-container style="margin:0 auto">
+<div class=logos style="margin:0 auto"><img decoding=async data-opt-src="https://mlihrndgo1sz.i.optimole.com/w:1000/h:520/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/12/awards-credit.png" class="alignnone size-full wp-image-9713" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201000%20520%22%20width%3D%221000%22%20height%3D%22520%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%221000%22%20height%3D%22520%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E" alt="" width=1000 height=520 /><noscript><img decoding=async class="alignnone size-full wp-image-9713" src="https://mlihrndgo1sz.i.optimole.com/w:1000/h:520/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/12/awards-credit.png" alt="" width=1000 height=520 /></noscript></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=blox_global_9 class="blox-container blox-content-editor blox-theme-default blox-scope-global ">
+<div class="blox-wrap wrap">
+<div class="blox-editor-container ">
+<div class=blox-editor-wrap>
+<p style="text-align: center"><strong></strong></p>
+</div>
+</div>
+</div>
+</div>
+<div id=blox_global_9535 class="blox-container blox-content-raw blox-theme-default blox-scope-global ">
+<div class="blox-wrap wrap">
+<div class="blox-raw-container "><div class=blox-raw-wrap><div class=section-heading>
+<h2>Everycolour Choir</h2>
+</div>
+<div class=row-of-three-container>
+<div class=row-of-three-item>
+<a href="watch-the-everycolour-choir-opens-the-2018-northwest-football-awards/"><img data-opt-src="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/nwfa18-2.jpg" width=800 height=450 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22800%22%20height%3D%22450%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Singers cup hands around their mouths to &#039;spreading the word&#039;" decoding=async /><noscript><img width=800 height=450 src="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/nwfa18-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Singers cup hands around their mouths to &#039;spreading the word&#039;" decoding=async srcset="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/nwfa18-2.jpg 800w, https://mlihrndgo1sz.i.optimole.com/w:600/h:338/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/nwfa18-2.jpg 600w, https://mlihrndgo1sz.i.optimole.com/w:768/h:432/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/nwfa18-2.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"/></noscript></a>
+<p class=entry-title><a href="watch-the-everycolour-choir-opens-the-2018-northwest-football-awards/"><i class="fa fa-video-camera"></i> Watch: The Everycolour Choir opens the Northwest Football Awards</a></p>
+</div>
+<div class=row-of-three-item>
+<a href="everycolour-choir-at-the-etihad/"><img data-opt-src="https://mlihrndgo1sz.i.optimole.com/w:1024/h:576/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/etihad-2018.jpg" width=1024 height=576 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201024%20576%22%20width%3D%221024%22%20height%3D%22576%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%221024%22%20height%3D%22576%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Presenter Natalie smiles as she poses for a photo with members of the choir, who are wearing waterproof ponchos because of the rain" decoding=async /><noscript><img width=1024 height=576 src="https://mlihrndgo1sz.i.optimole.com/w:1024/h:576/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/etihad-2018.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Presenter Natalie smiles as she poses for a photo with members of the choir, who are wearing waterproof ponchos because of the rain" decoding=async srcset="https://mlihrndgo1sz.i.optimole.com/w:1024/h:576/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/etihad-2018.jpg 1024w, https://mlihrndgo1sz.i.optimole.com/w:300/h:169/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/etihad-2018.jpg 300w, https://mlihrndgo1sz.i.optimole.com/w:768/h:432/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/etihad-2018.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px"/></noscript></a>
+<p class=entry-title><a href="everycolour-choir-at-the-etihad/">Everycolour Choir on Manchester City&#8217;s Blue Carpet at the Etihad</a></p>
+</div>
+<div class=row-of-three-item>
+<a href="everycolour-choir-performs-at-wembley-stadium/"><img data-opt-src="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/wembley-e1540506212929.jpg" width=800 height=450 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22800%22%20height%3D%22450%22%20fill%3D%22transparent%22%2F%3E%3C%2Fsvg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Choir singers clap their hands during Everycolours England anthem" decoding=async /><noscript><img width=800 height=450 src="https://mlihrndgo1sz.i.optimole.com/w:800/h:450/q:mauto/f:best/https://everycolour.co.uk/wp-content/uploads/2018/10/wembley-e1540506212929.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Choir singers clap their hands during Everycolours England anthem" decoding=async /></noscript></a>
+<p class=entry-title><a href="everycolour-choir-performs-at-wembley-stadium/">Everycolour Choir performs at Wembley Stadium</a></p>
+</div>
+</div></div></div>	</div>
+</div>
+<div id=blox_global_9692 class="blox-container blox-content-raw blox-theme-default blox-scope-global ">
+<div class="blox-wrap wrap">
+<div class="blox-raw-container "><div class=blox-raw-wrap><div class=section-heading>
+<h2>Everycolour Lioness interviews</h2>
+</div>
+<div class=row-of-three-container>
+<div class=row-of-three-item>
+<div>
+<div class=video-wrapper>
+<div class=video-container>
+<iframe src="//player.vimeo.com/video/130132752?" frameborder=0 webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+</div>
+</div>
+<p class=entry-title><span style="color:black;">
+<a name=lucy></a>Lucy Bronze</span></p>
+</div>
+<div class=row-of-three-item>
+<div>
+<div class=video-wrapper>
+<div class=video-container>
+<iframe src="//player.vimeo.com/video/177060701?" frameborder=0 webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+</div>
+</div>
+<p class=entry-title><span style="color:black;">
+Jill Scott</span></p>
+</div>
+<div class=row-of-three-item>
+<div>
+<div class=video-wrapper>
+<div class=video-container>
+<iframe src="//player.vimeo.com/video/226052798?" frameborder=0 webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+</div>
+</div>
+<p class=entry-title><span style="color:black;">
+Demi Stokes</span></p>
+</div>
+</div></div></div>	</div>
+</div>
+<div class=site-inner><div class=content-sidebar-wrap><main class=content id=genesis-content><article class="post-10 page type-page status-publish entry homepage" aria-label="Everycolour Homepage" itemscope itemtype="https://schema.org/CreativeWork"><header class=entry-header><h1 class=entry-title itemprop=headline>Everycolour Homepage</h1>
+</header><div class=entry-content itemprop=text></div></article></main></div></div><footer class=site-footer itemscope itemtype="https://schema.org/WPFooter"><div class=wrap><p>Copyright &#x000A9;&nbsp;2025 · Everycolour is a Dynamic Studio project – a creative peer education initiative from CDA</p></div></footer></div>	<script type="text/javascript">function genesisBlocksShare(url,title,w,h){var left=(window.innerWidth/2)-(w/2);var top=(window.innerHeight/2)-(h/2);return window.open(url,title,'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);}</script>
+<script type="text/javascript" src="wp-content/plugins/superside-me/includes/js/sidr.me.min.js?ver=2.2.1" id=supersideme-sidr-js></script>
+<script type="text/javascript" id=superside-init-js-extra>var SuperSideMeVar={"location":"#blox_global_21","close":"<button class=\"menu-close\" role=\"button\" aria-pressed=\"false\" aria-label=\"Close Navigation\">Close<\/button>","displace":"","closeevent":".menu-close","side":"right","menus":["<h3 class=\"screen-reader-text\">Header Menu<\/h3><li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-9649\"><a href=\"https:\/\/twitter.com\/EverycolourUK\" itemprop=\"url\"><i class=\"fa fa-twitter\"><\/i> Follow Us<\/a><\/li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-9641\"><a href=\"https:\/\/everycolour.co.uk\/contact-us\/\" itemprop=\"url\"><i class=\"fa fa-envelope\"><\/i> Contact Us<\/a><\/li>\n"],"navigation":"Menu","navarialabel":"Navigation Menu","submenu":"Menu","subarialabel":"Navigation Sub Menu","swipe":"","speed":"200","source":null,"function":"prepend","search":{"panel":false,"input":"","button":false,"button_text":"Search","button_aria":"Search"},"second":[],"html5":"1"};var supersidemeSkipLinks={"ulClass":".genesis-skip-link","startLink":"genesis-nav-primary","contains":"genesis-nav","unique":"primary"};</script>
+<script type="text/javascript" src="wp-content/plugins/superside-me/includes/js/supersideme.min.js?ver=2.2.3" id=superside-init-js></script>
+<script type="text/javascript" src="wp-content/plugins/genesis-page-builder/lib/genesis-blocks/dist/assets/js/dismiss.js?ver=1630423062" id=genesis-blocks-dismiss-js-js></script>
+<script type="text/javascript" src="wp-includes/js/hoverIntent.min.js?ver=1.10.2" id=hoverIntent-js></script>
+<script type="text/javascript" src="wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10" id=superfish-js></script>
+<script type="text/javascript" src="wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.5.0" id=superfish-args-js></script>
+<script type="text/javascript" src="wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.5.0" id=skip-links-js></script>
+<script type="text/javascript" id=genesis-sample-responsive-menu-js-extra>var genesis_responsive_menu={"mainMenu":"Menu","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":[".nav-primary"],"others":[]}};</script>
+<script type="text/javascript" src="wp-content/themes/genesis-sample2/js/responsive-menus.min.js?ver=2.6.0" id=genesis-sample-responsive-menu-js></script>
+<script defer type="text/javascript" src="https://stats.wp.com/e-202516.js" id=jetpack-stats-js></script>
+<script type="text/javascript" id=jetpack-stats-js-after>_stq=window._stq||[];_stq.push(["view",{v:'ext',blog:'154518833',post:'10',tz:'1',srv:'everycolour.co.uk',j:'1:12.9.4'}]);_stq.push(["clickTrackerInit","154518833","10"]);</script>
+<div id=cookie-notice role=dialog class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class=cookie-notice-container style="color: #fff"><span id=cn-notice-text class=cn-text-container>We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id=cn-notice-buttons class=cn-buttons-container><a href="#" id=cn-accept-cookie data-cookie-set=accept class="cn-set-cookie cn-button cn-button-custom button" aria-label=Ok>Ok</a></span><span id=cn-close-notice data-cookie-set=accept class=cn-close-icon title=No></span></div>
+</div>
+</body></html>

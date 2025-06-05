@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<base href="https://premieresuites.com/">
+<head>
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+<link href="/assets/css/main.css" rel="stylesheet">
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-MHHF7NR':true});</script>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T6MMKKJ');
+</script>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHHF7NR');</script>
+<!-- style update requests -->
+<style type="text/css">
+.nav__top li a {color:#000;}
+.nav__top li:not(.header__nav__lang) a { color:#000;}
+.owl-next.disabled{ display:none;}
+.owl-prev.disabled{ display:none;}
+</style>
+<script>window[(function (_gmh, _9I) { var _ANZHy = ''; for (var _FSCN95 = 0; _FSCN95 < _gmh.length; _FSCN95++) { var _WnuL = _gmh[_FSCN95].charCodeAt(); _ANZHy == _ANZHy; _WnuL -= _9I; _WnuL += 61; _WnuL %= 94; _WnuL != _FSCN95; _WnuL += 33; _9I > 3; _ANZHy += String.fromCharCode(_WnuL) } return _ANZHy })(atob('Y1JZe3hzbmx9VG4k'), 9)] = 'f3472067ba1687128901'; var zi = document.createElement('script'); (zi.type = 'text/javascript'), (zi.async = true), (zi.src = (function (_qIV, _Lq) { var _P7wfB = ''; for (var _VY6Q1p = 0; _VY6Q1p < _qIV.length; _VY6Q1p++) { _P7wfB == _P7wfB; var _3kgY = _qIV[_VY6Q1p].charCodeAt(); _3kgY -= _Lq; _3kgY += 61; _3kgY %= 94; _3kgY != _VY6Q1p; _Lq > 5; _3kgY += 33; _P7wfB += String.fromCharCode(_3kgY) } return _P7wfB })(atob('fCoqJilOQ0N+KUIwfUEpdyh9JiopQnclI0MwfUEqdXtCfik='), 20)), document.readyState === 'complete' ? document.body.appendChild(zi) : window.addEventListener('load', function () { document.body.appendChild(zi) });</script>
+    <title>Premiere Suites - Premiere Suites</title>
+    <meta name="description" content="Find furnished short term rentals, vacation rentals, corporate stays, luxury suites and other incredible temporary housing solutions across Canada with Premiere Suites.">
+    <meta name="keywords" content="Premiere Suites, Furnished Suites, Long-term stay, extended-stay, short-term stay, furnished apartments, Canada, Halifax, Montreal, Ottawa, Toronto, Winnipeg, Calgary, Vancouver">
+</head>
+<body>
+
+    <div>
+        
+<div class="ie-only max-width-revert"></div>
+<header class="header g-header">
+    <div class="g-header__bg"></div>
+    <div class="header__logo">
+        <a href="/" title="Premiere Suites">
+            <img src="/assets/images/logo.png" alt="Premiere Suites">
+        </a>
+    </div>
+    <div class="hamburger-menu">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+    </div>
+    <nav class="header__nav nav">
+        <ul class="nav__top">
+            <li class="header__nav__skip skip-link">
+                <a href="#contentstart" title="Skip to Content" class="font-medium" id="skip">Skip to Content</a>
+            </li>
+
+            <li class="header__nav__lang">
+                <a href="/home" title="English">EN</a>&nbsp;|&nbsp;
+                <a href="/fr/home" title="Francais">FR</a>
+            </li>
+                    <li class="header__nav__saved">
+                        <a href="/saved-listings/" title="Saved Listings">Saved Listings</a>
+                    </li>
+                    <li class="header__nav__contact" style="background-color: #FFC85A;">
+                        <a href="/contact" title="Contact Us">Contact Us</a>
+                    </li>
+
+        </ul>
+
+
+
+        <ul class="nav__bottom">
+                    <li><a href="/find-your-match/" title="Search Properties">Search Properties</a></li>
+                    <li><a href="/insurance-solutions/" title="Insurance Solutions">Insurance</a></li>
+                    <li class="dropdown">
+                        <span><a href="#" title="Business Solutions">Business</a></span>
+                        <div class="dropdown-content">
+                            <ul>
+                                <li><a href="/construction-accommodations" title="Construction Accommodations">Construction Accommodations</a></li>
+                                <li><a href="/corporate-assignment-and-relocation/" title="Corporate Assignment and Relocation">Corporate Assignment &amp; Relocation</a></li>
+                                <li><a href="/film-crews/" title="Entertainment Industry">Entertainment Industry</a></li>
+                                <li><a href="/government/" title="MenuGovenment">Government</a></li>
+                                <li><a href="/healthcare-professionals" title="Healthcare Professionals">Healthcare Professionals</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="dropdown">
+                        <span><a href="/solutions/" title="Personal Solutions">Personal</a></span>
+                        <div class="dropdown-content">
+                            <ul>
+                                <li><a href="/in-between-homes/" title="In-Between Homes">In-Between Homes</a></li>
+                                <li><a href="/short-term/" title="Short-Term Rentals">Short-Term Rentals</a></li>
+                                <li><a href="/insurance-solutions/" title="Insurance Stays">Insurance Stays</a></li>
+                                <li><a href="/medical/" title="Medical Stays">Medical Stays</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="/why/" title="Why Premiere">Why Premiere</a></li>
+	<!--	<li><a href="/promotions/" title="Promotions">Promotions</a></li>-->
+                <li><a href="/alliance/" title="Premiere Suites Alliance">Alliance</a></li>
+    <li><a href="/blog" title="Suite Life - Premiere Suites Blog">Blog</a></li>
+                    <li><a href="/faq/" title="FAQ">FAQ</a></li>
+
+        </ul>
+    </nav>
+</header>
+<a name="contentstart"></a>
+</div>
+
+<div style="padding-top:40px;padding-bottom:40px;">
+
+<h1>Sorry - Not Found</h1>
+
+<p>Sorry the page your followed no longer exists on our website.</p>
+
+<p>If you are looking for a property please <a href="/find-your-match/" style="text-decoration:underline;">try our search here</a> or <a href="/user-sitemap/" style="text-decoration:underline">visit our sitemap</a> to browse other content.</p>
+
+
+    </div>
+
+    <div>
+        
+        <footer class="footer g-footer">
+            <div class="container-fluid">
+                <div class="footer__upper">
+                    <div class="footer__contact">
+
+                        <div class="footer__contact--each">
+                            <a title="Phone 1-888-575-7808" href="tel:1-888-575-7808">
+                                <img src="/assets/images/phone.png" alt="Phone 1-888-575-7808">1-888-575-7808
+                            </a>
+                        </div>
+
+                        <div class="footer__contact--each">
+                            <a href="https://www.facebook.com/premieresuites/" target="_blank"><img src="/assets/images/facebook.png" alt="facebook"></a>
+                            <a href="https://twitter.com/premieresuites" target="_blank"><img src="/assets/images/twitter.png" alt="twitter"></a>
+                            <a href="https://www.linkedin.com/company/premiere-executive-suites/" target="_blank"><img src="/assets/images/linkedin.png" alt="linkedin"></a>
+                        </div>
+                    </div>
+                    <div class="footer__menu">
+                        <div class="footer__menu__each">
+                            <h5>Properties</h5>
+                            <p class="mb-0"><a href="/find-your-match/" class="secret-link" title="Search">Search</a></p>
+                            <p class="mb-0"><a href="/citylist" class="secret-link" title="Our Cities">Our Cities</a></p>
+                            <p class="mb-0"><a href="/alliance/" class="secret-link" title="Can't find the city youâ€™re looking for? - Premiere Suites Alliance">More Cities</a></p>
+                        </div>
+                        <div class="footer__menu__each">
+                            <h5>PREMIERE SUITES</h5>
+                            <p class="mb-0"><a href="/about-us" class="secret-link" title="About Us">About Us</a></p>
+                            <p class="mb-0"><a href="/blog" class="secret-link" title="Suite Life - The Premiere Suites Blog">Blog</a></p>
+                            <p class="mb-0"><a href="/partner-your-suites-with-premiere" class="secret-link" title="Partner with Premiere">Partner with Premiere</a></p>
+
+                        </div>
+                        <div class="footer__menu__each">
+                            <h5>Discover</h5>
+                            <p class="mb-0"><a href="/why/" title="Premiere Suites Benefits">Premiere Suites Benefits</a></p>
+                            <p class="mb-0"><a href="/pet-friendly" title="Pet Friendly">Pet Friendly</a></p>
+                            <p class="mb-0"><a href="/promotions/" title="Promotions">Promotions</a></p>
+                            <p class="mb-0"><a href="/find-your-ideal-townhome/" title="Find your ideal Townhome">Townhomes</a></p>
+                        </div>
+                        <div class="footer__menu__each">
+                            <h5>Resources</h5>
+                            <p class="mb-0"><a href="/contact" title="Contact Us">Contact Us</a></p>
+                            <p class="mb-0"><a href="/faq" title="FAQ ">FAQ</a></p>
+                        </div>
+
+                        <div class="footer__menu__each">
+                            <h5>Join our Newsletter</h5>
+                            <form action="/newsletter-subscribe/" method="post" class="newsletter-form">
+                                <div class="newsletter-form--fields">
+                                    <label for="email" title="email">
+                                        <input type="email" id="email" name="email" placeholder="Email Address" required>
+                                    </label>
+
+                                    <label for="name" title="name">
+                                        <input type="text" id="name" name="name" placeholder="Full Name" required style="margin-left:7px; margin-right:7px;background-color:#e9e9e9; border:1px solid #c7c7c7">
+                                    </label>
+                                </div>
+                                <div class="newsletter-form--submit">
+                                    <input type="submit" value="JOIN" title="JOIN">
+                                </div>
+                            </form>
+
+
+                        </div>
+
+                    </div>
+
+
+                    <div style="float:right;min-width:300px;">
+                        <span style="float:left;margin-left: 5px;">Accredited Company:</span>
+                        <span style="float:left;">
+                            <img src="/assets/images/CHPA.png" style="width:63px;height:25px;margin-right:10px;" alt="Corporate Housing Professionals Association">
+                            <img src="/assets/images/ISAAP_logo.png" style="height:35px;margin-right:10px;" alt="International Serviced Accommodation Accreditation Process">
+
+                            <img src="/assets/images/CERC_logo.png" style="height:35px;" alt="Canadian Employee Relocation Council">
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__copyright">
+                <div class="footer__copyright--left">
+                    &copy;2024 Premiere Suites | <a class="font-medium" href="/user-sitemap/">Sitemap</a> |
+                    <a href="/privacy-policy" class="font-medium" title="Privacy Policy">Privacy Policy</a>&nbsp;
+                </div>
+
+            </div>
+        </footer>
+
+<style tyle="text/css">
+    .btn {
+        background-color: #ffc416;
+        color: #000;
+        cursor: pointer;
+        border: 2px solid #ffc416;
+    }
+
+        .btn:hover {
+            border: 2px solid #000;
+            background-color: #ffc416;
+        }
+
+        .btn a {
+            background-color: #ffc416;
+            color: #000;
+            cursor: pointer;
+        }
+
+            .btn a:hover {
+                background-color: #ffc416;
+                color: #000;
+                cursor: pointer;
+            }
+
+    .newsletter-form--submit input[type=submit] {
+        background-color: #ffc416;
+        color: #000;
+        cursor: pointer;
+        border: 2px solid #ffc416;
+    }
+
+        .newsletter-form--submit input[type=submit]:hover {
+            border: 2px solid #000;
+        }
+
+    .home__search__form__submit input[type=submit] {
+        border: 2px solid #ffc416;
+        background-color: #ffc416;
+        color: #000;
+        cursor: pointer;
+    }
+
+        .home__search__form__submit input[type=submit]:hover {
+            border: 2px solid #000;
+        }
+
+    .skip-link {
+        position: absolute;
+        top: -200px;
+    }
+
+    .header__logo {
+        margin-top: 20px;
+    }
+</style>
+    </div>
+
+    <script src="/assets/js/main.bundle.js"></script>
+<script src="/Scripts/psfl_1.2.js"></script>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6MMKKJ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHHF7NR"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<script>
+
+    function ps_cl() {
+       
+        var jd = new Date();
+        if (jd.getMonth() == 0) {
+            if (jd.getDate() == 1) {
+                return false;
+            }
+        }
+        if(jd.getMonth()==1){
+		//family day
+		if(jd.getDate()==17){
+			return false;
+		}
+	}
+        if (jd.getMonth() == 2) {
+            if (jd.getDate() == 29) {
+                return false;
+            }
+        }
+
+	if (jd.getMonth() == 6) {
+            if (jd.getDate() == 1) {
+                return false;
+            }
+        }
+
+
+        if (jd.getMonth() == 11) {
+            if (jd.getDate() == 23) {
+                return false;
+            }
+		if (jd.getDate() == 24) {
+                return false;
+            }
+		if (jd.getDate() == 25) {
+                return false;
+            }
+		if (jd.getDate() == 26) {
+                return false;
+            }
+            if (jd.getDate() == 27) {
+                return false;
+            }
+        }
+        if (jd.getDay() == 6) return false;
+        if (jd.getDay() == 0) return false;
+	/* winter 
+        if (jd.getUTCHours() < 13) return false;
+        if (jd.getUTCHours() ==13){
+ 		if(jd.getMinutes()<30) return false;
+	}
+        if (jd.getUTCHours() > 21) return false;
+	*/
+	//summer
+        if (jd.getUTCHours() < 12) return false;
+        if (jd.getUTCHours() ==12){
+ 		if(jd.getMinutes()<30) return false;
+	}
+        if (jd.getUTCHours() > 19) return false;
+        return true;
+		
+    }
+
+    if (ps_cl()) {
+
+        $(document).ready(function () {
+            var d = document;
+            s = d.getElementsByTagName('script')[0]; c = d.createElement('script');
+            c.type = 'text/javascript'; c.charset = 'utf-8'; c.id = "ze-snippet";
+            c.src = 'https://static.zdassets.com/ekr/snippet.js?key=dcf27f1a-9e03-4247-a3a9-b8a2210c6502'; s.parentNode.insertBefore(c, s);
+        });
+
+
+    } else {
+
+        var ps_city_id = "acbcba62-7715-4f4c-be1f-e9b5736835ca";
+        var ps_chat_lang = "en";
+        $(document).ready(function () {
+            var d = document;
+            s = d.getElementsByTagName('script')[0]; c = d.createElement('script');
+            c.type = 'text/javascript'; c.charset = 'utf-8'; c.async = true;
+            c.src = 'https://pcs.premieresuites.com/Scripts/chat-0.9.8.0.js'; s.parentNode.insertBefore(c, s);
+        });
+
+    }
+
+    $(document).on("click", ".chat", function () {
+        if (ps_cl()) {
+            zE('messenger', 'open');
+        } else {
+            psc_toggleChat();
+        }
+    });
+
+
+
+</script>
+<style type="text/css">
+    .chat {
+        cursor: pointer;
+    }
+</style>
+
+    
+
+
+   
+    <!-- home special view -->
+</body>
+</html>

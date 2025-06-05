@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="From chic décor ideas to proven online matchmaking tips, My Wedding Source offers everything you need for a seamless wedding planning experience." />
+	<link rel="canonical" href="https://mwsrc.net/" />
+	<link rel="next" href="https://mwsrc.net/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="My wedding source" />
+	<meta property="og:description" content="From chic décor ideas to proven online matchmaking tips, My Wedding Source offers everything you need for a seamless wedding planning experience." />
+	<meta property="og:url" content="https://mwsrc.net/" />
+	<meta property="og:site_name" content="My wedding source" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://mwsrc.net/","url":"https://mwsrc.net/","name":"My Wedding Source - Your Online Wedding Planning Companion","isPartOf":{"@id":"https://mwsrc.net/#website"},"about":{"@id":"https://mwsrc.net/#organization"},"description":"From chic décor ideas to proven online matchmaking tips, My Wedding Source offers everything you need for a seamless wedding planning experience.","breadcrumb":{"@id":"https://mwsrc.net/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://mwsrc.net/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://mwsrc.net/#website","url":"https://mwsrc.net/","name":"My wedding source","description":"","publisher":{"@id":"https://mwsrc.net/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mwsrc.net/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mwsrc.net/#organization","name":"My wedding source","url":"https://mwsrc.net/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mwsrc.net/#/schema/logo/image/","url":"https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico.png","contentUrl":"https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico.png","width":512,"height":512,"caption":"My wedding source"},"image":{"@id":"https://mwsrc.net/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<title>My Wedding Source - Your Online Wedding Planning Companion</title>
+<link rel="alternate" type="application/rss+xml" title="My wedding source &raquo; Feed" href="https://mwsrc.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="My wedding source &raquo; Comments Feed" href="https://mwsrc.net/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mwsrc.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='wp-block-image-css' href='https://mwsrc.net/wp-includes/blocks/image/style.min.css?ver=6.8' media='all' />
+<style id='wp-block-image-theme-inline-css'>
+:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}
+</style>
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<style id='wp-block-group-inline-css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+</style>
+<style id='wp-block-group-theme-inline-css'>
+:where(.wp-block-group.has-background){padding:1.25em 2.375em}
+</style>
+<style id='wp-block-site-logo-inline-css'>
+.wp-block-site-logo{box-sizing:border-box;line-height:0}.wp-block-site-logo a{display:inline-block;line-height:0}.wp-block-site-logo.is-default-size img{height:auto;width:120px}.wp-block-site-logo img{height:auto;max-width:100%}.wp-block-site-logo a,.wp-block-site-logo img{border-radius:inherit}.wp-block-site-logo.aligncenter{margin-left:auto;margin-right:auto;text-align:center}:root :where(.wp-block-site-logo.is-style-rounded){border-radius:9999px}
+</style>
+<style id='wp-block-site-title-inline-css'>
+.wp-block-site-title{box-sizing:border-box}.wp-block-site-title :where(a){color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}
+</style>
+<style id='wp-block-navigation-link-inline-css'>
+.wp-block-navigation .wp-block-navigation-item__label{overflow-wrap:break-word}.wp-block-navigation .wp-block-navigation-item__description{display:none}.link-ui-tools{border-top:1px solid #f0f0f0;padding:8px}.link-ui-block-inserter{padding-top:8px}.link-ui-block-inserter__back{margin-left:8px;text-transform:uppercase}
+</style>
+<link rel='stylesheet' id='wp-block-navigation-css' href='https://mwsrc.net/wp-includes/blocks/navigation/style.min.css?ver=6.8' media='all' />
+<style id='wp-block-search-inline-css'>
+.wp-block-search__button{margin-left:10px;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{height:1.25em;min-height:24px;min-width:24px;width:1.25em;fill:currentColor;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search__input{appearance:none;border:1px solid #949494;flex-grow:1;margin-left:0;margin-right:0;min-width:3rem;padding:8px;text-decoration:unset!important}.wp-block-search.wp-block-search__button-only .wp-block-search__button{box-sizing:border-box;display:flex;flex-shrink:0;justify-content:center;margin-left:0;max-width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{min-width:0!important;transition-property:width}.wp-block-search.wp-block-search__button-only .wp-block-search__input{flex-basis:100%;transition-duration:.3s}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden,.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__inside-wrapper{overflow:hidden}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__input{border-left-width:0!important;border-right-width:0!important;flex-basis:0;flex-grow:0;margin:0;min-width:0!important;padding-left:0!important;padding-right:0!important;width:0!important}:where(.wp-block-search__input){font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-transform:inherit}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border:none;border-radius:0;padding:0 4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}.wp-block[data-align=right] .wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{float:right}
+</style>
+<style id='wp-block-search-theme-inline-css'>
+.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}
+</style>
+<style id='wp-block-template-part-theme-inline-css'>
+:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='wp-block-heading-inline-css'>
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+</style>
+<style id='wp-block-button-inline-css'>
+.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;width:100%;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}
+</style>
+<style id='wp-block-buttons-inline-css'>
+.wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-button.aligncenter{text-align:center}
+</style>
+<link rel='stylesheet' id='wp-block-cover-css' href='https://mwsrc.net/wp-includes/blocks/cover/style.min.css?ver=6.8' media='all' />
+<style id='wp-block-columns-inline-css'>
+.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+</style>
+<style id='wp-block-list-inline-css'>
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+</style>
+<style id='wp-block-post-title-inline-css'>
+.wp-block-post-title{box-sizing:border-box;word-break:break-word}.wp-block-post-title :where(a){display:inline-block;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}
+</style>
+<style id='wp-block-post-template-inline-css'>
+.wp-block-post-template{box-sizing:border-box;list-style:none;margin-bottom:0;margin-top:0;max-width:100%;padding:0}.wp-block-post-template.is-flex-container{display:flex;flex-direction:row;flex-wrap:wrap;gap:1.25em}.wp-block-post-template.is-flex-container>li{margin:0;width:100%}@media (min-width:600px){.wp-block-post-template.is-flex-container.is-flex-container.columns-2>li{width:calc(50% - .625em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-3>li{width:calc(33.33333% - .83333em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-4>li{width:calc(25% - .9375em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-5>li{width:calc(20% - 1em)}.wp-block-post-template.is-flex-container.is-flex-container.columns-6>li{width:calc(16.66667% - 1.04167em)}}@media (max-width:600px){.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid{grid-template-columns:1fr}}.wp-block-post-template-is-layout-constrained>li>.alignright,.wp-block-post-template-is-layout-flow>li>.alignright{float:right;margin-inline-end:0;margin-inline-start:2em}.wp-block-post-template-is-layout-constrained>li>.alignleft,.wp-block-post-template-is-layout-flow>li>.alignleft{float:left;margin-inline-end:2em;margin-inline-start:0}.wp-block-post-template-is-layout-constrained>li>.aligncenter,.wp-block-post-template-is-layout-flow>li>.aligncenter{margin-inline-end:auto;margin-inline-start:auto}
+</style>
+<link rel='stylesheet' id='wp-block-social-links-css' href='https://mwsrc.net/wp-includes/blocks/social-links/style.min.css?ver=6.8' media='all' />
+<style id='wp-block-separator-inline-css'>
+@charset "UTF-8";.wp-block-separator{border:none;border-top:2px solid}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}.wp-block-separator.is-style-dots{background:none!important;border:none!important}
+</style>
+<style id='wp-block-separator-theme-inline-css'>
+.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://mwsrc.net/wp-includes/css/dashicons.min.css?ver=6.8' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #fff;--wp--preset--color--contrast: #111;--wp--preset--color--primary: #1B1B1B;--wp--preset--color--secondary: #FF4747;--wp--preset--color--tertiary: #F9FBFA;--wp--preset--color--transparent: transparent;--wp--preset--color--secondary-bg: #edededed;--wp--preset--color--table-line: rgba(0,0,0,.1);--wp--preset--color--theme: #57575b;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--primary-white: linear-gradient(#0073aa 49.9%,#fff 50%);--wp--preset--gradient--white-primary: linear-gradient(#fff 49.9%,#0073aa 50%);--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: clamp(1.5rem, 1.5rem + ((1vw - 0.2rem) * 0.777), 2rem);--wp--preset--font-size--x-large: clamp(2rem, 2rem + ((1vw - 0.2rem) * 1.553), 3rem);--wp--preset--font-size--x-small: 14px;--wp--preset--font-size--medium-small: 16px;--wp--preset--font-size--xx-large: clamp(4rem, 4rem + ((1vw - 0.2rem) * 1.553), 5rem);--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--dancing-script: "Dancing Script", cursive;--wp--preset--font-family--satisfy: Satisfy, cursive;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 1350px;--wp--style--global--wide-size: 1350px; }:where(body) { margin: 0; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) { padding-right: 0; padding-left: 0; }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) > .alignfull { margin-left: 0; margin-right: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--jost);font-weight: 500;--wp--style--root--padding-top: 0px;--wp--style--root--padding-right: 0px;--wp--style--root--padding-bottom: 0px;--wp--style--root--padding-left: 0px;}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--contrast);text-decoration: underline;}:root :where(a:where(:not(.wp-element-button)):hover){color: var(--wp--preset--color--contrast);text-decoration: none;}:root :where(a:where(:not(.wp-element-button)):focus){color: var(--wp--preset--color--contrast);}:root :where(a:where(:not(.wp-element-button)):active){color: var(--wp--preset--color--contrast);}h1{font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--xx-large);font-weight: 500;}h2{font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--x-large);font-weight: 500;}h3{font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--large);font-weight: 500;}:root :where(.wp-element-button, .wp-block-button__link){background-color: var(--wp--preset--color--primary);border-radius: 2px;border-width: 0;color: var(--wp--preset--color--base);font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--medium-small);font-weight: 500;line-height: inherit;padding-top: 12px;padding-right: 34px;padding-bottom: 12px;padding-left: 34px;text-decoration: none;}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){background-color: var(--wp--preset--color--secondary);color: var(--wp--preset--color--base);}:root :where(.wp-element-caption, .wp-block-audio figcaption, .wp-block-embed figcaption, .wp-block-gallery figcaption, .wp-block-image figcaption, .wp-block-table figcaption, .wp-block-video figcaption){color: var(--wp--preset--color--primary);}cite{color: var(--wp--preset--color--primary);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-tertiary-color{color: var(--wp--preset--color--tertiary) !important;}.has-transparent-color{color: var(--wp--preset--color--transparent) !important;}.has-secondary-bg-color{color: var(--wp--preset--color--secondary-bg) !important;}.has-table-line-color{color: var(--wp--preset--color--table-line) !important;}.has-theme-color{color: var(--wp--preset--color--theme) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-background-color{background-color: var(--wp--preset--color--tertiary) !important;}.has-transparent-background-color{background-color: var(--wp--preset--color--transparent) !important;}.has-secondary-bg-background-color{background-color: var(--wp--preset--color--secondary-bg) !important;}.has-table-line-background-color{background-color: var(--wp--preset--color--table-line) !important;}.has-theme-background-color{background-color: var(--wp--preset--color--theme) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-border-color{border-color: var(--wp--preset--color--tertiary) !important;}.has-transparent-border-color{border-color: var(--wp--preset--color--transparent) !important;}.has-secondary-bg-border-color{border-color: var(--wp--preset--color--secondary-bg) !important;}.has-table-line-border-color{border-color: var(--wp--preset--color--table-line) !important;}.has-theme-border-color{border-color: var(--wp--preset--color--theme) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-primary-white-gradient-background{background: var(--wp--preset--gradient--primary-white) !important;}.has-white-primary-gradient-background{background: var(--wp--preset--gradient--white-primary) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-x-small-font-size{font-size: var(--wp--preset--font-size--x-small) !important;}.has-medium-small-font-size{font-size: var(--wp--preset--font-size--medium-small) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-dancing-script-font-family{font-family: var(--wp--preset--font-family--dancing-script) !important;}.has-satisfy-font-family{font-family: var(--wp--preset--font-family--satisfy) !important;}
+:root :where(.wp-block-navigation){font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--medium);font-weight: 400;}
+:root :where(.wp-block-navigation a:where(:not(.wp-element-button))){text-decoration: none;}
+:root :where(.wp-block-navigation a:where(:not(.wp-element-button)):hover){color: var(--wp--preset--color--contrast);text-decoration: none;}
+:root :where(.wp-block-navigation a:where(:not(.wp-element-button)):focus){color: var(--wp--preset--color--contrast);}
+:root :where(.wp-block-navigation a:where(:not(.wp-element-button)):active){color: var(--wp--preset--color--contrast);}
+:root :where(.wp-block-post-title){font-size: var(--wp--preset--font-size--x-large);}
+:root :where(p){font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--small);font-weight: 400;line-height: 1.5;}
+:root :where(.wp-block-site-title){font-family: var(--wp--preset--font-family--jost);font-size: var(--wp--preset--font-size--large);font-weight: 500;}
+:root :where(.wp-block-site-title a:where(:not(.wp-element-button))){text-decoration: none;}
+:root :where(.wp-block-site-title a:where(:not(.wp-element-button)):hover){color: var(--wp--preset--color--theme);text-decoration: none;}
+</style>
+<style id='core-block-supports-inline-css'>
+.wp-container-core-group-is-layout-f1189ed3{flex-wrap:nowrap;gap:var(--wp--preset--spacing--20);}.wp-container-core-group-is-layout-6c531013{flex-wrap:nowrap;}.wp-container-core-group-is-layout-243ad6e8{justify-content:space-between;}.wp-container-core-group-is-layout-c04e4622 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-container-1{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-content-9cfa9a5a{flex-grow:1;}.wp-container-core-navigation-is-layout-3297d4f7{gap:48px;justify-content:center;}.wp-container-core-group-is-layout-80ff1510{flex-wrap:nowrap;gap:18px;}.wp-container-core-group-is-layout-0999c970{flex-wrap:nowrap;gap:var(--wp--preset--spacing--60);}.wp-container-core-group-is-layout-9366075c{justify-content:space-between;}.wp-container-core-group-is-layout-b3ca460f > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-fb1485238930dd0d450cf648a116f53a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-0e2668c5f160a016179bf0a852f80001 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-container-core-buttons-is-layout-a89b3969{justify-content:center;}.wp-container-core-cover-is-layout-6473e4ef > .alignfull{margin-right:calc(20px * -1);margin-left:calc(20px * -1);}.wp-elements-cea70393eaec98ec937548f3e0b8df12 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-ce1bf0bb279cad79304526a9acf1cd77 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-container-core-columns-is-layout-8eb77903{flex-wrap:nowrap;gap:0 0;}.wp-container-core-group-is-layout-4b827052{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-23441af8{flex-wrap:nowrap;justify-content:center;}.wp-container-core-columns-is-layout-67ffd0d4{flex-wrap:nowrap;gap:2em var(--wp--preset--spacing--40);}.wp-container-core-group-is-layout-35a73fa7 > .alignfull{margin-right:calc(20px * -1);margin-left:calc(20px * -1);}.wp-elements-9fe6b5fa46c7cf8e033861f79d57e880 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--secondary);}.wp-container-core-group-is-layout-123bd11a > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:800px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-123bd11a > .alignwide{max-width:800px;}.wp-container-core-group-is-layout-123bd11a .alignfull{max-width:none;}.wp-container-core-group-is-layout-123bd11a > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-bea02a06 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:800px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-bea02a06 > .alignwide{max-width:800px;}.wp-container-core-group-is-layout-bea02a06 .alignfull{max-width:none;}.wp-container-core-buttons-is-layout-a8261ec1{justify-content:flex-start;}.wp-container-core-column-is-layout-e74fcb42 > .alignfull{margin-right:calc(20px * -1);margin-left:calc(20px * -1);}.wp-container-core-columns-is-layout-52ef05ca{flex-wrap:nowrap;gap:var(--wp--preset--spacing--60) 2em;}.wp-elements-689b2c2e32c0ceaa6459eacb1cfa4530 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--secondary);}.wp-elements-43405feb07fb43044e8ffaacb5ac2735 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-01174a0b18c3b55b9b8c46052f983254 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-a8330be5e5aa52e90faf2d98df68f187 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-268f22b4f9caf29efa48f82644470552 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-container-core-group-is-layout-bae6891b{grid-template-columns:repeat(auto-fill, minmax(min(19rem, 100%), 1fr));container-type:inline-size;}.wp-elements-817f1832d72e2034a5395f7ddd0af634 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--secondary);}.wp-container-core-group-is-layout-6e5fc822 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:800px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-6e5fc822 > .alignwide{max-width:800px;}.wp-container-core-group-is-layout-6e5fc822 .alignfull{max-width:none;}.wp-container-core-group-is-layout-6e5fc822 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 a:where(:not(.wp-element-button)){color:#343532;}.wp-container-core-group-is-layout-19e250f3 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-19e250f3 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-be04af43 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-be04af43 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-post-template-is-layout-1224e06b{grid-template-columns:repeat(auto-fill, minmax(min(16rem, 100%), 1fr));container-type:inline-size;}.wp-container-core-group-is-layout-c06d165c > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-10fea82a > .alignfull{margin-right:calc(20px * -1);margin-left:calc(20px * -1);}.wp-elements-429546aefd20c996b7445e576ffbfa51 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--secondary);}.wp-container-core-columns-is-layout-28f84493{flex-wrap:nowrap;}.wp-container-core-group-is-layout-6ab92954 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-6ab92954 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6ab92954 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-7231bd69{flex-wrap:nowrap;gap:var(--wp--preset--spacing--80);justify-content:space-between;}.wp-container-core-group-is-layout-af8e9b23 > .alignfull{margin-right:calc(20px * -1);margin-left:calc(20px * -1);}.wp-elements-57df57193845ee34153ecf6fdade9c1a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base-2);}.wp-container-core-group-is-layout-9b82872f{flex-wrap:nowrap;gap:var(--wp--preset--spacing--20);}.wp-container-core-group-is-layout-9e1c53c6{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-column-is-layout-5dafc681 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-5dafc681 > * + *{margin-block-start:var(--wp--preset--spacing--50);margin-block-end:0;}.wp-elements-aa73eb634038b617c678511b4729233f a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base-2);}.wp-container-core-column-is-layout-f5bb311e > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-f5bb311e > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-elements-8adc433eea842aec2001cd5b837d3966 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base-2);}.wp-elements-a23587de79c4db1c044d78fd91c901be a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base-2);}.wp-container-core-social-links-is-layout-5e3e6e82{justify-content:center;}.wp-container-core-columns-is-layout-f0342b05{flex-wrap:nowrap;}.wp-container-core-group-is-layout-98bb686d{gap:var(--wp--preset--spacing--20);flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-dd74b6a2 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}
+</style>
+<style id='wp-block-template-skip-link-inline-css'>
+
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+</style>
+<link rel='stylesheet' id='shopverse-style-css' href='https://mwsrc.net/wp-content/themes/shopverse//style.css?ver=6.8' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://mwsrc.net/wp-content/themes/shopverse/assets/vendor/font-awesome/css/all.min.css?ver=6.5.1' media='all' />
+<script src="https://mwsrc.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://mwsrc.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://mwsrc.net/wp-content/themes/shopverse/assets/js/custom-script.js?ver=6.8" id="custom-script-js"></script>
+<link rel="https://api.w.org/" href="https://mwsrc.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mwsrc.net/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8" />
+<script type="importmap" id="wp-importmap">
+{"imports":{"@wordpress\/interactivity":"https:\/\/mwsrc.net\/wp-includes\/js\/dist\/script-modules\/interactivity\/index.min.js?ver=55aebb6e0a16726baffb"}}
+</script>
+<script type="module" src="https://mwsrc.net/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240" id="@wordpress/block-library/navigation/view-js-module"></script>
+<script type="module" src="https://mwsrc.net/wp-includes/js/dist/script-modules/block-library/search/view.min.js?ver=208bf143e4074549fa89" id="@wordpress/block-library/search/view-js-module"></script>
+<link rel="modulepreload" href="https://mwsrc.net/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb" id="@wordpress/interactivity-js-modulepreload"><style class='wp-fonts-local'>
+@font-face{font-family:Jost;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://mwsrc.net/wp-content/themes/shopverse/assets/fonts/jost/Jost-VariableFont_wght.ttf') format('truetype');font-stretch:normal;}
+@font-face{font-family:"Dancing Script";font-style:normal;font-weight:400;font-display:fallback;src:url('https://mwsrc.net/wp-content/uploads/fonts/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHSOB9ptDqpw.woff2') format('woff2');}
+@font-face{font-family:"Dancing Script";font-style:normal;font-weight:500;font-display:fallback;src:url('https://mwsrc.net/wp-content/uploads/fonts/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyoHSOB9ptDqpw.woff2') format('woff2');}
+@font-face{font-family:"Dancing Script";font-style:normal;font-weight:600;font-display:fallback;src:url('https://mwsrc.net/wp-content/uploads/fonts/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y0HSOB9ptDqpw.woff2') format('woff2');}
+@font-face{font-family:"Dancing Script";font-style:normal;font-weight:700;font-display:fallback;src:url('https://mwsrc.net/wp-content/uploads/fonts/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i0HSOB9ptDqpw.woff2') format('woff2');}
+@font-face{font-family:Satisfy;font-style:normal;font-weight:400;font-display:fallback;src:url('https://mwsrc.net/wp-content/uploads/fonts/rP2Hp2yn6lkG50LoOZGCHBeHFl0.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico-300x300.png" />
+<meta name="msapplication-TileImage" content="https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico-300x300.png" />
+</head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive wp-theme-shopverse">
+
+<div class="wp-site-blocks"><header class="site-header wp-block-template-part">
+<div class="wp-block-group has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-c04e4622 wp-block-group-is-layout-constrained wp-container-1 is-position-sticky" style="background-color:#f5f5f5;margin-top:0;margin-bottom:0;padding-top:0;padding-right:var(--wp--preset--spacing--40);padding-bottom:0;padding-left:var(--wp--preset--spacing--40)">
+<div class="wp-block-group has-button-hover-color-background-color has-background is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-243ad6e8 wp-block-group-is-layout-flex" style="margin-top:0;margin-bottom:0;padding-top:16px;padding-right:0;padding-bottom:16px;padding-left:0">
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f1189ed3 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://mwsrc.net/wp-content/themes/shopverse/assets/images/phone.png" alt="" class="wp-image-4819" style="width:22px"/></figure>
+
+
+
+<p class="has-medium-small-font-size">978-494-097</p>
+</div>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f1189ed3 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://mwsrc.net/wp-content/themes/shopverse/assets/images/mail.png" alt="" class="wp-image-4820" style="width:22px"/></figure>
+
+
+
+<p class="has-medium-small-font-size"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1b72757d745b766c68697835757e6f">[email&#160;protected]</a></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-6c531013 wp-block-group-is-layout-flex">
+<p class="has-medium-small-font-size" style="text-transform:uppercase"><em>say &#8220;i do&#8221; now and thank yourself later</em></p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-container-core-group-is-layout-b3ca460f wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:20px;padding-right:var(--wp--preset--spacing--40);padding-bottom:20px;padding-left:var(--wp--preset--spacing--40)">
+<div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-9366075c wp-block-group-is-layout-flex">
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-f1189ed3 wp-block-group-is-layout-flex"><div class="wp-block-site-logo"><a href="https://mwsrc.net/" class="custom-logo-link" rel="home" aria-current="page"><img width="30" height="30" src="https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico.png" class="custom-logo" alt="My wedding source" decoding="async" srcset="https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico.png 512w, https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico-300x300.png 300w, https://mwsrc.net/wp-content/uploads/2025/03/My-wedding-source-ico-150x150.png 150w" sizes="(max-width: 30px) 100vw, 30px" /></a></div>
+
+<h6 class="wp-block-site-title has-dancing-script-font-family"><a href="https://mwsrc.net" target="_self" rel="home" aria-current="page">My wedding source</a></h6></div>
+
+
+<nav class="is-responsive items-justified-center wp-block-navigation wp-container-content-9cfa9a5a is-horizontal is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-3297d4f7 wp-block-navigation-is-layout-flex" aria-label="Header navigation" 
+		 data-wp-interactive="core/navigation" data-wp-context='{"overlayOpenedBy":{"click":false,"hover":false,"focus":false},"type":"overlay","roleAttribute":"","ariaLabel":"Menu"}'><button aria-haspopup="dialog" aria-label="Open menu" class="wp-block-navigation__responsive-container-open" 
+				data-wp-on-async--click="actions.openMenuOnClick"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+			><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+				<div class="wp-block-navigation__responsive-container"  id="modal-2" 
+				data-wp-class--has-modal-open="state.isMenuOpen"
+				data-wp-class--is-menu-open="state.isMenuOpen"
+				data-wp-watch="callbacks.initMenu"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+				data-wp-on-async--focusout="actions.handleMenuFocusout"
+				tabindex="-1"
+			>
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" 
+				data-wp-bind--aria-modal="state.ariaModal"
+				data-wp-bind--aria-label="state.ariaLabel"
+				data-wp-bind--role="state.roleAttribute"
+			>
+							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" 
+				data-wp-on-async--click="actions.closeMenuOnClick"
+			><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m13.06 12 6.47-6.47-1.06-1.06L12 10.94 5.53 4.47 4.47 5.53 10.94 12l-6.47 6.47 1.06 1.06L12 13.06l6.47 6.47 1.06-1.06L13.06 12Z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" 
+				data-wp-watch="callbacks.focusFirstElement"
+			 id="modal-2-content">
+								<ul class="wp-block-navigation__container is-responsive items-justified-center wp-block-navigation"><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class="wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://mwsrc.net/find-an-asian-wife/"><span class="wp-block-navigation-item__label">Asian Wedding</span></a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Asian Wedding submenu" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/thailand-order-brides/"><span class="wp-block-navigation-item__label">Thailand Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/korea-mail-order-brides/"><span class="wp-block-navigation-item__label">Korea Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/mongolia-mail-order-brides/"><span class="wp-block-navigation-item__label">Mongolia Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/find-a-vietnamese-wife/"><span class="wp-block-navigation-item__label">Vietnamese Wife</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class="wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://mwsrc.net/category/wedding-planning/"><span class="wp-block-navigation-item__label">Wedding Planning</span></a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Wedding Planning submenu" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/modern-vs-traditional-weddings/"><span class="wp-block-navigation-item__label">Modern vs. Traditional Weddings</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/right-marriage-site-for-serious-relationships/"><span class="wp-block-navigation-item__label">Right Marriage Site</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/popular-wedding-dress-styles/"><span class="wp-block-navigation-item__label">Wedding Dress Styles</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/wedding-ceremony-ideas/"><span class="wp-block-navigation-item__label">Unique Wedding Ceremony Ideas</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/checklist-for-a-stress-free-celebration/"><span class="wp-block-navigation-item__label">Wedding Checklist</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/heartfelt-wedding-vows/"><span class="wp-block-navigation-item__label">How to Write Heartfelt Wedding Vows That Will Wow Your Partner</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/mail-order-bride/"><span class="wp-block-navigation-item__label">Savе Money When Looking for a Mail Order Bride</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class="wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://mwsrc.net/category/my-european-wedding/"><span class="wp-block-navigation-item__label">European Wedding</span></a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="European Wedding submenu" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/ukraine-mail-order-brides/"><span class="wp-block-navigation-item__label">Ukraine Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/bulgaria-mail-order-brides/"><span class="wp-block-navigation-item__label">Bulgaria Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/norwegian-wives/"><span class="wp-block-navigation-item__label">Norwegian Wives</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/greece-order-brides/"><span class="wp-block-navigation-item__label">Greece Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/iceland-mail-order-brides-offer-warmth/"><span class="wp-block-navigation-item__label">Iceland Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/find-a-russian-wife/"><span class="wp-block-navigation-item__label">Find a Russian Wife</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class="wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://mwsrc.net/latin-order-brides/"><span class="wp-block-navigation-item__label">Latin Wedding</span></a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Latin Wedding submenu" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/colombian-mail-order-brides/"><span class="wp-block-navigation-item__label">Colombian Brides</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/brazilian-wife/"><span class="wp-block-navigation-item__label">Brazilian Wife</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/find-a-mexican-wife/"><span class="wp-block-navigation-item__label">Find a Mexican Wife</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://mwsrc.net/venezuela-mail-order-brides/"><span class="wp-block-navigation-item__label">Venezuela Brides</span></a></li></ul></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav>
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-0999c970 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-80ff1510 wp-block-group-is-layout-flex"><form role="search" method="get" action="https://mwsrc.net/" style="margin-top:0;margin-bottom:0;" class="wp-block-search__button-only wp-block-search__searchfield-hidden wp-block-search__icon-button wp-block-search" 
+		 data-wp-interactive="core/search"
+		 data-wp-context='{"isSearchInputVisible":false,"inputId":"wp-block-search__input-3","ariaLabelExpanded":"Submit Search","ariaLabelCollapsed":"Expand search field"}'
+		 data-wp-class--wp-block-search__searchfield-hidden="!context.isSearchInputVisible"
+		 data-wp-on-async--keydown="actions.handleSearchKeydown"
+		 data-wp-on-async--focusout="actions.handleSearchFocusout"
+		><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-3" >Search</label><div class="wp-block-search__inside-wrapper " ><input aria-hidden="true" class="wp-block-search__input" data-wp-bind--aria-hidden="!context.isSearchInputVisible" data-wp-bind--tabindex="state.tabindex" id="wp-block-search__input-3" placeholder="Search products…"  value="" type="search" name="s" required  style="border-width: 0px;border-style: none"/><input type="hidden" name="post_type" value="product" /><button  aria-expanded="false"  class="wp-block-search__button has-icon wp-element-button" data-wp-bind--aria-controls="state.ariaControls" data-wp-bind--aria-expanded="context.isSearchInputVisible" data-wp-bind--aria-label="state.ariaLabel" data-wp-bind--type="state.type" data-wp-on--click="actions.openSearchInput"   style="border-width: 0px;border-style: none"><svg class="search-icon" viewBox="0 0 24 24" width="24" height="24">
+					<path d="M13 5c-3.3 0-6 2.7-6 6 0 1.4.5 2.7 1.3 3.7l-3.8 3.8 1.1 1.1 3.8-3.8c1 .8 2.3 1.3 3.7 1.3 3.3 0 6-2.7 6-6S16.3 5 13 5zm0 10.5c-2.5 0-4.5-2-4.5-4.5s2-4.5 4.5-4.5 4.5 2 4.5 4.5-2 4.5-4.5 4.5z"></path>
+				</svg></button></div></form>
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:0;padding-bottom:0px"></div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<main class="wp-block-group shopverse-vertical-wrapper is-layout-flow wp-block-group-is-layout-flow" style="margin-top:0;margin-bottom:0;padding-bottom:60px">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8eb77903 wp-block-columns-is-layout-flex" style="margin-top:0;margin-bottom:0">
+<div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover" style="border-radius:0px;padding-top:7rem;padding-right:20px;padding-bottom:7rem;padding-left:20px;min-height:700px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-20 has-background-dim"></span><img width="736" height="1103" class="wp-block-cover__image-background wp-image-322" alt="Latin bride" src="https://mwsrc.net/wp-content/uploads/2025/03/Latin-bride.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Latin-bride.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Latin-bride-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Latin-bride-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-container-core-cover-is-layout-6473e4ef wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-base-color has-text-color has-link-color has-jost-font-family wp-elements-fb1485238930dd0d450cf648a116f53a" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Wife</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-base-color has-text-color has-link-color has-jost-font-family wp-elements-0e2668c5f160a016179bf0a852f80001" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1">Latin</h2>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-font-size has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);text-transform:capitalize"><a class="wp-block-button__link has-primary-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://mwsrc.net/latin-order-brides/" style="border-radius:0px">Read more</a></div>
+</div>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover is-light" style="border-radius:0px;padding-top:7rem;padding-right:20px;padding-bottom:7rem;padding-left:20px;min-height:700px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-10 has-background-dim"></span><img width="736" height="1226" class="wp-block-cover__image-background wp-image-323" alt="Europe bride" src="https://mwsrc.net/wp-content/uploads/2025/03/Europe-bride.jpg" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Europe-bride.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Europe-bride-180x300.jpg 180w, https://mwsrc.net/wp-content/uploads/2025/03/Europe-bride-615x1024.jpg 615w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-container-core-cover-is-layout-6473e4ef wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-base-color has-text-color has-link-color has-jost-font-family wp-elements-fb1485238930dd0d450cf648a116f53a" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Wife</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-base-color has-text-color has-link-color has-jost-font-family wp-elements-cea70393eaec98ec937548f3e0b8df12" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1">Europe</h2>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-font-size has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);text-transform:capitalize"><a class="wp-block-button__link has-primary-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://mwsrc.net/mail-order-bride/" style="border-radius:0px">Read more</a></div>
+</div>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-stretch is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover" style="border-radius:0px;padding-top:7rem;padding-right:20px;padding-bottom:7rem;padding-left:20px;min-height:700px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-10 has-background-dim"></span><img width="736" height="1104" class="wp-block-cover__image-background wp-image-325" alt="Asia bride" src="https://mwsrc.net/wp-content/uploads/2025/03/Asia-bride.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Asia-bride.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Asia-bride-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Asia-bride-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-container-core-cover-is-layout-6473e4ef wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-base-color has-text-color has-link-color has-jost-font-family wp-elements-fb1485238930dd0d450cf648a116f53a" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Wife</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-base-color has-text-color has-link-color has-jost-font-family wp-elements-ce1bf0bb279cad79304526a9acf1cd77" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1">Asia</h2>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-font-size has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);text-transform:capitalize"><a class="wp-block-button__link has-primary-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://mwsrc.net/find-an-asian-wife/" style="border-radius:0px">Read more</a></div>
+</div>
+</div></div>
+</div>
+</div>
+</main>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-35a73fa7 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-67ffd0d4 wp-block-columns-is-layout-flex" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-23441af8 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img width="64" height="64" src="https://mwsrc.net/wp-content/uploads/2025/03/ideas.png" alt="ideas" class="wp-image-331" style="width:58px"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4b827052 wp-block-group-is-layout-flex">
+<p class="has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);font-style:normal;font-weight:500;line-height:1.5;text-transform:uppercase">ideas &amp; inspiration</p>
+
+
+
+<p class="has-jost-font-family" style="margin-top:0;font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Collect &amp; organize ideas</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-23441af8 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img width="64" height="64" src="https://mwsrc.net/wp-content/uploads/2025/03/budget.png" alt="budget" class="wp-image-332" style="width:50px;height:auto"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4b827052 wp-block-group-is-layout-flex">
+<p class="has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);font-style:normal;font-weight:500;line-height:1.5;text-transform:uppercase">budget &amp; checklist</p>
+
+
+
+<p class="has-jost-font-family" style="margin-top:0;font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Organize wedding planning expenses</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-23441af8 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img width="64" height="64" src="https://mwsrc.net/wp-content/uploads/2025/03/travel.png" alt="travel" class="wp-image-333" style="width:50px;height:auto"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4b827052 wp-block-group-is-layout-flex">
+<p class="has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);font-style:normal;font-weight:500;line-height:1.5;text-transform:uppercase">travel &amp; destinations</p>
+
+
+
+<p class="has-jost-font-family" style="margin-top:0;font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Getaways for destination wedding</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-23441af8 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img width="64" height="64" src="https://mwsrc.net/wp-content/uploads/2025/03/vendors.png" alt="vendors" class="wp-image-334" style="width:50px;height:auto"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4b827052 wp-block-group-is-layout-flex">
+<p class="has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);font-style:normal;font-weight:500;line-height:1.5;text-transform:uppercase">vendors</p>
+
+
+
+<p class="has-jost-font-family" style="margin-top:0;font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5">Find local professionals</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-35a73fa7 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-123bd11a wp-block-group-is-layout-constrained" style="padding-right:0;padding-bottom:var(--wp--preset--spacing--70);padding-left:0">
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-jost-font-family wp-elements-9fe6b5fa46c7cf8e033861f79d57e880" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5;text-transform:capitalize">wives looking for love</p>
+
+
+
+<h1 class="wp-block-heading has-text-align-center has-jost-font-family" style="margin-top:var(--wp--preset--spacing--30);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1.2">What Are Mail Order Wives?</h1>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);font-style:normal;font-weight:400;line-height:1.5">In everyday language, the term refers to a method where individuals meet potential partners from different countries using online dating platforms that focus on international connections. People seeking these matches tend to look for traditional traits in a partner, such as caring behavior, family orientation, and cultural values that differ from their own. Websites often promote the idea of a mail order wife as someone who is interested in forming a marital relationship that may go beyond geographical boundaries.</p>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.194), 16px);font-style:normal;font-weight:400;line-height:1.5">The emerging trend of mail order wives is not based solely on financial transactions. Instead, many platforms emphasize real connection and mutual respect between those who are open to discovering different cultures and matrimonial traditions. Users who search for a wife via these platforms are encouraged to interact through online messaging, video calls, and even occasional travel to other countries to solidify the bond.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-group category-carousel-product has-global-padding is-layout-constrained wp-container-core-group-is-layout-35a73fa7 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px">
+<div class="wp-block-group has-x-small-font-size has-global-padding is-layout-constrained wp-container-core-group-is-layout-bea02a06 wp-block-group-is-layout-constrained" style="font-style:normal;font-weight:400">
+<h2 class="wp-block-heading has-text-align-center has-jost-font-family" style="margin-top:var(--wp--preset--spacing--30);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1.2">How Can I Find a Good Wife Online?</h2>
+
+
+
+<p>Getting started on a search for a wife online requires a well-thought-out plan. Those who are successful in their pursuits typically begin by considering a few key factors. They pay close attention to the platform’s reputation, review user testimonies, and opt for services that provide extensive background verifications.</p>
+
+
+
+<p>This approach can help those interested in mailorder wifes to feel secure during their interactions. An organized profile that reflects true personality traits and honest pictures is treasured by many potential partners. When selecting communication options, users should prioritize clear, respectful language that conveys their true intentions.</p>
+
+
+
+<p>Setting realistic expectations and applying a consistent method to meet potential partners can greatly support the process. It proves helpful to remember that trust is built over time through repeated meaningful exchanges and respectful gestures.</p>
+
+
+
+<ul class="wp-block-list has-small-font-size">
+<li>❤️ Create an authentic online profile that reflects your true self.</li>
+
+
+
+<li>❤️ Consider reputable translation and verification tools if language differences arise.</li>
+
+
+
+<li>❤️ Keep an open line of communication about your aspirations and values.</li>
+
+
+
+<li>❤️ Plan video conversations to better capture the personality behind pictures and text.</li>
+</ul>
+
+
+
+<p>For those wondering how to find a wife, starting with an online platform that requires thorough verification and backed by positive user reviews can make the search process more confident and rewarding. Using these guidelines, you can ensure that your interactions turn into meaningful exchanges that respect both parties.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-35a73fa7 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-52ef05ca wp-block-columns-is-layout-flex" style="margin-top:0;margin-bottom:0">
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+<div class="wp-block-cover is-light" style="border-radius:0px;min-height:600px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-0 has-background-dim"></span><img width="736" height="1104" class="wp-block-cover__image-background wp-image-320" alt="Colombian wife" src="https://mwsrc.net/wp-content/uploads/2025/03/Colombian-wife.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Colombian-wife.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Colombian-wife-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Colombian-wife-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"></p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center has-global-padding is-layout-constrained wp-container-core-column-is-layout-e74fcb42 wp-block-column-is-layout-constrained" style="padding-top:0;padding-right:20px;padding-bottom:0;padding-left:20px">
+<h2 class="wp-block-heading has-text-align-left has-jost-font-family" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--60);font-size:clamp(1.743rem, 1.743rem + ((1vw - 0.2rem) * 1.953), 3rem);font-style:normal;font-weight:500;line-height:1;text-transform:none">How Much Are Mail Order Wives?</h2>
+
+
+
+<p>One common inquiry surrounds the cost associated with getting married through international dating platforms. In many cases, the expenses come from various subscription packages, posting fees, translation services, and sometimes meeting fees for direct contact. Pricing depends on the platform, location, and the level of service provided. Users are advised to weigh the expenses based on their personal budget while keeping an open mind about the value offered by such platforms.</p>
+
+
+
+<p>It is essential to approach the topic of cost with a clear perspective. Online dating services in this field provide a range of membership plans that can include extras like professional matchmaking assistance, cultural guidance, and opportunities for travel. When comparing different options, one should consider whether the platform supports successful communication and long-term relationship building rather than focusing solely on the subscription fee.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-a8261ec1 wp-block-buttons-is-layout-flex" style="margin-top:var(--wp--preset--spacing--60)">
+<div class="wp-block-button has-jost-font-family"><a class="wp-block-button__link has-black-background-color has-background wp-element-button" href="https://mwsrc.net/right-marriage-site-for-serious-relationships/" style="border-radius:0px"><strong>Marriage site</strong>s</a></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-35a73fa7 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-123bd11a wp-block-group-is-layout-constrained" style="padding-right:0;padding-bottom:var(--wp--preset--spacing--70);padding-left:0">
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-jost-font-family wp-elements-689b2c2e32c0ceaa6459eacb1cfa4530" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5;text-transform:capitalize">finding a wife</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-jost-font-family" style="margin-top:var(--wp--preset--spacing--30);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1.2">Are Mail Order Wives Legal?</h2>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-style:normal;font-weight:400;line-height:1.5">Legal considerations play a significant role when searching for a wife online through international dating platforms. Many countries have well-defined laws regarding international marriage. The process typically involves obtaining appropriate visas and ensuring that both parties meet the legal requirements for marriage in their home countries as well as in their partner’s nation.</p>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-style:normal;font-weight:400;line-height:1.5">Online platforms that connect individuals across borders generally follow legal guidelines, ensuring that personal information is monitored carefully and that interactions occur through secure channels. Some nations may have specific rules and might require the submission of additional documentation to verify identities and relationship intentions. It is wise for those interested in these relationships to consult legal advice when planning such a union, ensuring all steps are followed correctly.</p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-grid wp-container-core-group-is-layout-bae6891b wp-block-group-is-layout-grid">
+<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left has-base-color has-text-color has-link-color wp-elements-43405feb07fb43044e8ffaacb5ac2735"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim"></span><img width="736" height="885" class="wp-block-cover__image-background wp-image-313" alt="Korea Wife" src="https://mwsrc.net/wp-content/uploads/2025/03/Korea-Bride.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Korea-Bride.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Korea-Bride-249x300.jpg 249w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://mwsrc.net/korea-mail-order-brides/" data-type="link" data-id="https://mwsrc.net/korea-mail-order-brides/">Korea Wife</a></p>
+</div></div>
+
+
+
+<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left has-base-color has-text-color has-link-color wp-elements-01174a0b18c3b55b9b8c46052f983254"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim" style="background-color:#b09e98"></span><img width="640" height="1070" class="wp-block-cover__image-background wp-image-315" alt="Greece wife" src="https://mwsrc.net/wp-content/uploads/2025/03/Greece-wife.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Greece-wife.jpg 640w, https://mwsrc.net/wp-content/uploads/2025/03/Greece-wife-179x300.jpg 179w, https://mwsrc.net/wp-content/uploads/2025/03/Greece-wife-612x1024.jpg 612w" sizes="(max-width: 640px) 100vw, 640px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://mwsrc.net/greece-order-brides/" data-type="link" data-id="https://mwsrc.net/greece-order-brides/">Greece wife</a></p>
+</div></div>
+
+
+
+<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left has-base-color has-text-color has-link-color wp-elements-a8330be5e5aa52e90faf2d98df68f187"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim" style="background-color:#8d8782"></span><img width="736" height="962" class="wp-block-cover__image-background wp-image-317" alt="Iceland wife" src="https://mwsrc.net/wp-content/uploads/2025/03/Iceland-Wife.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Iceland-Wife.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Iceland-Wife-230x300.jpg 230w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://mwsrc.net/iceland-mail-order-brides-offer-warmth/" data-type="link" data-id="https://mwsrc.net/iceland-mail-order-brides-offer-warmth/">Iceland wife</a></p>
+</div></div>
+
+
+
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim" style="background-color:#847869"></span><img width="736" height="1104" class="wp-block-cover__image-background wp-image-318" alt="Mexican Wife" src="https://mwsrc.net/wp-content/uploads/2025/03/Find-a-Mexican-Wife.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Find-a-Mexican-Wife.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Find-a-Mexican-Wife-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Find-a-Mexican-Wife-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-base-color has-text-color has-link-color has-large-font-size wp-elements-268f22b4f9caf29efa48f82644470552"><a href="https://mwsrc.net/find-a-mexican-wife/" data-type="link" data-id="https://mwsrc.net/find-a-mexican-wife/">Mexican Wife</a></p>
+</div></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignwide has-jost-font-family has-global-padding is-layout-constrained wp-container-core-group-is-layout-10fea82a wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:100px;padding-right:20px;padding-bottom:50px;padding-left:20px;font-size:14px;font-style:normal;font-weight:400">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-6e5fc822 wp-block-group-is-layout-constrained" style="padding-right:0;padding-bottom:var(--wp--preset--spacing--80);padding-left:0">
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-jost-font-family wp-elements-817f1832d72e2034a5395f7ddd0af634" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5;text-transform:capitalize">find me a wife</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-jost-font-family" style="margin-top:var(--wp--preset--spacing--30);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1.2">Best Country for a Foreign Wife</h2>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-style:normal;font-weight:400;line-height:1.5">Many people are curious about which countries are known for offering strong family values, traditional marriages, and warm interpersonal connections. Some regions in Asia, Eastern Europe, and South America stand out due to their cultural emphasis on familial responsibilities and respectful marital practices. When evaluating the best country for meeting a partner, one should consider the language, cultural background, and lifestyle preferences.</p>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-style:normal;font-weight:400;line-height:1.5">For instance, certain East European nations have a reputation for strong family traditions and a balanced lifestyle. Meanwhile, some Asian countries offer not only traditional values but also modern education levels and economic opportunities. The choice depends on the personal preferences of those seeking a wife with shared values and a life vision that matches their own.</p>
+
+
+
+<ul class="wp-block-list has-jost-font-family has-small-font-size">
+<li>❤️ <a href="https://mwsrc.net/mail-order-bride/" data-type="link" data-id="https://mwsrc.net/mail-order-bride/">Countries in Eastern Europe</a> often provide connections with individuals who appreciate family traditions.</li>
+
+
+
+<li>❤️ Some <a href="https://mwsrc.net/find-an-asian-wife/" data-type="link" data-id="https://mwsrc.net/find-an-asian-wife/">Asian nations</a> promote sparing interplay between modern aspirations and long-held cultural values.</li>
+
+
+
+<li>❤️ <a href="https://mwsrc.net/latin-order-brides/" data-type="link" data-id="https://mwsrc.net/latin-order-brides/">Latino regions</a> may offer a warm approach toward family, blending enthusiasm with deep-seated respect for traditions.</li>
+</ul>
+
+
+
+<p class="has-text-align-left has-jost-font-family" style="font-style:normal;font-weight:400;line-height:1.5">It is recommended to explore each region through online profiles, social media interactions, and even visits if possible, to gauge the best environment for finding a good wife. Mixing travel experiences with digital communication may ultimately support the search for a genuine connection.</p>
+</div>
+
+
+
+<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-container-core-group-is-layout-c06d165c wp-block-group-is-layout-constrained" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-grid wp-container-core-post-template-is-layout-1224e06b wp-block-post-template-is-layout-grid"><li class="wp-block-post post-178 post type-post status-publish format-standard has-post-thumbnail hentry category-wedding-planning">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/right-marriage-site-for-serious-relationships/" target="_self" >How to Choose the Right Marriage Site for Serious Relationships</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-186 post type-post status-publish format-standard has-post-thumbnail hentry category-wedding-planning">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/modern-vs-traditional-weddings/" target="_self" >Modern vs. Traditional Weddings: Which One Suits You Best?</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-87 post type-post status-publish format-standard has-post-thumbnail hentry category-my-asian-wedding">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/thailand-order-brides/" target="_self" >Thailand Order Brides Bring Happiness and Loyalty to Marriage</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-11 post type-post status-publish format-standard has-post-thumbnail hentry category-my-european-wedding">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/ukraine-mail-order-brides/" target="_self" >Ukraine Mail Order Brides Are Known for Beauty and Loyalty</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-31 post type-post status-publish format-standard has-post-thumbnail hentry category-my-european-wedding">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/bulgaria-mail-order-brides/" target="_self" >Bulgaria Mail Order Brides Bring Tradition and Passion to Marriage</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-135 post type-post status-publish format-standard has-post-thumbnail hentry category-my-south-america-wedding">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/colombian-mail-order-brides/" target="_self" >Colombian Mail Order Brides Make Marriage a Journey of Love</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-my-south-america-wedding">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/brazilian-wife/" target="_self" >Brazilian Wife and Experience a Love Full of Adventure</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li><li class="wp-block-post post-204 post type-post status-publish format-standard has-post-thumbnail hentry category-wedding-planning">
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-be04af43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0"><h3 style="color:#343532; font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.388), 18px);font-style:normal;font-weight:500;letter-spacing:0px; padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-bottom:0px;margin-top:var(--wp--preset--spacing--40);" class="has-text-align-left has-link-color wp-elements-b0a9f0edc793e1457a994e0b1a8ac130 wp-block-post-title has-text-color has-jost-font-family"><a href="https://mwsrc.net/popular-wedding-dress-styles/" target="_self" >The Most Popular Wedding Dress Styles and How to Choose Yours</a></h3>
+
+
+<div class="wp-block-group product-content has-global-padding is-layout-constrained wp-container-core-group-is-layout-19e250f3 wp-block-group-is-layout-constrained"></div>
+</div>
+
+</li></ul></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-35a73fa7 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:50px;padding-left:20px">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-123bd11a wp-block-group-is-layout-constrained" style="padding-right:0;padding-bottom:var(--wp--preset--spacing--70);padding-left:0">
+<p class="has-text-align-center has-secondary-color has-text-color has-link-color has-jost-font-family wp-elements-429546aefd20c996b7445e576ffbfa51" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.097), 15px);font-style:normal;font-weight:400;line-height:1.5;text-transform:capitalize">mail ordered wives</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-jost-font-family" style="margin-top:var(--wp--preset--spacing--30);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1.2">Will God Help Me Find a Wife?</h2>
+
+
+
+<p>Faith plays an important role in many people’s lives, especially when choosing a life partner. Some individuals believe that divine guidance can provide support throughout the process of locating a suitable partner. This belief may inspire those who take the process seriously to act with honesty, care, and respect in every interaction.</p>
+
+
+
+<p>Spiritual practices, such as prayer, meditation, or consultation with spiritual mentors, can influence one’s actions and decisions in the process of meeting someone special. Personal conviction in a higher power often leads to extra thoughtfulness in treating potential partners with great courtesy and kindness. For many, this positive attitude and respectful behavior prove crucial when building trust and relationship foundations.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-af8e9b23 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:50px;padding-right:20px;padding-bottom:60px;padding-left:20px">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-6e5fc822 wp-block-group-is-layout-constrained" style="padding-right:0;padding-bottom:var(--wp--preset--spacing--80);padding-left:0">
+<h2 class="wp-block-heading has-text-align-center has-jost-font-family" style="margin-top:var(--wp--preset--spacing--30);font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 1.952), 48px);font-style:normal;font-weight:500;line-height:1.2"><strong>Top Wedding Dress Trends for 2025</strong></h2>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-6ab92954 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="683" height="1024" class="wp-block-cover__image-background wp-image-289" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/The-Anti-Veil.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/The-Anti-Veil.jpg 683w, https://mwsrc.net/wp-content/uploads/2025/03/The-Anti-Veil-200x300.jpg 200w" sizes="(max-width: 683px) 100vw, 683px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">The Anti Veil</p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="1104" class="wp-block-cover__image-background wp-image-290" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Elongated-Waists.jpg" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Elongated-Waists.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Elongated-Waists-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Elongated-Waists-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Elongated Waists</p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="981" class="wp-block-cover__image-background wp-image-291" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Do-It-All-Dresses.jpg" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Do-It-All-Dresses.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Do-It-All-Dresses-225x300.jpg 225w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Do-It-All Dresses</p>
+</div></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="1104" class="wp-block-cover__image-background wp-image-293" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Corsetry.jpg" style="object-position:50% 24%" data-object-fit="cover" data-object-position="50% 24%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Corsetry.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Corsetry-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Corsetry-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Corsetry</p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="1311" class="wp-block-cover__image-background wp-image-294" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Garden-Party.jpg" style="object-position:50% 10%" data-object-fit="cover" data-object-position="50% 10%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Garden-Party.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Garden-Party-168x300.jpg 168w, https://mwsrc.net/wp-content/uploads/2025/03/Garden-Party-575x1024.jpg 575w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Garden Party</p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="1308" class="wp-block-cover__image-background wp-image-296" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Subtle-Shades.jpg" style="object-position:50% 20%" data-object-fit="cover" data-object-position="50% 20%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Subtle-Shades.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Subtle-Shades-169x300.jpg 169w, https://mwsrc.net/wp-content/uploads/2025/03/Subtle-Shades-576x1024.jpg 576w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Subtle Shades</p>
+</div></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="1104" class="wp-block-cover__image-background wp-image-298" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Vintage-Vibes.jpg" style="object-position:50% 30%" data-object-fit="cover" data-object-position="50% 30%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Vintage-Vibes.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Vintage-Vibes-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Vintage-Vibes-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Vintage Vibes</p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="1103" class="wp-block-cover__image-background wp-image-299" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Getting-Ready-Glam.jpg" style="object-position:50% 20%" data-object-fit="cover" data-object-position="50% 20%" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Getting-Ready-Glam.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Getting-Ready-Glam-200x300.jpg 200w, https://mwsrc.net/wp-content/uploads/2025/03/Getting-Ready-Glam-683x1024.jpg 683w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Getting-Ready Glam</p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><img width="736" height="919" class="wp-block-cover__image-background wp-image-301" alt="" src="https://mwsrc.net/wp-content/uploads/2025/03/Asymmetry.jpg" data-object-fit="cover" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Asymmetry.jpg 736w, https://mwsrc.net/wp-content/uploads/2025/03/Asymmetry-240x300.jpg 240w" sizes="(max-width: 736px) 100vw, 736px" /><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<p class="has-text-align-center has-large-font-size">Asymmetry</p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-7231bd69 wp-block-group-is-layout-flex" style="margin-top:65px">
+<figure class="wp-block-image size-full is-resized"><img width="320" height="320" src="https://mwsrc.net/wp-content/uploads/2025/03/Davids-Bridal.png" alt="David's Bridal" class="wp-image-305" style="width:150px" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Davids-Bridal.png 320w, https://mwsrc.net/wp-content/uploads/2025/03/Davids-Bridal-300x300.png 300w, https://mwsrc.net/wp-content/uploads/2025/03/Davids-Bridal-150x150.png 150w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img width="1280" height="322" src="https://mwsrc.net/wp-content/uploads/2025/03/Monique-Lhuillier.png" alt="Monique Lhuillier" class="wp-image-307" style="width:150px" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Monique-Lhuillier.png 1280w, https://mwsrc.net/wp-content/uploads/2025/03/Monique-Lhuillier-300x75.png 300w, https://mwsrc.net/wp-content/uploads/2025/03/Monique-Lhuillier-1024x258.png 1024w, https://mwsrc.net/wp-content/uploads/2025/03/Monique-Lhuillier-768x193.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img width="1600" height="463" src="https://mwsrc.net/wp-content/uploads/2025/03/Bhldn.webp" alt="BHLDN" class="wp-image-303" style="width:150px" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Bhldn.webp 1600w, https://mwsrc.net/wp-content/uploads/2025/03/Bhldn-300x87.webp 300w, https://mwsrc.net/wp-content/uploads/2025/03/Bhldn-1024x296.webp 1024w, https://mwsrc.net/wp-content/uploads/2025/03/Bhldn-768x222.webp 768w, https://mwsrc.net/wp-content/uploads/2025/03/Bhldn-1536x444.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img width="1024" height="129" src="https://mwsrc.net/wp-content/uploads/2025/03/Oscar-de-la-Renta.png" alt="Oscar de la Renta" class="wp-image-308" style="width:150px" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Oscar-de-la-Renta.png 1024w, https://mwsrc.net/wp-content/uploads/2025/03/Oscar-de-la-Renta-300x38.png 300w, https://mwsrc.net/wp-content/uploads/2025/03/Oscar-de-la-Renta-768x97.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img width="2741" height="375" src="https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang.png" alt="Vera Wang" class="wp-image-310" style="width:150px" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang.png 2741w, https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang-300x41.png 300w, https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang-1024x140.png 1024w, https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang-768x105.png 768w, https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang-1536x210.png 1536w, https://mwsrc.net/wp-content/uploads/2025/03/Vera-Wang-2048x280.png 2048w" sizes="(max-width: 2741px) 100vw, 2741px" /></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img width="320" height="320" src="https://mwsrc.net/wp-content/uploads/2025/03/Carolina-Herrera.png" alt="Carolina Herrera" class="wp-image-304" style="width:150px" srcset="https://mwsrc.net/wp-content/uploads/2025/03/Carolina-Herrera.png 320w, https://mwsrc.net/wp-content/uploads/2025/03/Carolina-Herrera-300x300.png 300w, https://mwsrc.net/wp-content/uploads/2025/03/Carolina-Herrera-150x150.png 150w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
+</div>
+</div>
+
+
+<footer class="site-footer wp-block-template-part">
+<div class="wp-block-group has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-dd74b6a2 wp-block-group-is-layout-constrained" style="background-color:#f5f5f5;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-f0342b05 wp-block-columns-is-layout-flex" style="margin-top:0;margin-bottom:0">
+<div class="wp-block-column is-layout-flow wp-container-core-column-is-layout-5dafc681 wp-block-column-is-layout-flow" style="flex-basis:30%">
+<h2 class="wp-block-heading is-style-default has-base-2-color has-text-color has-link-color has-jost-font-family has-medium-font-size wp-elements-57df57193845ee34153ecf6fdade9c1a" style="margin-bottom:var(--wp--preset--spacing--30);font-style:normal;font-weight:400;text-transform:uppercase">About mywedding</h2>
+
+
+
+<p style="margin-top:8px;margin-bottom:12px">We&#8217;re dedicated to providing the best shopping experience for our customers with quality products and excellent service.</p>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-9b82872f wp-block-group-is-layout-flex" style="margin-top:12px;margin-bottom:12px">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://mwsrc.net/wp-content/themes/shopverse/assets/images/phone.png" alt="" class="wp-image-4819" style="width:25px"/></figure>
+
+
+
+<p>978-494-097</p>
+</div>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-9e1c53c6 wp-block-group-is-layout-flex" style="margin-top:0;margin-bottom:0">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://mwsrc.net/wp-content/themes/shopverse/assets/images/mail.png" alt="" class="wp-image-4820" style="width:23px"/></figure>
+
+
+
+<p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e1888f878ea18c96929382cf8f8495">[email&#160;protected]</a></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-container-core-column-is-layout-f5bb311e wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading is-style-default has-base-2-color has-text-color has-link-color has-jost-font-family has-medium-font-size wp-elements-aa73eb634038b617c678511b4729233f" style="margin-bottom:var(--wp--preset--spacing--20);font-style:normal;font-weight:400;text-transform:uppercase">Explore More</h2>
+
+
+
+<p><a href="#">Home</a></p>
+
+
+
+<p><a href="#">Blog</a></p>
+
+
+
+<p><a href="#">FAQs</a></p>
+
+
+
+<p><a href="#">Contact Us</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-container-core-column-is-layout-f5bb311e wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading is-style-default has-base-2-color has-text-color has-link-color has-jost-font-family wp-elements-8adc433eea842aec2001cd5b837d3966" style="margin-bottom:var(--wp--preset--spacing--20);font-size:clamp(14.082px, 0.88rem + ((1vw - 3.2px) * 0.672), 21px);font-style:normal;font-weight:400;text-transform:uppercase">Product Categories</h2>
+
+
+
+<p><a href="#">Jewelry</a></p>
+
+
+
+<p><a href="#">Local Vendors</a></p>
+
+
+
+<p><a href="#">Planning &amp; Tips</a></p>
+
+
+
+<p><a href="#">Venues</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading has-text-align-center is-style-default has-base-2-color has-text-color has-link-color has-jost-font-family has-medium-font-size wp-elements-a23587de79c4db1c044d78fd91c901be" style="margin-bottom:0;font-style:normal;font-weight:400;text-transform:uppercase">your wedding planning<br>adventure starts here</h2>
+
+
+
+<ul class="wp-block-social-links has-normal-icon-size has-icon-color is-style-logos-only is-content-justification-center is-layout-flex wp-container-core-social-links-is-layout-5e3e6e82 wp-block-social-links-is-layout-flex" style="margin-top:10px;margin-bottom:0"><li style="color: #111; " class="wp-social-link wp-social-link-facebook has-contrast-color wp-block-social-link"><a href="https://www.facebook.com/fbmywedding" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li style="color: #111; " class="wp-social-link wp-social-link-twitter has-contrast-color wp-block-social-link"><a href="https://twitter.com/myweddingdotcom/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Twitter</span></a></li>
+
+<li style="color: #111; " class="wp-social-link wp-social-link-instagram has-contrast-color wp-block-social-link"><a href="https://instagram.com/myweddingdotcom" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li>
+
+<li style="color: #111; " class="wp-social-link wp-social-link-pinterest has-contrast-color wp-block-social-link"><a href="https://pinterest.com/myweddingdotcom/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12.289,2C6.617,2,3.606,5.648,3.606,9.622c0,1.846,1.025,4.146,2.666,4.878c0.25,0.111,0.381,0.063,0.439-0.169 c0.044-0.175,0.267-1.029,0.365-1.428c0.032-0.128,0.017-0.237-0.091-0.362C6.445,11.911,6.01,10.75,6.01,9.668 c0-2.777,2.194-5.464,5.933-5.464c3.23,0,5.49,2.108,5.49,5.122c0,3.407-1.794,5.768-4.13,5.768c-1.291,0-2.257-1.021-1.948-2.277 c0.372-1.495,1.089-3.112,1.089-4.191c0-0.967-0.542-1.775-1.663-1.775c-1.319,0-2.379,1.309-2.379,3.059 c0,1.115,0.394,1.869,0.394,1.869s-1.302,5.279-1.54,6.261c-0.405,1.666,0.053,4.368,0.094,4.604 c0.021,0.126,0.167,0.169,0.25,0.063c0.129-0.165,1.699-2.419,2.142-4.051c0.158-0.59,0.817-2.995,0.817-2.995 c0.43,0.784,1.681,1.446,3.013,1.446c3.963,0,6.822-3.494,6.822-7.833C20.394,5.112,16.849,2,12.289,2"></path></svg><span class="wp-block-social-link-label screen-reader-text">Pinterest</span></a></li></ul>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading has-small-font-size">Vendors by Category</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column has-x-small-font-size is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group has-x-small-font-size is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Wedding Venues</p>
+
+
+
+<p class="has-x-small-font-size"><a href="https://mwsrc.net/wedding-ceremony-ideas/" data-type="link" data-id="https://mwsrc.net/wedding-ceremony-ideas/">Wedding Ceremony Sites</a></p>
+
+
+
+<p class="has-x-small-font-size">Wedding Photographers</p>
+
+
+
+<p class="has-x-small-font-size"><a href="https://mwsrc.net/checklist-for-a-stress-free-celebration/" data-type="link" data-id="https://mwsrc.net/checklist-for-a-stress-free-celebration/">Wedding Planners</a></p>
+
+
+
+<p class="has-x-small-font-size">Wedding Flowers</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Cakes</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Wedding Catering</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Officiants</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Rentals</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Favors</p>
+
+
+
+<p class="has-x-small-font-size"><a href="https://mwsrc.net/heartfelt-wedding-vows/" data-type="link" data-id="https://mwsrc.net/heartfelt-wedding-vows/">Wedding Invitations</a></p>
+
+
+
+<p class="has-x-small-font-size"><a href="https://mwsrc.net/popular-wedding-dress-styles/" data-type="link" data-id="https://mwsrc.net/popular-wedding-dress-styles/">Wedding Dresses</a></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Wedding DJs</p>
+
+
+
+<p class="has-x-small-font-size">Hair Stylists &amp; Salons</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Makeup</p>
+
+
+
+<p class="has-x-small-font-size">Accommodations</p>
+
+
+
+<p class="has-x-small-font-size">Rehearsal Dinner</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Videographers</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Photo Booth Rentals</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Transportation</p>
+
+
+
+<p class="has-x-small-font-size">Live Wedding Music</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Entertainment</p>
+
+
+
+<p class="has-x-small-font-size">Dance Lessons</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Wedding Decorations &amp; Lighting</p>
+
+
+
+<p class="has-x-small-font-size">Bridal Jewelry</p>
+
+
+
+<p class="has-x-small-font-size">Tuxedos &amp; Suits</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Gown Preservation</p>
+
+
+
+<p class="has-x-small-font-size">Premarital Counseling</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Event Insurance</p>
+
+
+
+<p class="has-x-small-font-size">Unique Wedding Services</p>
+
+
+
+<p class="has-x-small-font-size">Bachelor Party</p>
+
+
+
+<p class="has-x-small-font-size">Bachelorette Party</p>
+
+
+
+<p class="has-x-small-font-size">Wedding Party Gifts</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading has-small-font-size">Vendors by City</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column has-x-small-font-size is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Denver CO</p>
+
+
+
+<p class="has-x-small-font-size">Seattle WA</p>
+
+
+
+<p class="has-x-small-font-size">Birmingham AL</p>
+
+
+
+<p class="has-x-small-font-size">Portland OR</p>
+
+
+
+<p class="has-x-small-font-size">Dallas TX</p>
+
+
+
+<p class="has-x-small-font-size">San Francisco CA</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Las Vegas NV</p>
+
+
+
+<p class="has-x-small-font-size">Boston MA</p>
+
+
+
+<p class="has-x-small-font-size">Chicago IL</p>
+
+
+
+<p class="has-x-small-font-size">Phoenix AZ</p>
+
+
+
+<p class="has-x-small-font-size">Newark NJ</p>
+
+
+
+<p class="has-x-small-font-size">Orange County CA</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Williamsburg, VA</p>
+
+
+
+<p class="has-x-small-font-size">New York NY</p>
+
+
+
+<p class="has-x-small-font-size">Austin TX</p>
+
+
+
+<p class="has-x-small-font-size">Los Angeles CA</p>
+
+
+
+<p class="has-x-small-font-size">Minneapolis MN</p>
+
+
+
+<p class="has-x-small-font-size">San Diego CA</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Atlanta GA</p>
+
+
+
+<p class="has-x-small-font-size">Houston TX</p>
+
+
+
+<p class="has-x-small-font-size">Washington DC</p>
+
+
+
+<p class="has-x-small-font-size">Philadelphia PA</p>
+
+
+
+<p class="has-x-small-font-size">San Antonio TX</p>
+
+
+
+<p class="has-x-small-font-size">Indianapolis IN</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">Nashville TN</p>
+
+
+
+<p class="has-x-small-font-size">Kansas City MO</p>
+
+
+
+<p class="has-x-small-font-size">Baltimore MD</p>
+
+
+
+<p class="has-x-small-font-size">Miami FL</p>
+
+
+
+<p class="has-x-small-font-size">Pasadena CA</p>
+
+
+
+<p class="has-x-small-font-size">Detroit MI</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-98bb686d wp-block-group-is-layout-flex">
+<p class="has-x-small-font-size">New Orleans LA</p>
+
+
+
+<p class="has-x-small-font-size">Santa Monica CA</p>
+
+
+
+<p class="has-x-small-font-size">Tucson AZ</p>
+
+
+
+<p class="has-x-small-font-size">Tampa FL</p>
+
+
+
+<p class="has-x-small-font-size">Milwaukee WI</p>
+
+
+
+<p class="has-x-small-font-size">St. Louis MO</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background is-style-wide" style="margin-top:var(--wp--preset--spacing--70);background-color:#d1d1d1ed;color:#d1d1d1ed"/>
+
+
+
+<div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-9366075c wp-block-group-is-layout-flex">
+<p class="has-text-align-center has-medium-small-font-size">Copyright © MYWEDDING SOURCE All right Reserved</p>
+
+
+
+<p class="has-text-align-center has-medium-small-font-size">Terms of Service</p>
+</div>
+</div>
+</footer></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/shopverse\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="wp-block-template-skip-link-js-after">
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		/*
+		 * Get the site wrapper.
+		 * The skip-link will be injected in the beginning of it.
+		 */
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.id = 'wp-skip-link';
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerText = 'Skip to content';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	
+</script>
+<script id="daim-track-internal-links-js-before">
+window.DAIM_PARAMETERS = {ajax_url: "https://mwsrc.net/wp-admin/admin-ajax.php",nonce: "31b2c1b4fb"};
+</script>
+<script src="https://mwsrc.net/wp-content/plugins/interlinks-manager/public/assets/js/track-internal-links.js?ver=1.36" id="daim-track-internal-links-js"></script>
+</body>
+</html>

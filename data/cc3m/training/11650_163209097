@@ -1,0 +1,1152 @@
+    <!doctype html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <link rel="profile" href="https://gmpg.org/xfn/11">
+        <title>HOMREM</title>
+        <style type="text/css">
+                        body .primary-background,
+            body .has-post-thumbnail .panel-wrapper .read-time,
+            body button:hover,
+            body button:focus,
+            body input[type="button"]:hover,
+            body input[type="reset"]:hover,
+            body input[type="reset"]:focus,
+            body input[type="submit"]:hover,
+            body input[type="submit"]:focus,
+            body .widget .social-widget-menu ul li,
+            body .comments-area .comment-list .reply,
+            body .widget .social-widget-menu ul li:hover a:before,
+            body .widget .social-widget-menu ul li:focus a:before,
+            body .ham,
+            body .ham:before,
+            body .ham:after,
+            body .btn-load-more{
+                background: #33363b;
+            }
+
+                        body button,
+            body input[type="button"],
+            body input[type="reset"],
+            body input[type="submit"],
+            body .widget.widget_minimal_lite_tab_posts_widget ul.nav-tabs li.active a,
+            body .widget.widget_minimal_lite_tab_posts_widget ul.nav-tabs > li > a:focus,
+            body .widget.widget_minimal_lite_tab_posts_widget ul.nav-tabs > li > a:hover,
+            body .author-info .author-social > a:hover,
+            body .author-info .author-social > a:focus,
+            body .widget .social-widget-menu ul li a:before,
+            body .widget .social-widget-menu ul li:hover,
+            body .widget .social-widget-menu ul li:focus,
+            body .moretag,
+            body .moretag,
+            body .thememattic-search-icon:before,
+            body .search-button.active .thememattic-search-icon:before,
+            body .search-button.active .thememattic-search-icon:after,
+            body .btn-load-more:hover,
+            body .btn-load-more:focus{
+                background: #e91e63;
+            }
+
+            body .sticky header:before,
+            body a:hover,
+            body a:focus,
+            body a:active,
+            body .main-navigation .menu > ul > li.current-menu-item > a,
+            body .main-navigation .menu > ul > li:hover > a,
+            body .main-navigation .menu > ul > li:focus > a,
+            body .sidr a:hover,
+            body .sidr a:focus,
+            body .page-numbers.current {
+                color: #e91e63;
+            }
+
+            body .ajax-loader,
+            body .thememattic-search-icon:after{
+                border-color: #e91e63 !important;
+            }
+
+                        body .section-recommended.section-bg  {
+                background: #1f1f1f;
+            }
+
+                        body .section-recommended.section-bg .section-title a,
+            body .section-recommended.section-bg .home-full-grid-cat-section,
+            body .section-recommended.section-bg .home-full-grid-cat-section a{
+                color: #ffffff;
+            }
+
+                        body,
+            body .primary-font,
+            body .section-title,
+            body .site .widget-title,
+            body .main-navigation .menu ul li a,
+            body .comment-reply-title {
+                font-family: Source Sans Pro!important;
+            }
+
+                        body h1, body h2, body h3, body h4, body h5, body h6,
+            body .secondary-font,
+            body .site .site-title,
+            body .prime-excerpt,
+            body blockquote,
+            body.single .entry-content:before, .page .entry-content:before{
+                font-family: Noto Serif !important;
+            }
+
+
+
+                        body .site-header-center .site-title {
+                font-size: 98px !important;
+            }
+
+                        body, body button, body input, body select, body textarea, body p {
+                font-size: 16px !important;
+            }
+
+                        body h1 {
+                font-size: 32px;
+            }
+
+                        body h2,
+            h2.entry-title{
+                font-size: 26px;
+            }
+
+                        body h3 {
+                font-size: 24px;
+            }
+
+                        body h4 {
+                font-size: 18px;
+            }
+
+                        body h5 {
+                font-size: 14px;
+            }
+
+                        body .masonry-grid.masonry-col article .entry-content,
+            body .masonry-grid.masonry-col article .entry-content p{
+                font-size: 16px !important;
+            }
+
+                        body .footer-widget-area {
+                background: #f9f5ff;
+            }
+
+                        body .footer-widget-area,
+            body .site-footer .widget-title,
+            body .site-footer .footer-widget-area,
+            body .site-footer .footer-widget-area a,
+            body .site-footer .footer-widget-area a:visited{
+                color: #0a0a0a;
+            }
+
+                    </style>
+        <link rel='dns-prefetch' href='//cdn.thememattic.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="HOMREM &raquo; Feed" href="https://homrem.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HOMREM &raquo; Comments Feed" href="https://homrem.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/homrem.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.18"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://homrem.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://homrem.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css'  href='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/ionicons/css/ionicons.min.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/bootstrap/css/bootstrap.min.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/magnific-popup/magnific-popup.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/slick/css/slick.min.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='sidr-nav-css'  href='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/sidr/css/jquery.sidr.dark.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://homrem.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://homrem.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='minimal-lite-style-css'  href='https://homrem.com/wp-content/themes/minimal-lite/style.css?ver=5.3.18' type='text/css' media='all' />
+<link rel='stylesheet' id='minimal-lite-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Source%20Sans%20Pro:300,400,400i,700,700i|Noto%20Serif:400,400italic,700' type='text/css' media='all' />
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://homrem.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://homrem.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://homrem.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.18" />
+<link rel="icon" href="https://homrem.com/wp-content/uploads/2019/07/cropped-48839-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://homrem.com/wp-content/uploads/2019/07/cropped-48839-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://homrem.com/wp-content/uploads/2019/07/cropped-48839-180x180.png" />
+<meta name="msapplication-TileImage" content="https://homrem.com/wp-content/uploads/2019/07/cropped-48839-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.site .slide-bg:before{
+	filter: alpha(opacity=35);
+    opacity: .35;
+}		</style>
+		    </head>
+<body data-rsssl=1 class="home blog hfeed thememattic-full-layout right-sidebar">
+        <div class="preloader" >
+        <div class="loader-wrapper">
+            <div id="loading-center">
+                <div id="loading-center-absolute">
+                    <div class="object" id="first_object"></div>
+                    <div class="object" id="second_object"></div>
+                    <div class="object" id="third_object"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+                <div id="page" class="site fullscreen-nav  side-panel-enabled  nav-overlay-enabled">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+                <div class="side-panel">
+                            <a href="javascript:void(0)" id="push-trigger" class="trigger-nav side-panel-item">
+                    <div class="trigger-nav-label">Menu</div>
+                    <div class="trigger-icon">
+                        <span class="icon-bar top"></span>
+                        <span class="icon-bar middle"></span>
+                        <span class="icon-bar bottom"></span>
+                    </div>
+                </a>
+            
+
+            <div class="theme-mode side-panel-item">
+            </div>
+
+                                                <div class="aside-social side-panel-item">
+                        <div class="social-icons">
+                            <div class="menu-social-menu-container"><ul id="social-menu" class=""><li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="#"><span>Facebook</span></a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="#"><span>Twitter</span></a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="#"><span>Instagram</span></a></li>
+<li id="menu-item-404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404"><a href="#"><span>LinkedIn</span></a></li>
+</ul></div>                        </div>
+                        <div class="social-label hidden-sm hidden-xs">Follow</div>
+                    </div>
+                                    </div>
+        
+        <div class="main-panel">
+        
+<header id="thememattic-header" class="site-header site-header-secondary">
+
+    <div class="main-header">
+        <div class="container-fluid">
+            <div class="site-branding">
+                                    <h1 class="site-title"><a href="https://homrem.com/"
+                                              rel="home">HOMREM</a></h1>
+                            </div>
+            <div class="thememattic-navigation">
+                <nav id="site-navigation" class="main-navigation">
+                            <span class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
+                                 <span class="screen-reader-text">
+                                    Primary Menu                                </span>
+                                <i class="ham"></i>
+                            </span>
+                    <div class="menu"><ul id="primary-menu" class="menu"><li id="menu-item-204" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-204"><a href="https://homrem.com/" aria-current="page">Home</a></li>
+<li id="menu-item-201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-201"><a href="https://homrem.com/category/sports/">Sports</a></li>
+<li id="menu-item-202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-202"><a href="https://homrem.com/category/travel-and-tourism/">Travel and Tourism</a></li>
+<li id="menu-item-203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-203"><a href="https://homrem.com/category/art-and-design/">Art and Design</a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://homrem.com/contact-us/">Contact Us</a></li>
+</ul></div>
+                                                                        <div class="header-social-icon hidden-xs">
+                                <div class="social-icons">
+                                    <div class="menu-social-menu-container"><ul id="social-menu" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="#"><span>Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="#"><span>Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="#"><span>Instagram</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404"><a href="#"><span>LinkedIn</span></a></li>
+</ul></div>                                </div>
+                            </div>
+                                            
+                    
+                    <a href="javascript:void(0)" class="icon-search">
+                        <i class="thememattic-icon ion-ios-search"></i>
+                    </a>
+                </nav><!-- #site-navigation -->
+            </div>
+        </div>
+
+         <div class="header-image-overlay"></div>     </div>
+
+</header>
+
+
+
+
+        <div class="popup-search">
+            <div class="table-align">
+                <a href="javascript:void(0)" class="close-popup"></a>
+                <div class="table-align-cell">
+                    <form role="search" method="get" class="search-form" action="https://homrem.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                </div>
+                <a href="javascript:void(0)" class="screen-reader-text search-active-focus"></a>
+            </div>
+        </div>
+                                                <section class="section-block main-slider-block  main-slider-fullscreen">
+                        <div class="main-slider-area">
+                            <div class="banner-slider">
+                                                                                <div class="slide item">
+                                                <div class="slider-wrapper">
+                                                                                                        
+                                                    
+                                                    <div class="bg-image  slide-bg slide-overlay-enabled">
+                                                        <img src="https://homrem.com/wp-content/uploads/2019/04/visiting-Dubai.jpg">                                                    </div>
+                                                    <div class="slide-text">
+                                                        <div class="slide-text-wrapper">
+                                                                                                                            <div class="slide-categories visible hidden-xs">
+                                                                    #<a href="https://homrem.com/category/travel-and-tourism/" rel="category tag">Travel and Tourism</a>                                                                </div>
+                                                                                                                        <h2 class="slide-title">
+                                                                <a href="https://homrem.com/travel-and-tourism/5-things-you-must-buy-when-visiting-dubai/">5 things you must buy when visiting Dubai</a>
+                                                            </h2>
+                                                                                                                            <span class="posted-on"><a href="https://homrem.com/2019/04/24/" rel="bookmark"><time class="entry-date published" datetime="2019-04-24T10:26:37+00:00">April 24, 2019</time><time class="updated" datetime="2019-04-24T10:26:38+00:00">April 24, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://homrem.com/author/admin/">admin</a></span></span>                                                                                                                        <div class="slider-description">
+                                                                <p>Dubai is a heaven for all the shopaholics. People from all over the world shop from Dubai and the city offers a great shopping experience for them. With around hundreds of shopping malls, the city also hosts one of the [&hellip;]</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                    </div>
+                        </div>
+                    </section>
+                
+    <section class="section-block section-latest-block">
+        <div class="container-fluid">
+
+            <div id="primary" class="content-area">
+                <main id="main" class="site-main">
+                        <div class="masonry-grid masonry-col"><article id="post-718" class="post-718 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="700" height="933" src="https://homrem.com/wp-content/uploads/2025/03/Custom-Made-Tuxedo-Wedding-Suit-1.jpg" class="attachment-full size-full wp-post-image" alt="Tips To Measure For A Custom Wedding Suit Fit" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/" rel="bookmark">Tips To Measure For A Custom Wedding Suit Fit</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2025/03/27/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2025-03-27T08:23:23+00:00">March 27, 2025</time><time class="updated" datetime="2025-03-27T08:23:24+00:00">March 27, 2025</time></a></span>                </div>
+                    <p>Getting the right measurements is one of the most effective ways to achieve a well-fitted custom wedding suit. Every detail, from shoulder width to trouser length, contributes to a polished look. Taking accurate measurements for suits Dubai ensures comfort and [&hellip;]</p>
+</div>        </div>
+</article><article id="post-711" class="post-711 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="487" height="535" src="https://homrem.com/wp-content/uploads/2025/02/download-2025-02-17T160626.800.png" class="attachment-full size-full wp-post-image" alt="The Difference Between Artificial Grass And Natural Grass" srcset="https://homrem.com/wp-content/uploads/2025/02/download-2025-02-17T160626.800.png 487w, https://homrem.com/wp-content/uploads/2025/02/download-2025-02-17T160626.800-273x300.png 273w, https://homrem.com/wp-content/uploads/2025/02/download-2025-02-17T160626.800-480x527.png 480w" sizes="(max-width: 487px) 100vw, 487px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/" rel="bookmark">The Difference Between Artificial Grass And Natural Grass</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2025/02/17/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2025-02-17T11:06:52+00:00">February 17, 2025</time><time class="updated" datetime="2025-02-17T11:06:53+00:00">February 17, 2025</time></a></span>                </div>
+                    <p>When choosing a lawn for your backyard, you have two main options — natural grass or artificial grass. Both have their own advantages and drawbacks, making it essential to understand their differences before making a decision. While natural grass offers [&hellip;]</p>
+</div>        </div>
+</article><article id="post-706" class="post-706 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="700" height="700" src="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682.png" class="attachment-full size-full wp-post-image" alt="How To Properly Dispose Of Used Disposable Pods" srcset="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682.png 700w, https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682-300x300.png 300w, https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682-150x150.png 150w, https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682-480x480.png 480w" sizes="(max-width: 700px) 100vw, 700px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/" rel="bookmark">How To Properly Dispose Of Used Disposable Pods</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2025/01/31/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2025-01-31T06:51:39+00:00">January 31, 2025</time><time class="updated" datetime="2025-01-31T06:51:40+00:00">January 31, 2025</time></a></span>                </div>
+                    <p>The rise in use of disposable vape pods has led to concerns about proper disposal. Disposing of these used pods incorrectly can harm the environment due to the materials they contain, such as lithium-ion batteries and plastic casings. It’s key [&hellip;]</p>
+</div>        </div>
+</article><article id="post-702" class="post-702 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="1024" height="683" src="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-15T123131.340.png" class="attachment-full size-full wp-post-image" alt="The Importance Of Professional Carpet Cleaning Services" srcset="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-15T123131.340.png 1024w, https://homrem.com/wp-content/uploads/2025/01/download-2025-01-15T123131.340-300x200.png 300w, https://homrem.com/wp-content/uploads/2025/01/download-2025-01-15T123131.340-768x512.png 768w, https://homrem.com/wp-content/uploads/2025/01/download-2025-01-15T123131.340-480x320.png 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/the-importance-of-professional-carpet-cleaning-services/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/the-importance-of-professional-carpet-cleaning-services/" rel="bookmark">The Importance Of Professional Carpet Cleaning Services</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2025/01/15/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published updated" datetime="2025-01-15T07:33:01+00:00">January 15, 2025</time></a></span>                </div>
+                    <p>Carpets offer comfort and style in many homes, but they are also magnets for dirt, allergens, and bacteria. While regular vacuuming is essential, it often isn’t enough to maintain a truly clean and healthy carpet. Professional carpet cleaning services are [&hellip;]</p>
+</div>        </div>
+</article><article id="post-697" class="post-697 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="1000" height="667" src="https://homrem.com/wp-content/uploads/2024/12/download-2024-12-04T103143.496.png" class="attachment-full size-full wp-post-image" alt="How To Choose The Right Dentist For Teeth Implants" srcset="https://homrem.com/wp-content/uploads/2024/12/download-2024-12-04T103143.496.png 1000w, https://homrem.com/wp-content/uploads/2024/12/download-2024-12-04T103143.496-300x200.png 300w, https://homrem.com/wp-content/uploads/2024/12/download-2024-12-04T103143.496-768x512.png 768w, https://homrem.com/wp-content/uploads/2024/12/download-2024-12-04T103143.496-480x320.png 480w" sizes="(max-width: 1000px) 100vw, 1000px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/how-to-choose-the-right-dentist-for-teeth-implants/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/how-to-choose-the-right-dentist-for-teeth-implants/" rel="bookmark">How To Choose The Right Dentist For Teeth Implants</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2024/12/04/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2024-12-04T05:32:13+00:00">December 4, 2024</time><time class="updated" datetime="2024-12-04T05:32:14+00:00">December 4, 2024</time></a></span>                </div>
+                    <p>Choosing the right dentist for teeth implants is an important decision. Teeth implants are a long-term solution for missing teeth, and it’s important to find a dentist who is skilled, experienced, and trustworthy. The right professional will guide you through [&hellip;]</p>
+</div>        </div>
+</article><article id="post-693" class="post-693 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="1920" height="1200" src="https://homrem.com/wp-content/uploads/2024/11/5.jpg" class="attachment-full size-full wp-post-image" alt="How To Replace A Toner Cartridge In Your Printer" srcset="https://homrem.com/wp-content/uploads/2024/11/5.jpg 1920w, https://homrem.com/wp-content/uploads/2024/11/5-300x188.jpg 300w, https://homrem.com/wp-content/uploads/2024/11/5-1024x640.jpg 1024w, https://homrem.com/wp-content/uploads/2024/11/5-768x480.jpg 768w, https://homrem.com/wp-content/uploads/2024/11/5-1536x960.jpg 1536w, https://homrem.com/wp-content/uploads/2024/11/5-480x300.jpg 480w" sizes="(max-width: 1920px) 100vw, 1920px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/how-to-replace-a-toner-cartridge-in-your-printer/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/how-to-replace-a-toner-cartridge-in-your-printer/" rel="bookmark">How To Replace A Toner Cartridge In Your Printer</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2024/11/06/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published updated" datetime="2024-11-06T08:07:35+00:00">November 6, 2024</time></a></span>                </div>
+                    <p>Replacing a toner cartridge in your printer is a straightforward process, yet it can vary slightly depending on the make and model of your printer. Knowing how to do it properly ensures your printer continues to produce high-quality prints without [&hellip;]</p>
+</div>        </div>
+</article><article id="post-690" class="post-690 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="750" height="509" src="https://homrem.com/wp-content/uploads/2024/11/Layer-18-4.png" class="attachment-full size-full wp-post-image" alt="Top Things To Consider When Buying A Villa" srcset="https://homrem.com/wp-content/uploads/2024/11/Layer-18-4.png 750w, https://homrem.com/wp-content/uploads/2024/11/Layer-18-4-300x204.png 300w, https://homrem.com/wp-content/uploads/2024/11/Layer-18-4-480x326.png 480w" sizes="(max-width: 750px) 100vw, 750px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/top-things-to-consider-when-buying-a-villa/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/top-things-to-consider-when-buying-a-villa/" rel="bookmark">Top Things To Consider When Buying A Villa</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2024/11/05/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2024-11-05T12:11:32+00:00">November 5, 2024</time><time class="updated" datetime="2024-11-05T12:11:33+00:00">November 5, 2024</time></a></span>                </div>
+                    <p>There are few things that are as exciting as buying a villa. A villa is not just a house, it&#8217;s a symbol of luxury and elegance. As you search for the perfect villa for sale in Mirdif, several factors must [&hellip;]</p>
+</div>        </div>
+</article><article id="post-686" class="post-686 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="400" height="400" src="https://homrem.com/wp-content/uploads/2024/11/download-2024-11-04T161501.191.png" class="attachment-full size-full wp-post-image" alt="Tips To Choose The Best Gaming Computer Monitor" srcset="https://homrem.com/wp-content/uploads/2024/11/download-2024-11-04T161501.191.png 400w, https://homrem.com/wp-content/uploads/2024/11/download-2024-11-04T161501.191-300x300.png 300w, https://homrem.com/wp-content/uploads/2024/11/download-2024-11-04T161501.191-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/tips-to-choose-the-best-gaming-computer-monitor/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/tips-to-choose-the-best-gaming-computer-monitor/" rel="bookmark">Tips To Choose The Best Gaming Computer Monitor</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2024/11/04/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published updated" datetime="2024-11-04T11:15:28+00:00">November 4, 2024</time></a></span>                </div>
+                    <p>Choosing the right gaming monitor can significantly improve your gaming experience. With various options available, it’s essential to consider key features and specifications to find a monitor that suits your gaming style and preferences. These tips will help you select [&hellip;]</p>
+</div>        </div>
+</article><article id="post-676" class="post-676 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="1500" height="700" src="https://homrem.com/wp-content/uploads/2024/10/download-2024-10-31T144508.761.png" class="attachment-full size-full wp-post-image" alt="6 Foods To Avoid After All-On-4 Implant Surgery" srcset="https://homrem.com/wp-content/uploads/2024/10/download-2024-10-31T144508.761.png 1500w, https://homrem.com/wp-content/uploads/2024/10/download-2024-10-31T144508.761-300x140.png 300w, https://homrem.com/wp-content/uploads/2024/10/download-2024-10-31T144508.761-1024x478.png 1024w, https://homrem.com/wp-content/uploads/2024/10/download-2024-10-31T144508.761-768x358.png 768w, https://homrem.com/wp-content/uploads/2024/10/download-2024-10-31T144508.761-480x224.png 480w" sizes="(max-width: 1500px) 100vw, 1500px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/6-foods-to-avoid-after-all-on-4-implant-surgery/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/6-foods-to-avoid-after-all-on-4-implant-surgery/" rel="bookmark">6 Foods To Avoid After All-On-4 Implant Surgery</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2024/10/31/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2024-10-31T09:45:38+00:00">October 31, 2024</time><time class="updated" datetime="2025-02-14T11:06:05+00:00">February 14, 2025</time></a></span>                </div>
+                    <p>recovering from All-on-4 implant surgery is an important phase that requires careful attention to your diet. The right foods can aid healing, while the wrong ones can lead to complications or discomfort. Below are top foods you should avoid after [&hellip;]</p>
+</div>        </div>
+</article><article id="post-673" class="post-673 post type-post status-publish format-standard has-post-thumbnail hentry category-general">
+        <div class="panel-wrapper">
+    <div class="entry-content"><div class="post-thumb"><img width="700" height="466" src="https://homrem.com/wp-content/uploads/2024/10/laser-cutting-1.jpg" class="attachment-full size-full wp-post-image" alt="How To Maintain Quality In Aluminium Cutting Services" srcset="https://homrem.com/wp-content/uploads/2024/10/laser-cutting-1.jpg 700w, https://homrem.com/wp-content/uploads/2024/10/laser-cutting-1-300x200.jpg 300w, https://homrem.com/wp-content/uploads/2024/10/laser-cutting-1-480x320.jpg 480w" sizes="(max-width: 700px) 100vw, 700px" /><div class="grid-item-overlay">
+                <a href="https://homrem.com/general/how-to-maintain-quality-in-aluminium-cutting-services/"><span></span></a></div></div>            <header class="entry-header">
+                #<a href="https://homrem.com/category/general/" rel="category tag">General</a>                <!-- posted coment -->
+                <h2 class="entry-title"><a href="https://homrem.com/general/how-to-maintain-quality-in-aluminium-cutting-services/" rel="bookmark">How To Maintain Quality In Aluminium Cutting Services</a></h2>            </header>
+                            <div class = "entry-meta-wrap">
+                    <span class="posted-on"><a href="https://homrem.com/2024/10/29/" rel="bookmark"><span class="thememattic-icon ion-android-alarm-clock"></span> <time class="entry-date published" datetime="2024-10-29T12:03:03+00:00">October 29, 2024</time><time class="updated" datetime="2024-10-29T12:03:04+00:00">October 29, 2024</time></a></span>                </div>
+                    <p>Aluminium cutting services are essential across a wide range of industries, from construction and manufacturing to automotive and aerospace. Maintaining quality in these services is important to ensure precision, durability, and the overall success of a project. Given aluminium’s unique [&hellip;]</p>
+</div>        </div>
+</article></div>            <div class="load-more-posts scroll" data-load-type="scroll">
+                <a href="javascript:void(0)" class="btn btn-load-more secondary-font">
+                    <span class="ajax-loader"></span>
+                    Older Posts                </a>
+            </div>
+                            </main><!-- #main -->
+            </div><!-- #primary -->
+
+            
+<aside id="secondary" class="widget-area">
+    <div class="theiaStickySidebar">
+		<div class="sidebar-bg">
+			<div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://homrem.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div><div id="minimal_lite_tab_posts_widget-1" class="widget widget_minimal_lite_tab_posts_widget">        <div class="tabbed-container">
+            <div class="tabbed-head">
+                <ul class="nav nav-tabs primary-background" role="tablist">
+                    <li role="presentation" class="tab tab-popular active">
+                        <a href="#ms-popular" aria-controls="Popular" role="tab" data-toggle="tab" class="primary-bgcolor">
+                            <span class="tab-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="20px" version="1.1" viewBox="-22 0 134 134.06032" width="20px" fill="currentcolor">
+                                    <g id="surface1">
+                                    <path d="M 23.347656 134.058594 C 8.445312 84.953125 39.933594 67.023438 39.933594 67.023438 C 37.730469 93.226562 52.621094 113.640625 52.621094 113.640625 C 58.097656 111.988281 68.550781 104.265625 68.550781 104.265625 C 68.550781 113.640625 63.035156 134.046875 63.035156 134.046875 C 63.035156 134.046875 82.34375 119.117188 88.421875 94.320312 C 94.492188 69.523438 76.859375 44.628906 76.859375 44.628906 C 77.921875 62.179688 71.984375 79.441406 60.351562 92.628906 C 60.933594 91.957031 61.421875 91.210938 61.796875 90.402344 C 63.886719 86.222656 67.242188 75.359375 65.277344 50.203125 C 62.511719 14.890625 30.515625 0 30.515625 0 C 33.273438 21.515625 25.003906 26.472656 5.632812 67.3125 C -13.738281 108.144531 23.347656 134.058594 23.347656 134.058594 Z M 23.347656 134.058594 " />
+                                    </g>
+                                </svg>
+                            </span>
+                            Popular                        </a>
+                    </li>
+                    <li class="tab tab-recent">
+                        <a href="#ms-recent" aria-controls="Recent" role="tab" data-toggle="tab" class="primary-bgcolor">
+                            <span class="tab-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="20px" version="1.1" viewBox="0 0 129 129" width="20px" fill="currentcolor">
+                                  <g>
+                                    <path d="m57.4,122.2c0.5,0.2 1,0.3 1.5,0.3 1.3,0 2.6-0.6 3.4-1.8l42.9-62c0.9-1.2 1-2.9 0.3-4.2-0.7-1.3-2.1-2.2-3.6-2.2l-26.6-.2 7.7-40.8c0.4-1.8-0.6-3.7-2.3-4.5-1.7-0.8-3.7-0.3-4.9,1.2l-45.5,57.3c-1,1.2-1.2,2.9-0.5,4.3 0.7,1.4 2.1,2.3 3.7,2.3l29.4,.2-7.9,45.6c-0.4,1.9 0.6,3.8 2.4,4.5zm-15.5-58.4l30-37.8-5.6,29.5c-0.2,1.2 0.1,2.4 0.9,3.4 0.8,0.9 1.9,1.5 3.1,1.5l23.7,.1-27.9,40.4 5.5-32.2c0.2-1.2-0.1-2.4-0.9-3.3-0.7-0.9-1.8-1.4-3-1.4l-25.8-.2z"/>
+                                  </g>
+                                </svg>
+                            </span>
+                            Recent                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="tab-content">
+                <div id="ms-popular" role="tabpanel" class="tab-pane active">
+                    <ul class="article-item article-list-item article-tabbed-list article-item-left">                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/03/Custom-Made-Tuxedo-Wedding-Suit-1.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    March 27, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/">
+                                        Tips To Measure For A Custom Wedding Suit Fit                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/sports/a-look-into-the-most-popular-sports-in-dubai%ef%bb%bf/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2019/04/popular-sports-in-Dubai﻿-150x150.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    April 24, 2019                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/sports/a-look-into-the-most-popular-sports-in-dubai%ef%bb%bf/">
+                                        A look into the most popular sports in Dubai﻿                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-150x150.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    April 24, 2019                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/">
+                                        Reasons to purchase arts supplies online in Dubai                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/health-and-medical/5-important-things-to-know-about-nurses-and-caregivers/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2019/05/senior-caregivers-Goshen-1-150x150.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    May 17, 2019                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/health-and-medical/5-important-things-to-know-about-nurses-and-caregivers/">
+                                        5 important things to know about Nurses and Caregivers                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/health-and-medical/signs-of-a-proficient-pediatric-dentist/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2019/05/pediatric-dentistry-1-150x150.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    May 19, 2019                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/health-and-medical/signs-of-a-proficient-pediatric-dentist/">
+                                        Signs of a proficient pediatric dentist                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                </ul>                </div>
+                <div id="ms-recent" role="tabpanel" class="tab-pane">
+                    <ul class="article-item article-list-item article-tabbed-list article-item-left">                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/03/Custom-Made-Tuxedo-Wedding-Suit-1.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    March 27, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/">
+                                        Tips To Measure For A Custom Wedding Suit Fit                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/02/download-2025-02-17T160626.800-150x150.png">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    February 17, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/">
+                                        The Difference Between Artificial Grass And Natural Grass                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682-150x150.png">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    January 31, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/">
+                                        How To Properly Dispose Of Used Disposable Pods                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/the-importance-of-professional-carpet-cleaning-services/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-15T123131.340-150x150.png">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    January 15, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/the-importance-of-professional-carpet-cleaning-services/">
+                                        The Importance Of Professional Carpet Cleaning Services                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/how-to-choose-the-right-dentist-for-teeth-implants/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2024/12/download-2024-12-04T103143.496-150x150.png">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    December 4, 2024                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/how-to-choose-the-right-dentist-for-teeth-implants/">
+                                        How To Choose The Right Dentist For Teeth Implants                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                </ul>                </div>
+            </div>
+        </div>
+        </div><div id="categories-2" class="widget widget_categories"><div class="thememattic-title-wrapper"><h2 class="widget-title thememattic-title">Categories</h2></div>		<ul>
+				<li class="cat-item cat-item-10"><a href="https://homrem.com/category/art-and-design/">Art and Design</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://homrem.com/category/business-services/">Business Services</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://homrem.com/category/cleaning-services/">Cleaning Services</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://homrem.com/category/education/">Education</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://homrem.com/category/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://homrem.com/category/general/">General</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://homrem.com/category/health-and-medical/">Health and Medical</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://homrem.com/category/online-shopping/">Online Shopping</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://homrem.com/category/rent/">Rent</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://homrem.com/category/sports/">Sports</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://homrem.com/category/travel-and-tourism/">Travel and Tourism</a>
+</li>
+		</ul>
+			</div>		<div id="recent-posts-1" class="widget widget_recent_entries">		<div class="thememattic-title-wrapper"><h2 class="widget-title thememattic-title">Recent Posts</h2></div>		<ul>
+											<li>
+					<a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/">Tips To Measure For A Custom Wedding Suit Fit</a>
+									</li>
+											<li>
+					<a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/">The Difference Between Artificial Grass And Natural Grass</a>
+									</li>
+											<li>
+					<a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/">How To Properly Dispose Of Used Disposable Pods</a>
+									</li>
+											<li>
+					<a href="https://homrem.com/general/the-importance-of-professional-carpet-cleaning-services/">The Importance Of Professional Carpet Cleaning Services</a>
+									</li>
+											<li>
+					<a href="https://homrem.com/general/how-to-choose-the-right-dentist-for-teeth-implants/">How To Choose The Right Dentist For Teeth Implants</a>
+									</li>
+					</ul>
+		</div>		</div>
+	</div>
+</aside><!-- #secondary -->
+        </div>
+    </section>
+                    <section class="section-block section-bg section-recommended">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="section-head">
+                                        <h2 class="section-title">
+                                            <a href="https://homrem.com/category/art-and-design/">
+                                                You May Have Missed                                            </a>
+                                        </h2>
+                                    </div>
+                                </div>
+                                <div class="home-full-grid-cat-section">
+                                                                                <article class="col-md-3 col-sm-6">
+                                                <div class="entry-content">
+                                                    <div class="post-thumb">
+                                                        <a href="https://homrem.com/art-and-design/things-to-consider-when-hiring-an-architecture-company/" class="bg-image bg-image-2">
+                                                            <img width="480" height="320" src="https://homrem.com/wp-content/uploads/2019/05/11-480x320.jpg" class="attachment-minimal-lite-medium-img size-minimal-lite-medium-img wp-post-image" alt="" srcset="https://homrem.com/wp-content/uploads/2019/05/11-480x320.jpg 480w, https://homrem.com/wp-content/uploads/2019/05/11-300x200.jpg 300w, https://homrem.com/wp-content/uploads/2019/05/11-768x513.jpg 768w, https://homrem.com/wp-content/uploads/2019/05/11-1024x684.jpg 1024w, https://homrem.com/wp-content/uploads/2019/05/11.jpg 1498w" sizes="(max-width: 480px) 100vw, 480px" />                                                        </a>
+                                                    </div>
+                                                    <div class="post-detail">
+                                                        <h2 class="entry-title entry-title-1">
+                                                            <a href="https://homrem.com/art-and-design/things-to-consider-when-hiring-an-architecture-company/">Things to consider when hiring an architecture company</a>
+                                                        </h2>
+                                                                                                                    <div class="featured-meta">
+                                                                <span class="entry-date">
+                                                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                                                    May 29, 2019                                                                </span>
+                                                                <span>/</span>
+                                                                <span class="post-author">
+                                                                    <a href="https://homrem.com/author/admin/">
+                                                                        admin                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </article>
+                                                                                        <article class="col-md-3 col-sm-6">
+                                                <div class="entry-content">
+                                                    <div class="post-thumb">
+                                                        <a href="https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/" class="bg-image bg-image-2">
+                                                            <img width="480" height="299" src="https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-480x299.jpg" class="attachment-minimal-lite-medium-img size-minimal-lite-medium-img wp-post-image" alt="" srcset="https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-480x299.jpg 480w, https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-300x187.jpg 300w, https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-768x478.jpg 768w, https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-1024x638.jpg 1024w, https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai.jpg 1495w" sizes="(max-width: 480px) 100vw, 480px" />                                                        </a>
+                                                    </div>
+                                                    <div class="post-detail">
+                                                        <h2 class="entry-title entry-title-1">
+                                                            <a href="https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/">Reasons to purchase arts supplies online in Dubai</a>
+                                                        </h2>
+                                                                                                                    <div class="featured-meta">
+                                                                <span class="entry-date">
+                                                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                                                    April 24, 2019                                                                </span>
+                                                                <span>/</span>
+                                                                <span class="post-author">
+                                                                    <a href="https://homrem.com/author/admin/">
+                                                                        admin                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                                                                            </div>
+                                                </div>
+                                            </article>
+                                                                            </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+    <div id="offcanvas-panel">
+        <div class="sidr-close-holder">
+            <a href="javascript:void(0)" onclick="event.preventDefault()" class="sidr-class-sidr-button-close">
+                <i class="ion-ios-close-empty"></i>
+            </a>
+        </div>
+        <div class="offcanvas-sidebar">
+            <div id="search-5" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://homrem.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div><div id="categories-3" class="widget widget_categories"><div class="thememattic-title-wrapper"><h2 class="widget-title thememattic-title">Categories</h2></div>		<ul>
+				<li class="cat-item cat-item-10"><a href="https://homrem.com/category/art-and-design/">Art and Design</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://homrem.com/category/business-services/">Business Services</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://homrem.com/category/cleaning-services/">Cleaning Services</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://homrem.com/category/education/">Education</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://homrem.com/category/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://homrem.com/category/general/">General</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://homrem.com/category/health-and-medical/">Health and Medical</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://homrem.com/category/online-shopping/">Online Shopping</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://homrem.com/category/rent/">Rent</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://homrem.com/category/sports/">Sports</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://homrem.com/category/travel-and-tourism/">Travel and Tourism</a>
+</li>
+		</ul>
+			</div><div id="minimal_lite_social_menu_widget-3" class="widget widget_minimal_lite_social_menu_widget"><div class='widget-header-wrapper'></div>        <div class="social-widget-menu">
+            <div class="menu-social-menu-container"><ul id="menu-social-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="#"><span class="social-name">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="#"><span class="social-name">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="#"><span class="social-name">Instagram</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404"><a href="#"><span class="social-name">LinkedIn</span></a></li>
+</ul></div>        </div>
+                </div>        </div>
+    </div>
+
+<footer id="colophon" class="site-footer">
+            <div class="footer-widget-area">
+            <div class="container-fluid">
+                <div class="row">
+                                            <div class="col-md-4">
+                            <div id="search-4" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://homrem.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div><div id="minimal_lite_social_menu_widget-1" class="widget widget_minimal_lite_social_menu_widget"><div class='widget-header-wrapper'></div>        <div class="social-widget-menu">
+            <div class="menu-social-menu-container"><ul id="menu-social-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="#"><span class="social-name">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="#"><span class="social-name">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="#"><span class="social-name">Instagram</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404"><a href="#"><span class="social-name">LinkedIn</span></a></li>
+</ul></div>        </div>
+                </div>                        </div>
+                                                                <div class="col-md-4">
+                            <div id="minimal_lite_tab_posts_widget-2" class="widget widget_minimal_lite_tab_posts_widget">        <div class="tabbed-container">
+            <div class="tabbed-head">
+                <ul class="nav nav-tabs primary-background" role="tablist">
+                    <li role="presentation" class="tab tab-popular active">
+                        <a href="#ms-popular" aria-controls="Popular" role="tab" data-toggle="tab" class="primary-bgcolor">
+                            <span class="tab-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="20px" version="1.1" viewBox="-22 0 134 134.06032" width="20px" fill="currentcolor">
+                                    <g id="surface1">
+                                    <path d="M 23.347656 134.058594 C 8.445312 84.953125 39.933594 67.023438 39.933594 67.023438 C 37.730469 93.226562 52.621094 113.640625 52.621094 113.640625 C 58.097656 111.988281 68.550781 104.265625 68.550781 104.265625 C 68.550781 113.640625 63.035156 134.046875 63.035156 134.046875 C 63.035156 134.046875 82.34375 119.117188 88.421875 94.320312 C 94.492188 69.523438 76.859375 44.628906 76.859375 44.628906 C 77.921875 62.179688 71.984375 79.441406 60.351562 92.628906 C 60.933594 91.957031 61.421875 91.210938 61.796875 90.402344 C 63.886719 86.222656 67.242188 75.359375 65.277344 50.203125 C 62.511719 14.890625 30.515625 0 30.515625 0 C 33.273438 21.515625 25.003906 26.472656 5.632812 67.3125 C -13.738281 108.144531 23.347656 134.058594 23.347656 134.058594 Z M 23.347656 134.058594 " />
+                                    </g>
+                                </svg>
+                            </span>
+                            Popular                        </a>
+                    </li>
+                    <li class="tab tab-recent">
+                        <a href="#ms-recent" aria-controls="Recent" role="tab" data-toggle="tab" class="primary-bgcolor">
+                            <span class="tab-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="20px" version="1.1" viewBox="0 0 129 129" width="20px" fill="currentcolor">
+                                  <g>
+                                    <path d="m57.4,122.2c0.5,0.2 1,0.3 1.5,0.3 1.3,0 2.6-0.6 3.4-1.8l42.9-62c0.9-1.2 1-2.9 0.3-4.2-0.7-1.3-2.1-2.2-3.6-2.2l-26.6-.2 7.7-40.8c0.4-1.8-0.6-3.7-2.3-4.5-1.7-0.8-3.7-0.3-4.9,1.2l-45.5,57.3c-1,1.2-1.2,2.9-0.5,4.3 0.7,1.4 2.1,2.3 3.7,2.3l29.4,.2-7.9,45.6c-0.4,1.9 0.6,3.8 2.4,4.5zm-15.5-58.4l30-37.8-5.6,29.5c-0.2,1.2 0.1,2.4 0.9,3.4 0.8,0.9 1.9,1.5 3.1,1.5l23.7,.1-27.9,40.4 5.5-32.2c0.2-1.2-0.1-2.4-0.9-3.3-0.7-0.9-1.8-1.4-3-1.4l-25.8-.2z"/>
+                                  </g>
+                                </svg>
+                            </span>
+                            Recent                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="tab-content">
+                <div id="ms-popular" role="tabpanel" class="tab-pane active">
+                    <ul class="article-item article-list-item article-tabbed-list article-item-left">                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/03/Custom-Made-Tuxedo-Wedding-Suit-1.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    March 27, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/">
+                                        Tips To Measure For A Custom Wedding Suit Fit                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/sports/a-look-into-the-most-popular-sports-in-dubai%ef%bb%bf/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2019/04/popular-sports-in-Dubai﻿-150x150.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    April 24, 2019                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/sports/a-look-into-the-most-popular-sports-in-dubai%ef%bb%bf/">
+                                        A look into the most popular sports in Dubai﻿                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-150x150.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    April 24, 2019                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/">
+                                        Reasons to purchase arts supplies online in Dubai                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                </ul>                </div>
+                <div id="ms-recent" role="tabpanel" class="tab-pane">
+                    <ul class="article-item article-list-item article-tabbed-list article-item-left">                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/03/Custom-Made-Tuxedo-Wedding-Suit-1.jpg">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    March 27, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/tips-to-measure-for-a-custom-wedding-suit-fit/">
+                                        Tips To Measure For A Custom Wedding Suit Fit                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/02/download-2025-02-17T160626.800-150x150.png">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    February 17, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/the-difference-between-artificial-grass-and-natural-grass/">
+                                        The Difference Between Artificial Grass And Natural Grass                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                                    <li class="full-item row">
+                        <div class="full-item-image col-xs-4">
+                            <a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/" class="post-thumb">
+                                <img src="https://homrem.com/wp-content/uploads/2025/01/download-2025-01-31T115059.682-150x150.png">                            </a>
+                        </div>
+                        <div class="full-item-details col-xs-8">
+                            <div class="featured-meta">
+                                <span class="entry-date">
+                                    <span class="thememattic-icon ion-android-alarm-clock"></span>
+                                    January 31, 2025                                </span>
+                                <span>/</span>
+                                <span class="post-author">
+                                <a href="https://homrem.com/author/admin/">
+                                    admin                                </a>
+                            </span>
+                            </div>
+                            <div class="full-item-content">
+                                <h2 class="entry-title">
+                                    <a href="https://homrem.com/general/how-to-properly-dispose-of-used-disposable-pods/">
+                                        How To Properly Dispose Of Used Disposable Pods                                    </a>
+                                </h2>
+                                                            </div>
+                        </div>
+                    </li>
+                </ul>                </div>
+            </div>
+        </div>
+        </div>                        </div>
+                                                                <div class="col-md-4">
+                            <div id="media_gallery-2" class="widget widget_media_gallery"><div id='gallery-1' class='gallery galleryid-718 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://homrem.com/sports/a-look-into-the-most-popular-sports-in-dubai%ef%bb%bf/attachment/popular-sports-in-dubai%ef%bb%bf/'><img width="150" height="150" src="https://homrem.com/wp-content/uploads/2019/04/popular-sports-in-Dubai﻿-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://homrem.com/art-and-design/reasons-to-purchase-arts-supplies-online-in-dubai/attachment/arts-supplies-online-in-dubai/'><img width="150" height="150" src="https://homrem.com/wp-content/uploads/2019/04/arts-supplies-online-in-Dubai-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a href='https://homrem.com/image-17/'><img width="150" height="150" src="https://homrem.com/wp-content/uploads/2019/02/image-17-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a href='https://homrem.com/image-16/'><img width="150" height="150" src="https://homrem.com/wp-content/uploads/2019/02/image-16-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a href='https://homrem.com/image-3-2/'><img width="150" height="150" src="https://homrem.com/wp-content/uploads/2019/02/image-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://homrem.com/travel-and-tourism/5-things-you-must-buy-when-visiting-dubai/attachment/visiting-dubai/'><img width="150" height="150" src="https://homrem.com/wp-content/uploads/2019/04/visiting-Dubai-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure>
+		</div>
+</div>                        </div>
+                                    </div>
+            </div>
+        </div>
+    
+            <div class="site-copyright">
+            <div class="container-fluid">
+                 Copyright &copy; 2025               
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<a id="scroll-up">
+    <span>
+        <strong>Scroll</strong>
+        <i class="ion-ios-arrow-thin-right icons"></i>
+    </span>
+</a>
+
+</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/homrem.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://homrem.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' defer="defer" src='//cdn.thememattic.com/?product=minimal_lite&#038;version=1745212679&#038;ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/thememattic/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/bootstrap/js/bootstrap.min.js?ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/slick/js/slick.min.js?ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/sidr/js/jquery.sidr.min.js?ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/lib/theiaStickySidebar/theia-sticky-sidebar.min.js?ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/thememattic/js/color-switcher.js?ver=5.3.18'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.3.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.3.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var minimalLiteVal = {"enable_slider_nav":"","enable_slider_loop":"1","masonry_animation":"default","relayout_masonry":"1","nonce":"10562d84f9","ajaxurl":"https:\/\/homrem.com\/wp-admin\/admin-ajax.php","post_type":"post"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://homrem.com/wp-content/themes/minimal-lite/assets/thememattic/js/script.js?ver=5.3.18'></script>
+<script type='text/javascript' src='https://homrem.com/wp-includes/js/wp-embed.min.js?ver=5.3.18'></script>
+
+</body>
+</html>

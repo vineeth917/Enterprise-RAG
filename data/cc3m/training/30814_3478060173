@@ -1,0 +1,750 @@
+<!DOCTYPE html> 
+<html lang="en-US">
+   <head>
+      <script>window.serviceCallbacks=[];</script>
+      <link rel="icon" href="https://www.philly.com/pb/resources/images/pmn/favicon.ico"/>
+      <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon-57x57-precomposed.png"/>
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon-76x76-precomposed.png"/>
+      <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon-60x60-precomposed@2x.png"/>
+      <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon-76x76-precomposed@2x.png"/>
+      <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon-60x60-precomposed@3x.png"/>
+      <link rel="icon" sizes="192x192" href="https://www.philly.com/pb/resources/images/touch-icons/touch-icon-192x192.png"/>
+      <link rel="apple-touch-icon-precomposed" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon-precomposed.png"/>
+      <link rel="aapple-touch-icon.png" href="https://www.philly.com/pb/resources/images/touch-icons/apple-touch-icon.png"/>
+      <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+      <meta charset="UTF-8"/>
+      <meta name="copyright" content="Copyright (c) 2017 "/>
+      <meta name="distribution" content="global"/>
+      <meta name="rating" content="general"/>
+      <meta name="application-name" content=""/>
+      <meta name="theme-color" content="">
+      <title>404</title>
+      <meta name="robots" content="index,follow"/>
+      <meta name="googlebot-news" content="index"/>
+      <meta name="googlebot" content="index"/>
+      <link rel="canonical" href="https://www.philly.com/404/">
+      <meta name="twitter:title" content="404"/>
+      <meta name="twitter:image" content="https://www.philly.com/pb/resources/images/pcom-share.jpg"/>
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:description" content=""/>
+      <meta name="twitter:site" content="@PhillyInquirer"/>
+      <meta name="twitter:creator" content="@PhillyInquirer">
+      <meta name="fb_title" content="404"/>
+      <meta property="og:url" content=""/>
+      <meta property="og:title" content="404"/>
+      <meta property="og:image" content="https://www.philly.com/pb/resources/images/pcom-share.jpg"/>
+      <meta property="og:description" content=""/>
+      <meta property="og:locale" content="en_US"/>
+      <meta property="fb:pages" content="6130721655"/>
+      <meta property="og:site_name" content="https://www.philly.com"/>
+      <meta property="og:type" content="WebPage"/>
+      <meta name="author" content="">
+      <meta property="vf:unique_id" content="">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="https://www2.philly.com/pb/resources/fonts/675589/0877AA03C781C1D14.css"/>
+      <link href="https://www.philly.com/pb/resources/dist/pmn/pmn-frameworkd7c1a95610c7efb5f7d6.css?v=85" rel="stylesheet"/>
+      <script>var pb_global={pageName:"p0MPYhmviPaLOq",pageId:"r0ePT8efXwCpmr",contextPath:"/pb",isAdmin:false,layoutEngineName:"",environment:"prod",resourceToken:"",connextEnv:"prod"};</script>
+      <script>
+        window.Auth0Lock = function(){};
+      </script>
+      <script src="https://www.philly.com/pb/resources/dist/libs/preact.js?v=85"></script>
+      <script src="https://www.philly.com/pb/resources/dist/pmn/pmn-indexd7c1a95610c7efb5f7d6.js"></script>
+   </head>
+   <body>
+      <div id="pb-root" class="">
+      <a class="skip-link" href="#top">Skip to content</a> 
+      <header id="app-bar" class="relative high-z-index">
+         <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-arcads" id="fjJ0vg1gYvXrlr">
+            <div id="ad579-sticky" data-ad-name="is_1" class="arc-ad-wrapper container-column righ-rail-ad-desktop ">
+            </div>
+         </div>
+         <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-global-app-bar" id="f02QhZqgYvXrlr">
+            <div id="app-bar" class="app-bar card border border-bottom hidden-mobile" role="user-buttons">
+               <div class="justify-space-between container-row relative app-bar-inner spaced spaced-right spaced-left spaced-lg">
+                  <div class="container-row align-items-center">
+                     <div class="logo-container flex container-row align-items-center justify-center spaced spaced-right spaced-lg">
+                        <a data-link-type='global-nav' aria-label="Visit homepage" href="https://www.philly.com/">
+                           <div class="logo-philly logo-stacked logo-lg"></div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="container-row align-items-center justify-end">
+                     <div class="timestamp spaced spaced-right spaced-md hidden-mobile hidden-tablet"><span class="align-left date spaced spaced-right spaced-xs" id="output-date">Friday, April 19, 2019</span>|<a data-link-type='global-nav' href="https://myaccount.philly.com/access.aspx?product=eEdition_inq" class="nav-link"><span class="font-bold spaced spaced-left spaced-xs">Today's Paper</span></a></div>
+                     <a href="https://checkout.philly.com/subscribe" class="unstyled-link" data-link-type='global-nav'>
+                        <div id="desktop-subscribe-btn" class="btn subscribe-btn font-semi-bold login-btn no-border container-column justify-center spaced spaced-right spaced-sm">Unlimited Access</div>
+                     </a>
+                     <a href="https://philly.com" id="desktop-login-btn" class="login-btn font-semi-bold btn btn-light no-text-decoration" data-link-type='global-nav'>Log In</a>
+                     <div id="desktop-dropdown-name" class="hidden my-account-btn font-semi-bold my-account-text btn btn-light unselectable" data-role="open-tray" data-tray="account-menu-desktop">MyAccount</div>
+                     <div id="desktop-account-dropdown" data-tray="account-menu-desktop" data-role="tray" class="hidden unselectable">
+                        <ul class="font-bold list-unstyled bg-black-dark account-dropdown container-column justify-center padded padded-full padded-sm">
+                           <li><a href="https://myaccount.philly.com" data-link-type='global-nav'>Manage my account</a></li>
+                           <li><a href="http://www.philly.com/myprofile/" data-link-type='global-nav'>My profile</a></li>
+                           <li><a href="https://myaccount.philly.com/FAQ.aspx" data-link-type='global-nav'>FAQ</a></li>
+                           <li class="logout-btn"><a data-link-type='global-nav'>Log out</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div data-role="tray" data-tray="topics-desktop" class="tray hidden">
+                  <nav class="tray tray-left fixed full-width high-z-index">
+                     <div class="topics-tray tray-contents">
+                        <div class="tray-search container-column hidden-tablet hidden-desktop">
+                           <div id="app-bar-topics-button" name="topicsMenu" class="justify-end container-row" data-role="close-tray" data-tray="topics-mobile">
+                              <div class="btn menu-btn font-semi-bold spaced spaced-top spaced-right spaced-bottom spaced-md"> <span class="icon-x"></span> </div>
+                           </div>
+                           <div class="search-input relative color-white spaced spaced-top spaced-right spaced-left spaced-md">
+                              <div class="search-icon-group absolute right-0 top-0">
+                                 <div data-search="desktop-tray-search" class="fa fa-search center-no-dimensions color-black"></div>
+                              </div>
+                              <input id="desktop-tray-search" class="full-width spaced spaced-right spaced-md search-input-font" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off"> 
+                           </div>
+                        </div>
+                        <div class="tray-contents-inner container-column column-reverse tablet-row" tabindex="0">
+                           <div class="tray-topics-menu flex">
+                              <div class="menu menu-topic container-row wrap">
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">Your Day</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/newsletters/" class="color-white topic-link">Newsletters</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://store.philly.com/" class="color-white topic-link">Philly.com Store</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/weather/" class="color-white topic-link">Weather</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/entertainment/horoscopes/" data-pb-url-field="custom.textURL_2_33333" data-pb-field="custom.text_2_33333" data-pb-field-type="text" data-pb-placeholder="Link #3" class="color-white topic-link">Horoscope</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/news/lottery/" data-pb-url-field="custom.textURL_3_33333" data-pb-field="custom.text_3_33333" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Lottery</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/pmn-events/inq/inquirer-events-calendar-20190122.html" class="color-white topic-link">Events</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">People</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/celebration/philly/celebrations-search.aspx?daterange=99999&announcementtype=16" data-pb-url-field="custom.textURL_0_22222" data-pb-field="custom.text_0_22222" data-pb-field-type="text" data-pb-placeholder="Link #1" class="color-white topic-link">Births</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/celebration/philly/" data-pb-url-field="custom.textURL_1_22222" data-pb-field="custom.text_1_22222" data-pb-field-type="text" data-pb-placeholder="Link #2" class="color-white topic-link">Celebrations</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/celebration/philly/celebrations-search.aspx?daterange=99999&announcementtype=2" data-pb-url-field="custom.textURL_2_22222" data-pb-field="custom.text_2_22222" data-pb-field-type="text" data-pb-placeholder="Link #3" class="color-white topic-link">Engagements</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/obituaries/" data-pb-url-field="custom.textURL_3_22222" data-pb-field="custom.text_3_22222" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Obituaries</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/obituaries/philly/?" data-pb-url-field="custom.textURL_4_22222" data-pb-field="custom.text_4_22222" data-pb-field-type="text" data-pb-placeholder="Link #5" class="color-white topic-link">Death Notices</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">Marketplace</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://marketplace.philly.com/pa/real-estate-for-sale/search" data-pb-url-field="custom.textURL_0_11111" data-pb-field="custom.text_0_11111" data-pb-field-type="text" data-pb-placeholder="Link #1" class="color-white topic-link">Find a Home</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://jobs.local-jobs.monster.com/search?wt.mc_n=hjnpsearch&ch=PINQ&where=Philadelphia%2C%20PA&rad=50" data-pb-url-field="custom.textURL_1_11111" data-pb-field="custom.text_1_11111" data-pb-field-type="text" data-pb-placeholder="Link #2" class="color-white topic-link">Job Listings</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://specialsections.philly.com/philly-inquirer/special-sections" data-pb-url-field="custom.textURL_3_11111" data-pb-field="custom.text_3_11111" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Special Sections</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://marketplace.philly.com/" data-pb-url-field="custom.textURL_4_11111" data-pb-field="custom.text_4_11111" data-pb-field-type="text" data-pb-placeholder="Link #5" class="color-white topic-link">All Classifieds</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">Get In Touch</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://inquirersolutions.webflow.io/" data-pb-url-field="custom.textURL_0_44444" data-pb-field="custom.text_0_44444" data-pb-field-type="text" data-pb-placeholder="Link #1" class="color-white topic-link">Advertise</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/contact-us/" data-pb-url-field="custom.textURL_1_44444" data-pb-field="custom.text_1_44444" data-pb-field-type="text" data-pb-placeholder="Link #2" class="color-white topic-link">Contact Us</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/about/newsroom-staff-beats-list.html" class="color-white topic-link">Newsroom Staff</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://olt.theygsgroup.com/philly/" data-pb-url-field="custom.textURL_2_44444" data-pb-field="custom.text_2_44444" data-pb-field-type="text" data-pb-placeholder="Link #3" class="color-white topic-link">Permissions</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://store.philly.com/collections/reprints" data-pb-url-field="custom.textURL_3_44444" data-pb-field="custom.text_3_44444" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Reprints</a> </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="sub-menu flex-3">
+                              <div class="menu sub normal sub-spacer">
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/">News</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/new-jersey/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/new-jersey/">New Jersey</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/pennsylvania/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/pennsylvania/">Pennsylvania</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/politics/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/politics/">Politics</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/nation-world/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/nation-world/">Nation & World</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/education/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/education/">Education</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/sports/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/sports/">Sports</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/eagles/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/eagles/">Eagles</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/phillies/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/phillies/">Phillies</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/sixers/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/sixers/">Sixers</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/flyers/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/flyers/">Flyers</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/soccer/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/soccer/">Union</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/college-sports/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/college-sports/">College Sports</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/high-school-sports/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/high-school-sports/">Rally High School Sports</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/">Business</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/jobs/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/jobs/">Jobs</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/economy/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/economy/">Economy</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/weed/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/weed/">Marijuana</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/phillydeals/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/phillydeals/">PhillyDeals</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/small-business/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/small-business/">Small Business</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/drugs/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/drugs/">Health & Pharma</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/consumer/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/consumer/">Consumer</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/">Opinion</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/columnists/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/columnists/">Columnists</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/commentary/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/commentary/">Commentary</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/editorials/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/editorials/">Editorials</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/cartoons/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/cartoons/">Cartoons</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/entertainment/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/entertainment/">Entertainment</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/things-to-do/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/things-to-do/">Things To Do</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/arts/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/arts/">Arts & Culture</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/entertainment/movies/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/entertainment/movies/">Movies</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/entertainment/tv/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/entertainment/tv/">TV</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/celebrity/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/celebrity/">Celebrity</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/comics/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/comics/">Comics</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/puzzles/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="/puzzles/">Puzzles</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/life/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/life/">Life</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/love/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/love/">Sex & Love</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/family/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/family/">Families</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/fashion/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/fashion/">Style</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/upside/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/upside/">The Upside</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/real-estate/home/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/real-estate/home/">Home</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/things-to-do/travel/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/things-to-do/travel/">Travel</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/things-to-do/jersey-shore/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/things-to-do/jersey-shore/">Things To Do at the Shore</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/food/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/food/">Food</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/health/" class="color-white" data-pb-field="custom.callToActionText_7" data-pb-url-field="custom.callToActionUrl_7" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/health/">Health</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/real-estate/" class="color-white" data-pb-field="custom.callToActionText_8" data-pb-url-field="custom.callToActionUrl_8" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/real-estate/">Real Estate</a></li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </nav>
+               </div>
+            </div>
+            <div id="topic-bar" class="topic-bar card card-shadowed border border-bottom hidden-mobile" role="navigation">
+               <div class="justify-space-between container-row relative topic-bar-inner spaced spaced-right spaced-left spaced-xl">
+                  <div class="flex-6 container-row align-items-center max-95">
+                     <ul id="app-bar-topics-menu" class="list-unstyled container-row topics-list font-normal uppercase">
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/news" class="nav-link" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="/news" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">News</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/sports" class="nav-link" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="/sports" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Sports</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/business" class="nav-link" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="/business" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Business</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/opinion" class="nav-link" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="/opinion" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Opinion</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/politics" class="nav-link" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="/politics" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Politics</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/entertainment" class="nav-link" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="/entertainment" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Entertainment</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/life" class="nav-link" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="/life" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Life</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/food" class="nav-link" data-pb-field="custom.callToActionText_7" data-pb-url-field="custom.callToActionUrl_7" data-pb-field-type="text" data-pb-placeholder="/food" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Food</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/health" class="nav-link" data-pb-field="custom.callToActionText_8" data-pb-url-field="custom.callToActionUrl_8" data-pb-field-type="text" data-pb-placeholder="/health" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Health</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/real-estate" class="nav-link" data-pb-field="custom.callToActionText_9" data-pb-url-field="custom.callToActionUrl_9" data-pb-field-type="text" data-pb-placeholder="/real-estate" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Real Estate</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/obituaries" class="nav-link" data-pb-field="custom.callToActionText_10" data-pb-url-field="custom.callToActionUrl_10" data-pb-field-type="text" data-pb-placeholder="/obituaries" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Obituaries</li>
+                        </a>
+                        <a data-link-type='header-nav-main' href="https://www.philly.com/jobs" class="nav-link" data-pb-field="custom.callToActionText_11" data-pb-url-field="custom.callToActionUrl_11" data-pb-field-type="text" data-pb-placeholder="/jobs" data-link-type="header-nav-main">
+                           <li class="spaced spaced-right spaced-md font-bold">Jobs</li>
+                        </a>
+                     </ul>
+                  </div>
+                  <div class="topic-bar-input-group container-row justify-end">
+                     <div class="search-input relative">
+                        <div class="search-icon-group absolute right-0 top-0">
+                           <div id="appbar-search-btn" class="fa fa-search center-no-dimensions color-black"></div>
+                        </div>
+                        <input id="appbar-search-inp" class="full-width search-input-font" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off"> 
+                     </div>
+                     <div id="desktop-app-bar-topics-button" name="topicsMenu" class="btn menu-btn justify-end container-row relative bg-white" data-role="open-tray" data-tray="topics-desktop"> <span id="tray-toggle-btn" class="icon-menu" aria-hidden="true"></span> </div>
+                  </div>
+               </div>
+            </div>
+            <div id="app-bar-mobile" class="app-bar card card-shadowed border border-bottom hidden-desktop hidden-tablet" role="user-buttons">
+               <div class="justify-space-between container-row relative app-bar-inner container spaced spaced-right spaced-left spaced-sm">
+                  <div class="flex container-row align-items-center">
+                     <div class="logo-container container-row align-items-center justify-center spaced spaced-right spaced-md">
+                        <a data-link-type='global-nav' aria-label="Visit homepage" href="https://www.philly.com/">
+                           <div class="logo-philly logo-stacked logo-sm"></div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="container-row align-items-center justify-end">
+                     <a href="https://checkout.philly.com/subscribe" class="unstyled-link">
+                        <div class="no-border btn container-column justify-center subscribe-btn font-semi-bold">Unlimited Access</div>
+                     </a>
+                     <div class="login-btn font-semi-bold btn btn-light auth0-log-in">Log In</div>
+                     <div id="mobile-dropdown-name" class="hidden mobile my-account-btn font-semi-bold my-account-text btn btn-light unselectable spaced spaced-right spaced-sm" data-role="open-tray" data-tray="account-menu-mobile"> <i class="fa fa-user" aria-hidden="true"></i> </div>
+                     <div id="mobile-account-dropdown" data-tray="account-menu-mobile" data-role="tray" class="hidden unselectable">
+                        <ul class="font-bold list-unstyled bg-black-dark mobile account-dropdown container-column justify-center padded padded-full padded-sm">
+                           <li><a href="https://myaccount.philly.com" data-link-type='global-nav'>Manage my account</a></li>
+                           <li><a href="http://www.philly.com/myprofile/" data-link-type='global-nav'>My profile</a></li>
+                           <li><a href="https://myaccount.philly.com/FAQ.aspx" data-link-type='global-nav'>FAQ</a></li>
+                           <li class="logout-btn"><a data-link-type='global-nav'>Log out</a></li>
+                        </ul>
+                     </div>
+                     <div id="app-bar-topics-button" name="topicsMenu" class="btn menu-btn container-row bg-white spaced spaced-right spaced-sm" data-role="open-tray" data-tray="topics-mobile"> <span id="tray-toggle-btn" class="icon-menu" aria-hidden="true"></span> </div>
+                  </div>
+               </div>
+               <div data-role="tray" data-tray="topics-mobile" class="tray hidden">
+                  <nav class="tray tray-left fixed full-width high-z-index">
+                     <div class="topics-tray tray-contents">
+                        <div class="tray-search container-column hidden-tablet hidden-desktop">
+                           <div id="app-bar-topics-button" name="topicsMenu" class="justify-end container-row" data-role="close-tray" data-tray="topics-mobile">
+                              <div class="btn menu-btn font-semi-bold spaced spaced-top spaced-right spaced-bottom spaced-md"> <span class="icon-x"></span> </div>
+                           </div>
+                           <div class="search-input relative color-white spaced spaced-top spaced-right spaced-left spaced-md">
+                              <div class="search-icon-group absolute right-0 top-0">
+                                 <div id="mobile-tray-search-btn" class="fa fa-search center-no-dimensions color-black"></div>
+                              </div>
+                              <input id="mobile-tray-search-inp" class="full-width spaced spaced-right spaced-md search-input-font" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off"> 
+                           </div>
+                        </div>
+                        <div class="tray-contents-inner container-column column-reverse tablet-row" tabindex="0">
+                           <div class="tray-topics-menu flex">
+                              <div class="menu menu-topic container-row wrap">
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">Your Day</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/newsletters/" class="color-white topic-link">Newsletters</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://store.philly.com/" class="color-white topic-link">Philly.com Store</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/weather/" class="color-white topic-link">Weather</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/entertainment/horoscopes/" data-pb-url-field="custom.textURL_2_33333" data-pb-field="custom.text_2_33333" data-pb-field-type="text" data-pb-placeholder="Link #3" class="color-white topic-link">Horoscope</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/news/lottery/" data-pb-url-field="custom.textURL_3_33333" data-pb-field="custom.text_3_33333" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Lottery</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/pmn-events/inq/inquirer-events-calendar-20190122.html" class="color-white topic-link">Events</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">People</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/celebration/philly/celebrations-search.aspx?daterange=99999&announcementtype=16" data-pb-url-field="custom.textURL_0_22222" data-pb-field="custom.text_0_22222" data-pb-field-type="text" data-pb-placeholder="Link #1" class="color-white topic-link">Births</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/celebration/philly/" data-pb-url-field="custom.textURL_1_22222" data-pb-field="custom.text_1_22222" data-pb-field-type="text" data-pb-placeholder="Link #2" class="color-white topic-link">Celebrations</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/celebration/philly/celebrations-search.aspx?daterange=99999&announcementtype=2" data-pb-url-field="custom.textURL_2_22222" data-pb-field="custom.text_2_22222" data-pb-field-type="text" data-pb-placeholder="Link #3" class="color-white topic-link">Engagements</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/obituaries/" data-pb-url-field="custom.textURL_3_22222" data-pb-field="custom.text_3_22222" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Obituaries</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.legacy.com/obituaries/philly/?" data-pb-url-field="custom.textURL_4_22222" data-pb-field="custom.text_4_22222" data-pb-field-type="text" data-pb-placeholder="Link #5" class="color-white topic-link">Death Notices</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">Marketplace</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://marketplace.philly.com/pa/real-estate-for-sale/search" data-pb-url-field="custom.textURL_0_11111" data-pb-field="custom.text_0_11111" data-pb-field-type="text" data-pb-placeholder="Link #1" class="color-white topic-link">Find a Home</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://jobs.local-jobs.monster.com/search?wt.mc_n=hjnpsearch&ch=PINQ&where=Philadelphia%2C%20PA&rad=50" data-pb-url-field="custom.textURL_1_11111" data-pb-field="custom.text_1_11111" data-pb-field-type="text" data-pb-placeholder="Link #2" class="color-white topic-link">Job Listings</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://specialsections.philly.com/philly-inquirer/special-sections" data-pb-url-field="custom.textURL_3_11111" data-pb-field="custom.text_3_11111" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Special Sections</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://marketplace.philly.com/" data-pb-url-field="custom.textURL_4_11111" data-pb-field="custom.text_4_11111" data-pb-field-type="text" data-pb-placeholder="Link #5" class="color-white topic-link">All Classifieds</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div>
+                                    <div class="list-header color-accent uppercase spaced spaced-bottom spaced-sm">Get In Touch</div>
+                                    <ul class="list-unstyled list-unstyled">
+                                       <li class=""> <a data-link-type='mega-nav' href="http://inquirersolutions.webflow.io/" data-pb-url-field="custom.textURL_0_44444" data-pb-field="custom.text_0_44444" data-pb-field-type="text" data-pb-placeholder="Link #1" class="color-white topic-link">Advertise</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://www.philly.com/contact-us/" data-pb-url-field="custom.textURL_1_44444" data-pb-field="custom.text_1_44444" data-pb-field-type="text" data-pb-placeholder="Link #2" class="color-white topic-link">Contact Us</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="http://www.philly.com/about/newsroom-staff-beats-list.html" class="color-white topic-link">Newsroom Staff</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://olt.theygsgroup.com/philly/" data-pb-url-field="custom.textURL_2_44444" data-pb-field="custom.text_2_44444" data-pb-field-type="text" data-pb-placeholder="Link #3" class="color-white topic-link">Permissions</a> </li>
+                                       <li class=""> <a data-link-type='mega-nav' href="https://store.philly.com/collections/reprints" data-pb-url-field="custom.textURL_3_44444" data-pb-field="custom.text_3_44444" data-pb-field-type="text" data-pb-placeholder="Link #4" class="color-white topic-link">Reprints</a> </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="sub-menu flex-3">
+                              <div class="menu sub normal sub-spacer">
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/">News</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/new-jersey/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/new-jersey/">New Jersey</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/pennsylvania/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/pennsylvania/">Pennsylvania</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/politics/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/politics/">Politics</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/news/nation-world/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/news/nation-world/">Nation & World</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/education/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/education/">Education</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/sports/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/sports/">Sports</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/eagles/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/eagles/">Eagles</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/phillies/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/phillies/">Phillies</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/sixers/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/sixers/">Sixers</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/flyers/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/flyers/">Flyers</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/soccer/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/soccer/">Union</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/college-sports/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/college-sports/">College Sports</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/high-school-sports/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/high-school-sports/">Rally High School Sports</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/">Business</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/jobs/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/jobs/">Jobs</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/economy/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/economy/">Economy</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/weed/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/weed/">Marijuana</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/phillydeals/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/phillydeals/">PhillyDeals</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/small-business/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/small-business/">Small Business</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/business/drugs/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/business/drugs/">Health & Pharma</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/consumer/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/consumer/">Consumer</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/">Opinion</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/columnists/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/columnists/">Columnists</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/commentary/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/commentary/">Commentary</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/editorials/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/editorials/">Editorials</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/opinion/cartoons/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/opinion/cartoons/">Cartoons</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/entertainment/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/entertainment/">Entertainment</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/things-to-do/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/things-to-do/">Things To Do</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/arts/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/arts/">Arts & Culture</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/entertainment/movies/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/entertainment/movies/">Movies</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/entertainment/tv/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/entertainment/tv/">TV</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/celebrity/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/celebrity/">Celebrity</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/comics/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/comics/">Comics</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/puzzles/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="/puzzles/">Puzzles</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/life/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/life/">Life</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/love/" class="color-white" data-pb-field="custom.callToActionText_0" data-pb-url-field="custom.callToActionUrl_0" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/love/">Sex & Love</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/family/" class="color-white" data-pb-field="custom.callToActionText_1" data-pb-url-field="custom.callToActionUrl_1" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/family/">Families</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/fashion/" class="color-white" data-pb-field="custom.callToActionText_2" data-pb-url-field="custom.callToActionUrl_2" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/fashion/">Style</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/upside/" class="color-white" data-pb-field="custom.callToActionText_3" data-pb-url-field="custom.callToActionUrl_3" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/upside/">The Upside</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/real-estate/home/" class="color-white" data-pb-field="custom.callToActionText_4" data-pb-url-field="custom.callToActionUrl_4" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/real-estate/home/">Home</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/things-to-do/travel/" class="color-white" data-pb-field="custom.callToActionText_5" data-pb-url-field="custom.callToActionUrl_5" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/things-to-do/travel/">Travel</a></li>
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/things-to-do/jersey-shore/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/things-to-do/jersey-shore/">Things To Do at the Shore</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/food/" class="color-white" data-pb-field="custom.callToActionText_6" data-pb-url-field="custom.callToActionUrl_6" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/food/">Food</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/health/" class="color-white" data-pb-field="custom.callToActionText_7" data-pb-url-field="custom.callToActionUrl_7" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/health/">Health</a></li>
+                                 </ul>
+                                 <ul class="list-unstyled">
+                                    <li><a data-link-type='mega-nav' href="https://www.philly.com/real-estate/" class="color-white" data-pb-field="custom.callToActionText_8" data-pb-url-field="custom.callToActionUrl_8" data-pb-field-type="text" data-pb-placeholder="https://www.philly.com/real-estate/">Real Estate</a></li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </nav>
+               </div>
+            </div>
+         </div>
+      </header>
+      <div class="container flex-grid" data-parsely-slot="homepage-default-slot">
+         <section id="main" class="col desktop-12"> </section>
+         <section id="bottom">
+            <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-utilities-404-not-found" id="f0aSywWgYvXrlr">
+               <div class="container-column align-items-center container spaced spaced-top spaced-bottom spaced-xl">
+                  <h1 class="spaced spaced-bottom spaced-sm"> Uh-Oh?! </h1>
+                  <div class="spaced spaced-bottom spaced-lg"> We’re sorry, we cannot find the page you were looking for. </div>
+                  <div class="align-center spaced spaced-bottom spaced-lg"> If you typed in the address, used a bookmark or followed a link from another Web site, this page is no longer available or the link may be incorrect. We apologize for the inconvenience. </div>
+                  <a href="http://www.philly.com/">« Philly.com Home</a> 
+               </div>
+            </div>
+            <div class="pb-container"> </div>
+         </section>
+      </div>
+      <section id="footer">
+         <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-global-footer" id="f0huDnAgYvXrlr">
+            <footer class="card container-column align-items-stretch relative color-white">
+               <div class="flex no-padding">
+                  <div class="footer-social-container">
+                     <div class="footer-container container-row align-items-center">
+                        <div class="padded padded-top padded-bottom padded-sm flex-4 hidden-tablet hidden-mobile">
+                           <a data-link-type='footer' aria-label="Visit homepage" href="http://www.philly.com" data-link-type="footer">
+                              <div class="logo-philly logo-inverted logo-stacked logo-lg darker-background"></div>
+                           </a>
+                        </div>
+                        <div class="footer-share-bar-container flex container-row mobile-column justify-center">
+                           <div class="full-width spaced spaced-sm spaced-bottom spaced-top">
+                              <div class="container-row justify-space-evenly align-items-center spaced spaced-sm spaced-top spaced-bottom hide-last-child"> <a class="btn follow-btn font-bold follow-btn-sm follow-btn-dark no-wrap no-overflow text-overflow-ellipsis" href="https://twitter.com/phillydotcom" target="_blank"> <i class="fa fa-twitter spaced"></i> <span class="uppercase">twitter</span> </a> <span class="vertical-divider vertical-divider-dark spaced hideable-element"></span> <a class="btn follow-btn font-bold follow-btn-sm follow-btn-dark no-wrap no-overflow text-overflow-ellipsis" href="https://facebook.com/phillydotcom" target="_blank"> <i class="fa fa-facebook spaced"></i> <span class="uppercase">facebook</span> </a> <span class="vertical-divider vertical-divider-dark spaced hideable-element"></span> <a class="btn follow-btn font-bold follow-btn-sm follow-btn-dark no-wrap no-overflow text-overflow-ellipsis" href="https://www.instagram.com/phillydotcom" target="_blank"> <i class="fa fa-instagram spaced"></i> <span class="uppercase">instagram</span> </a> <span class="vertical-divider vertical-divider-dark spaced hideable-element"></span> </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="footer-grid-container">
+                     <div class="footer-inner-grid-container">
+                        <div class="footer-links justify-center">
+                           <div class="footer-container footer-links-inner" tabindex="0">
+                              <div class="container-column hidden-desktop">
+                                 <div class="links-headline uppercase spaced spaced-bottom spaced-top spaced-sm">News & Info</div>
+                                 <ul class="list-unstyled container-row wrap spaced spaced-bottom spaced-md list-unstyled">
+                                    <li class=""> <a href="https://www.philly.com/news/" data-pb-url-field="custom.textURL_0_1111" data-pb-field="custom.text_0_1111" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">News</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/sports/" data-pb-url-field="custom.textURL_1_1111" data-pb-field="custom.text_1_1111" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Sports</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/entertainment/" data-pb-url-field="custom.textURL_2_1111" data-pb-field="custom.text_2_1111" data-pb-field-type="text" data-pb-placeholder="Link #3"data-link-type='footer' class="color-white footer-link">Entertainment</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/business/" data-pb-url-field="custom.textURL_3_1111" data-pb-field="custom.text_3_1111" data-pb-field-type="text" data-pb-placeholder="Link #4"data-link-type='footer' class="color-white footer-link">Business</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/health/" data-pb-url-field="custom.textURL_4_1111" data-pb-field="custom.text_4_1111" data-pb-field-type="text" data-pb-placeholder="Link #5"data-link-type='footer' class="color-white footer-link">Health</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/food/" data-pb-url-field="custom.textURL_5_1111" data-pb-field="custom.text_5_1111" data-pb-field-type="text" data-pb-placeholder="Link #6"data-link-type='footer' class="color-white footer-link">Food</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/life/" data-pb-url-field="custom.textURL_6_1111" data-pb-field="custom.text_6_1111" data-pb-field-type="text" data-pb-placeholder="Link #7"data-link-type='footer' class="color-white footer-link">Life</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/opinion/" data-pb-url-field="custom.textURL_7_1111" data-pb-field="custom.text_7_1111" data-pb-field-type="text" data-pb-placeholder="Link #8"data-link-type='footer' class="color-white footer-link">Opinion</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/archives/" data-pb-url-field="custom.textURL_8_1111" data-pb-field="custom.text_8_1111" data-pb-field-type="text" data-pb-placeholder="Link #9"data-link-type='footer' class="color-white footer-link">Archives</a> </li>
+                                 </ul>
+                                 <div class="links-headline uppercase spaced spaced-bottom spaced-top spaced-sm">About Us</div>
+                                 <ul class="list-unstyled container-row wrap spaced spaced-bottom spaced-md list-unstyled">
+                                    <li class=""> <a href="https://www.philly.com/about/" data-pb-url-field="custom.textURL_0_4444" data-pb-field="custom.text_0_4444" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">About Philly.com</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://inquirersolutions.com" data-pb-url-field="custom.textURL_1_4444" data-pb-field="custom.text_1_4444" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Advertise</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/contact-us/" data-pb-url-field="custom.textURL_2_4444" data-pb-field="custom.text_2_4444" data-pb-field-type="text" data-pb-placeholder="Link #3"data-link-type='footer' class="color-white footer-link">Contact Us</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://olt.theygsgroup.com/philly/" data-pb-url-field="custom.textURL_3_4444" data-pb-field="custom.text_3_4444" data-pb-field-type="text" data-pb-placeholder="Link #4"data-link-type='footer' class="color-white footer-link">Licensing & Permissions</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://store.philly.com/collections/custom/products/custom-photo-reprint" data-pb-url-field="custom.textURL_4_4444" data-pb-field="custom.text_4_4444" data-pb-field-type="text" data-pb-placeholder="Link #5"data-link-type='footer' class="color-white footer-link">Photo Reprints</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://nie.philly.com/" data-pb-url-field="custom.textURL_5_4444" data-pb-field="custom.text_5_4444" data-pb-field-type="text" data-pb-placeholder="Link #6"data-link-type='footer' class="color-white footer-link">Newspapers in Education</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://data.inquirer.com/jobs/" data-pb-url-field="custom.textURL_6_4444" data-pb-field="custom.text_6_4444" data-pb-field-type="text" data-pb-placeholder="Link #7"data-link-type='footer' class="color-white footer-link">Jobs & Internships</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/special-reports/" data-pb-url-field="custom.textURL_7_4444" data-pb-field="custom.text_7_4444" data-pb-field-type="text" data-pb-placeholder="Link #8"data-link-type='footer' class="color-white footer-link">Special Reports</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/acel_moore/" data-pb-url-field="custom.textURL_8_4444" data-pb-field="custom.text_8_4444" data-pb-field-type="text" data-pb-placeholder="Link #9"data-link-type='footer' class="color-white footer-link">Acel Moore Workshops</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://www.philly.com/about/newsroom-staff-beats-list.html" data-pb-url-field="custom.textURL_9_4444" data-pb-field="custom.text_9_4444" data-pb-field-type="text" data-pb-placeholder="Link #10"data-link-type='footer' class="color-white footer-link">Newsroom Staff</a> </li>
+                                 </ul>
+                                 <div class="links-headline uppercase spaced spaced-bottom spaced-top spaced-sm">Marketplace</div>
+                                 <ul class="list-unstyled container-row wrap spaced spaced-bottom spaced-md list-unstyled">
+                                    <li class=""> <a href="https://store.philly.com/" data-pb-url-field="custom.textURL_0_2222" data-pb-field="custom.text_0_2222" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">Inquirer Store</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://marketplace.philly.com/philadelphia/real-estate-for-sale/search" data-pb-url-field="custom.textURL_1_2222" data-pb-field="custom.text_1_2222" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Find a Home</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://jobs.local-jobs.monster.com/search?q=ch=pinq/" data-pb-url-field="custom.textURL_2_2222" data-pb-field="custom.text_2_2222" data-pb-field-type="text" data-pb-placeholder="Link #3"data-link-type='footer' class="color-white footer-link">Job Listings</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://specialsections.philly.com/philly-inquirer/special-sections" data-pb-url-field="custom.textURL_3_2222" data-pb-field="custom.text_3_2222" data-pb-field-type="text" data-pb-placeholder="Link #4"data-link-type='footer' class="color-white footer-link">Special Sections</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="http://marketplace.philly.com/" data-pb-url-field="custom.textURL_4_2222" data-pb-field="custom.text_4_2222" data-pb-field-type="text" data-pb-placeholder="Link #5"data-link-type='footer' class="color-white footer-link">All Classifieds</a> </li>
+                                 </ul>
+                                 <div class="links-headline uppercase spaced spaced-bottom spaced-top spaced-sm">Mobile Apps</div>
+                                 <ul class="list-unstyled container-row wrap spaced spaced-bottom spaced-md list-unstyled">
+                                    <li class=""> <a href="https://itunes.apple.com/app/apple-store/id577251728?pt=549215&ct=Philly.com%20Footer&mt=8" data-pb-url-field="custom.textURL_0_3333" data-pb-field="custom.text_0_3333" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">Philly News</a> </li>
+                                    <li class="color-white spaced spaced-right spaced-left spaced-sm">/</li>
+                                    <li class=""> <a href="https://itunes.apple.com/app/apple-store/id970040558?pt=549215&ct=philly.com%20footer&mt=8" data-pb-url-field="custom.textURL_1_3333" data-pb-field="custom.text_1_3333" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Philly Sports Now</a> </li>
+                                 </ul>
+                              </div>
+                              <div class="container-row hidden-mobile hidden-tablet">
+                                 <div class="container-column flex spaced spaced-right spaced-xl">
+                                    <div class="links-headline uppercase spaced spaced-bottom spaced-sm">News & Info</div>
+                                    <ul class="list-unstyled container-column spaced spaced-bottom spaced-md list-unstyled">
+                                       <li class=""> <a href="https://www.philly.com/news/" data-pb-url-field="custom.textURL_0_1111" data-pb-field="custom.text_0_1111" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">News</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/sports/" data-pb-url-field="custom.textURL_1_1111" data-pb-field="custom.text_1_1111" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Sports</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/entertainment/" data-pb-url-field="custom.textURL_2_1111" data-pb-field="custom.text_2_1111" data-pb-field-type="text" data-pb-placeholder="Link #3"data-link-type='footer' class="color-white footer-link">Entertainment</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/business/" data-pb-url-field="custom.textURL_3_1111" data-pb-field="custom.text_3_1111" data-pb-field-type="text" data-pb-placeholder="Link #4"data-link-type='footer' class="color-white footer-link">Business</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/health/" data-pb-url-field="custom.textURL_4_1111" data-pb-field="custom.text_4_1111" data-pb-field-type="text" data-pb-placeholder="Link #5"data-link-type='footer' class="color-white footer-link">Health</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/food/" data-pb-url-field="custom.textURL_5_1111" data-pb-field="custom.text_5_1111" data-pb-field-type="text" data-pb-placeholder="Link #6"data-link-type='footer' class="color-white footer-link">Food</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/life/" data-pb-url-field="custom.textURL_6_1111" data-pb-field="custom.text_6_1111" data-pb-field-type="text" data-pb-placeholder="Link #7"data-link-type='footer' class="color-white footer-link">Life</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/opinion/" data-pb-url-field="custom.textURL_7_1111" data-pb-field="custom.text_7_1111" data-pb-field-type="text" data-pb-placeholder="Link #8"data-link-type='footer' class="color-white footer-link">Opinion</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/archives/" data-pb-url-field="custom.textURL_8_1111" data-pb-field="custom.text_8_1111" data-pb-field-type="text" data-pb-placeholder="Link #9"data-link-type='footer' class="color-white footer-link">Archives</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div class="container-column flex spaced spaced-right spaced-xl">
+                                    <div class="links-headline uppercase spaced spaced-bottom spaced-sm">Marketplace</div>
+                                    <ul class="list-unstyled container-column spaced spaced-bottom spaced-md list-unstyled">
+                                       <li class=""> <a href="https://store.philly.com/" data-pb-url-field="custom.textURL_0_2222" data-pb-field="custom.text_0_2222" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">Inquirer Store</a> </li>
+                                       <li class=""> <a href="http://marketplace.philly.com/philadelphia/real-estate-for-sale/search" data-pb-url-field="custom.textURL_1_2222" data-pb-field="custom.text_1_2222" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Find a Home</a> </li>
+                                       <li class=""> <a href="https://jobs.local-jobs.monster.com/search?q=ch=pinq/" data-pb-url-field="custom.textURL_2_2222" data-pb-field="custom.text_2_2222" data-pb-field-type="text" data-pb-placeholder="Link #3"data-link-type='footer' class="color-white footer-link">Job Listings</a> </li>
+                                       <li class=""> <a href="http://specialsections.philly.com/philly-inquirer/special-sections" data-pb-url-field="custom.textURL_3_2222" data-pb-field="custom.text_3_2222" data-pb-field-type="text" data-pb-placeholder="Link #4"data-link-type='footer' class="color-white footer-link">Special Sections</a> </li>
+                                       <li class=""> <a href="http://marketplace.philly.com/" data-pb-url-field="custom.textURL_4_2222" data-pb-field="custom.text_4_2222" data-pb-field-type="text" data-pb-placeholder="Link #5"data-link-type='footer' class="color-white footer-link">All Classifieds</a> </li>
+                                    </ul>
+                                    <div class="container-column flex spaced spaced-right spaced-xl">
+                                       <div class="links-headline uppercase spaced spaced-bottom spaced-sm">Mobile Apps</div>
+                                       <ul class="list-unstyled container-column spaced spaced-bottom spaced-md list-unstyled">
+                                          <li class=""> <a href="https://itunes.apple.com/app/apple-store/id577251728?pt=549215&ct=Philly.com%20Footer&mt=8" data-pb-url-field="custom.textURL_0_3333" data-pb-field="custom.text_0_3333" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">Philly News</a> </li>
+                                          <li class=""> <a href="https://itunes.apple.com/app/apple-store/id970040558?pt=549215&ct=philly.com%20footer&mt=8" data-pb-url-field="custom.textURL_1_3333" data-pb-field="custom.text_1_3333" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Philly Sports Now</a> </li>
+                                       </ul>
+                                    </div>
+                                 </div>
+                                 <div class="container-column flex spaced spaced-right spaced-xl">
+                                    <div class="links-headline uppercase spaced spaced-bottom spaced-sm">About Us</div>
+                                    <ul class="list-unstyled container-column spaced spaced-bottom spaced-md list-unstyled">
+                                       <li class=""> <a href="https://www.philly.com/about/" data-pb-url-field="custom.textURL_0_4444" data-pb-field="custom.text_0_4444" data-pb-field-type="text" data-pb-placeholder="Link #1"data-link-type='footer' class="color-white footer-link">About Philly.com</a> </li>
+                                       <li class=""> <a href="http://inquirersolutions.com" data-pb-url-field="custom.textURL_1_4444" data-pb-field="custom.text_1_4444" data-pb-field-type="text" data-pb-placeholder="Link #2"data-link-type='footer' class="color-white footer-link">Advertise</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/contact-us/" data-pb-url-field="custom.textURL_2_4444" data-pb-field="custom.text_2_4444" data-pb-field-type="text" data-pb-placeholder="Link #3"data-link-type='footer' class="color-white footer-link">Contact Us</a> </li>
+                                       <li class=""> <a href="http://olt.theygsgroup.com/philly/" data-pb-url-field="custom.textURL_3_4444" data-pb-field="custom.text_3_4444" data-pb-field-type="text" data-pb-placeholder="Link #4"data-link-type='footer' class="color-white footer-link">Licensing & Permissions</a> </li>
+                                       <li class=""> <a href="https://store.philly.com/collections/custom/products/custom-photo-reprint" data-pb-url-field="custom.textURL_4_4444" data-pb-field="custom.text_4_4444" data-pb-field-type="text" data-pb-placeholder="Link #5"data-link-type='footer' class="color-white footer-link">Photo Reprints</a> </li>
+                                       <li class=""> <a href="http://nie.philly.com/" data-pb-url-field="custom.textURL_5_4444" data-pb-field="custom.text_5_4444" data-pb-field-type="text" data-pb-placeholder="Link #6"data-link-type='footer' class="color-white footer-link">Newspapers in Education</a> </li>
+                                       <li class=""> <a href="http://data.inquirer.com/jobs/" data-pb-url-field="custom.textURL_6_4444" data-pb-field="custom.text_6_4444" data-pb-field-type="text" data-pb-placeholder="Link #7"data-link-type='footer' class="color-white footer-link">Jobs & Internships</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/special-reports/" data-pb-url-field="custom.textURL_7_4444" data-pb-field="custom.text_7_4444" data-pb-field-type="text" data-pb-placeholder="Link #8"data-link-type='footer' class="color-white footer-link">Special Reports</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/acel_moore/" data-pb-url-field="custom.textURL_8_4444" data-pb-field="custom.text_8_4444" data-pb-field-type="text" data-pb-placeholder="Link #9"data-link-type='footer' class="color-white footer-link">Acel Moore Workshops</a> </li>
+                                       <li class=""> <a href="https://www.philly.com/about/newsroom-staff-beats-list.html" data-pb-url-field="custom.textURL_9_4444" data-pb-field="custom.text_9_4444" data-pb-field-type="text" data-pb-placeholder="Link #10"data-link-type='footer' class="color-white footer-link">Newsroom Staff</a> </li>
+                                    </ul>
+                                 </div>
+                                 <div class="hidden-mobile container-row justify-space-between align-items-start flex-2 list-unstyled spaced spaced-left spaced-xl">
+                                    <div class="inquirer container-column card card-content card-content-no-top-gutter card-content-no-gutter spaced spaced-lg spaced-right">
+                                       <div class="branding relative card-media">
+                                          <a href="https://myaccount.philly.com/access.aspx?product=eEdition_inq">
+                                             <div class="img-gradient"></div>
+                                             <div style="height:150px;width:150px;background: url(http://media.philly.com/storage/inquirer/covers/inqFrontPage.jpg) center center; background-size: cover"></div>
+                                          </a>
+                                       </div>
+                                       <ul class="partner-links container-column list-unstyled">
+                                          <div class="partner-title color-white uppercase spaced spaced-bottom spaced-top spaced-sm">The Inquirer</div>
+                                          <a data-link-type='footer' href="http://inquirer.com/replica/" data-link-type="footer" data-pb-field="custom.inquirerPartnerLinkText_0" data-pb-url-field="custom.inquirerPartnerLinkUrl_0" data-pb-field-type="text" data-pb-placeholder="" class="color-white footer-link">
+                                             <li class="color-white footer-link">Digital Edition</li>
+                                          </a>
+                                          <a data-link-type='footer' href="https://checkout.philly.com/homepagefooter_inquirer_subscribe?utm_source=philly.com&utm_medium=homepage&utm_campaign=homepagefooter_inquirersubscribe_link" data-link-type="footer" data-pb-field="custom.inquirerPartnerLinkText_1" data-pb-url-field="custom.inquirerPartnerLinkUrl_1" data-pb-field-type="text" data-pb-placeholder="" class="color-white footer-link">
+                                             <li class="color-white footer-link">Subscribe</li>
+                                          </a>
+                                          <a data-link-type='footer' href="https://myaccount.phillynews.com/index.aspx" data-link-type="footer" data-pb-field="custom.inquirerPartnerLinkText_2" data-pb-url-field="custom.inquirerPartnerLinkUrl_2" data-pb-field-type="text" data-pb-placeholder="" class="color-white footer-link">
+                                             <li class="color-white footer-link">Subscriber Services</li>
+                                          </a>
+                                       </ul>
+                                    </div>
+                                    <div class="daily-news container-column card card-content card-content-no-top-gutter card-content-no-gutter">
+                                       <div class="branding relative card-media">
+                                          <a href="https://myaccount.philly.com/access.aspx?product=eEdition_dn">
+                                             <div class="img-gradient"></div>
+                                             <div style="height:150px;width:150px;background: url(http://media.philly.com/storage/dailynews/covers/front.jpg) center center; background-size: cover"></div>
+                                          </a>
+                                       </div>
+                                       <ul class="partner-links container-column list-unstyled">
+                                          <div class="partner-title color-white uppercase spaced spaced-bottom spaced-top spaced-sm">The Daily News</div>
+                                          <a data-link-type='footer' href="http://www.phillydailynews.com/replica/" data-link-type="footer" data-pb-field="custom.dailyNewsPartnerLinkText_0" data-pb-url-field="custom.dailyNewsPartnerLinkUrl_0" data-pb-field-type="text" data-pb-placeholder="" class="color-white footer-link">
+                                             <li class="color-white footer-link">Digital Edition</li>
+                                          </a>
+                                          <a data-link-type='footer' href="https://checkout.philly.com/homepagefooter_dailynews_subscribe?utm_source=philly.com&utm_medium=homepage&utm_campaign=homepagefooter_dailynewssubscribe_link" data-link-type="footer" data-pb-field="custom.dailyNewsPartnerLinkText_1" data-pb-url-field="custom.dailyNewsPartnerLinkUrl_1" data-pb-field-type="text" data-pb-placeholder="" class="color-white footer-link">
+                                             <li class="color-white footer-link">Subscribe</li>
+                                          </a>
+                                          <a data-link-type='footer' href="https://myaccount.phillynews.com/index.aspx" data-link-type="footer" data-pb-field="custom.dailyNewsPartnerLinkText_2" data-pb-url-field="custom.dailyNewsPartnerLinkUrl_2" data-pb-field-type="text" data-pb-placeholder="" class="color-white footer-link">
+                                             <li class="color-white footer-link">Subscriber Services</li>
+                                          </a>
+                                       </ul>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="partners hidden-desktop">
+                              <div class="container-row justify-space-evenly align-items-start list-unstyled spaced spaced-bottom spaced-top spaced-xl">
+                                 <div class="inquirer card card-content card-content-no-top-gutter card-content-no-gutter flex spaced spaced-lg spaced-right">
+                                    <div class="relative card-media">
+                                       <a href="https://myaccount.philly.com/access.aspx?product=eEdition_inq">
+                                          <div class="img-gradient full-width"></div>
+                                          <div class="full-width" itemprop="image" style="height:110px;width:110px;background: url(http://media.philly.com/storage/inquirer/covers/inqFrontPage.jpg) center center; background-size: cover"></div>
+                                       </a>
+                                    </div>
+                                    <ul class="partner-links container-column list-unstyled">
+                                       <div class="partner-title color-white uppercase spaced spaced-bottom spaced-top spaced-sm">The Inquirer</div>
+                                       <a data-link-type='footer' href="http://inquirer.com/replica/" data-link-type="footer" data-pb-field="custom.inquirerPartnerLinkText_0" data-pb-url-field="custom.inquirerPartnerLinkUrl_0" data-pb-field-type="text" data-pb-placeholder="">
+                                          <li class="color-white footer-link">Digital Edition</li>
+                                       </a>
+                                       <a data-link-type='footer' href="https://checkout.philly.com/homepagefooter_inquirer_subscribe?utm_source=philly.com&utm_medium=homepage&utm_campaign=homepagefooter_inquirersubscribe_link" data-link-type="footer" data-pb-field="custom.inquirerPartnerLinkText_1" data-pb-url-field="custom.inquirerPartnerLinkUrl_1" data-pb-field-type="text" data-pb-placeholder="">
+                                          <li class="color-white footer-link">Subscribe</li>
+                                       </a>
+                                       <a data-link-type='footer' href="https://myaccount.phillynews.com/index.aspx" data-link-type="footer" data-pb-field="custom.inquirerPartnerLinkText_2" data-pb-url-field="custom.inquirerPartnerLinkUrl_2" data-pb-field-type="text" data-pb-placeholder="">
+                                          <li class="color-white footer-link">Subscriber Services</li>
+                                       </a>
+                                    </ul>
+                                 </div>
+                                 <div class="daily-news card card-content card-content-no-top-gutter card-content-no-gutter flex spaced spaced-lg spaced-left">
+                                    <div class="relative card-media">
+                                       <a href="https://myaccount.philly.com/access.aspx?product=eEdition_dn">
+                                          <div class="img-gradient full-width"></div>
+                                          <div class="full-width" itemprop="image" style="height:110px;width:110px;background: url(http://media.philly.com/storage/dailynews/covers/front.jpg) center center; background-size: cover"></div>
+                                       </a>
+                                    </div>
+                                    <ul class="partner-links container-column list-unstyled">
+                                       <div class="partner-title color-white uppercase spaced spaced-bottom spaced-top spaced-sm">The Daily News</div>
+                                       <a data-link-type='footer' href="http://www.phillydailynews.com/replica/" data-link-type="footer" data-pb-field="custom.dailyNewsPartnerLinkText_0" data-pb-url-field="custom.dailyNewsPartnerLinkUrl_0" data-pb-field-type="text" data-pb-placeholder="">
+                                          <li class="color-white footer-link">Digital Edition</li>
+                                       </a>
+                                       <a data-link-type='footer' href="https://checkout.philly.com/homepagefooter_dailynews_subscribe?utm_source=philly.com&utm_medium=homepage&utm_campaign=homepagefooter_dailynewssubscribe_link" data-link-type="footer" data-pb-field="custom.dailyNewsPartnerLinkText_1" data-pb-url-field="custom.dailyNewsPartnerLinkUrl_1" data-pb-field-type="text" data-pb-placeholder="">
+                                          <li class="color-white footer-link">Subscribe</li>
+                                       </a>
+                                       <a data-link-type='footer' href="https://myaccount.phillynews.com/index.aspx" data-link-type="footer" data-pb-field="custom.dailyNewsPartnerLinkText_2" data-pb-url-field="custom.dailyNewsPartnerLinkUrl_2" data-pb-field-type="text" data-pb-placeholder="">
+                                          <li class="color-white footer-link">Subscriber Services</li>
+                                       </a>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="copyright-container">
+                        <div class="footer-container flex container-column align-items-left justify-center hidden-mobile hidden-tablet">
+                           <p class="footer-copyright align-center color-white width-100 font-semi-bold spaced spaced-top spaced-sm"> <a href="https://www.philly.com/about/copyright/" class="color-white font-bold">&copy; Copyright</a> 2019, Philadelphia Media Network (Newspapers), LLC <a href="https://www.philly.com/about/terms_and_conditions/" class="color-white spaced spaced-right spaced-left spaced-sm font-bold">Terms of Use</a>/<a href="https://www.philly.com/privacy-policy" class="color-white spaced spaced-left spaced-sm font-bold">Privacy Policy</a> </p>
+                        </div>
+                     </div>
+                     <div class="copyright-container flex container-column align-items-center justify-center hidden-desktop">
+                        <div class="padded padded-sm padded-full spaced spaced-top spaced-md hidden-desktop">
+                           <a data-link-type='footer' aria-label="Visit homepage" href="http://www.philly.com" data-link-type="footer">
+                              <div class="logo-philly logo-inverted logo-stacked logo-lg"></div>
+                           </a>
+                        </div>
+                        <p class="footer-copyright align-center color-white width-100 font-semi-bold spaced spaced-top spaced-sm"> <a href="https://www.philly.com/about/copyright/" class="color-white font-bold">&copy; Copyright</a> 2019, Philadelphia Media Network (Newspapers), LLC <a href="https://www.philly.com/about/terms_and_conditions/" class="color-white spaced spaced-right spaced-left spaced-sm font-bold">Terms of Use</a>/<a href="https://www.philly.com/privacy-policy" class="color-white spaced spaced-left spaced-sm font-bold">Privacy Policy</a> </p>
+                     </div>
+                  </div>
+            </footer>
+            </div> 
+            <div class="pb-container"> </div>
+      </section>
+      </div> <script async src='https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12'></script>
+      <script async src='https://www.philly.com/pb/gr/p/default/r0ePT8efXwCpmr/render.js?v=85'></script>
+      <style>
+         .btn .icon-x{
+            display: inline-block;
+         }
+      </style>
+      <script>
+        /* Date */
+        var weeksNames = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+        var monthNames = [
+          "January", "February", "March",
+          "April", "May", "June", "July",
+          "August", "September", "October",
+          "November", "December"
+        ];
+        var date = new Date();
+        var day = date.getDate();
+        var monthIndex = date.getMonth();
+        var year = date.getFullYear();
+        var dayWeek = date.getDay();
+        document.getElementById('output-date').innerHTML =
+        weeksNames[dayWeek]+', '+monthNames[monthIndex]+' '+day+', '+year;
+        /* Search */
+        function goToSearch(input) {
+          var searchText = document.getElementById(input).value,
+              searchValue = searchText.replace(/[^'\w=!.,+-:;*&$@~()]+/g, '+'),
+              searchKeywords = encodeURIComponent(searchText);
+           window.location = 'https://philly.com/search/'+searchValue+'/score/?searchKeywords='+searchKeywords;
+        }
+        document.getElementById('appbar-search-inp').addEventListener('keypress', (event) => {
+          if (event.key === 'Enter') {
+            goToSearch('appbar-search-inp');
+          }
+        });
+        document.getElementById('mobile-tray-search-inp').addEventListener('keypress', (event) => {
+          if (event.key === 'Enter') {
+            goToSearch('mobile-tray-search-inp');
+          }
+        });
+        document.getElementById('mobile-tray-search-btn').addEventListener('click', function(){
+            goToSearch('mobile-tray-search-inp');
+        });
+        document.addEventListener('click', (event) => {
+            var hasExpand = document.getElementById('appbar-search-inp').parentElement.classList.contains('expand'),
+                hasTarget = event.target.id == 'appbar-search-btn' || event.target.id == 'appbar-search-inp';
+                if(hasExpand && !hasTarget)
+                  document.getElementById('appbar-search-inp').parentElement.classList.remove('expand')
+        });
+        document.getElementById('appbar-search-btn').addEventListener('click', function(){
+          if (document.getElementById('appbar-search-inp').value) {
+            goToSearch('appbar-search-inp');
+          } else {
+            document.getElementById('appbar-search-inp').parentElement.classList.toggle('expand')
+          }
+        });
+        window.addEventListener('keydown', (event) => {
+          if (event.key === 'Escape' || event.key === 'Esc') {
+            document.getElementById('appbar-search-inp').value = '';
+            document.getElementById('appbar-search-inp').parentElement.classList.remove('expand')
+          }
+        });
+      </script>
+   </body>
+</html>

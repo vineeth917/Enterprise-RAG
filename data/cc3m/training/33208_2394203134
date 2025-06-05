@@ -1,0 +1,413 @@
+<!doctype html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+
+    
+    <!-- Site Info -->
+            <title>A media company with a difference | Newsquest Media Group</title>
+    
+        <meta name="description" content="We are a media company with a difference. We are committed to bringing a voice to your region.">
+    
+        <meta name="keywords" content="media, newsquest">
+    
+    
+    <!-- Site OG Info -->
+        <meta property="og:title" content="A media company with a difference | Newsquest Media Group"/>
+    
+        <meta property="og:description" content="We are a media company with a difference. We are committed to bringing a voice to your region.>"/>
+    
+                    <meta property="og:image" content="https://www.newsquest.co.uk//assets/images/general/Newquest-OG2019.png" />
+    
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.newsquest.co.uk/"/>
+    <meta property="og:site_name" content="Newsquest Media Group" />
+
+    <!-- Site wide stylesheets -->
+                <!-- Adobe Launch -->
+    <script src="//assets.adobedtm.com/499440d21de9/2dc7e4785554/launch-ee9888aebfbc.min.js" async></script>
+    <!-- Touch icons & Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/x-icon" href="/assets/images/icons/favicon.ico">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.newsquest.co.uk/" />
+
+<link href="/assets/css/style.css" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></head>
+
+
+
+
+<body class="page-index">
+    <section class="navigation">
+        <div class="grid wrap flex align">
+            <div class="logo-container col-9 md-col-12 lg-col-3">
+                <a href="/"><img src="/assets/images/logos/_400xAUTO_fit_center-center_none/Light-Logo.png" class="logo" alt="Newsquest Media Group logo"/></a>
+            </div>
+            <div class="col-3 md-col-12 lg-col-9">
+                <div class="nav" id="nav">
+                    <ul>
+                        <li><a href="/" >Home</a></li>
+                                                    <li><a href="/about-us" >About Us</a>
+                                                                                                    <ul class="toggle">
+                                        <div class="desktop">
+                                            <div class="grid wrap right-align">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </div>
+                                        <div class="mobile">
+                                                                                                                                            <li><a href="/leadership" >Leadership</a></li>
+                                                                                                                                            <li><a href="/contact-us" >Contact Us</a></li>
+                                                                                    </div>
+                                    </ul>
+                                                            </li>
+                                                    <li><a href="/our-solutions" >Our Solutions</a>
+                                                                                                    <ul class="toggle">
+                                        <div class="desktop">
+                                            <div class="grid wrap right-align">
+                                                                                            </div>
+                                        </div>
+                                        <div class="mobile">
+                                                                                    </div>
+                                    </ul>
+                                                            </li>
+                                                    <li><a href="/publishing" >Publishing</a>
+                                                                                                    <ul class="toggle">
+                                        <div class="desktop">
+                                            <div class="grid wrap right-align">
+                                                                                                                                                                                                                                                                                                            </div>
+                                        </div>
+                                        <div class="mobile">
+                                                                                                                                            <li><a href="/news-brands" >News Brands</a></li>
+                                                                                    </div>
+                                    </ul>
+                                                            </li>
+                                                    <li><a href="/careers" >Careers</a>
+                                                                                                    <ul class="toggle">
+                                        <div class="desktop">
+                                            <div class="grid wrap right-align">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </div>
+                                        <div class="mobile">
+                                                                                                                                            <li><a href="/sales-academy" >Sales Academy</a></li>
+                                                                                                                                            <li><a href="/our-people" >Our People</a></li>
+                                                                                                                                            <li><a href="/editorial-training" >Editorial Training</a></li>
+                                                                                    </div>
+                                    </ul>
+                                                            </li>
+                                                    <li><a href="/news" >News</a>
+                                                                                                    <ul class="toggle">
+                                        <div class="desktop">
+                                            <div class="grid wrap right-align">
+                                                                                            </div>
+                                        </div>
+                                        <div class="mobile">
+                                                                                    </div>
+                                    </ul>
+                                                            </li>
+                                                                                                        <li class="special"><a href="https://localiq.co.uk/" class="nav-logo" target="_blank"><img src="/assets/images/logos/_120xAUTO_fit_center-center_none/LOCALiQ_Logo_Prm_Wht_RGB_300.png" alt="LOCA Li Q Logo Prm Wht RGB 300"/></a></li>
+                                            </ul>
+                </div>
+                <button class="hamburger hamburger--stand toggle" type="button" id="navToggle" href="#">
+                    <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                    </span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    
+<section class="main">
+    
+
+                    
+                <div class="fluid-container light" id="container-1">
+
+                        <picture class="picture-container desktop">
+                <source media="(min-width: 768px)" srcset="/assets/images/general/_1800xAUTO_fit_center-center_none/GettyImages-646440174.jpg">
+                <source media="(min-width: 420px)" srcset="/assets/images/general/_400xAUTO_fit_center-center_none/GettyImages-646440174.jpg">
+                <img src="/assets/images/general/_2200xAUTO_fit_center-center_none/GettyImages-646440174.jpg" class="picture" alt="Getty Images 646440174">
+            </picture>
+
+            <div class="overlay tertiary-left-gradient">
+
+                <div class="wrap flex align">
+                    <div class="container grid">
+                                                <div class="content col-12 md-col-6 xl-col-4 align-left">
+                            
+                            <h2>A media company with a difference</h2>
+                                                            <p>We are a media company with a difference. We are committed to bringing a voice to your region by investing in a passionate team of journalists who proudly serve their communities by sharing authoritative news that readers trust. Our sales teams provide local businesses with highly responsive digital advertising and marketing solutions.</p>
+                            
+                                                                                                                                                                                    <a href="https://www.newsquest.co.uk/about-us" class="button secondary">Learn More</a>
+                                                                                                                                                                </div>
+                    </div>
+                </div>
+            </div>
+
+                            <div class="control-btn-container">
+                    <a href="#container-2" class="control-btn"><img src="/assets/images/arrow-down.png" /></a>
+                </div>
+                    </div>
+                    <div class="fluid-container " id="container-2">
+
+                        <picture class="picture-container desktop">
+                <source media="(min-width: 768px)" srcset="/assets/images/general/_1800xAUTO_fit_center-center_none/liq-AboutUs-Header.jpg">
+                <source media="(min-width: 420px)" srcset="/assets/images/general/_400xAUTO_fit_center-center_none/liq-AboutUs-Header.jpg">
+                <img src="/assets/images/general/_2200xAUTO_fit_center-center_none/liq-AboutUs-Header.jpg" class="picture" alt="Liq About Us Header">
+            </picture>
+
+            <div class="overlay primary-right-gradient">
+
+                <div class="wrap flex align">
+                    <div class="container grid">
+                                                    <div class="col-12 md-col-6 xl-col-8">&nbsp;</div>
+                                                <div class="content col-12 md-col-6 xl-col-4 align-right">
+                                                                                            <img src="/assets/images/logos/_150xAUTO_fit_center-center_none/LOCALiQ_Logo_Prm_Wht_RGB_300_noUSAT.png" class="block-logo" alt="LOCA Li Q Logo Prm Wht RGB 300 no USAT">
+                            
+                            <h2>No.1 Provider of Digital Marketing Services for SMEs</h2>
+                                                            <p>LOCALiQ simplifies local marketing for businesses helping them grow through data-driven decisions.</p>
+                            
+                                                                                                                                                                                    <a href="https://localiq.co.uk" target="_blank" class="button secondary">learn more</a>
+                                                                                                                                                                </div>
+                    </div>
+                </div>
+            </div>
+
+                            <div class="control-btn-container">
+                    <a href="#container-3" class="control-btn"><img src="/assets/images/arrow-down.png" /></a>
+                </div>
+                    </div>
+                    <div class="fluid-container " id="container-3">
+
+                        
+            <picture class="picture-container">
+                <source media="(min-width: 768px)" srcset="/assets/images/general/_1800xAUTO_fit_center-center_none/GettyImages-628219634.jpg">
+                <source media="(min-width: 420px)" srcset="/assets/images/general/_400xAUTO_fit_center-center_none/GettyImages-628219634.jpg">
+                <img src="/assets/images/general/_2200xAUTO_fit_center-center_none/GettyImages-628219634.jpg" class="picture" alt="Getty Images 628219634">
+
+                <div class="mobile height100">
+                    <div class="grid wrapper content">
+                        <div class="heightflex">
+                            &nbsp;                        </div>
+                    </div>
+                </div>
+            </picture>
+
+            <div class="overlay mobile-full tertiary-center-gradient">
+                                                                                                                            
+                <div class="wrap wrapper flex align justify">
+                    <div class="grid smaller-padding">
+                                                <div class="">
+                            <div class="content center small mobile-centered">
+                                <h2>Trusted Local Journalism</h2>
+                                <div class="short-text">
+                                                                            <p>Our Editors have complete editorial independence and are free to edit as they see fit and do so in the interests of the individual communities they represent.</p>
+                                                                    </div>
+
+                                <div class="grid">
+                                                                            <div class="figures col-4">
+                                            <div class="content figure center ">
+                                                <div class="figure-content">
+                                                    <div class="figure-flex">
+                                                        <div class="grid grid-flex">
+                                                                                                                    </div>
+                                                        <h3>250+</h3>
+                                                        <p>Local News Brands and Magazines</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="figures col-4">
+                                            <div class="content figure center ">
+                                                <div class="figure-content">
+                                                    <div class="figure-flex">
+                                                        <div class="grid grid-flex">
+                                                                                                                    </div>
+                                                        <h3>41m</h3>
+                                                        <p>Digital Users per Month</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="figures col-4">
+                                            <div class="content figure center ">
+                                                <div class="figure-content">
+                                                    <div class="figure-flex">
+                                                        <div class="grid grid-flex">
+                                                                                                                    </div>
+                                                        <h3>7m</h3>
+                                                        <p>Print Readers Per Week</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                    </div>
+
+                                                                                                                                                                                                        <a href="https://www.newsquest.co.uk/publishing" class="button secondary">Learn more</a>
+                                                                                                                                                                                    </div>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+
+                            <div class="control-btn-container">
+                    <a href="#container-4" class="control-btn"><img src="/assets/images/arrow-down.png" /></a>
+                </div>
+                    </div>
+                    <div class="fluid-container " id="container-4">
+
+                        <picture class="picture-container desktop">
+                <source media="(min-width: 768px)" srcset="/assets/images/general/_1800xAUTO_fit_center-center_none/adults-analysis-brainstorming-1661004.jpg">
+                <source media="(min-width: 420px)" srcset="/assets/images/general/_400xAUTO_fit_center-center_none/adults-analysis-brainstorming-1661004.jpg">
+                <img src="/assets/images/general/_2200xAUTO_fit_center-center_none/adults-analysis-brainstorming-1661004.jpg" class="picture" alt="Adults analysis brainstorming 1661004">
+            </picture>
+
+            <div class="overlay primary-left-gradient">
+
+                <div class="wrap flex align">
+                    <div class="container grid">
+                                                <div class="content col-12 md-col-6 xl-col-4 align-left">
+                            
+                            <h2>A Great Place To Develop Your Career</h2>
+                                                            <p>Newsquest is a great company to work for in an industry that is evolving rapidly. We employ the best journalists and sales teams and support them to develop their careers.</p>
+                            
+                                                                                                                                                                                    <a href="https://www.newsquest.co.uk/careers" class="button secondary">Work for Us</a>
+                                                                                                                                                                </div>
+                    </div>
+                </div>
+            </div>
+
+                            <div class="control-btn-container">
+                    <a href="#container-5" class="control-btn"><img src="/assets/images/arrow-down.png" /></a>
+                </div>
+                    </div>
+                    <div class="fluid-container auto" id="container-5">
+
+                                        
+                                    <picture class="picture-container fixed">
+                <source media="(min-width: 768px)" srcset="/assets/images/general/_1800xAUTO_fit_center-center_none/liq-OurSolution-phone-lady.jpg">
+                <source media="(min-width: 420px)" srcset="/assets/images/general/_400xAUTO_fit_center-center_none/liq-OurSolution-phone-lady.jpg">
+                <img src="/assets/images/general/_2200xAUTO_fit_center-center_none/liq-OurSolution-phone-lady.jpg" class="picture" alt="Liq Our Solution phone lady">
+                
+                <div class="overlay mixed-gradient">
+                    <div class="container">
+                        
+                        <div class="wrapper">
+                                                            <div class="content center small">
+                                    <h3>Latest News</h3>
+                                                                            <p>Newsquest doesn't just bring you the news, it often makes the news whether it's with innovative ways to modernise, upskill and transform our news rooms, launching award-winning magazines or delivering cutting edge advertising solutions.</p>
+                                                                    </div>
+                                                        <div class="content">
+                                <div class="grid">
+                                                                            <div class="news">
+                                                                                                                                        <div class="news-item extra-padding white col-12 sm-col-6 lg-col-3">
+                                                    <p class="date">February 10th, 2025</p>
+                                                    <h4>Newsquest Digital Engagement Reaches New High</h4>
+                                                    <a href="https://www.newsquest.co.uk/news/newsquest-digital-engagement-reaches-new-high" class="button absolute">Read More</a>
+                                                </div>
+                                                                                            <div class="news-item extra-padding white col-12 sm-col-6 lg-col-3">
+                                                    <p class="date">January 6th, 2025</p>
+                                                    <h4>Newsquest Announces £2.5 Million Support For Teenage Cancer Trust</h4>
+                                                    <a href="https://www.newsquest.co.uk/news/newsquest-announces-2-5-million-support-for-teenage-cancer-trust" class="button absolute">Read More</a>
+                                                </div>
+                                                                                            <div class="news-item extra-padding white col-12 sm-col-6 lg-col-3">
+                                                    <p class="date">December 6th, 2024</p>
+                                                    <h4>Local News Media Sector Announces Major New Development Phase For Public Notice Portal</h4>
+                                                    <a href="https://www.newsquest.co.uk/news/local-news-media-sector-announces-major-new-development-phase-for-public-notice-portal" class="button absolute">Read More</a>
+                                                </div>
+                                                                                            <div class="news-item extra-padding white col-12 sm-col-6 lg-col-3">
+                                                    <p class="date">November 26th, 2024</p>
+                                                    <h4>Newsquest Young Reporter Scheme Wins Prestigious Award</h4>
+                                                    <a href="https://www.newsquest.co.uk/news/newsquest-young-reporter-scheme-wins-prestigious-award" class="button absolute">Read More</a>
+                                                </div>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="content center">
+                                                                                                                                                                                                        <a href="https://www.newsquest.co.uk/news" class="button secondary">More news</a>
+                                                                                                                                                                                    </div>
+                        </div>
+                    </div>
+                </div>
+                </picture>                    </div>
+    </section>
+
+
+    <section class="footer" id="legal">
+        <div class="grid wrapper">
+            <div class="col-12 sm-col-12 md-col-6">
+                <div class="col-12 md-col-9">
+                    <img src="/assets/images/logos/_400xAUTO_fit_center-center_none/Light-Logo.png" class="footer-logo" alt="Newsquest Media Group logo"/>
+                    <p>We are a media company with a difference. We are committed to bringing a voice to your region.</p>
+                                            <br />
+                                                <a href="https://localiq.co.uk/" target="_blank" class="nav-logo"><img src="/assets/images/logos/_120xAUTO_fit_center-center_none/LOCALiQ_Logo_Prm_Wht_RGB_300.png" alt="LOCA Li Q Logo Prm Wht RGB 300"/></a>
+                                    </div>
+            </div>
+            <div class="col-12 sm-col-6 md-col-3">
+                <p class="heading">Our Businesses</p>
+                <ul class="navlist">
+                                            <li><a href="https://www.s1jobs.com/" target="_blank">s1jobs</a></li>
+                                            <li><a href="https://www.jobs24.co.uk" target="_blank">jobs24</a></li>
+                                            <li><a href="http://www.newsquestspecialistmedia.com/nsm/" target="_blank">Newsquest Specialist Media</a></li>
+                                            <li><a href="https://www.exchangeandmart.co.uk/" target="_blank">Exchange Enterprises</a></li>
+                                            <li><a href="http://www.newsquestprinting.co.uk/" target="_blank">Newsquest Contract Print</a></li>
+                                            <li><a href="https://www.zoominleaflets.co.uk/" target="_blank">Zoom In Leaflet Solutions</a></li>
+                                    </ul>
+            </div>
+            <div class="col-12 sm-col-6 md-col-3">
+                <p class="heading">Navigation</p>
+                <ul class="navlist">
+                                            <li><a href="/about-us">About Us</a></li>
+                                            <li><a href="/leadership">Leadership</a></li>
+                                            <li><a href="/contact-us">Contact Us</a></li>
+                                            <li><a href="/our-solutions">Our Solutions</a></li>
+                                            <li><a href="/publishing">Publishing</a></li>
+                                            <li><a href="/news-brands">News Brands</a></li>
+                                            <li><a href="/careers">Careers</a></li>
+                                            <li><a href="/sales-academy">Sales Academy</a></li>
+                                            <li><a href="/our-people">Our People</a></li>
+                                            <li><a href="/editorial-training">Editorial Training</a></li>
+                                            <li><a href="/news">News</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="grid wrapper">
+            <hr />
+            <ul class="footer-docs">
+                                                            <li><a href="https://www.newsquest.co.uk/terms-conditions">Terms &amp; Conditions</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/terms-conditions/marketing-services">Marketing Services</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/terms-conditions/reachedge">ReachEdge</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/contributor-terms">Contributor Terms</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/terms-of-advertising">Terms of Advertising</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/diversity-statement">Diversity Statement</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/cookie-policy">Cookie Policy</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/privacy-policy">Privacy Policy</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/prize-competition-rules">Prize Competition Rules</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/standard-data-processing-addendum">Standard Data Processing Addendum</a></li>
+                                                                                                        <li><a href="/assets/pdf/GDPR-Compliance-for-Advertisers-v2.pdf" target="_blank">GDPR Compliance for Advertisers</a></li>
+                                                                                                        <li><a href="/assets/pdf/Newsquest-Supplier-Standard-Terms-and-Conditions-for-Goods-Services-v25-FINAL.pdf" target="_blank">Supplier Terms &amp; Conditions for Goods and Services</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/modern-slavery-act-statement">Modern Slavery Act Statement</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/tax-strategy">Tax Strategy</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/gender-pay-gap-reporting">Gender Pay Gap Reporting</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/digital-subscription-terms-and-conditions">Digital Subscription Terms and Conditions</a></li>
+                                                                                                        <li><a href="/assets/pdf/Newsquest-Media-Group-Limited-2023-signed-acs.pdf" target="_blank">STATUTORY ACCOUNTS INCLUDING CORPORATE GOVERNANCE</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/affiliate-links">Affiliate Links</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/newsquest-pension-trustee-limited">Newsquest Pension Trustee Limited</a></li>
+                                                                                                        <li><a href="/assets/pdf/Scheme-admin-contacts.pdf" target="_blank">Scheme admin contacts</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/privacy-policy-jobs-websites">Privacy Policy Jobs Websites</a></li>
+                                                                                <li><a href="https://www.newsquest.co.uk/terms-conditions-jobwebsites">Job Websites: Terms and Conditions</a></li>
+                                                </ul>
+            <p class="copyright">&copy; 2025 Newsquest Media Group</p>
+        </div>
+    </section>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+</body>
+</html>
