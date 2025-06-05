@@ -1,0 +1,35 @@
+{
+  "image_query": "data/cc3m/validation/4087_94184201.jpg",
+  "results": [
+    {
+      "score": 0.999803305,
+      "type": "image",
+      "caption": "man walked beside her down the street .",
+      "image_path": "data/cc3m/validation/4087_94184201.jpg"
+    },
+    {
+      "score": 0.585678339,
+      "type": "image",
+      "caption": "man walking and talking on smartphone with shopping bags in the city",
+      "image_path": "data/cc3m/training/10772_3533267165.jpg"
+    },
+    {
+      "score": 0.581266046,
+      "type": "image",
+      "caption": "nice man wearing a red t - shirt , jeans and sunglasses .",
+      "image_path": "data/cc3m/training/6621_721641421.jpg"
+    },
+    {
+      "score": 0.580770254,
+      "type": "image",
+      "caption": "man wearing a suit tossing screws and bolts in slow motion",
+      "image_path": "data/cc3m/training/13407_1134398738.jpg"
+    },
+    {
+      "score": 0.576218605,
+      "type": "image",
+      "caption": "a girl laughing at a fancy dinner",
+      "image_path": "data/cc3m/validation/1940_3886102991.jpg"
+    }
+  ]
+}
