@@ -1,12 +1,23 @@
 [
   {
+    "entity": "walking",
+    "label": "ACTIVITY",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "man walking and talking on smartphone with shopping bags in the city",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/10772_3533267165.jpg",
+    "source_file": "entity_relationship/entities_image.json"
+  },
+  {
     "entity": "sunset",
     "label": "TIME",
     "domain": "unknown",
     "semantic_type": "unknown",
     "source_text": "A castle by the beach at sunset",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "castle",
@@ -15,7 +26,8 @@
     "semantic_type": "unknown",
     "source_text": "A castle by the beach at sunset",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "beach",
@@ -24,25 +36,18 @@
     "semantic_type": "unknown",
     "source_text": "A castle by the beach at sunset",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "sunset",
     "label": "TIME",
     "domain": "unknown",
     "semantic_type": "unknown",
-    "source_text": "view of the historic city during sunset",
+    "source_text": "tourist attraction at the sunset .",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/9248_3354368268.jpg"
-  },
-  {
-    "entity": "view",
-    "label": "SCENIC_VIEW",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "view of the historic city during sunset",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/9248_3354368268.jpg"
+    "image_path": "data/cc3m/training/1482_89211796.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "sunset",
@@ -51,7 +56,8 @@
     "semantic_type": "unknown",
     "source_text": "in the village at sunset",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/15639_4090655033.jpg"
+    "image_path": "data/cc3m/training/15639_4090655033.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "village",
@@ -60,43 +66,8 @@
     "semantic_type": "unknown",
     "source_text": "in the village at sunset",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/15639_4090655033.jpg"
-  },
-  {
-    "entity": "evening",
-    "label": "REGEX_MATCH",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "fishing village in the evening",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/16642_2131002494.jpg"
-  },
-  {
-    "entity": "village",
-    "label": "ENVIRONMENT",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "fishing village in the evening",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/16642_2131002494.jpg"
-  },
-  {
-    "entity": "sunset",
-    "label": "TIME",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "the view west at sunset .",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/39726_2078481396.jpg"
-  },
-  {
-    "entity": "view",
-    "label": "SCENIC_VIEW",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "the view west at sunset .",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/39726_2078481396.jpg"
+    "image_path": "data/cc3m/training/15639_4090655033.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "sunset",
@@ -105,7 +76,8 @@
     "semantic_type": "unknown",
     "source_text": "a photographer taking photos by the sea at sunset",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/46977_4142778949.jpg"
+    "image_path": "data/cc3m/training/46977_4142778949.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "sea",
@@ -114,7 +86,48 @@
     "semantic_type": "unknown",
     "source_text": "a photographer taking photos by the sea at sunset",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/46977_4142778949.jpg"
+    "image_path": "data/cc3m/training/46977_4142778949.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "sunset",
+    "label": "TIME",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "view of the historic city during sunset",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/9248_3354368268.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "view",
+    "label": "SCENIC_VIEW",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "view of the historic city during sunset",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/9248_3354368268.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "sunset",
+    "label": "TIME",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "children playing with sand by the sea at sunset",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/47072_2193211242.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "sea",
+    "label": "ENVIRONMENT",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "children playing with sand by the sea at sunset",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/47072_2193211242.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "walking",
@@ -123,16 +136,18 @@
     "semantic_type": "unknown",
     "source_text": "Man walking on a rainy day",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
-    "entity": "hiking",
-    "label": "ACTIVITY",
+    "entity": "rainy day",
+    "label": "DATE",
     "domain": "unknown",
     "semantic_type": "unknown",
-    "source_text": "a man hiking a hill",
+    "source_text": "cars passing on the highway rainy day",
     "source_type": "caption",
-    "image_path": "data/cc3m/validation/3292_2135036634.jpg"
+    "image_path": "data/cc3m/training/20942_3058278072.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "walking",
@@ -141,25 +156,28 @@
     "semantic_type": "unknown",
     "source_text": "man walking and talking on smartphone with shopping bags in the city",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/10772_3533267165.jpg"
+    "image_path": "data/cc3m/training/10772_3533267165.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
-    "entity": "walking",
+    "entity": "hiking",
     "label": "ACTIVITY",
     "domain": "unknown",
     "semantic_type": "unknown",
-    "source_text": "walkers walking on the road",
+    "source_text": "a man hiking a hill",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/22603_2542391989.jpg"
+    "image_path": "data/cc3m/validation/3292_2135036634.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
-    "entity": "scene",
-    "label": "SCENIC_VIEW",
+    "entity": "early 30s",
+    "label": "DATE",
     "domain": "unknown",
     "semantic_type": "unknown",
-    "source_text": "fashion designer behind the scenes",
+    "source_text": "upset handsome man with a short trimmed beard in early 30s holding back tears of sadness outside",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/24295_3121271440.jpg"
+    "image_path": "data/cc3m/training/43041_179348087.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "sunset",
@@ -168,7 +186,8 @@
     "semantic_type": "unknown",
     "source_text": "The view of mountains and sunset",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "view",
@@ -177,7 +196,28 @@
     "semantic_type": "unknown",
     "source_text": "The view of mountains and sunset",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "sunset",
+    "label": "TIME",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "the view west at sunset .",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/39726_2078481396.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "view",
+    "label": "SCENIC_VIEW",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "the view west at sunset .",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/39726_2078481396.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "one",
@@ -186,7 +226,8 @@
     "semantic_type": "unknown",
     "source_text": "one of many views of the mountains and valleys below",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/26437_1565289346.jpg"
+    "image_path": "data/cc3m/training/26437_1565289346.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "view",
@@ -195,34 +236,38 @@
     "semantic_type": "unknown",
     "source_text": "one of many views of the mountains and valleys below",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/26437_1565289346.jpg"
-  },
-  {
-    "entity": "the summer",
-    "label": "DATE",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "view from a height to a large metropolis at sunset in the summer .",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/36900_3207096601.jpg"
-  },
-  {
-    "entity": "sunset",
-    "label": "TIME",
-    "domain": "unknown",
-    "semantic_type": "unknown",
-    "source_text": "view from a height to a large metropolis at sunset in the summer .",
-    "source_type": "caption",
-    "image_path": "data/cc3m/training/36900_3207096601.jpg"
+    "image_path": "data/cc3m/training/26437_1565289346.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "view",
     "label": "SCENIC_VIEW",
     "domain": "unknown",
     "semantic_type": "unknown",
-    "source_text": "view from a height to a large metropolis at sunset in the summer .",
+    "source_text": "view of mountain in the fall",
     "source_type": "caption",
-    "image_path": "data/cc3m/training/36900_3207096601.jpg"
+    "image_path": "data/cc3m/training/27349_3845807040.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "sunset",
+    "label": "TIME",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "woman walking on the road in mountains at sunset",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/18209_1953505876.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "walking",
+    "label": "ACTIVITY",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "woman walking on the road in mountains at sunset",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/18209_1953505876.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   },
   {
     "entity": "rainy day",
@@ -231,6 +276,47 @@
     "semantic_type": "unknown",
     "source_text": "A man walks beside a woman on a rainy day",
     "source_type": "query",
-    "image_path": null
+    "image_path": null,
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "landscape",
+    "label": "SCENIC_VIEW",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "landscape with women and an older man .",
+    "source_type": "caption",
+    "image_path": "data/cc3m/validation/837_2539005884.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "ocean",
+    "label": "ENVIRONMENT",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "couple holding hands strolls along an ocean beach",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/37283_3145440797.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "beach",
+    "label": "ENVIRONMENT",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "couple holding hands strolls along an ocean beach",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/37283_3145440797.jpg",
+    "source_file": "entity_relationship/entities_test.json"
+  },
+  {
+    "entity": "beach",
+    "label": "ENVIRONMENT",
+    "domain": "unknown",
+    "semantic_type": "unknown",
+    "source_text": "senior man carrying wife on his back at the beach",
+    "source_type": "caption",
+    "image_path": "data/cc3m/training/26678_313583641.jpg",
+    "source_file": "entity_relationship/entities_test.json"
   }
 ]
