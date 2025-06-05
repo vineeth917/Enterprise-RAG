@@ -185,9 +185,7 @@ def get_image_embedding(image_path: str) -> List[float]:
     return emb
 
 
-def enhanced_multimodal_search(query_text: Optional[str] = None, 
-                             query_image_path: Optional[str] = None, 
-                             similarity_threshold: float = 0.75) -> List[Dict]:
+def enhanced_multimodal_search(query_text: Optional[str] = None, query_image_path: Optional[str] = None, similarity_threshold: float = 0.75) -> List[Dict]:
     """Enhanced search using both text and image similarity"""
     
     results = []
@@ -195,7 +193,7 @@ def enhanced_multimodal_search(query_text: Optional[str] = None,
     # Text-based search (1024-dim) using e5-large-v2
     if query_text:
         expanded_query = enhanced_environmental_query_expansion(query_text)
-        print(f"🌿 Enhanced Environmental Expansion: {expanded_query[:100]}...")
+        print(f" Enhanced Environmental Expansion: {expanded_query[:100]}")
         
         # Get and verify text embedding
         text_embedding = get_text_embedding(expanded_query)
@@ -231,7 +229,7 @@ def enhanced_multimodal_search(query_text: Optional[str] = None,
                     result['visual_similarity'] = visual_similarity
                     result['enhanced_score'] = (result.get('score', 0) * 0.6) + (visual_similarity * 0.4)
                 except Exception as e:
-                    print(f"⚠️ Warning: Could not calculate visual similarity for {result_image_path}: {e}")
+                    print(f" Warning: Could not calculate visual similarity for {result_image_path}: {e}")
                     result['visual_similarity'] = result.get('score', 0)
                     result['enhanced_score'] = result.get('score', 0)
             
@@ -247,9 +245,7 @@ def enhanced_multimodal_search(query_text: Optional[str] = None,
             unique_results[image_path] = result
         else:
             current_score = result.get('enhanced_score', result.get('visual_similarity', result.get('score', 0)))
-            existing_score = unique_results[image_path].get('enhanced_score',
-                                                             unique_results[image_path].get('visual_similarity',
-                                                                                             unique_results[image_path].get('score', 0)))
+            existing_score = unique_results[image_path].get('enhanced_score', unique_results[image_path].get('visual_similarity', unique_results[image_path].get('score', 0)))
             if current_score > existing_score:
                 unique_results[image_path] = result
 
@@ -267,9 +263,8 @@ def enhanced_multimodal_search(query_text: Optional[str] = None,
     return sorted_results
 
 
-def cross_modal_image_similarity_analysis(query_text: str, 
-                                        query_image_path: str, 
-                                        pinecone_results: List[Dict]) -> List[Dict]:
+def cross_modal_image_similarity_analysis(query_text: str, query_image_path: str, pinecone_results: List[Dict]) -> List[Dict]:
+                                        
     """Analyze cross-modal connections using image similarity"""
     
     cross_modal_connections = []
@@ -280,7 +275,7 @@ def cross_modal_image_similarity_analysis(query_text: str,
     try:
         query_image_embedding = get_image_embedding(query_image_path)
     except Exception as e:
-        print(f"⚠️ Error loading query image {query_image_path}: {e}")
+        print(f" Error loading query image {query_image_path}: {e}")
         return cross_modal_connections
     
     for result in pinecone_results:
@@ -321,10 +316,8 @@ def cross_modal_image_similarity_analysis(query_text: str,
     return sorted(cross_modal_connections, key=lambda x: x['cross_modal_score'], reverse=True)
 
 
-def enhanced_cross_modal_linking_with_images(query_text: str, 
-                                             query_image_path: Optional[str], 
-                                             pinecone_results: List[Dict], 
-                                             query_entities: List[str]) -> List[Dict]:
+def enhanced_cross_modal_linking_with_images(query_text: str, query_image_path: Optional[str], pinecone_results: List[Dict], query_entities: List[str]) -> List[Dict]:
+                                                                               
     """
     Enhanced cross-modal linking that includes:
     - Entity-based matching in captions
@@ -333,7 +326,7 @@ def enhanced_cross_modal_linking_with_images(query_text: str,
     """
     cross_modal_connections = []
 
-    # 1️⃣ Entity-based connections (text & entity match in captions)
+    # Entity-based connections (text & entity match in captions)
     for result in pinecone_results:
         caption = result['metadata']['caption']
         image_path = result['metadata']['image_path']
@@ -349,14 +342,14 @@ def enhanced_cross_modal_linking_with_images(query_text: str,
                     'score': result.get('score', 0)
                 })
 
-    # 2️⃣ Image similarity-based connections (if query image provided)
+    # Image similarity-based connections (if query image provided)
     if query_image_path:
         image_similarity_connections = cross_modal_image_similarity_analysis(
             query_text, query_image_path, pinecone_results
         )
         cross_modal_connections.extend(image_similarity_connections)
 
-    # 3️⃣ Deduplicate and sort connections
+    # Deduplicate and sort connections
     unique_connections = []
     seen_combinations = set()
 
@@ -371,9 +364,9 @@ def enhanced_cross_modal_linking_with_images(query_text: str,
             seen_combinations.add(identifier)
             unique_connections.append(conn)
 
-    # 4️⃣ Fallback to nearest-neighbor image if context is too sparse
+    # Fallback to nearest-neighbor image if context is too sparse
     if query_image_path and len(unique_connections) < 3:
-        print("⚠️ Sparse image context found, applying nearest-neighbor fallback...")
+        print(" Sparse image context found, applying nearest-neighbor fallback...")
         # Get the embedding of the query image
         query_image_embedding = get_image_embedding(query_image_path)
         fallback_results = index_image.query(
@@ -391,7 +384,7 @@ def enhanced_cross_modal_linking_with_images(query_text: str,
                 'similarity': fallback_item.get('score', 0)
             }
             unique_connections.append(fallback_conn)
-            print(f"✅ Fallback image found: {fallback_item['metadata']['caption']}")
+            print(f" Fallback image found: {fallback_item['metadata']['caption']}")
 
     # Final sorted list
     return sorted(
@@ -401,16 +394,16 @@ def enhanced_cross_modal_linking_with_images(query_text: str,
     )
 
 
-def search_pinecone(query_text: Optional[str] = None, 
-                   image_path: Optional[str] = None, 
-                   top_k: int = 5) -> List[Dict]:
+def search_pinecone(query_text: Optional[str] = None, image_path: Optional[str] = None, top_k: int = 5) -> List[Dict]:
+                   
+                   
     """Search Pinecone index with text or image query"""
     if query_text:
-        print(f"🔎 Searching Pinecone for TEXT: '{query_text[:50]}...'")
+        print(f" Searching Pinecone for TEXT: '{query_text[:50]}...'")
         query_embedding = get_text_embedding(query_text)
         results = index_text.query(vector=query_embedding, top_k=top_k, include_metadata=True)
     elif image_path:
-        print(f"🔎 Searching Pinecone for IMAGE: '{image_path}'")
+        print(f" Searching Pinecone for IMAGE: '{image_path}'")
         query_embedding = get_image_embedding(image_path)
         results = index_image.query(vector=query_embedding, top_k=top_k, include_metadata=True)
     else:
@@ -460,9 +453,7 @@ def get_graph_context(graph_driver, query_text: str, nlp) -> List[Dict]:
     return get_query_aware_graph_context(graph_driver, query_text, nlp)
 
 
-def get_image_context(query_text: str, 
-                     pinecone_results: List[Dict], 
-                     query_entities: List[str]) -> List[Dict]:
+def get_image_context(query_text: str, pinecone_results: List[Dict], query_entities: List[str]) -> List[Dict]:
     """Get enhanced cross-modal image context"""
     return enhance_cross_modal_linking(
         graph_driver, nlp, get_text_embedding, extract_entities,
@@ -484,8 +475,8 @@ def filter_relevant_context(context_items: List[Dict], query: str) -> List[Dict]
     return relevant_context
 
 
-def filter_entities_by_domain(entities: List[Dict], 
-                            target_domain: str = "architecture_landscape") -> List[Dict]:
+def filter_entities_by_domain(entities: List[Dict], target_domain: str = "architecture_landscape") -> List[Dict]:
+                            
     """Filter entities by domain relevance"""
     relevant_labels = {'TIME', 'DATE', 'GPE', 'FAC', 'PERSON', 'ORG'}
     domain_keywords = {'castle', 'sunset', 'coastal', 'view', 'architecture', 'landscape'}
@@ -539,18 +530,15 @@ def deduplicate_cross_modal_context(image_context: List[Dict]) -> List[Dict]:
     return deduplicated
 
 
-def filter_by_relevance_threshold(pinecone_results: List[Dict], 
-                                threshold: float = 0.65) -> List[Dict]:
+def filter_by_relevance_threshold(pinecone_results: List[Dict], threshold: float = 0.65) -> List[Dict]:
+                                
     """Filter Pinecone results by relevance threshold to reduce noise"""
     return [result for result in pinecone_results 
             if result.get('enhanced_score', result.get('score', 0)) >= threshold]
 
 
-def format_multimodal_context_for_gemini(query: str, 
-                                       results: List[Dict], 
-                                       cross_modal_connections: List[Dict]) -> str:
-    """Format context including image similarity information for Gemini"""
-    
+def format_multimodal_context_for_gemini(query: str, results: List[Dict], cross_modal_connections: List[Dict]) -> str:
+
     context_parts = []
     
     # Query Analysis
@@ -602,9 +590,9 @@ def format_multimodal_context_for_gemini(query: str,
     return "\n".join(context_parts)
 
 
-def format_context_for_gemini(query_text: str, pinecone_results: List[Dict], 
-                             graph_context: List[Dict], 
-                             image_context: List[Dict]) -> str:
+def format_context_for_gemini(query_text: str, pinecone_results: List[Dict], graph_context: List[Dict], image_context: List[Dict]) -> str:
+                             
+                             
     """Format comprehensive context for Gemini, including synonyms for graph context entities."""
     context_parts = []
 
@@ -689,19 +677,18 @@ def format_context_for_gemini(query_text: str, pinecone_results: List[Dict],
         if visual_matches:
             context_parts.append("   Visual Similarity Matches:")
             for item in visual_matches[:2]:
-                context_parts.append(f"     • {item['caption'][:50]}... "
-                                   f"(cross-modal score: {item.get('cross_modal_score', 0):.2f})")
+                context_parts.append(f" {item['caption'][:50]}... " f"(cross-modal score: {item.get('cross_modal_score', 0):.2f})")
+                                   
         
         if entity_matches:
             context_parts.append("   Entity-Based Matches:")
             for item in entity_matches[:2]:
-                context_parts.append(f"     • Entity '{item['entity']}': {item['caption'][:50]}...")
+                context_parts.append(f"  Entity '{item['entity']}': {item['caption'][:50]}...")
         
         if semantic_matches:
             context_parts.append("   Semantic Matches:")
             for item in semantic_matches[:2]:
-                context_parts.append(f"     • {item['caption'][:50]}... "
-                                   f"(similarity: {item.get('similarity', 0):.2f})")
+                context_parts.append(f" {item['caption'][:50]} "f"(similarity: {item.get('similarity', 0):.2f})")
         
         context_parts.append("")
 
@@ -711,10 +698,7 @@ def format_context_for_gemini(query_text: str, pinecone_results: List[Dict],
     return "\n".join(context_parts)
 
 
-def query_gemini_rag(query_text: str, 
-                    pinecone_results: List[Dict], 
-                    graph_context: List[Dict], 
-                    image_context: List[Dict]) -> str:
+def query_gemini_rag(query_text: str, pinecone_results: List[Dict], graph_context: List[Dict], image_context: List[Dict]) -> str:                  
     """Query Gemini with enhanced RAG context - Anti-hallucination version"""
     
     formatted_context = format_context_for_gemini(query_text, pinecone_results, graph_context, image_context)
@@ -806,20 +790,20 @@ def _contains_hallucination_indicators(response: str) -> bool:
 
 
 def enhanced_rag_pipeline(query_text=None, image_path=None):
-    print("🚀 Starting Enhanced RAG Pipeline with Knowledge Graph Integration...")
+    print(" Starting Enhanced RAG Pipeline with Knowledge Graph Integration...")
     
     try:
-        # Step 1️⃣ Expand the query first
+        # Expand the query first
         expanded_query = enhanced_environmental_query_expansion(query_text) if query_text else ""
         print(f"🔍 Expanded Query: {expanded_query}")
         
-        # Step 2️⃣ Use the expanded query in Pinecone search with dimension verification
+        # Use the expanded query in Pinecone search with dimension verification
         pinecone_results = enhanced_multimodal_search(
             query_text=expanded_query if expanded_query else None,
             query_image_path=image_path,
             similarity_threshold=0.65
         )
-        print(f"📊 Found {len(pinecone_results)} relevant matches in Pinecone")
+        print(f" Found {len(pinecone_results)} relevant matches in Pinecone")
         
         # Apply relevance threshold filtering
         filtered_results = filter_by_relevance_threshold(pinecone_results, threshold=0.65)
@@ -835,7 +819,7 @@ def enhanced_rag_pipeline(query_text=None, image_path=None):
         query_entities = []
         
         if pinecone_results:
-            print("🔄 Enhanced entity extraction and linking...")
+            print(" Enhanced entity extraction and linking")
             relevant_entities = process_entities_pipeline(expanded_query, pinecone_results)
             
             # Extract query entities
@@ -843,18 +827,18 @@ def enhanced_rag_pipeline(query_text=None, image_path=None):
                 for entity in entry.get("entities", []):
                     query_entities.append(entity["text"].lower())
             
-            print(f"🔍 Identified {len(query_entities)} unique entities")
+            print(f"Identified {len(query_entities)} unique entities")
             
             # Aggregate entities
             unique_entities = aggregate_entities(relevant_entities)
-            print(f"✨ Deduplicated to {len(unique_entities)} unique entity types")
+            print(f" Deduplicated to {len(unique_entities)} unique entity types")
         
         # Get graph context
         graph_context = get_graph_context(graph_driver, expanded_query, nlp)
-        print(f"📊 Retrieved context for {len(graph_context)} entities from knowledge graph")
+        print(f"Retrieved context for {len(graph_context)} entities from knowledge graph")
         
         if not graph_context:
-            print("\n⚠️ No relevant graph context found. Falling back to image context only.")
+            print("\n No relevant graph context found. Falling back to image context only.")
         
         # Get image context with improved cross-modal linking
         image_context = enhanced_cross_modal_linking_with_images(
@@ -863,7 +847,7 @@ def enhanced_rag_pipeline(query_text=None, image_path=None):
             pinecone_results,
             query_entities
         )
-        print(f"🖼️ Found {len(image_context)} cross-modal image connections")
+        print(f" Found {len(image_context)} cross-modal image connections")
         
         # Generate final answer with all context
         final_answer = query_gemini_rag(
@@ -888,17 +872,17 @@ def enhanced_rag_pipeline(query_text=None, image_path=None):
         }
         
     except Exception as e:
-        print(f"⚠️ Error in RAG pipeline: {str(e)}")
+        print(f" Error in RAG pipeline: {str(e)}")
         raise
 
 if __name__ == "__main__":
-    # ✅ Use the new enhanced expansion function instead of expand_coastal_castle_query
+    # Use the new enhanced expansion function instead of expand_coastal_castle_query
     query_text = enhanced_environmental_query_expansion("a sunset view of a coastal castle")
     result = enhanced_rag_pipeline(query_text=query_text)
 
-    # ✅ 3️⃣ Prettify Final Summary
+    # Final Summary
     print("\n" + "="*60)
-    print("🤖 ENHANCED RAG PIPELINE RESULTS")
+    print("ENHANCED RAG PIPELINE RESULTS")
     print("="*60)
     print(f"Query: {result['query']}")
     print(f"Pinecone Matches: {result['pinecone_matches']}")
@@ -912,14 +896,14 @@ if __name__ == "__main__":
     
     # Show unique entities with counts
     if result['unique_entities']:
-        print("\n🌟 Unique Entities Mentioned:")
+        print("\n Unique Entities Mentioned:")
         for item in result['unique_entities']:
             print(f"  - {item['entity']} (mentioned {item['count']} times)")
     
-    print("\n📝 Final Answer:")
+    print("\n Final Answer:")
     print(result['answer'])
     
-    print("\n📊 Summary Highlights:")
+    print("\n Summary Highlights:")
     print("- Integrates visual search results with knowledge graph context")
     print("- Deduplicates entity mentions for cleaner analysis")
     print("- Provides fallback handling when graph context is sparse")

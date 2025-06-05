@@ -59,7 +59,7 @@ def render_pyvis_graph(graph_data):
 def display_image_results(result):
     """Display image results in a grid with captions and scores."""
     if "image_context" in result and result["image_context"]:
-        st.subheader("🖼️ Visual Results")
+        st.subheader(" Visual Results")
         
         # Custom CSS for better caption styling
         st.markdown("""
@@ -168,7 +168,7 @@ def display_image_results(result):
                     # Display additional metadata if available
                     if img_result.get("matched_terms"):
                         terms = ", ".join(img_result["matched_terms"][:3])
-                        st.markdown(f"<div style='font-size: 0.8em; color: #666;'>🏷️ {terms}</div>", unsafe_allow_html=True)
+                        st.markdown(f"<div style='font-size: 0.8em; color: #666;'> {terms}</div>", unsafe_allow_html=True)
                         
                 except Exception as e:
                     st.warning(f"Could not load image: {img_result.get('image_path', 'Unknown path')}")
@@ -177,12 +177,12 @@ def display_image_results(result):
 st.set_page_config(page_title="Enterprise RAG: Query & Graph UI", layout="wide")
 
 # Sidebar configuration
-st.sidebar.title("📋 System Status")
+st.sidebar.title(" System Status")
 text_dim_indicator = st.sidebar.empty()
 image_dim_indicator = st.sidebar.empty()
 
 # Main content
-st.title("🌐 Enterprise RAG - Demo UI")
+st.title(" Enterprise RAG - Demo UI")
 st.markdown("""
 This system combines text and image understanding with knowledge graph integration.
 - Text queries use E5-large-v2 (1024d)
@@ -197,7 +197,7 @@ with col1:
                          placeholder="E.g., sunset landscape view...")
     
 with col2:
-    uploaded_file = st.file_uploader("🖼️ Upload an image", type=["jpg", "png", "jpeg"])
+    uploaded_file = st.file_uploader(" Upload an image", type=["jpg", "png", "jpeg"])
 
 # Progress indicators
 progress_placeholder = st.empty()
@@ -205,10 +205,10 @@ error_placeholder = st.empty()
 
 if st.button("Run Query", type="primary"):
     if not query and not uploaded_file:
-        error_placeholder.error("⚠️ Please enter a query or upload an image!")
+        error_placeholder.error(" Please enter a query or upload an image!")
     else:
         try:
-            with st.spinner("🚀 Processing query..."):
+            with st.spinner(" Processing query..."):
                 # Initialize progress bar
                 progress_bar = progress_placeholder.progress(0)
                 
@@ -217,7 +217,7 @@ if st.button("Run Query", type="primary"):
                     progress_bar.progress(20)
                     text_embedding = get_text_embedding(query)
                     verify_embedding_dimensions(text_embedding, 1024, "text")
-                    text_dim_indicator.success("✅ Text embedding: 1024d")
+                    text_dim_indicator.success("Text embedding: 1024d")
                 
                 # Handle image if uploaded
                 image_path = None
@@ -228,7 +228,7 @@ if st.button("Run Query", type="primary"):
                     image_path = "temp_uploaded_image.png"
                     image_embedding = get_image_embedding(image_path)
                     verify_embedding_dimensions(image_embedding, 512, "image")
-                    image_dim_indicator.success("✅ Image embedding: 512d")
+                    image_dim_indicator.success("Image embedding: 512d")
                 
                 # Run RAG pipeline
                 progress_bar.progress(60)
@@ -237,7 +237,7 @@ if st.button("Run Query", type="primary"):
                 progress_placeholder.empty()
                 
                 # Display results in tabs
-                tab1, tab2 = st.tabs(["📝 Answer", "📊 Analysis"])
+                tab1, tab2 = st.tabs(["Answer", " Analysis"])
                 
                 with tab1:
                     st.markdown("### Final Answer")
@@ -246,7 +246,7 @@ if st.button("Run Query", type="primary"):
                         display_image_results(result)
                 
                 with tab2:
-                    st.markdown("### 📊 Query Analysis")
+                    st.markdown("### Query Analysis")
                     
                     # Enhanced metrics visualization
                     metrics_container = st.container()
@@ -254,28 +254,28 @@ if st.button("Run Query", type="primary"):
                         col1, col2, col3, col4 = st.columns(4)
                         with col1:
                             st.metric(
-                                "📌 Vector Matches",
+                                " Vector Matches",
                                 result['pinecone_matches'],
                                 delta=None,
                                 help="Number of relevant matches found in vector database"
                             )
                         with col2:
                             st.metric(
-                                "🎯 Entities",
+                                "Entities",
                                 result['entities_processed'],
                                 delta=result['raw_entities'] - result['entities_processed'],
                                 help="Number of processed entities (delta shows filtered entities)"
                             )
                         with col3:
                             st.metric(
-                                "🔗 Graph Items",
+                                "Graph Items",
                                 result['graph_context_items'],
                                 delta=None,
                                 help="Number of related items from knowledge graph"
                             )
                         with col4:
                             st.metric(
-                                "🤝 Cross-Modal",
+                                " Cross-Modal",
                                 result['cross_modal_connections'],
                                 delta=None,
                                 help="Number of text-image connections found"
@@ -283,7 +283,7 @@ if st.button("Run Query", type="primary"):
                     
                     # Entity Analysis with grouping and confidence scores
                     if result.get('unique_entities'):
-                        st.markdown("### 🎯 Entity Analysis")
+                        st.markdown("### Entity Analysis")
                         
                         # Group entities by type/category
                         entity_groups = {}
@@ -324,30 +324,30 @@ if st.button("Run Query", type="primary"):
                         
                         # Add confidence score distribution if available
                         if any('confidence' in entity for entity in result['unique_entities']):
-                            st.markdown("### 📈 Confidence Distribution")
+                            st.markdown("### Confidence Distribution")
                             confidence_scores = [entity.get('confidence', 0) for entity in result['unique_entities']]
                             st.bar_chart(confidence_scores)
                     
                     # Display any additional analysis metrics
                     if result.get('analysis_metrics'):
-                        st.markdown("### 📊 Additional Metrics")
+                        st.markdown("### Additional Metrics")
                         st.json(result['analysis_metrics'])
                 
         except ValueError as ve:
-            error_placeholder.error(f"⚠️ Dimension Error: {str(ve)}")
+            error_placeholder.error(f"Dimension Error: {str(ve)}")
         except Exception as e:
-            error_placeholder.error(f"⚠️ Error: {str(e)}")
+            error_placeholder.error(f" Error: {str(e)}")
 
 # Footer with system information
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
-### 📋 System Checklist
-✅ Query Processing  
-✅ Pinecone Integration  
-✅ Entity Extraction  
-✅ Graph Integration  
-✅ Cross-modal Linking  
-✅ Visual Analysis  
-✅ Interactive Graph  
-✅ Anti-Hallucination
+### System Checklist
+ Query Processing  
+ Pinecone Integration  
+ Entity Extraction  
+ Graph Integration  
+ Cross-modal Linking  
+ Visual Analysis  
+ Interactive Graph  
+ Anti-Hallucination
 """)
